@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>大阪の飲食店候補｜追加調査</title>
+  <meta name="description" content="前回の候補と重ならない大阪府内の飲食店を、地域とS・A・B判定で確認する調査リスト。">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23182538'/%3E%3Cpath d='M16 42h32M20 33h24M25 24h14' stroke='%23f2f6fa' stroke-width='5' stroke-linecap='round'/%3E%3C/svg%3E">
+  <style>
+    :root{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;color:#182538;background:#f3f6f8;font-size:16px}
+    *{box-sizing:border-box}body{margin:0}button,a{font:inherit}button{cursor:pointer}a{color:inherit}a:focus-visible,button:focus-visible{outline:3px solid #1768b4;outline-offset:3px}
+    .shell{max-width:1220px;margin:auto;padding:0 28px}.top{background:#182538;color:#fff}.top-inner{min-height:70px;display:flex;align-items:center;justify-content:space-between;gap:20px}.brand{font-size:1rem;font-weight:800;letter-spacing:.03em}.top-note{color:#c2d0dd;font-size:.875rem}
+    main{padding:38px 0 80px}.intro h1{font-size:clamp(1.7rem,3vw,2.6rem);letter-spacing:-.025em;line-height:1.25;margin:0 0 9px}.intro p{margin:0;color:#506274;line-height:1.65}.summary{display:flex;gap:8px;flex-wrap:wrap;margin:23px 0 26px}.summary span{background:#e5ebf0;border-radius:7px;padding:8px 12px;color:#344a5d;font-size:.875rem}
+    .layout{display:grid;grid-template-columns:225px minmax(0,1fr);gap:30px;align-items:start}.nav{position:sticky;top:20px}.nav h2{font-size:.875rem;margin:0 0 11px;color:#617182}.nav button{display:block;width:100%;text-align:left;padding:12px 14px;border:0;background:transparent;color:#33495d;border-radius:8px;margin:2px 0;font-weight:650}.nav button[aria-current="true"]{background:#182538;color:white}.nav button:hover:not([aria-current="true"]){background:#e5ebf0}
+    .panel{background:white;border-radius:12px;box-shadow:0 6px 24px rgba(27,52,73,.06);overflow:hidden}.panel-head{padding:23px 27px;border-bottom:1px solid #e5eaee;display:flex;align-items:end;justify-content:space-between;gap:15px}.panel-head h2{margin:0;font-size:1.35rem}.panel-head p{margin:5px 0 0;color:#607285;font-size:.9rem}.panel-head .count{font-variant-numeric:tabular-nums;color:#617182;font-weight:700}
+    .item{display:grid;grid-template-columns:48px minmax(0,1fr) 66px;gap:18px;align-items:start;padding:21px 27px;border-bottom:1px solid #e8edf1}.item:last-child{border-bottom:0}.ordinal{font-size:.8rem;color:#81909f;font-variant-numeric:tabular-nums;padding-top:5px}.name{font-weight:760;font-size:1.06rem;line-height:1.45;margin:0}.meta{font-size:.86rem;color:#607285;margin:5px 0 0}.why{font-size:.89rem;line-height:1.6;color:#42596d;margin:9px 0 0}.sources{display:flex;gap:18px;flex-wrap:wrap}.source{font-size:.84rem;color:#145995;text-underline-offset:3px;display:inline-block;margin-top:8px}.rank{justify-self:end;display:inline-flex;align-items:center;justify-content:center;min-width:40px;height:32px;background:#e8f1f9;color:#175a91;border-radius:6px;font-weight:800}.rank-a{background:#edf2e6;color:#4d6b25}.rank-b{background:#f6efe4;color:#7c5c2d}
+    .footnote{font-size:.86rem;line-height:1.7;color:#647587;margin-top:18px;max-width:82ch}
+    @media(max-width:760px){.shell{padding:0 16px}.top-inner{min-height:62px}.top-note{display:none}main{padding-top:25px}.layout{display:block}.nav{position:static;display:flex;gap:7px;overflow-x:auto;margin:0 -16px 17px;padding:0 16px 4px}.nav h2{display:none}.nav button{flex:none;width:auto;white-space:nowrap;border:1px solid #d4dee6;padding:10px 13px}.panel-head{padding:20px}.item{grid-template-columns:minmax(0,1fr) 46px;padding:18px 20px;gap:10px}.ordinal{display:none}}
+  </style>
+</head>
+<body>
+  <!-- THESIS: Geographic browsing puts a prospect's place and evidence before ornament. OWN-WORLD: cool slate surface, crisp white rows, navy selection, blue source links. STORY: choose an Osaka area, review ranked candidates, open evidence. FIRST VIEWPORT: compact title above region navigation and immediately visible lead rows. FORM: practical regional register. FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance. -->
+  <header class="top"><div class="shell top-inner"><div class="brand">大阪の飲食店候補</div><div class="top-note">前回100店を除く、追加調査リスト</div></div></header>
+  <main class="shell">
+    <div class="intro"><h1>地域から、次の候補を探す。</h1><p>独立店のWebサイト制作候補を大阪府全域から調査中。S・A・Bは条件との一致度です。</p></div>
+    <div class="summary"><span id="total-count">掲載候補を集計中</span><span>件数上限なし・調査継続中</span><span>確認日 2026年10月1日</span></div>
+    <div class="layout">
+      <nav class="nav" aria-label="地域"><h2>地域</h2><button type="button" aria-current="true" data-region="north">北摂</button><button type="button" aria-current="false" data-region="northeast">北河内</button><button type="button" aria-current="false" data-region="east">中河内</button><button type="button" aria-current="false" data-region="city">大阪市</button><button type="button" aria-current="false" data-region="sakai">堺・泉州</button><button type="button" aria-current="false" data-region="south">南河内</button></nav>
+      <section class="panel" aria-live="polite"><div class="panel-head"><div><h2 id="region-title">北摂</h2><p id="region-subtitle">豊中・茨木など</p></div><span class="count" id="region-count">1店</span></div><div id="items"><article class="item"><span class="ordinal">01</span><div><h3 class="name">ごはんとお菓子 none</h3><p class="meta">豊中市 · 食堂・菓子</p><p class="why">商店街の紹介では公式SNSを掲載。2026年の求人情報もWebサイト欄にInstagramを指定。</p><a class="source" href="https://osaka-shotengai-info.com/shop/none/" target="_blank" rel="noopener noreferrer">確認元を見る</a></div><span class="rank" aria-label="ランクS">S</span></article></div></section>
+    </div>
+    <p class="footnote">S＝複数の情報でSNS中心の案内を確認、A＝店舗情報に独自HPの記載が見当たらない、B＝営業やHPの追加確認が必要。前回の100店は除外しています。これは現時点で見つかった候補で、大阪府内の該当店をすべて調査し終えたという意味ではありません。HPの有無や営業状況は連絡前に最終確認してください。</p>
+  </main>
+  <script src="./data.js"></script>
+  <script>
+    const regions=window.REGIONS;
+    const escapeHTML=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    function showRegion(key){const r=regions[key];document.querySelectorAll('[data-region]').forEach(b=>b.setAttribute('aria-current',String(b.dataset.region===key)));document.getElementById('region-title').textContent=r.title;document.getElementById('region-subtitle').textContent=r.subtitle;document.getElementById('region-count').textContent=`${r.items.length}店`;document.getElementById('items').innerHTML=r.items.length?r.items.map((x,i)=>`<article class="item"><span class="ordinal">${String(i+1).padStart(2,'0')}</span><div><h3 class="name">${escapeHTML(x.name)}</h3><p class="meta">${escapeHTML(x.city)} · ${escapeHTML(x.type)}</p><p class="why">${escapeHTML(x.why)}</p><div class="sources">${x.sources.map(s=>`<a class="source" href="${escapeHTML(s[1])}" target="_blank" rel="noopener noreferrer">${escapeHTML(s[0])}</a>`).join('')}</div></div><span class="rank rank-${escapeHTML(x.rank.toLowerCase())}" aria-label="ランク${escapeHTML(x.rank)}">${escapeHTML(x.rank)}</span></article>`).join(''):'<p style="padding:25px;color:#607285">この地域の候補は追加調査中です。</p>';}
+    document.querySelectorAll('[data-region]').forEach(b=>b.addEventListener('click',()=>showRegion(b.dataset.region)));
+    document.getElementById('total-count').textContent=`掲載候補 ${Object.values(regions).reduce((n,r)=>n+r.items.length,0)}店`;
+    showRegion('north');
+  </script>
+</body>
+</html>
