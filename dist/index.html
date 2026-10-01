@@ -4,12 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light">
-  <title>大阪の飲食店候補｜追加調査</title>
+  <title>大阪府全域の飲食店候補｜地域別調査台帳</title>
   <meta name="description" content="前回の候補と重ならない大阪府内の飲食店を、地域とS・A・B判定で確認する調査リスト。">
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23182538'/%3E%3Cpath d='M16 42h32M20 33h24M25 24h14' stroke='%23f2f6fa' stroke-width='5' stroke-linecap='round'/%3E%3C/svg%3E">
   <style>
     :root{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;color:#182538;background:#f3f6f8;font-size:16px}
-    *{box-sizing:border-box}body{margin:0}button,a{font:inherit}button{cursor:pointer}a{color:inherit}a:focus-visible,button:focus-visible{outline:3px solid #1768b4;outline-offset:3px}
+    *{box-sizing:border-box}body{margin:0}button,a,input,select{font:inherit}button{cursor:pointer}a{color:inherit}a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid #1768b4;outline-offset:3px}
     .shell{max-width:1220px;margin:auto;padding:0 28px}.top{background:#182538;color:#fff}.top-inner{min-height:70px;display:flex;align-items:center;justify-content:space-between;gap:20px}.brand{font-size:1rem;font-weight:800;letter-spacing:.03em}.top-note{color:#c2d0dd;font-size:.875rem}
     main{padding:38px 0 80px}.intro h1{font-size:clamp(1.7rem,3vw,2.6rem);letter-spacing:-.025em;line-height:1.25;margin:0 0 9px}.intro p{margin:0;color:#506274;line-height:1.65}.summary{display:flex;gap:8px;flex-wrap:wrap;margin:23px 0 26px}.summary span{background:#e5ebf0;border-radius:7px;padding:8px 12px;color:#344a5d;font-size:.875rem}
     .layout{display:grid;grid-template-columns:225px minmax(0,1fr);gap:30px;align-items:start}.nav{position:sticky;top:20px}.nav h2{font-size:.875rem;margin:0 0 11px;color:#617182}.nav button{display:block;width:100%;text-align:left;padding:12px 14px;border:0;background:transparent;color:#33495d;border-radius:8px;margin:2px 0;font-weight:650}.nav button[aria-current="true"]{background:#182538;color:white}.nav button:hover:not([aria-current="true"]){background:#e5ebf0}
@@ -18,28 +18,34 @@
     .footnote{font-size:.86rem;line-height:1.7;color:#647587;margin-top:18px;max-width:82ch}
     @media(max-width:760px){.shell{padding:0 16px}.top-inner{min-height:62px}.top-note{display:none}main{padding-top:25px}.layout{display:block}.nav{position:static;display:flex;gap:7px;overflow-x:auto;margin:0 -16px 17px;padding:0 16px 4px}.nav h2{display:none}.nav button{flex:none;width:auto;white-space:nowrap;border:1px solid #d4dee6;padding:10px 13px}.panel-head{padding:20px}.item{grid-template-columns:minmax(0,1fr) 46px;padding:18px 20px;gap:10px}.ordinal{display:none}}
   </style>
+  <link rel="stylesheet" href="./workspace.css">
 </head>
 <body>
   <!-- THESIS: Geographic browsing puts a prospect's place and evidence before ornament. OWN-WORLD: cool slate surface, crisp white rows, navy selection, blue source links. STORY: choose an Osaka area, review ranked candidates, open evidence. FIRST VIEWPORT: compact title above region navigation and immediately visible lead rows. FORM: practical regional register. FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance. -->
   <header class="top"><div class="shell top-inner"><div class="brand">大阪の飲食店候補</div><div class="top-note">前回100店を除く、追加調査リスト</div></div></header>
   <main class="shell">
-    <div class="intro"><h1>地域から、次の候補を探す。</h1><p>独立店のWebサイト制作候補を大阪府全域から調査中。S・A・Bは条件との一致度です。</p></div>
-    <div class="summary"><span id="total-count">掲載候補を集計中</span><span>件数上限なし・調査継続中</span><span>確認日 2026年10月1日</span></div>
+    <div class="intro"><h1>大阪全域から、次の候補を。</h1><p>北摂から泉州、南河内まで。前回100店を除く、独立飲食店のWeb制作候補。</p></div>
+    <div class="summary"><span id="total-count">候補を集計中</span><span id="research-count">公開名簿を読み込み中</span><span>件数上限なし · 2026年10月2日調査</span></div>
+    <p class="notice"><strong>全店舗の確認は未完了です。</strong> 大阪府43市町村を対象に、公開データの全行を取り込み直しました。<br>「S・A・B候補」と「条件未確認の調査対象」は分けて表示しています。公開名簿にも未収録の店があります。</p>
+    <div class="views" role="group" aria-label="表示する一覧"><button type="button" data-view="leads" aria-pressed="true">S・A・B候補</button><button type="button" data-view="registry" aria-pressed="false">調査対象の全件</button><button type="button" data-view="coverage" aria-pressed="false">43市町村の調査状況</button></div>
     <div class="layout">
-      <nav class="nav" aria-label="地域"><h2>地域</h2><button type="button" aria-current="true" data-region="north">北摂</button><button type="button" aria-current="false" data-region="northeast">北河内</button><button type="button" aria-current="false" data-region="east">中河内</button><button type="button" aria-current="false" data-region="city">大阪市</button><button type="button" aria-current="false" data-region="sakai">堺・泉州</button><button type="button" aria-current="false" data-region="south">南河内</button></nav>
-      <section class="panel" aria-live="polite"><div class="panel-head"><div><h2 id="region-title">北摂</h2><p id="region-subtitle">豊中・茨木など</p></div><span class="count" id="region-count">1店</span></div><div id="items"><article class="item"><span class="ordinal">01</span><div><h3 class="name">ごはんとお菓子 none</h3><p class="meta">豊中市 · 食堂・菓子</p><p class="why">商店街の紹介では公式SNSを掲載。2026年の求人情報もWebサイト欄にInstagramを指定。</p><a class="source" href="https://osaka-shotengai-info.com/shop/none/" target="_blank" rel="noopener noreferrer">確認元を見る</a></div><span class="rank" aria-label="ランクS">S</span></article></div></section>
+      <nav class="nav" aria-label="地域"><h2>地域</h2><button type="button" aria-current="true" data-region="all">大阪府全域</button><button type="button" aria-current="false" data-region="north">北摂</button><button type="button" aria-current="false" data-region="northeast">北河内</button><button type="button" aria-current="false" data-region="east">中河内</button><button type="button" aria-current="false" data-region="city">大阪市</button><button type="button" aria-current="false" data-region="sakai">堺・泉州</button><button type="button" aria-current="false" data-region="south">南河内</button></nav>
+      <section class="panel" aria-label="店舗一覧">
+        <button type="button" id="filter-toggle" class="filter-toggle" aria-expanded="false" aria-controls="filters">店舗名・市町村・判定で絞る ＋</button>
+        <div class="filters" id="filters"><label class="search-label">店舗名・住所<input id="search" type="search" placeholder="店名、地名で検索" autocomplete="off"></label><label>市町村<select id="municipality"><option value="all">すべての市町村</option></select></label><label id="rank-label">判定<select id="rank-filter"><option value="all">すべての判定</option><option>S</option><option>A</option><option>B</option></select></label></div>
+        <div class="panel-head"><div><h2 id="region-title" tabindex="-1">大阪府全域</h2><p id="region-subtitle">候補一覧</p></div><span class="count" id="region-count" role="status"></span></div>
+        <p class="scope-note" id="scope-note"></p>
+        <div id="items"><p class="empty">店舗データを読み込み中です。</p></div>
+        <div class="pagination" id="pagination" hidden><button type="button" id="previous">前へ</button><label>ページ<select id="page-number" aria-label="表示ページ"></select></label><span id="page-info"></span><button type="button" id="next">次へ</button></div>
+      </section>
     </div>
-    <p class="footnote">S＝複数の情報でSNS中心の案内を確認、A＝店舗情報に独自HPの記載が見当たらない、B＝営業やHPの追加確認が必要。前回の100店は除外しています。これは現時点で見つかった候補で、大阪府内の該当店をすべて調査し終えたという意味ではありません。HPの有無や営業状況は連絡前に最終確認してください。</p>
+    <p class="footnote">S＝複数の情報でSNS中心の案内を確認、A＝調べた店舗情報で独自HPが見当たらない、B＝追加確認が必要な暫定候補。店舗の良し悪しを評価するランクではありません。すべてHP不存在の確定ではなく、現在営業・独立店の条件も連絡前の確認が必要です。</p>
+    <details class="method"><summary>調査方法・除外条件・出典</summary><div id="method-content"><p>出典一覧を読み込み中です。</p></div></details>
+    <noscript><p class="notice">店舗一覧を表示するにはJavaScriptを有効にしてください。</p></noscript>
   </main>
   <script src="./data.js"></script>
   <script src="./expanded.js"></script>
-  <script>
-    const regions=window.REGIONS;
-    const escapeHTML=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-    function showRegion(key){const r=regions[key];document.querySelectorAll('[data-region]').forEach(b=>b.setAttribute('aria-current',String(b.dataset.region===key)));document.getElementById('region-title').textContent=r.title;document.getElementById('region-subtitle').textContent=r.subtitle;document.getElementById('region-count').textContent=`${r.items.length}店`;document.getElementById('items').innerHTML=r.items.length?r.items.map((x,i)=>`<article class="item"><span class="ordinal">${String(i+1).padStart(2,'0')}</span><div><h3 class="name">${escapeHTML(x.name)}</h3><p class="meta">${escapeHTML(x.city)} · ${escapeHTML(x.type)}</p><p class="why">${escapeHTML(x.why)}</p><div class="sources">${x.sources.map(s=>`<a class="source" href="${escapeHTML(s[1])}" target="_blank" rel="noopener noreferrer">${escapeHTML(s[0])}</a>`).join('')}</div></div><span class="rank rank-${escapeHTML(x.rank.toLowerCase())}" aria-label="ランク${escapeHTML(x.rank)}">${escapeHTML(x.rank)}</span></article>`).join(''):'<p style="padding:25px;color:#607285">この地域の候補は追加調査中です。</p>';}
-    document.querySelectorAll('[data-region]').forEach(b=>b.addEventListener('click',()=>showRegion(b.dataset.region)));
-    document.getElementById('total-count').textContent=`掲載候補 ${Object.values(regions).reduce((n,r)=>n+r.items.length,0)}店`;
-    showRegion('north');
-  </script>
+  <script src="./additional.js"></script>
+  <script src="./app.js"></script>
 </body>
 </html>

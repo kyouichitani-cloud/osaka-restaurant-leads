@@ -11,6 +11,7 @@ import re
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
+import hashlib
 
 
 BASE = "https://osaka-shotengai-info.com/"
@@ -27,9 +28,15 @@ SOCIAL = re.compile(r"instagram\.com|facebook\.com|x\.com|twitter\.com|line\.me|
 
 
 def fetch(url):
+    cache = Path(__file__).with_name("raw") / ("directory-" + hashlib.sha256(url.encode()).hexdigest()[:20])
+    if cache.exists():
+        return cache.read_text()
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (research directory review)"})
     with urllib.request.urlopen(req, timeout=15) as response:
-        return response.read().decode("utf-8", errors="replace")
+        result = response.read().decode("utf-8", errors="replace")
+    cache.parent.mkdir(exist_ok=True)
+    cache.write_text(result)
+    return result
 
 
 def plain(fragment):
@@ -53,7 +60,7 @@ def collect(url):
         links = re.findall(r'href="(https?://[^\"]+)"', sns)
         outgoing = re.findall(r'href="(https?://[^\"]+)"', content_match.group(1)) if content_match else []
         other_links = [link for link in outgoing if not SOCIAL.search(link) and "osaka-shotengai-info.com" not in link]
-        if not FOOD.search(title + " " + body) or not any(SOCIAL.search(link) for link in links):
+        if not FOOD.search(title + " " + body):
             return None
         return {"name": title, "address": address, "description": body[:220], "source": url, "social": links, "other_links": other_links}
     except Exception as exc:

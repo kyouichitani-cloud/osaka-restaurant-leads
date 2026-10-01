@@ -1,1 +1,7 @@
 research/queue.json
+research/registry-raw.json
+research/raw/
+research/osm-osaka.json
+research/registry-audit.json
+.impeccable/review/
+__pycache__/
