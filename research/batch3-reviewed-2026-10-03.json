@@ -1,0 +1,3985 @@
+{
+  "date": "2026-10-03",
+  "reviewed": 295,
+  "snapshotFingerprint": {
+    "directory": "77287fb7b87eab2afe9a3e9a68192a8979ea9910f7f253c6b1a4cf878863ea5d",
+    "osayama": "bc9f5211bc62d82de295d9044976801fef50b2d0d876e15a2240ce19bf5a4e4d"
+  },
+  "reviewLevel": "directory/article-level, not web-wide HP or current-operation verification",
+  "accepted": [
+    {
+      "name": "喫茶 なんくる",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市春日町3-10 A101",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/nankuru/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "お惣菜・お弁当 千代菊",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市東助松町4-4-32",
+      "type": "食事・惣菜",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/chiyogiku/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Other Land",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市東助松町2-9-4",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/other-land/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/otherland2023/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "PINE PLACE MARKET",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市昭和町3-30",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/pine-place-market/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/pine.place.market2024/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "寿司りょう",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市清水町2-5",
+      "type": "寿司",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/ryo/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.facebook.com/Susiryo/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "串かつ しんや",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市昭和町10-17",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/shinya/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://place.line.me/businesses/35488869"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "鉄板バル BRIDGE",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市我孫子408-7",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/bridge/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/bridge_since2018"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "牛串焼 昭和屋",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市我孫子1-2-47 ホワイトビル 1F",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/syowaya/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/syouwaya_1194/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "沖寿司",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市我孫子1-2-47 ホワイトビル1F",
+      "type": "寿司",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/okizushi/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/oki_zushi/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "紅琲院ハマダ",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市東助松町4-3-41",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/hamada/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "お好み焼き こんちゃん",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市菅原町5-4",
+      "type": "粉もの",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/konchan/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "スウィーツファクトリー Shilo",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市若宮町10-1 星和ダイヤモンドビル 1F",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/shilo/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/shilo_sweets/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "こなな",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市東雲町1-19",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/konana/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/conana1225"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "マニモゴ",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市田中町11-12",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/manimogo/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/manimogo"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ひので珈琲",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市若宮町6-5",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/hinode/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/hinode0909"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "庄ちゃん寿司",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市松之浜町2-5-14",
+      "type": "寿司",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/syouchansusi/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/syochanzushi/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "味道楽 無法松",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市松之浜町1-1-10",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/muhoumatsu/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "米粉のパン.guu",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市河原町5-55",
+      "type": "パン・焼菓子",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "泉大津グルメ観光マップの店舗紹介",
+          "https://welcome-to-izumiotsu.jp/komekopan-guu/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/comeconopan.guu/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "炭火焼鶏 最上",
+      "city": "八尾市",
+      "municipality": "八尾市",
+      "address": "八尾市本町5丁目8-21",
+      "type": "鶏料理",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "八尾ファミリーロード商店街の加盟店紹介",
+          "https://family-r.com/mogami/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "焼肉 千久左",
+      "city": "八尾市",
+      "municipality": "八尾市",
+      "address": "八尾市本町5丁目7-19",
+      "type": "焼肉",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "八尾ファミリーロード商店街の加盟店紹介",
+          "https://family-r.com/chikusa/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "珈琲亭琥珀",
+      "city": "八尾市",
+      "municipality": "八尾市",
+      "address": "八尾市本町5丁目8-16",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "八尾ファミリーロード商店街の加盟店紹介",
+          "https://family-r.com/kohakucafe/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "喫茶オラシオン",
+      "city": "八尾市",
+      "municipality": "八尾市",
+      "address": "八尾市本町5丁目7-21",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "八尾ファミリーロード商店街の加盟店紹介",
+          "https://family-r.com/kissaorasion/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "庵逗珈琲",
+      "city": "八尾市",
+      "municipality": "八尾市",
+      "address": "八尾市本町5丁目7-21",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "八尾ファミリーロード商店街の加盟店紹介",
+          "https://family-r.com/anzucafe/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ゴマジェットカフェカレー",
+      "city": "寝屋川市",
+      "municipality": "寝屋川市",
+      "address": "寝屋川市早子町19-6",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "寝屋川一番街商店街の店舗紹介",
+          "https://neyagawa-1bangai.jp/shop/gomadjet-cafecale/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "寿司一品 たつ美",
+      "city": "寝屋川市",
+      "municipality": "寝屋川市",
+      "address": "寝屋川市早子町19-12",
+      "type": "寿司",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "寝屋川一番街商店街の店舗紹介",
+          "https://neyagawa-1bangai.jp/shop/shop23/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "一力総本店",
+      "city": "寝屋川市",
+      "municipality": "寝屋川市",
+      "address": "寝屋川市早子町19-11",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "寝屋川一番街商店街の店舗紹介",
+          "https://neyagawa-1bangai.jp/shop/shop24/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "立ち飲み つつみ",
+      "city": "寝屋川市",
+      "municipality": "寝屋川市",
+      "address": "寝屋川市早子町19-8",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "寝屋川一番街商店街の店舗紹介",
+          "https://neyagawa-1bangai.jp/shop/shop29/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "焼鳥居酒屋 雅樂亭 早子店",
+      "city": "寝屋川市",
+      "municipality": "寝屋川市",
+      "address": "寝屋川市早子町19-5",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "寝屋川一番街商店街の店舗紹介",
+          "https://neyagawa-1bangai.jp/shop/shop33/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "インド ネパール料理 リスタ",
+      "city": "寝屋川市",
+      "municipality": "寝屋川市",
+      "address": "寝屋川市早子町19-3",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "寝屋川一番街商店街の店舗紹介",
+          "https://neyagawa-1bangai.jp/shop/shop36/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "華洋",
+      "city": "寝屋川市",
+      "municipality": "寝屋川市",
+      "address": "寝屋川市早子町19-10",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "寝屋川一番街商店街の店舗紹介",
+          "https://neyagawa-1bangai.jp/shop/shop38/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ウルルカフェ",
+      "city": "寝屋川市",
+      "municipality": "寝屋川市",
+      "address": "寝屋川市早子町16-21",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "寝屋川一番街商店街の店舗紹介",
+          "https://neyagawa-1bangai.jp/shop/shop1/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://instagram.com/ururucafe2022"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "カフェ・シャット（cafe chat）",
+      "city": "寝屋川市",
+      "municipality": "寝屋川市",
+      "address": "寝屋川市早子町23-12 千代田ビル1F",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "寝屋川一番街商店街の店舗紹介",
+          "https://neyagawa-1bangai.jp/shop/shop4/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ぱん工房ラパン",
+      "city": "守口市",
+      "municipality": "守口市",
+      "address": "守口市西郷通1-3-10",
+      "type": "パン・焼菓子",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "守口ララはしば商店街の店舗紹介",
+          "https://www.lala-hashiba.com/shop/shop13/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/bakery_lapin/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "蒲鉾・天婦羅 すえひろ",
+      "city": "守口市",
+      "municipality": "守口市",
+      "address": "守口市西郷通1-1-8",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "守口ララはしば商店街の店舗紹介",
+          "https://www.lala-hashiba.com/shop/shop16/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/tamanegiball/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "御菓子司つくし",
+      "city": "守口市",
+      "municipality": "守口市",
+      "address": "守口市西郷通1-1-6",
+      "type": "菓子・スイーツ",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "守口ララはしば商店街の店舗紹介",
+          "https://www.lala-hashiba.com/shop/shop17/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/wagashikun/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ばんどう亭",
+      "city": "守口市",
+      "municipality": "守口市",
+      "address": "守口市西郷通1-2-22",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。",
+      "sources": [
+        [
+          "守口ララはしば商店街の店舗紹介",
+          "https://www.lala-hashiba.com/shop/shop20/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/bandoutei_saigoudoriten/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "縁たく家",
+      "city": "岸和田市",
+      "municipality": "岸和田市",
+      "address": "岸和田市五軒屋町1-1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "岸和田駅前通商店街の店舗紹介",
+          "https://www.kishiwadashotengai.com/shop/gourmet/page-221/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.facebook.com/kishiwadaekimae"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "旬魚菜・なべ「きん魚」",
+      "city": "岸和田市",
+      "municipality": "岸和田市",
+      "address": "岸和田市宮本町5-1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "岸和田駅前通商店街の店舗紹介",
+          "https://www.kishiwadashotengai.com/shop/gourmet/page-476/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.facebook.com/kishiwadaekimae"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "歩ツ歩や",
+      "city": "岸和田市",
+      "municipality": "岸和田市",
+      "address": "岸和田市宮本町14-11",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "岸和田駅前通商店街の店舗紹介",
+          "https://www.kishiwadashotengai.com/shop/gourmet/page-235/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.facebook.com/kishiwadaekimae"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "coffee house 和蘭豆",
+      "city": "岸和田市",
+      "municipality": "岸和田市",
+      "address": "岸和田市宮本町3-4",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "岸和田駅前通商店街の店舗紹介",
+          "https://www.kishiwadashotengai.com/shop/gourmet/page-231/"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.facebook.com/kishiwadaekimae"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "のみ道楽",
+      "city": "藤井寺市",
+      "municipality": "藤井寺市",
+      "address": "藤井寺市岡2-4-6",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "藤井寺市商店連合会の店舗紹介",
+          "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-1"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "たこダビッドソン",
+      "city": "藤井寺市",
+      "municipality": "藤井寺市",
+      "address": "藤井寺市岡1-13-17",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "藤井寺市商店連合会の店舗紹介",
+          "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-6"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "朝日堂琮源",
+      "city": "藤井寺市",
+      "municipality": "藤井寺市",
+      "address": "藤井寺市岡1-13-16",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "藤井寺市商店連合会の店舗紹介",
+          "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-7"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "肉寿司酒場　有",
+      "city": "藤井寺市",
+      "municipality": "藤井寺市",
+      "address": "藤井寺市岡1-15-22",
+      "type": "寿司",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "藤井寺市商店連合会の店舗紹介",
+          "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-13"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/nikuzushi_yu/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "珈琲館　まつ川",
+      "city": "藤井寺市",
+      "municipality": "藤井寺市",
+      "address": "藤井寺市岡1-15-21",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "藤井寺市商店連合会の店舗紹介",
+          "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-17"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "お好み焼　若竹はりた",
+      "city": "藤井寺市",
+      "municipality": "藤井寺市",
+      "address": "藤井寺市岡1-13-11",
+      "type": "粉もの",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "藤井寺市商店連合会の店舗紹介",
+          "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-22"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Bake Stand カラベル",
+      "city": "藤井寺市",
+      "municipality": "藤井寺市",
+      "address": "藤井寺市岡1-13-20",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "藤井寺市商店連合会の店舗紹介",
+          "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#bs-10"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/bake_stand_caravel"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "マンドリル",
+      "city": "藤井寺市",
+      "municipality": "藤井寺市",
+      "address": "藤井寺市藤井寺1-16-42",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "藤井寺市商店連合会の店舗紹介",
+          "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-5"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Chic CAFFE",
+      "city": "藤井寺市",
+      "municipality": "藤井寺市",
+      "address": "藤井寺市藤井寺1-16-41",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "藤井寺市商店連合会の店舗紹介",
+          "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-7"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/spicecurry_camp/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "テッパン食堂お多福",
+      "city": "藤井寺市",
+      "municipality": "藤井寺市",
+      "address": "藤井寺市藤井寺1-16-41",
+      "type": "パン・焼菓子",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "藤井寺市商店連合会の店舗紹介",
+          "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-9"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "空と月と",
+      "city": "藤井寺市",
+      "municipality": "藤井寺市",
+      "address": "藤井寺市藤井寺1-16-41",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "藤井寺市商店連合会の店舗紹介",
+          "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-10"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/sora_to_tuki_to"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Tapio Cafe",
+      "city": "藤井寺市",
+      "municipality": "藤井寺市",
+      "address": "藤井寺市藤井寺1-16-39",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "藤井寺市商店連合会の店舗紹介",
+          "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-16"
+        ],
+        [
+          "店舗紹介から案内されているSNS",
+          "https://www.instagram.com/tapiocafe_fujiidera/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "そば・うどん　山ふじ",
+      "city": "藤井寺市",
+      "municipality": "藤井寺市",
+      "address": "藤井寺市藤井寺1-16-30",
+      "type": "麺類",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "藤井寺市商店連合会の店舗紹介",
+          "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-27"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "And.R",
+      "city": "藤井寺市",
+      "municipality": "藤井寺市",
+      "address": "藤井寺市藤井寺1-16-30",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "藤井寺市商店連合会の店舗紹介",
+          "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-29"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "らーめん 笑家",
+      "city": "摂津市",
+      "municipality": "摂津市",
+      "address": "摂津市正雀本町1-36-6",
+      "type": "麺類",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "摂津市商店街ナビの店舗紹介",
+          "https://settsu-syoren.jp/archives/shop/eat"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "串カツ居酒屋 はじけ家 鳥飼店",
+      "city": "摂津市",
+      "municipality": "摂津市",
+      "address": "摂津市鳥飼野々1-30-4",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "摂津市商店街ナビの店舗紹介",
+          "https://settsu-syoren.jp/archives/shop/eat-12"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "居酒屋これから",
+      "city": "摂津市",
+      "municipality": "摂津市",
+      "address": "摂津市千里丘2-5-13",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "摂津市商店街ナビの店舗紹介",
+          "https://settsu-syoren.jp/archives/shop/eat-9"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "シティーフード ポッペ",
+      "city": "摂津市",
+      "municipality": "摂津市",
+      "address": "摂津市千里丘2-6-33",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "摂津市商店街ナビの店舗紹介",
+          "https://settsu-syoren.jp/archives/shop/eat-5"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "居酒屋 おいで舞",
+      "city": "摂津市",
+      "municipality": "摂津市",
+      "address": "摂津市正雀本町1-40-17",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "店舗紹介に独自HPへの案内を確認できなかった追加調査用のB候補。独自HPが存在しないこと、現在営業・独立経営であることは未確認。掲載時期が古い可能性があり、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "摂津市商店街ナビの店舗紹介",
+          "https://settsu-syoren.jp/archives/shop/eat-2"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "喫茶 Hi!SandWich",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市池尻中2丁目 狭山池博物館3階",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/89203"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "おか田家",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市東茱萸木1丁目509−1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/85414"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "竹麺亭",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市茱萸木7丁目1180",
+      "type": "麺類",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/84659"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "アグリマ ネパール & インド キッチン",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市狭山5丁目2260−9",
+      "type": "食事・惣菜",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/84456"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "炭藁と米で集う酒場 つむぐ",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市西山台2丁目13−17",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/83341"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "お米のひとやすみ",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市岩室1402−2 狭山池土地改良区1階",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/82964"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "大黒屋 たこ彦",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市大野台2丁目13−2",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/71014"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "亜登里絵",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市狭山1丁目787−21",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/70180"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "炭火焼鳥 まごころ",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市西山台3丁目5−7",
+      "type": "鶏料理",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/60386"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Lana Cafe & Laundry",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市池之原2丁目1067−1",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/58081"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "SUNNY DAY",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市茱萸木7丁目1347−2",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/57387"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "食堂やまだ",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市池尻自由丘1丁目3−21",
+      "type": "食事・惣菜",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/56611"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "カフェレストラン LIGHT HOUSE SAYAKA",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市狭山1丁目875−1 SAYAKAホール4階",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/56490"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "焼肉ホルモン 丑蔵",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市茱萸木5丁目507−1",
+      "type": "焼肉",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/55600"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "MOD’S COFFEE STAND",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市茱萸木1丁目8−1 GRAND SAGANN内",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/54881"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "cafe&dining CROSS POINT",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市山本東4−1",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/53938"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "クレープとマフィンのお店 MORE",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市金剛1丁目9−8",
+      "type": "菓子・スイーツ",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/52934"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "翠月庵",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市大野台2丁目14−1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/38689"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "翠陽",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市茱萸木6丁目950−1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/25833"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Pain+",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市狭山5丁目2258−1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/25435"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "炭火焼鳥 千鳥",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市金剛1丁目9−3",
+      "type": "鶏料理",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/51310"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "BLUE TREE FAVO",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市半田6丁目1129−1 シティパレス狭山",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/51064"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "マハナ食堂",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市狭山5丁目2258−1",
+      "type": "食事・惣菜",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/50305"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "喫茶TIME",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市大野東2−2",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/50128"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "味音",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市半田1丁目618−1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/49904"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "デセール菓樹",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市西山台3丁目13−8",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/49566"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "おりが美",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市半田1丁目622−1 ウエスティ金剛1F",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/46739"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Red Re:born",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市半田1丁目671−1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/45946"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ぽぷり",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市今熊2丁目351",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/46323"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "麺や 四つ葉",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市池之原2−1120−1",
+      "type": "麺類",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/45990"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "時空間 くりや",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市狭山3-2433-2",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/45421"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Darcy",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市金剛1丁目3−5 宮崎ビル1F",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/45271"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "こぶた製作所",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市狭山5丁目2336−5",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/45193"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Spuntino",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市狭山2丁目951",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/44390"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "アーセンウェア",
+      "city": "大阪狭山市",
+      "municipality": "大阪狭山市",
+      "address": "大阪狭山市大野台3丁目4−4",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域記事で店名・所在地を確認した追加調査用のB候補。記事から独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。古い記事のため、営業継続・移転を再確認する必要があります。",
+      "sources": [
+        [
+          "大阪狭山びこの店舗記事",
+          "https://osayama.com/gourmet/42802"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    }
+  ],
+  "decisions": [
+    {
+      "group": "directory",
+      "id": 0,
+      "name": "観光・レジャー",
+      "source": "https://welcome-to-izumiotsu.jp/miruasobu/",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "directory",
+      "id": 1,
+      "name": "おすすめ 周遊コース",
+      "source": "https://welcome-to-izumiotsu.jp/route/",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "directory",
+      "id": 2,
+      "name": "おすすめ 周遊コース",
+      "source": "https://welcome-to-izumiotsu.jp/route/#jinjameguri",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "directory",
+      "id": 3,
+      "name": "特産品・お土産",
+      "source": "https://welcome-to-izumiotsu.jp/tokusan/",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "directory",
+      "id": 4,
+      "name": "見学・体験",
+      "source": "https://welcome-to-izumiotsu.jp/taiken/",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "directory",
+      "id": 5,
+      "name": "フルーチュア",
+      "source": "https://welcome-to-izumiotsu.jp/fruiture/",
+      "address": "泉大津市助松町3-1-23",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 6,
+      "name": "Rainbowクレープ",
+      "source": "https://welcome-to-izumiotsu.jp/rainbow/",
+      "address": "泉大津市田中町9-21",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 7,
+      "name": "鉄板ばる Furufuru食堂",
+      "source": "https://welcome-to-izumiotsu.jp/furufurusyokudo/",
+      "address": "泉大津市田中町2-15",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 8,
+      "name": "もつ鍋と逸品料理のみせ ふるふる",
+      "source": "https://welcome-to-izumiotsu.jp/motsunabe_furufuru/",
+      "address": "泉大津市小松町1-6",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 9,
+      "name": "虎屋 sweets",
+      "source": "https://welcome-to-izumiotsu.jp/torayasweets/",
+      "address": "泉大津市田中町9-8",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 10,
+      "name": "日本料理 小津",
+      "source": "https://welcome-to-izumiotsu.jp/nihonozu/",
+      "address": "泉大津市旭町18-5 ホテルレイクアルスターアルザ泉大津7F",
+      "decision": "closure-mentioned"
+    },
+    {
+      "group": "directory",
+      "id": 11,
+      "name": "MOJOKA kitchen",
+      "source": "https://welcome-to-izumiotsu.jp/mojokakitchen/",
+      "address": "泉大津市若宮町6-1 WAKAMIYA8-1F",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 12,
+      "name": "和食 うお健",
+      "source": "https://welcome-to-izumiotsu.jp/uoken/",
+      "address": "泉大津市東豊中町3-1-15 うお健ビル4F",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 13,
+      "name": "ステーキハウス ジョイブル",
+      "source": "https://welcome-to-izumiotsu.jp/joybull/",
+      "address": "泉大津市東豊中町3-1-15 うお健ビル7F",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 14,
+      "name": "くずし鉄板 じょいぶる",
+      "source": "https://welcome-to-izumiotsu.jp/kuzushi_joybull/",
+      "address": "泉大津市東豊中町3-1-15 うお健ビル2F",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 15,
+      "name": "鮨むら川",
+      "source": "https://welcome-to-izumiotsu.jp/murakawa/",
+      "address": "泉大津市東豊中町3-1-15 うお健ビル2F",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 16,
+      "name": "喫茶 なんくる",
+      "source": "https://welcome-to-izumiotsu.jp/nankuru/",
+      "address": "泉大津市春日町3-10 A101",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 17,
+      "name": "高級食パン専門店 ルビーをつけながら",
+      "source": "https://welcome-to-izumiotsu.jp/rubii/",
+      "address": "泉大津市田中町5番15号 フジミビル1F",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 18,
+      "name": "SOBA cafe dining TAKIHAMA",
+      "source": "https://welcome-to-izumiotsu.jp/takihama/",
+      "address": "泉大津市小松町1-6 プチパニエ平野ビル 1F",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 19,
+      "name": "寛",
+      "source": "https://welcome-to-izumiotsu.jp/kutsurogi/",
+      "address": "泉大津市我孫子1丁目2番47号 ホワイトビル",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 20,
+      "name": "お惣菜・お弁当 千代菊",
+      "source": "https://welcome-to-izumiotsu.jp/chiyogiku/",
+      "address": "泉大津市東助松町4-4-32",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 21,
+      "name": "GARB GREEN WALK",
+      "source": "https://welcome-to-izumiotsu.jp/garb-green-walk/",
+      "address": "泉大津市小松町1-81 シーパスパーク内",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 22,
+      "name": "炭焼き香太郎",
+      "source": "https://welcome-to-izumiotsu.jp/sumiyakikyotaro/",
+      "address": "泉大津市東豊中町1-9-11",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 23,
+      "name": "Other Land",
+      "source": "https://welcome-to-izumiotsu.jp/other-land/",
+      "address": "泉大津市東助松町2-9-4",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 24,
+      "name": "焼肉鈴輝 泉大津本店",
+      "source": "https://welcome-to-izumiotsu.jp/yakinikusuzuki/",
+      "address": "泉大津市東助松町1-5-19",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 25,
+      "name": "PINE PLACE MARKET",
+      "source": "https://welcome-to-izumiotsu.jp/pine-place-market/",
+      "address": "泉大津市昭和町3-30",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 26,
+      "name": "鮨人（すしじん）",
+      "source": "https://welcome-to-izumiotsu.jp/sushijin/",
+      "address": "泉大津市東雲町1-19",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 27,
+      "name": "寿司りょう",
+      "source": "https://welcome-to-izumiotsu.jp/ryo/",
+      "address": "泉大津市清水町2-5",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 28,
+      "name": "イタリアンレストラン クラブ・コントラーダ",
+      "source": "https://welcome-to-izumiotsu.jp/contrada/",
+      "address": "泉大津市なぎさ町5-1 関空泉大津ワシントンホテル 19階",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 29,
+      "name": "日本料理 白水",
+      "source": "https://welcome-to-izumiotsu.jp/hakusui/",
+      "address": "泉大津市なぎさ町5-1 関空泉大津ワシントンホテル 5階",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 30,
+      "name": "N GRILL（エヌグリル）",
+      "source": "https://welcome-to-izumiotsu.jp/n_grill/",
+      "address": "泉大津市なぎさ町8−1",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 31,
+      "name": "串かつ しんや",
+      "source": "https://welcome-to-izumiotsu.jp/shinya/",
+      "address": "泉大津市昭和町10-17",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 32,
+      "name": "鉄板バル BRIDGE",
+      "source": "https://welcome-to-izumiotsu.jp/bridge/",
+      "address": "泉大津市我孫子408-7",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 33,
+      "name": "牛串焼 昭和屋",
+      "source": "https://welcome-to-izumiotsu.jp/syowaya/",
+      "address": "泉大津市我孫子1-2-47 ホワイトビル 1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 34,
+      "name": "こなモン王国",
+      "source": "https://welcome-to-izumiotsu.jp/konamondaiou/",
+      "address": "泉大津市我孫子1-2-47 ホワイトビル1F",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 35,
+      "name": "沖寿司",
+      "source": "https://welcome-to-izumiotsu.jp/okizushi/",
+      "address": "泉大津市我孫子1-2-47 ホワイトビル1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 36,
+      "name": "UliUli dining×bar",
+      "source": "https://welcome-to-izumiotsu.jp/uliuli/",
+      "address": "泉大津市田中町6-8",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 37,
+      "name": "ボスコリサイア",
+      "source": "https://welcome-to-izumiotsu.jp/boscorisaia/",
+      "address": "泉大津市旭町19-2 N.KLASS泉大津1F",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 38,
+      "name": "タッタシーテ",
+      "source": "https://welcome-to-izumiotsu.jp/tattasiite/",
+      "address": "泉大津市旭町19-2 N.KLASS泉大津1F",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 39,
+      "name": "インドレストラン＆バー シタル",
+      "source": "https://welcome-to-izumiotsu.jp/shitaru/",
+      "address": "泉大津市池浦町5-12-8",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 40,
+      "name": "紅琲院ハマダ",
+      "source": "https://welcome-to-izumiotsu.jp/hamada/",
+      "address": "泉大津市東助松町4-3-41",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 41,
+      "name": "自家焙煎コーヒー豆の店 pono",
+      "source": "https://welcome-to-izumiotsu.jp/pono/",
+      "address": "泉大津市東港町10-18",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 42,
+      "name": "和菓子司 ぽんぽんや",
+      "source": "https://welcome-to-izumiotsu.jp/ponponya/",
+      "address": "泉大津市本町6-1",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 43,
+      "name": "プランタン珈琲商会",
+      "source": "https://welcome-to-izumiotsu.jp/printemps/",
+      "address": "泉大津市田中町5-6",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 44,
+      "name": "お好み焼き こんちゃん",
+      "source": "https://welcome-to-izumiotsu.jp/konchan/",
+      "address": "泉大津市菅原町5-4",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 45,
+      "name": "お菓子工房 菓樹",
+      "source": "https://welcome-to-izumiotsu.jp/kajyu/",
+      "address": "泉大津市西港11-24",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 46,
+      "name": "スウィーツファクトリー Shilo",
+      "source": "https://welcome-to-izumiotsu.jp/shilo/",
+      "address": "泉大津市若宮町10-1 星和ダイヤモンドビル 1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 47,
+      "name": "こなな",
+      "source": "https://welcome-to-izumiotsu.jp/konana/",
+      "address": "泉大津市東雲町1-19",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 48,
+      "name": "大衆居酒屋SAKICHI",
+      "source": "https://welcome-to-izumiotsu.jp/sakichi/",
+      "address": "泉大津市菅原町2-27 星和ナイトビルB1",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 49,
+      "name": "マニモゴ",
+      "source": "https://welcome-to-izumiotsu.jp/manimogo/",
+      "address": "泉大津市田中町11-12",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 50,
+      "name": "ロボットカフェ HCI ROBO HOUSE",
+      "source": "https://welcome-to-izumiotsu.jp/hcirobohouse/",
+      "address": "泉大津市東豊中町3-14-10",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 51,
+      "name": "ぷりんとちーずの菓子工房 菓なで",
+      "source": "https://welcome-to-izumiotsu.jp/kashikanade/",
+      "address": "泉大津市池浦町4-5-1",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 52,
+      "name": "ひので珈琲",
+      "source": "https://welcome-to-izumiotsu.jp/hinode/",
+      "address": "泉大津市若宮町6-5",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 53,
+      "name": "庄ちゃん寿司",
+      "source": "https://welcome-to-izumiotsu.jp/syouchansusi/",
+      "address": "泉大津市松之浜町2-5-14",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 54,
+      "name": "味道楽 無法松",
+      "source": "https://welcome-to-izumiotsu.jp/muhoumatsu/",
+      "address": "泉大津市松之浜町1-1-10",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 55,
+      "name": "AG café 米粉専門店",
+      "source": "https://welcome-to-izumiotsu.jp/agcafe/",
+      "address": "泉大津市助松町2-2-11",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 56,
+      "name": "おうちご飯 泉ん マドレの庭（cafe ecru+内）",
+      "source": "https://welcome-to-izumiotsu.jp/ouchigohan/",
+      "address": "泉大津市春日町9-1 cafe ecru+内",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 57,
+      "name": "米粉のパン.guu",
+      "source": "https://welcome-to-izumiotsu.jp/komekopan-guu/",
+      "address": "泉大津市河原町5-55",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 58,
+      "name": "フルーチュア",
+      "source": "https://welcome-to-izumiotsu.jp/check/",
+      "address": "",
+      "decision": "page-error"
+    },
+    {
+      "group": "directory",
+      "id": 59,
+      "name": "フルーチュア",
+      "source": "https://welcome-to-izumiotsu.jp/menya_hachi/",
+      "address": "",
+      "decision": "page-error"
+    },
+    {
+      "group": "directory",
+      "id": 60,
+      "name": "フルーチュア",
+      "source": "https://welcome-to-izumiotsu.jp/amatsu/",
+      "address": "",
+      "decision": "page-error"
+    },
+    {
+      "group": "directory",
+      "id": 61,
+      "name": "フルーチュア",
+      "source": "https://welcome-to-izumiotsu.jp/pandereve/",
+      "address": "",
+      "decision": "page-error"
+    },
+    {
+      "group": "directory",
+      "id": 62,
+      "name": "Seven-fit(セブンフィット)",
+      "source": "https://family-r.com/seven-fit/",
+      "address": "八尾市本町5-3-5",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 63,
+      "name": "Create A Smile",
+      "source": "https://family-r.com/create-a-smile/",
+      "address": "八尾市本町5-3-5",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 64,
+      "name": "Ranma Nail",
+      "source": "https://family-r.com/ranma-nail/",
+      "address": "八尾市本町5-3-6",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 65,
+      "name": "MIMY SPOT",
+      "source": "https://family-r.com/mimyspot/",
+      "address": "八尾市本町4-2-44",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 66,
+      "name": "上田工務店",
+      "source": "https://family-r.com/ueda/",
+      "address": "八尾市本町5-2-19",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 67,
+      "name": "poimaru.",
+      "source": "https://family-r.com/poimaru/",
+      "address": "八尾市本町4丁目2-43",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 68,
+      "name": "炭火焼鶏 最上",
+      "source": "https://family-r.com/mogami/",
+      "address": "八尾市本町5丁目8-21",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 69,
+      "name": "エステ ティアラ",
+      "source": "https://family-r.com/tiara/",
+      "address": "八尾市本町5丁目8-23-103",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 70,
+      "name": "中尾たばこ店",
+      "source": "https://family-r.com/nakaotabakoten/",
+      "address": "八尾市本町5丁目7-15",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 71,
+      "name": "サイクルショップもとき",
+      "source": "https://family-r.com/motoki/",
+      "address": "八尾市本町5丁目6-9",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 72,
+      "name": "イオン八尾御坊前店",
+      "source": "https://family-r.com/ieon/",
+      "address": "八尾市本町4丁目2-4",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 73,
+      "name": "フタバクリーニング",
+      "source": "https://family-r.com/hutabacleaning/",
+      "address": "八尾市本町5丁目2-15",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 74,
+      "name": "音野精肉店",
+      "source": "https://family-r.com/otonoseinikuten/",
+      "address": "八尾市本町5丁目2-15",
+      "decision": "closure-mentioned"
+    },
+    {
+      "group": "directory",
+      "id": 75,
+      "name": "貸衣裳 かまだ",
+      "source": "https://family-r.com/kamada/",
+      "address": "八尾市本町5丁目3-11",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 76,
+      "name": "そば処 楠喜",
+      "source": "https://family-r.com/kusuki/",
+      "address": "八尾市本町5丁目3-11",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 77,
+      "name": "やおもく",
+      "source": "https://family-r.com/yaomoku/",
+      "address": "八尾市本町5丁目8-13",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 78,
+      "name": "焼肉 千久左",
+      "source": "https://family-r.com/chikusa/",
+      "address": "八尾市本町5丁目7-19",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 79,
+      "name": "珈琲亭琥珀",
+      "source": "https://family-r.com/kohakucafe/",
+      "address": "八尾市本町5丁目8-16",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 80,
+      "name": "喫茶オラシオン",
+      "source": "https://family-r.com/kissaorasion/",
+      "address": "八尾市本町5丁目7-21",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 81,
+      "name": "桐山写真館",
+      "source": "https://family-r.com/kiriyamasyasinkan/",
+      "address": "八尾市本町5丁目3-8",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 82,
+      "name": "八尾ラボ",
+      "source": "https://family-r.com/yaorabo/",
+      "address": "八尾市本町5丁目3-6",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 83,
+      "name": "庵逗珈琲",
+      "source": "https://family-r.com/anzucafe/",
+      "address": "八尾市本町5丁目7-21",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 84,
+      "name": "宇野整骨院",
+      "source": "https://family-r.com/unoseikotuin/",
+      "address": "八尾市本町5丁目4-15",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 85,
+      "name": "cochi-cochi",
+      "source": "https://family-r.com/cochicochi/",
+      "address": "八尾市本町5丁目4-14",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 86,
+      "name": "きものすぎもと",
+      "source": "https://family-r.com/kimonosugimoto/",
+      "address": "八尾市本町5丁目4-9",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 87,
+      "name": "タケヒロヤ",
+      "source": "https://family-r.com/takehiroya/",
+      "address": "八尾市本町5丁目5-25",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 88,
+      "name": "パリ洋品店",
+      "source": "https://family-r.com/pari/",
+      "address": "八尾市本町5丁目4-16",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 89,
+      "name": "炭や。よつ葉",
+      "source": "https://neyagawa-1bangai.jp/shop/the-charcoal-yotsuba/",
+      "address": "寝屋川市早子町18-1 奥川ビル2階",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 90,
+      "name": "ゴマジェットカフェカレー",
+      "source": "https://neyagawa-1bangai.jp/shop/gomadjet-cafecale/",
+      "address": "寝屋川市早子町19-6",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 91,
+      "name": "寝屋川焼肉センター",
+      "source": "https://neyagawa-1bangai.jp/shop/neyagawa-yakiniku-center/",
+      "address": "寝屋川市早子町19-9",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 92,
+      "name": "寿司一品 たつ美",
+      "source": "https://neyagawa-1bangai.jp/shop/shop23/",
+      "address": "寝屋川市早子町19-12",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 93,
+      "name": "一力総本店",
+      "source": "https://neyagawa-1bangai.jp/shop/shop24/",
+      "address": "寝屋川市早子町19-11",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 94,
+      "name": "立ち飲み つつみ",
+      "source": "https://neyagawa-1bangai.jp/shop/shop29/",
+      "address": "寝屋川市早子町19-8",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 95,
+      "name": "焼鳥居酒屋 雅樂亭 早子店",
+      "source": "https://neyagawa-1bangai.jp/shop/shop33/",
+      "address": "寝屋川市早子町19-5",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 96,
+      "name": "インド ネパール料理 リスタ",
+      "source": "https://neyagawa-1bangai.jp/shop/shop36/",
+      "address": "寝屋川市早子町19-3",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 97,
+      "name": "華洋",
+      "source": "https://neyagawa-1bangai.jp/shop/shop38/",
+      "address": "寝屋川市早子町19-10",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 98,
+      "name": "ウルルカフェ",
+      "source": "https://neyagawa-1bangai.jp/shop/shop1/",
+      "address": "寝屋川市早子町16-21",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 99,
+      "name": "カフェ・シャット（cafe chat）",
+      "source": "https://neyagawa-1bangai.jp/shop/shop4/",
+      "address": "寝屋川市早子町23-12 千代田ビル1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 100,
+      "name": "キッチンオリジン 寝屋川店",
+      "source": "https://neyagawa-1bangai.jp/shop/shop5/",
+      "address": "寝屋川市早子町18-10",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 101,
+      "name": "喫茶ポピー",
+      "source": "https://neyagawa-1bangai.jp/shop/shop14/",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "directory",
+      "id": 102,
+      "name": "木下青果店",
+      "source": "https://www.lala-hashiba.com/shop/shop8/",
+      "address": "守口市西郷通1-2-16",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 103,
+      "name": "生鮮食品館 ベイ･はしば",
+      "source": "https://www.lala-hashiba.com/shop/shop9/",
+      "address": "守口市西郷通1-2-15",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 104,
+      "name": "果菜",
+      "source": "https://www.lala-hashiba.com/shop/shop11/",
+      "address": "守口市西郷通1-3-9",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 105,
+      "name": "オーシマモト",
+      "source": "https://www.lala-hashiba.com/shop/shop12/",
+      "address": "守口市西郷通1-3-9",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 106,
+      "name": "ぱん工房ラパン",
+      "source": "https://www.lala-hashiba.com/shop/shop13/",
+      "address": "守口市西郷通1-3-10",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 107,
+      "name": "蒲鉾・天婦羅 すえひろ",
+      "source": "https://www.lala-hashiba.com/shop/shop16/",
+      "address": "守口市西郷通1-1-8",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 108,
+      "name": "御菓子司つくし",
+      "source": "https://www.lala-hashiba.com/shop/shop17/",
+      "address": "守口市西郷通1-1-6",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 109,
+      "name": "ばんどう亭",
+      "source": "https://www.lala-hashiba.com/shop/shop20/",
+      "address": "守口市西郷通1-2-22",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 110,
+      "name": "かね市商店",
+      "source": "https://www.lala-hashiba.com/shop/shop6/",
+      "address": "守口市西郷通1-1-9",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 111,
+      "name": "まんぷく食堂",
+      "source": "https://www.lala-hashiba.com/shop/shop1/",
+      "address": "守口市西郷通1-3-4",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 112,
+      "name": "アヤコ食堂",
+      "source": "https://www.kishiwadashotengai.com/shop/gourmet/page-265/",
+      "address": "岸和田市五軒屋町16-11",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 113,
+      "name": "活ふぐふぐべ",
+      "source": "https://www.kishiwadashotengai.com/shop/gourmet/page-201/",
+      "address": "岸和田市五軒屋町16-11",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 114,
+      "name": "駅前CAFEわだてん",
+      "source": "https://www.kishiwadashotengai.com/shop/gourmet/page-6073/",
+      "address": "岸和田市宮本町14-11",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 115,
+      "name": "縁たく家",
+      "source": "https://www.kishiwadashotengai.com/shop/gourmet/page-221/",
+      "address": "岸和田市五軒屋町1-1",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 116,
+      "name": "旬魚菜・なべ「きん魚」",
+      "source": "https://www.kishiwadashotengai.com/shop/gourmet/page-476/",
+      "address": "岸和田市宮本町5-1",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 117,
+      "name": "燻製と炭火 炭小屋",
+      "source": "https://www.kishiwadashotengai.com/shop/gourmet/page-6036/",
+      "address": "岸和田市五軒屋町15-18",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 118,
+      "name": "じゃんぼ焼鳥 鳥貴族",
+      "source": "https://www.kishiwadashotengai.com/shop/gourmet/page-243/",
+      "address": "岸和田市宮本町7-13-2F",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 119,
+      "name": "Dash賑",
+      "source": "https://www.kishiwadashotengai.com/shop/gourmet/page-2146/",
+      "address": "岸和田市宮本町2-9",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 120,
+      "name": "浜焼太郎岸和田店",
+      "source": "https://www.kishiwadashotengai.com/shop/gourmet/page-1965/",
+      "address": "岸和田市宮本町5-1",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 121,
+      "name": "歩ツ歩や",
+      "source": "https://www.kishiwadashotengai.com/shop/gourmet/page-235/",
+      "address": "岸和田市宮本町14-11",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 122,
+      "name": "や台ずし 岸和田駅前町",
+      "source": "https://www.kishiwadashotengai.com/shop/gourmet/page-2166/",
+      "address": "岸和田市宮本町14-1",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 123,
+      "name": "山内農場",
+      "source": "https://www.kishiwadashotengai.com/shop/gourmet/page-207/",
+      "address": "岸和田市宮本町12-25 ファームビル1F",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 124,
+      "name": "coffee house 和蘭豆",
+      "source": "https://www.kishiwadashotengai.com/shop/gourmet/page-231/",
+      "address": "岸和田市宮本町3-4",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 125,
+      "name": "のみ道楽",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-1",
+      "address": "藤井寺市岡2-4-6",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 126,
+      "name": "Noël",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-4",
+      "address": "藤井寺市岡2-5-3",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 127,
+      "name": "たこダビッドソン",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-6",
+      "address": "藤井寺市岡1-13-17",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 128,
+      "name": "朝日堂琮源",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-7",
+      "address": "藤井寺市岡1-13-16",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 129,
+      "name": "麻野徳商店（酒･調味料･菓子）",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-10",
+      "address": "藤井寺市岡2-5-7",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 130,
+      "name": "肉寿司酒場　有",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-13",
+      "address": "藤井寺市岡1-15-22",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 131,
+      "name": "鰻の成瀬　藤井寺店",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-15",
+      "address": "藤井寺市岡1-15-22 小田ビル1F",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 132,
+      "name": "珈琲館　まつ川",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-17",
+      "address": "藤井寺市岡1-15-21",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 133,
+      "name": "や台すし藤井寺駅前町",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-19",
+      "address": "藤井寺市岡1-15-18 辻ビル1階",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 134,
+      "name": "お好み焼　若竹はりた",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-22",
+      "address": "藤井寺市岡1-13-11",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 135,
+      "name": "岡田園茶舗",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ek-24",
+      "address": "藤井寺市岡1-8-17",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 136,
+      "name": "Bake Stand カラベル",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#bs-10",
+      "address": "藤井寺市岡1-13-20",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 137,
+      "name": "餃子の王将",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#hf-7",
+      "address": "藤井寺市岡2-8-44",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 138,
+      "name": "ラウンジ　ジュノーM",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#hf-17",
+      "address": "藤井寺市岡2-6-9 DH第2ビル2F",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 139,
+      "name": "オステリア ベッカフィーコ",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-3",
+      "address": "藤井寺市藤井寺1-2-8",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 140,
+      "name": "マンドリル",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-5",
+      "address": "藤井寺市藤井寺1-16-42",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 141,
+      "name": "Chic CAFFE",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-7",
+      "address": "藤井寺市藤井寺1-16-41",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 142,
+      "name": "テッパン食堂お多福",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-9",
+      "address": "藤井寺市藤井寺1-16-41",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 143,
+      "name": "空と月と",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-10",
+      "address": "藤井寺市藤井寺1-16-41",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 144,
+      "name": "喫茶と酒　椹",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-14",
+      "address": "藤井寺市藤井寺1-16-40",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 145,
+      "name": "やみつき スパイスカレー CAMP",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-15",
+      "address": "藤井寺市藤井寺1-16-39",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 146,
+      "name": "Tapio Cafe",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-16",
+      "address": "藤井寺市藤井寺1-16-39",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 147,
+      "name": "居酒屋 みやけ",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-17",
+      "address": "藤井寺市藤井寺1-16-39",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 148,
+      "name": "そば・うどん　山ふじ",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-27",
+      "address": "藤井寺市藤井寺1-16-30",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 149,
+      "name": "And.R",
+      "source": "https://www.fujiidera-ss.com/shopping-map/category/restaurant/#ig-29",
+      "address": "藤井寺市藤井寺1-16-30",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 150,
+      "name": "らーめん 笑家",
+      "source": "https://settsu-syoren.jp/archives/shop/eat",
+      "address": "摂津市正雀本町1-36-6",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 151,
+      "name": "居酒屋 龍希",
+      "source": "https://settsu-syoren.jp/archives/shop/eat-13",
+      "address": "摂津市鳥飼野々1-30-3",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 152,
+      "name": "串カツ居酒屋 はじけ家 鳥飼店",
+      "source": "https://settsu-syoren.jp/archives/shop/eat-12",
+      "address": "摂津市鳥飼野々1-30-4",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 153,
+      "name": "居酒屋これから",
+      "source": "https://settsu-syoren.jp/archives/shop/eat-9",
+      "address": "摂津市千里丘2-5-13",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 154,
+      "name": "ハッピースマイル和",
+      "source": "https://settsu-syoren.jp/archives/shop/eat-8",
+      "address": "摂津市千里丘2-5-10",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 155,
+      "name": "八郷（やごう）",
+      "source": "https://settsu-syoren.jp/archives/shop/eat-7",
+      "address": "摂津市千里丘2丁目9-33",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 156,
+      "name": "シティーフード ポッペ",
+      "source": "https://settsu-syoren.jp/archives/shop/eat-5",
+      "address": "摂津市千里丘2-6-33",
+      "decision": "provisional"
+    },
+    {
+      "group": "directory",
+      "id": 157,
+      "name": "ミュージックステーション 神（じん）",
+      "source": "https://settsu-syoren.jp/archives/shop/eat-4",
+      "address": "摂津市千里丘2-5-13",
+      "decision": "hold"
+    },
+    {
+      "group": "directory",
+      "id": 158,
+      "name": "居酒屋 おいで舞",
+      "source": "https://settsu-syoren.jp/archives/shop/eat-2",
+      "address": "摂津市正雀本町1-40-17",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 0,
+      "name": "喫茶 Hi!SandWich",
+      "source": "https://osayama.com/gourmet/89203",
+      "address": "大阪狭山市池尻中2丁目 狭山池博物館3階",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 1,
+      "name": "【からあげ好き必見】310号線沿い「からやま 大阪狭山店」で、揚げたて「からあげ（定食・丼）」をいただきました！",
+      "source": "https://osayama.com/gourmet/86603",
+      "address": "大阪狭山市東茱萸木2丁目897−2",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 2,
+      "name": "おか田家",
+      "source": "https://osayama.com/gourmet/85414",
+      "address": "大阪狭山市東茱萸木1丁目509−1",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 3,
+      "name": "竹麺亭",
+      "source": "https://osayama.com/gourmet/84659",
+      "address": "大阪狭山市茱萸木7丁目1180",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 4,
+      "name": "アグリマ ネパール & インド キッチン",
+      "source": "https://osayama.com/gourmet/84456",
+      "address": "大阪狭山市狭山5丁目2260−9",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 5,
+      "name": "賞味期限は3分！？「パパと娘のシフォンカフェ Rin」の絶品焼きシフォンケーキ！ワンちゃんも同伴OK",
+      "source": "https://osayama.com/gourmet/84026",
+      "address": "大阪狭山市山本東18−25",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 6,
+      "name": "大阪狭山市唯一のちゃんこ鍋店「大いちょう 狭山店」が閉店",
+      "source": "https://osayama.com/gourmet/83976",
+      "address": "大阪狭山市大野台1丁目23−12",
+      "decision": "closure-mentioned"
+    },
+    {
+      "group": "osayama",
+      "id": 7,
+      "name": "【当日焙煎コーヒーでひと息】築50年の古民家をリノベ！堺市中区のカフェ&貸しスペース「ツバメroof」でランチをいただきました！",
+      "source": "https://osayama.com/gourmet/82005",
+      "address": "堺市中区陶器北87−5",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 8,
+      "name": "炭藁と米で集う酒場 つむぐ",
+      "source": "https://osayama.com/gourmet/83341",
+      "address": "大阪狭山市西山台2丁目13−17",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 9,
+      "name": "お米のひとやすみ",
+      "source": "https://osayama.com/gourmet/82964",
+      "address": "大阪狭山市岩室1402−2 狭山池土地改良区1階",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 10,
+      "name": "からあげ専門店「からやま 大阪狭山店」が2025年9月26日オープン！310号線沿いファミマ跡地",
+      "source": "https://osayama.com/gourmet/82383",
+      "address": "大阪狭山市東茱萸木2丁目897−2",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 11,
+      "name": "亀の甲の交差点（310号線沿い）に「お好み焼き本舗」「焼きたてのかるび」がオープン予定！【2026年6月20日頃 工事着手予定】",
+      "source": "https://osayama.com/gourmet/82250",
+      "address": "大阪狭山市茱萸木1丁目96−1 亀の甲の交差点(310号線沿い)に「マクドナルド」がオープン予定!【2025年9月5日頃 工事着手予定】 2025.01.09",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 12,
+      "name": "【これが最新ファミレス！？】「ビッグボーイ 大阪狭山店」がハイテクリニューアル！お得なランチをロボットが配膳！",
+      "source": "https://osayama.com/gourmet/81894",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 13,
+      "name": "ウィスキー豊富＆金剛山の湧き水チェイサーが味わえる！本格派オーセンティックバー「HIRO’s BAR」【大阪狭山市駅から20秒】",
+      "source": "https://osayama.com/gourmet/81457",
+      "address": "大阪狭山市狭山5丁目783 第2松本ビル1階",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 14,
+      "name": "【新店オープン】アサイー専門店「アサイー工房 狭山店」が310号線沿いに登場！素材にこだわった“本物”の味を体験しよう！",
+      "source": "https://osayama.com/gourmet/81348",
+      "address": "大阪狭山市茱萸木4丁目246−1",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 15,
+      "name": "金剛駅から20秒！「味音」で美味しいお惣菜・お弁当をテイクアウト！",
+      "source": "https://osayama.com/gourmet/78190",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 16,
+      "name": "住宅街にある古民家で、十割蕎麦が楽しめる！大野台2丁目「そば屋 藍」をご紹介",
+      "source": "https://osayama.com/gourmet/77286",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 17,
+      "name": "狭山池を一望！「菓子工房yamao 狭山池店」が2024年11月25日にオープン！",
+      "source": "https://osayama.com/gourmet/77342",
+      "address": "大阪狭山市岩室1402−2 狭山池土地改良区2階",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 18,
+      "name": "青いコンテナのコーヒースタンド！「さやま珈琲」をご紹介します",
+      "source": "https://osayama.com/gourmet/77095",
+      "address": "",
+      "decision": "closure-mentioned"
+    },
+    {
+      "group": "osayama",
+      "id": 19,
+      "name": "東野西４丁目にオープン！中華料理店「大阪さやま 味から亭」をご紹介します！",
+      "source": "https://osayama.com/gourmet/76876",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 20,
+      "name": "超本格スパイス！辛さも選べる「カレーハウス杏具(アグ)」のランチを食べに行ってきました",
+      "source": "https://osayama.com/gourmet/76675",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 21,
+      "name": "【隠れた名店】製麺所「マルテツ食品」工場内にある、うどん屋さんに行ってきました！",
+      "source": "https://osayama.com/gourmet/75701",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 22,
+      "name": "「大起水産回転寿司 はなれ 金剛店」のランチを食べに行ってきました！",
+      "source": "https://osayama.com/gourmet/75094",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 23,
+      "name": "国産小麦で身体にも安心！「FLOUR(フラワー) 狭山池店」のパンをご紹介！",
+      "source": "https://osayama.com/gourmet/74993",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 24,
+      "name": "【陶器山通り沿い】パスタ＆オムライス 「ルピナス」にランチを食べに行ってきました",
+      "source": "https://osayama.com/gourmet/74068",
+      "address": "",
+      "decision": "closure-mentioned"
+    },
+    {
+      "group": "osayama",
+      "id": 25,
+      "name": "【国産鶏肉を使用】炭火焼き鳥「ときわや」でお弁当（焼鳥弁当）をテイクアウトしました！",
+      "source": "https://osayama.com/gourmet/72915",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 26,
+      "name": "大野台3丁目にある「喫茶 懐（KAI）」にランチを食べに行ってきました！",
+      "source": "https://osayama.com/gourmet/72496",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 27,
+      "name": "国産蕎麦粉100%の十割蕎麦！「麺坊 七福」にランチを食べにいってきました！",
+      "source": "https://osayama.com/gourmet/72036",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 28,
+      "name": "【思い出すと食べたくなる】310号線沿い「ケンタッキーフライドチキン 狭山亀の甲店」行ってきました！",
+      "source": "https://osayama.com/gourmet/71732",
+      "address": "大阪狭山市茱萸木3丁目97−2",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 29,
+      "name": "【キムチバー無料】リニューアルオープンした「白馬童子 狭山池之原店」に行ってきました！",
+      "source": "https://osayama.com/gourmet/71635",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 30,
+      "name": "副池オアシス公園にある「コメダ珈琲 狭山池店」に行ってきました！",
+      "source": "https://osayama.com/gourmet/71544",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 31,
+      "name": "大黒屋 たこ彦",
+      "source": "https://osayama.com/gourmet/71014",
+      "address": "大阪狭山市大野台2丁目13−2",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 32,
+      "name": "スペシャルティーコーヒーが気軽に楽しめる！大野台2丁目「NOB CAFÉ（ノブ カフェ）」をご紹介します！",
+      "source": "https://osayama.com/gourmet/70856",
+      "address": "",
+      "decision": "closure-mentioned"
+    },
+    {
+      "group": "osayama",
+      "id": 33,
+      "name": "亜登里絵",
+      "source": "https://osayama.com/gourmet/70180",
+      "address": "大阪狭山市狭山1丁目787−21",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 34,
+      "name": "【お肉が階段をのぼる～♪】サラダバー付き！「焼肉 黒丸」のランチを食べてきました",
+      "source": "https://osayama.com/gourmet/70078",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 35,
+      "name": "【ふわとろぉ～♪たこ焼き】310号線沿い(東茱萸木４丁目)で営業されている「たこ焼まるしん」に行ってきました",
+      "source": "https://osayama.com/gourmet/69920",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 36,
+      "name": "【モーニング・ランチメニューも】カフェ＆スイーツ ダイニング「小春や珈琲」をご紹介します",
+      "source": "https://osayama.com/gourmet/68229",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 37,
+      "name": "【メニューも紹介】長崎ちゃんぽん「リンガーハット 大阪狭山店」に行ってきました",
+      "source": "https://osayama.com/gourmet/67489",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 38,
+      "name": "【プレゼント企画も！】南大阪初！韓国発祥の新感覚スイーツ「クルンジ」が、カフェ「亜登里絵」で販売開始",
+      "source": "https://osayama.com/gourmet/67318",
+      "address": "大阪狭山市狭山1丁目787−6",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 39,
+      "name": "パスタ（スパゲッティ）・ピザの「ジョリーパスタ 岩室店」をご紹介します",
+      "source": "https://osayama.com/gourmet/67207",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 40,
+      "name": "【金剛駅徒歩3分】唐揚げ（醤油・塩）にポテトも♪「唐揚げ屋」をご紹介します",
+      "source": "https://osayama.com/gourmet/65977",
+      "address": "",
+      "decision": "closure-mentioned"
+    },
+    {
+      "group": "osayama",
+      "id": 41,
+      "name": "【揚げ物アツアツ揚げたて♪】お肉屋さんの揚げ物（お惣菜）とお弁当！「肉処 さだ源」をご紹介します",
+      "source": "https://osayama.com/gourmet/65730",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 42,
+      "name": "【お祝いのシーンにも】イタリア料理とお酒を楽しめるお店！イタリアンバル「Auguri(アウグーリ)」のランチをご紹介します",
+      "source": "https://osayama.com/gourmet/65039",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 43,
+      "name": "【安定の味】310号線沿いの「餃子の王将 亀の甲店」に行ってきました",
+      "source": "https://osayama.com/gourmet/64418",
+      "address": "大阪狭山市池之原2丁目1104−4",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 44,
+      "name": "【鮮度がごちそう】半田1丁目にある「大起水産 回転寿司 はなれ 金剛店」をご紹介",
+      "source": "https://osayama.com/gourmet/63670",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 45,
+      "name": "【無人店舗】2023年8月20日にオープンした「訳ありB級 お持ち帰りグルメ」をご紹介",
+      "source": "https://osayama.com/gourmet/63412",
+      "address": "大阪狭山市東茱萸木1丁目509",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 46,
+      "name": "【からあげグランプリW受賞】「元祖からあげ本舗 福まる 狭山店」でテイクアウトしました",
+      "source": "https://osayama.com/gourmet/62874",
+      "address": "大阪狭山市茱萸木2-369-1",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 47,
+      "name": "【あの味をもう一度】2023年6月24日オープン！イタリアンバル「Auguri(アウグーリ)」のランチをご紹介",
+      "source": "https://osayama.com/gourmet/61566",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 48,
+      "name": "炭火焼鳥 まごころ",
+      "source": "https://osayama.com/gourmet/60386",
+      "address": "大阪狭山市西山台3丁目5−7",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 49,
+      "name": "茱萸木2丁目にある「中華料理 清流」でランチを食べてきました",
+      "source": "https://osayama.com/gourmet/60251",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 50,
+      "name": "【うな重・うな丼】岩室「うなぎの神吉」をご紹介します",
+      "source": "https://osayama.com/gourmet/60049",
+      "address": "はあるのですが、このお店の住所は行政区分上は堺市南区岩室にあり、ちょうど大阪狭山市と堺市の境目にあります。 さやま散歩 店名のとおり「 うな重 」や「 うな丼 」を中心にした、 うなぎの専門店 です。 店内は落ち着いた空間で、テーブル席や掘りごたつ席などがあり、ゆっくり過ごすことができます。 また『 掛け軸・絵・釜・壁掛け時計・徳利 (とっくり)』 そして『 お庭 』など、見ているのも楽しくなるような店作りがなされています。 今回は「 うな重 (3,700円)」をいただきました。 香ばしくて程よく甘いタレ、そして柔らかい鰻(うなぎ)でごはんが進み、あっという間の完食です。 さやま散歩 鰻は小骨も取り除かれているため、骨が苦手な方も食べやすいですよ。 また、「山椒」が大丈夫な方は、粉末山椒をお好みで振っても美味です。 鰻(うなぎ)といえば「 土用の丑の日 」。 「 う 」の付く食べ物を食べて、食い養生(くいようじょう)するという習わしです。 「土用の丑の日」は季節ごとにありますが、夏季は梅雨明けや暑さで体調を崩したり夏バテする人が多いことから、夏の土用の丑の日は、鰻を食べて精力を付けたり回復したりするという意味合いからも定着したようです。",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 51,
+      "name": "【金剛駅すぐ】一品料理・すし「はりまや」でランチを食べてきました",
+      "source": "https://osayama.com/gourmet/59380",
+      "address": "大阪狭山市半田1-224-178 1F",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 52,
+      "name": "食べ放題も！「和食さと 狭山店」にランチを食べに行ってきました",
+      "source": "https://osayama.com/gourmet/59188",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 53,
+      "name": "﻿西山台6丁目にある洋食屋さん「洋食のラグー」でランチを食べてきました",
+      "source": "https://osayama.com/gourmet/58846",
+      "address": "",
+      "decision": "closure-mentioned"
+    },
+    {
+      "group": "osayama",
+      "id": 54,
+      "name": "【カフェ併設】1958年創業スペシャルティコーヒー専門店「焙煎香房シマノ」に寄ってきました",
+      "source": "https://osayama.com/gourmet/58341",
+      "address": "大阪狭山市茱萸木4丁目238−1",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 55,
+      "name": "Lana Cafe & Laundry",
+      "source": "https://osayama.com/gourmet/58081",
+      "address": "大阪狭山市池之原2丁目1067−1",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 56,
+      "name": "【お座敷カフェも】和食・寿司「さやま茶寮(さりょう)」にランチにいってきました",
+      "source": "https://osayama.com/gourmet/57814",
+      "address": "大阪狭山市東茱萸木2丁目775−3",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 57,
+      "name": "【オープニングセールも！】「元祖からあげ本舗 福まる 狭山店」が、2023年3月3日にオープン",
+      "source": "https://osayama.com/gourmet/57601",
+      "address": "大阪狭山市茱萸木2丁目372−2",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 58,
+      "name": "【2023年2月25日オープン】茱萸木﻿4丁目のハンバーガー屋さん「淡路島バーガー 大阪狭山店」に寄ってきました",
+      "source": "https://osayama.com/gourmet/57498",
+      "address": "大阪狭山市東茱萸木4丁目2115",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 59,
+      "name": "SUNNY DAY",
+      "source": "https://osayama.com/gourmet/57387",
+      "address": "大阪狭山市茱萸木7丁目1347−2",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 60,
+      "name": "【2023年2月23日】とり肉専科「紀州鶏 金剛店」跡地に、新たな唐揚げ店がオープン",
+      "source": "https://osayama.com/gourmet/56695",
+      "address": "大阪狭山市半田1丁目649−1",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 61,
+      "name": "食堂やまだ",
+      "source": "https://osayama.com/gourmet/56611",
+      "address": "大阪狭山市池尻自由丘1丁目3−21",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 62,
+      "name": "カフェレストラン LIGHT HOUSE SAYAKA",
+      "source": "https://osayama.com/gourmet/56490",
+      "address": "大阪狭山市狭山1丁目875−1 SAYAKAホール4階",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 63,
+      "name": "310号線沿い（池之原2丁目）にある「Lana Cafe & Laundry(ラナカフェ & ランドリー)」に行ってきました",
+      "source": "https://osayama.com/gourmet/56069",
+      "address": "大阪狭山市池之原2丁目1067−1 コインランドリー 6:00〜24:00 カフェ 9:00〜18:00",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 64,
+      "name": "【2023年1月9日閉店】ダイニングバー「Dream Heart（ドリームハート）」をご紹介",
+      "source": "https://osayama.com/gourmet/55790",
+      "address": "大阪狭山市半田1丁目1167−1",
+      "decision": "closure-mentioned"
+    },
+    {
+      "group": "osayama",
+      "id": 65,
+      "name": "焼肉ホルモン 丑蔵",
+      "source": "https://osayama.com/gourmet/55600",
+      "address": "大阪狭山市茱萸木5丁目507−1",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 66,
+      "name": "寿司・和食・居酒屋の「さやま茶寮（さりょう）」へランチを食べに行ってきました",
+      "source": "https://osayama.com/gourmet/55253",
+      "address": "大阪狭山市東茱萸木2丁目775−3",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 67,
+      "name": "コインランドリー併設カフェ「LanaCafe（ラナカフェ）」が2022年11月3日オープン",
+      "source": "https://osayama.com/gourmet/54969",
+      "address": "大阪狭山市池之原2丁目1067−1",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 68,
+      "name": "MOD’S COFFEE STAND",
+      "source": "https://osayama.com/gourmet/54881",
+      "address": "大阪狭山市茱萸木1丁目8−1 GRAND SAGANN内",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 69,
+      "name": "ダイニングバー「Dream Heart（ドリームハート）」に寄ってきました",
+      "source": "https://osayama.com/gourmet/54724",
+      "address": "",
+      "decision": "closure-mentioned"
+    },
+    {
+      "group": "osayama",
+      "id": 70,
+      "name": "【11月で閉店！？】「ドムドムハンバーガー イオン金剛店」に行ってきました",
+      "source": "https://osayama.com/gourmet/54033",
+      "address": "大阪狭山市半田1丁目35−1 イオン金剛店 1F びこ編集部 以上、「ドムドムハンバーガー イオン金剛店」のご紹介でした。 イオン金剛店 「専門店」の閉店・移転情報まとめ 2022.11.15 建替えのため一時休業!「イオン金剛店」売りつくしセールが2022年9月15日スタート 2022.09.16",
+      "decision": "closure-mentioned"
+    },
+    {
+      "group": "osayama",
+      "id": 71,
+      "name": "cafe&dining CROSS POINT",
+      "source": "https://osayama.com/gourmet/53938",
+      "address": "大阪狭山市山本東4−1",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 72,
+      "name": "「大阪ふくちぁん餃子 狭山大野台店」の無人販売所を発見しました",
+      "source": "https://osayama.com/gourmet/53130",
+      "address": "狭山市大野台2丁目13−2",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 73,
+      "name": "クレープとマフィンのお店 MORE",
+      "source": "https://osayama.com/gourmet/52934",
+      "address": "大阪狭山市金剛1丁目9−8",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 74,
+      "name": "手づくりパンとカフェ「パリーネ 狭山店」をご紹介します",
+      "source": "https://osayama.com/gourmet/52609",
+      "address": "大阪狭山市東野西4丁目776−1",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 75,
+      "name": "【2022年8月20日】cafe&dining「CROSS POINT（クロスポイント）」が山本東4丁目（310号線沿い）にオープン",
+      "source": "https://osayama.com/gourmet/52453",
+      "address": "大阪狭山市山本東4−1",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 76,
+      "name": "「加寿屋 〜KASUYA〜 大阪狭山店」の前に自動販売機が設置されていました",
+      "source": "https://osayama.com/gourmet/52290",
+      "address": "大阪狭山市東茱萸木1丁目742−2",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 77,
+      "name": "金剛駅前の喫茶店「Café Blue Mountain(カフェ ブルーマウンテン)」に行ってきました",
+      "source": "https://osayama.com/gourmet/40094",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 78,
+      "name": "翠月庵",
+      "source": "https://osayama.com/gourmet/38689",
+      "address": "大阪狭山市大野台2丁目14−1",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 79,
+      "name": "翠陽",
+      "source": "https://osayama.com/gourmet/25833",
+      "address": "大阪狭山市茱萸木6丁目950−1",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 80,
+      "name": "Pain+",
+      "source": "https://osayama.com/gourmet/25435",
+      "address": "大阪狭山市狭山5丁目2258−1",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 81,
+      "name": "お茶屋「渚」 本格抹茶から抹茶のタピオカ・ティラミスも！",
+      "source": "https://osayama.com/gourmet/16300",
+      "address": "",
+      "decision": "closure-mentioned"
+    },
+    {
+      "group": "osayama",
+      "id": 82,
+      "name": "【餃子とドリンク以外、持ち込みOK！】超うす皮餃子専門店「ぎょうざ太郎」",
+      "source": "https://osayama.com/gourmet/15634",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 83,
+      "name": "【デザートも大人気】イタリア料理店「acerbo（アチェルボ）」",
+      "source": "https://osayama.com/gourmet/15370",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 84,
+      "name": "近大病院のすぐ近くにある「とんかつ鶴亀」にランチを食べに行ってきました！",
+      "source": "https://osayama.com/gourmet/7624",
+      "address": "",
+      "decision": "closure-mentioned"
+    },
+    {
+      "group": "osayama",
+      "id": 85,
+      "name": "【2022年8月5日】からあげ専門店「鶏笑(とりしょう) 大阪狭山店」が、今熊6丁目にオープンします",
+      "source": "https://osayama.com/gourmet/52250",
+      "address": "",
+      "decision": "closure-mentioned"
+    },
+    {
+      "group": "osayama",
+      "id": 86,
+      "name": "「Books & Coffee パルネット狭山店 」の、山盛りフワフワ♪「かき氷」をご紹介します",
+      "source": "https://osayama.com/gourmet/52192",
+      "address": "大阪狭山市茱萸木7丁目1175",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 87,
+      "name": "散歩途中に「びっくりドンキー 大阪狭山店」に行ってきました",
+      "source": "https://osayama.com/gourmet/52123",
+      "address": "大阪狭山市茱萸木4丁目372−1",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 88,
+      "name": "【大阪狭山市駅すぐ】スパイスカレーと酒とアテのお店「マハナ食堂」に行ってきました",
+      "source": "https://osayama.com/gourmet/51948",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 89,
+      "name": "「コメダ珈琲店 狭山池店」でモーニングしてきました",
+      "source": "https://osayama.com/gourmet/51405",
+      "address": "大阪狭山市池之原1丁目1279−2",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 90,
+      "name": "炭火焼鳥 千鳥",
+      "source": "https://osayama.com/gourmet/51310",
+      "address": "大阪狭山市金剛1丁目9−3",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 91,
+      "name": "グルメコーヒーの店「Mamekan(マメカン) 大阪狭山市金剛店」のモーニングをご紹介",
+      "source": "https://osayama.com/gourmet/51194",
+      "address": "大阪狭山市半田6丁目1190−3",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 92,
+      "name": "【うどん3玉まで同じ値段】釜揚げ讃岐うどん「香の川製麺（かのかわせいめん）」へ寄ってきました",
+      "source": "https://osayama.com/gourmet/51172",
+      "address": "大阪狭山市茱萸木4丁目326−1",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 93,
+      "name": "BLUE TREE FAVO",
+      "source": "https://osayama.com/gourmet/51064",
+      "address": "大阪狭山市半田6丁目1129−1 シティパレス狭山",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 94,
+      "name": "【半田6丁目】ひとつ上の焼肉食べ放題！「ワンカルビ 狭山店」",
+      "source": "https://osayama.com/gourmet/50980",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 95,
+      "name": "【310号線沿い】りんご飴「macca.m（まっかどっとえむ）」の移動販売に寄ってきました",
+      "source": "https://osayama.com/gourmet/50458",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 96,
+      "name": "マハナ食堂",
+      "source": "https://osayama.com/gourmet/50305",
+      "address": "大阪狭山市狭山5丁目2258−1",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 97,
+      "name": "喫茶TIME",
+      "source": "https://osayama.com/gourmet/50128",
+      "address": "大阪狭山市大野東2−2",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 98,
+      "name": "味音",
+      "source": "https://osayama.com/gourmet/49904",
+      "address": "大阪狭山市半田1丁目618−1",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 99,
+      "name": "デセール菓樹",
+      "source": "https://osayama.com/gourmet/49566",
+      "address": "大阪狭山市西山台3丁目13−8",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 100,
+      "name": "【東茱萸木４丁目】インドレストラン&バー「マハラクシュミー」でランチをしてきました",
+      "source": "https://osayama.com/gourmet/48383",
+      "address": "",
+      "decision": "closure-mentioned"
+    },
+    {
+      "group": "osayama",
+      "id": 101,
+      "name": "【ラーメン 麺大盛無料】ラーメン・ギョーザ「白馬童子 狭山池之原店」に行ってきました",
+      "source": "https://osayama.com/gourmet/48212",
+      "address": "大阪狭山市池之原1丁目939−1",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 102,
+      "name": "グルメ珈琲の店「Mamekan(マメカン) 大阪狭山市金剛店」で、モーニングを食べてきました",
+      "source": "https://osayama.com/gourmet/48080",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 103,
+      "name": "310号線沿い「とんかつ かつ喜 大阪狭山店」に行ってきました【ごはん・キャベツ・しじみ汁、お替り自由！】",
+      "source": "https://osayama.com/gourmet/47895",
+      "address": "大阪狭山市茱萸木4丁目304−1",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 104,
+      "name": "【寿司・和食】「がんこ 大阪狭山店」へランチを食べに行ってきました",
+      "source": "https://osayama.com/gourmet/47792",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 105,
+      "name": "【わらび餅と珈琲】和カフェ「小春や珈琲」に行ってきました",
+      "source": "https://osayama.com/gourmet/47684",
+      "address": "大阪狭山市茱萸木1丁目2701−4",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 106,
+      "name": "本場アメリカンバーガー♪「BIG BELLY MAN（ビッグベリーマン） 狭山店」に寄ってきました。",
+      "source": "https://osayama.com/gourmet/46995",
+      "address": "大阪狭山市茱萸木4丁目246−1",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 107,
+      "name": "【サクサク&ジューシー♪】おいしいカラ揚「紀州鶏 金剛店」でテイクアウトしました",
+      "source": "https://osayama.com/gourmet/46809",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 108,
+      "name": "おりが美",
+      "source": "https://osayama.com/gourmet/46739",
+      "address": "大阪狭山市半田1丁目622−1 ウエスティ金剛1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 109,
+      "name": "Red Re:born",
+      "source": "https://osayama.com/gourmet/45946",
+      "address": "大阪狭山市半田1丁目671−1",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 110,
+      "name": "【パフェ・おでん・牛串】キッチンカー「晴れときどきパフェMURA」を発見しました",
+      "source": "https://osayama.com/gourmet/46470",
+      "address": "大阪狭山市池之原2-1072-1",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 111,
+      "name": "ぽぷり",
+      "source": "https://osayama.com/gourmet/46323",
+      "address": "大阪狭山市今熊2丁目351",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 112,
+      "name": "【2021年11月24日】グルメ珈琲の店「Mamekan(マメカン) 大阪狭山市金剛店」がオープン",
+      "source": "https://osayama.com/gourmet/46294",
+      "address": "大阪狭山市半田6丁目1190−3",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 113,
+      "name": "麺や 四つ葉",
+      "source": "https://osayama.com/gourmet/45990",
+      "address": "大阪狭山市池之原2−1120−1",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 114,
+      "name": "【2021年10月1日オープン】SAYAKAホール4階「カフェレストランSAYAKA LIGHT HOUSE」のランチに行ってきました",
+      "source": "https://osayama.com/gourmet/45705",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 115,
+      "name": "【レトロな雰囲気】池之原3丁目「WELL’S CAFE（ウエルズ カフェ）」を散歩中に発見しました",
+      "source": "https://osayama.com/gourmet/45522",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 116,
+      "name": "時空間 くりや",
+      "source": "https://osayama.com/gourmet/45421",
+      "address": "大阪狭山市狭山3-2433-2",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 117,
+      "name": "【狭山池近く】オシャレな和カフェ「小春や珈琲」に行ってきました",
+      "source": "https://osayama.com/gourmet/45339",
+      "address": "大阪狭山市茱萸木1丁目2701−4",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 118,
+      "name": "Darcy",
+      "source": "https://osayama.com/gourmet/45271",
+      "address": "大阪狭山市金剛1丁目3−5 宮崎ビル1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 119,
+      "name": "こぶた製作所",
+      "source": "https://osayama.com/gourmet/45193",
+      "address": "大阪狭山市狭山5丁目2336−5",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 120,
+      "name": "【310号線沿い(池之原２丁目)】中華めん専門店「麺や 四つ葉」が2021年10月4日グランドオープン",
+      "source": "https://osayama.com/gourmet/44617",
+      "address": "大阪狭山市池之原2−1120−1",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 121,
+      "name": "「ピザハット狭山亀の甲店」でピザを注文しました",
+      "source": "https://osayama.com/gourmet/44477",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 122,
+      "name": "Spuntino",
+      "source": "https://osayama.com/gourmet/44390",
+      "address": "大阪狭山市狭山2丁目951",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 123,
+      "name": "【24時間無休営業】無人直売所「ふくちぁん餃子」を、麺屋ふくちぁん前に発見しました",
+      "source": "https://osayama.com/gourmet/43648",
+      "address": "大阪狭山市茱萸木1丁目155−1",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 124,
+      "name": "【2021年10月4日にオープン延期】茱萸木１丁目に、和カフェ「小春や珈琲（こはるやこーひー）」がオープン",
+      "source": "https://osayama.com/gourmet/43147",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 125,
+      "name": "大阪狭山市の夏といえば「大野ぶどう」",
+      "source": "https://osayama.com/gourmet/43000",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 126,
+      "name": "【2021年7月29日】とろとろわらび餅「わらび屋本舗 大阪狭山市駅前店」がグランドオープン",
+      "source": "https://osayama.com/gourmet/42955",
+      "address": "大阪狭山市狭山5丁目2258−5 遊園駅前ビル 1F",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 127,
+      "name": "【100%ビーフパティ！ハンバーガー】アメリカンポップカフェ「BIG BELLY MAN（ビッグベリーマン）」行ってきました",
+      "source": "https://osayama.com/gourmet/42873",
+      "address": "大阪狭山市茱萸木4丁目246−1",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 128,
+      "name": "アーセンウェア",
+      "source": "https://osayama.com/gourmet/42802",
+      "address": "大阪狭山市大野台3丁目4−4",
+      "decision": "provisional"
+    },
+    {
+      "group": "osayama",
+      "id": 129,
+      "name": "【お弁当も】肉・魚・野菜を使った鉄板焼「鉄板居酒屋まんぷく」",
+      "source": "https://osayama.com/gourmet/42435",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 130,
+      "name": "オンラインで注文！「Pizza Hut（ピザハット） 狭山亀の甲店」で、お持ち帰り（テイクアウト）しました",
+      "source": "https://osayama.com/gourmet/40774",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 131,
+      "name": "【半田6丁目】パンと珈琲の店「BLUE TREE FAVO（ブルーツリーファボ）」に行ってきました",
+      "source": "https://osayama.com/gourmet/42221",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 132,
+      "name": "【テイクアウト】狭山駅すぐ近くの和食料理「食堂やまだ」さんに散歩がてら行ってきました",
+      "source": "https://osayama.com/gourmet/41894",
+      "address": "大阪狭山市池尻自由丘1丁目3−21",
+      "decision": "hold"
+    },
+    {
+      "group": "osayama",
+      "id": 133,
+      "name": "【割引コードも掲載中！】大阪狭山市のUber Eats(ウーバーイーツ)利用方法と、料理を注文できるお店をまとめました",
+      "source": "https://osayama.com/gourmet/41562",
+      "address": "を設定した際に、配達可能店舗が表示されればご利用エリア内です。",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 134,
+      "name": "【ハンバーグ&ステーキ】亀の甲の交差点にある「ビッグボーイ 狭山店」のランチに行きました",
+      "source": "https://osayama.com/gourmet/41066",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "osayama",
+      "id": 135,
+      "name": "ハンバーグレストラン「びっくりドンキー 大阪狭山店」のランチに行ってきました",
+      "source": "https://osayama.com/gourmet/39711",
+      "address": "",
+      "decision": "address-unresolved"
+    }
+  ]
+}

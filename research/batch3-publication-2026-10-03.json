@@ -1,0 +1,55 @@
+{
+  "stats": {
+    "date": "2026-10-03",
+    "reviewed": 295,
+    "provisionalBeforeDedup": 94,
+    "added": 93,
+    "duplicates": 1,
+    "baseline": 695,
+    "total": 788
+  },
+  "duplicates": [
+    {
+      "name": "珈琲館　まつ川",
+      "existing": "珈琲館 まつ川",
+      "address": "藤井寺市岡1-15-21"
+    }
+  ],
+  "addressReview": [
+    {
+      "name": "沖寿司",
+      "other": "牛串焼 昭和屋",
+      "address": "泉大津市我孫子1-2-47 ホワイトビル1F"
+    },
+    {
+      "name": "庵逗珈琲",
+      "other": "喫茶オラシオン",
+      "address": "八尾市本町5丁目7-21"
+    },
+    {
+      "name": "テッパン食堂お多福",
+      "other": "Chic CAFFE",
+      "address": "藤井寺市藤井寺1-16-41"
+    },
+    {
+      "name": "空と月と",
+      "other": "Chic CAFFE",
+      "address": "藤井寺市藤井寺1-16-41"
+    },
+    {
+      "name": "空と月と",
+      "other": "テッパン食堂お多福",
+      "address": "藤井寺市藤井寺1-16-41"
+    },
+    {
+      "name": "And.R",
+      "other": "そば・うどん　山ふじ",
+      "address": "藤井寺市藤井寺1-16-30"
+    },
+    {
+      "name": "マハナ食堂",
+      "other": "Pain+",
+      "address": "大阪狭山市狭山5丁目2258−1"
+    }
+  ]
+}

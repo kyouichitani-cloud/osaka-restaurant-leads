@@ -2,7 +2,7 @@
 
 ## Scope and limits
 
-The site has **695 provisional S/A/B candidates**, not 68,521 verified prospects.
+The site has **788 provisional S/A/B candidates**, not 68,521 verified prospects.
 The separate **68,521 public-permit records** are a research universe. Website
 absence, independent ownership and current operation remain unverified. Both
 lists can overlap and must not be summed as a restaurant count.
@@ -74,6 +74,18 @@ Run `python3 research/review-batch2.py build`, then
 `node research/build-batch2.cjs` only against the pinned source snapshot.
 `node research/test-batch.cjs` protects the 476-record prior baseline;
 `node research/test-batch2.cjs` verifies the 695-record cumulative publication.
+
+The next October 3 pass inspected **295** individual source records: **159**
+directory profiles across seven municipalities and **136** Osaka-Sayama local
+articles. Ninety-four entries passed a conservative provisional screen; one
+matched an already-published Fujiidera shop, so **93 B candidates** were added,
+bringing the site to **788**. `review-batch3.py` pins decisions to exact source
+snapshots, `build-batch3.cjs` preserves all earlier batches and records the
+duplicate, and each published row links to its source. Osaka-Sayama's older
+articles and historical directory profiles are specifically marked for a
+current-operation and relocation recheck. The screening is not proof of absent
+websites, current business operation, independent ownership, or complete
+prefecture-wide coverage.
 
 `dist/additional.js` carries separately reviewed small-town sources. Each item
 states its evidence and uncertainty. Earlier hand-researched candidates stay in

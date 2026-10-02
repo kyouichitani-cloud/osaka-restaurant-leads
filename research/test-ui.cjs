@@ -11,7 +11,7 @@ const path=require('node:path');
   await page.waitForFunction(()=>document.getElementById('research-count').textContent.includes('68,521'));
   const total=await page.locator('#total-count').textContent();
   console.log(total);
-  assert.match(total,/695/);
+  assert.match(total,/788/);
   await page.locator('#municipality').selectOption('箕面市');
   assert.ok(Number((await page.locator('#region-count').textContent()).replace(/\D/g,''))>=98);
   await page.locator('#search').fill('喫茶るうぷ');await page.waitForTimeout(220);
