@@ -2,7 +2,7 @@
 
 ## Scope and limits
 
-The site has **153 provisional S/A/B candidates**, not 68,521 verified prospects.
+The site has **476 provisional S/A/B candidates**, not 68,521 verified prospects.
 The separate **68,521 public-permit records** are a research universe. Website
 absence, independent ownership and current operation remain unverified. Both
 lists can overlap and must not be summed as a restaurant count.
@@ -35,10 +35,27 @@ snapshot. Re-review changed source content; do not blindly carry decisions to a
 new ordering. `build-expanded.py` and `selected-b.txt` belong to the previous
 86-candidate workflow and must not regenerate the current site.
 
+The October 2 bulk update reviewed 662 directory/profile entries, provisionally
+selected 325 and removed two existing-list duplicates: **323 newly published B
+candidates**. This is directory-level review, not an individual web-wide search
+or proof of website absence/current operation. `batch-reviewed-2026-10-02.json`
+retains decisions and source links; `batch-publication-2026-10-02.json` records
+publication deduplication. Regional additions span 10 municipalities, with the
+largest new source in Higashiosaka; coverage is not geographically uniform.
+
+`collect-batch.py` and `collect-local-batch.py` collect cached public profile
+fields. `review-batch.py` holds pinned decisions for the exact 400 + 262 profile
+ordering; never apply it to reordered or changed source content without review.
+`node research/build-batch.cjs` exports the reviewed batch and keeps the old
+lists intact. `node research/test-batch.cjs` checks the published totals and
+deduplication boundaries. Raw profile descriptions remain ignored and are not
+published; only business facts and original source links are exported.
+
 `dist/additional.js` carries separately reviewed small-town sources. Each item
 states its evidence and uncertainty. Earlier hand-researched candidates stay in
-`dist/data.js`; the client merges duplicates by normalized name within region or
-the same shopping-directory URL. An unrelated namesake outside Osaka city is not
+`dist/data.js`; the client merges duplicates by normalized name within municipality
+or the same **individual** Osaka shopping-directory profile URL. A shared
+multi-shop directory URL never merges different businesses. An unrelated namesake outside Osaka city is not
 automatically excluded by the earlier 100-store list.
 
 Run `research/test-ui.cjs` with the bundled Playwright package and installed

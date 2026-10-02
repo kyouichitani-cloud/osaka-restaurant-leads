@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "date": "2026-10-02",
+    "reviewed": 662,
+    "provisionalBeforeDedup": 325,
+    "added": 323,
+    "duplicates": 2
+  },
+  "duplicateDecisions": [
+    {
+      "name": "旬菜酒処 喜八",
+      "duplicate": "旬菜酒処 喜八",
+      "address": "堺市堺区竜神橋町1-1-11"
+    },
+    {
+      "name": "海鮮和風居酒屋 義経",
+      "duplicate": "海鮮和風居酒屋義経",
+      "address": "堺市堺区栄橋町1-10-1 ショップ南海堺"
+    }
+  ]
+}

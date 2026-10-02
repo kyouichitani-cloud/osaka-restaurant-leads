@@ -11,7 +11,7 @@ const regionForCity=city=>Object.keys(geography).find(k=>geography[k].includes(c
 const rawLeads=Object.entries(regions).flatMap(([region,r])=>r.items.map(x=>({...x,region,municipality:x.municipality||cities.find(c=>x.city.startsWith(c)),checkedAt:x.checkedAt||'2026-10-01'}))).concat(window.ADDITIONAL.map(x=>({...x,region:regionForCity(x.municipality)})));
 const leads=[];
 for(const item of rawLeads){
-  const duplicate=leads.find(x=>x.region===item.region&&(normalize(x.name)===normalize(item.name)||x.sources.some(a=>item.sources.some(b=>new URL(a[1]).host===new URL(b[1]).host&&sourceKey(a[1])===sourceKey(b[1])&&a[1].includes('/shop/')))));
+  const duplicate=leads.find(x=>x.municipality===item.municipality&&(normalize(x.name)===normalize(item.name)||x.sources.some(a=>item.sources.some(b=>new URL(a[1]).host===new URL(b[1]).host&&sourceKey(a[1])===sourceKey(b[1])&&/^https?:\/\/osaka-shotengai-info\.com\/shop\/[^/]+\/?$/.test(a[1])))));
   if(duplicate){duplicate.address=duplicate.address||item.address;duplicate.sources=[...new Map([...duplicate.sources,...item.sources].map(s=>[s[1],s])).values()];}
   else leads.push(item);
 }
