@@ -1,8 +1,8 @@
-# 大阪府全域の飲食店調査（2026-10-02）
+# 大阪府全域の飲食店調査（最終追加 2026-10-03）
 
 ## Scope and limits
 
-The site has **476 provisional S/A/B candidates**, not 68,521 verified prospects.
+The site has **695 provisional S/A/B candidates**, not 68,521 verified prospects.
 The separate **68,521 public-permit records** are a research universe. Website
 absence, independent ownership and current operation remain unverified. Both
 lists can overlap and must not be summed as a restaurant count.
@@ -50,6 +50,30 @@ ordering; never apply it to reordered or changed source content without review.
 lists intact. `node research/test-batch.cjs` checks the published totals and
 deduplication boundaries. Raw profile descriptions remain ignored and are not
 published; only business facts and original source links are exported.
+
+The next manual pass inspected **584** profiles across seven municipalities and
+selected 223 provisional leads. After four existing-list duplicates (including
+the accented-name/building-suffix variant for Biasa), **219 B leads** were added
+on October 3. The previous 476 records are retained. `collect-batch2.py` follows
+observed pagination to exhaustion without a numerical cap; `review-batch2.py`
+pins reviewed decisions against the October 2 source snapshot. The site's
+October 3 date records review/publication, not a claim that each source changed
+that day. Minoh ticket profiles are historical **2024** records, explicitly
+flagged for operation and relocation re-checks on every candidate.
+
+`collect-batch2-crosscheck.py` compares newer Minoh association links and the
+previous Osaka shopping-directory research. Known site links, chains, explicit
+closures, unresolved same-premises identities and incomplete addresses are held.
+This is still a provisional screen, not universal independent-ownership or
+web-wide website-absence verification. `batch2-reviewed-2026-10-03.json` stores
+all decisions; `batch2-publication-2026-10-03.json` stores final deduplication.
+Remaining same-address pairs are different listed businesses in a market,
+shopping centre or building, not a basis to collapse them into one business.
+
+Run `python3 research/review-batch2.py build`, then
+`node research/build-batch2.cjs` only against the pinned source snapshot.
+`node research/test-batch.cjs` protects the 476-record prior baseline;
+`node research/test-batch2.cjs` verifies the 695-record cumulative publication.
 
 `dist/additional.js` carries separately reviewed small-town sources. Each item
 states its evidence and uncertainty. Earlier hand-researched candidates stay in

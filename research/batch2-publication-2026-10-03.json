@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "date": "2026-10-03",
+    "reviewed": 584,
+    "provisionalBeforeDedup": 223,
+    "added": 219,
+    "duplicates": 4,
+    "baseline": 476,
+    "total": 695
+  },
+  "duplicates": [
+    {
+      "name": "タシモリカレー",
+      "duplicate": "タシモリカレー",
+      "address": "茨木市西駅前町4 茨木駅前ビル 茨木ショップタウン B1F"
+    },
+    {
+      "name": "としまさ２１４",
+      "duplicate": "としまさ214",
+      "address": "豊中市中桜塚2-27-8 ショッピングセンター1F"
+    },
+    {
+      "name": "Biasa café",
+      "duplicate": "Biasa café and asian button",
+      "address": "豊中市中桜塚2−27−8 桜塚ショッピングセンター1F"
+    },
+    {
+      "name": "土手嘉",
+      "duplicate": "土手嘉",
+      "address": "豊中市岡町8−16"
+    }
+  ],
+  "addressReview": [
+    {
+      "name": "酒肴家 いち凜",
+      "other": "Biasa café and asian button",
+      "address": "豊中市中桜塚2-27-8"
+    },
+    {
+      "name": "酒肴家 いち凜",
+      "other": "としまさ214",
+      "address": "豊中市中桜塚2-27-8"
+    },
+    {
+      "name": "茂里鮨",
+      "other": "味園",
+      "address": "箕面市箕面5-13-49"
+    },
+    {
+      "name": "menu",
+      "other": "瞑茶茶房 千露利",
+      "address": "箕面市桜井2-10-5 阪急桜井市場内"
+    },
+    {
+      "name": "キッチンあさちゃん",
+      "other": "食彩 さざん",
+      "address": "箕面市西小路4-4-33"
+    }
+  ]
+}
