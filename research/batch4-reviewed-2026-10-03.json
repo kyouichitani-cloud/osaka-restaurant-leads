@@ -1,0 +1,2446 @@
+{
+  "date": "2026-10-03",
+  "reviewed": 134,
+  "snapshotFingerprint": "156b932801aa396f9bf0d4574b8430577434ef7a4d7847be7dc3c33c254ca9a7",
+  "reviewLevel": "individual directory profiles; no web-wide HP/current-operation verification",
+  "accepted": [
+    {
+      "name": "Pasta Vamos",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市西之山町12-8",
+      "type": "イタリアン",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5341"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/pastavamos"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "BRIO Burger & Bicycle",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市高向 977-2",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5112"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/brio_burger_bicycle/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "モアザンユー",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市本町 24-1-317 ノバティ北館3階",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5048"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/morethanyou1968/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "オルタンシア パティスリー&カフェ",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市木戸西町1丁目1−35 司ビル1F",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/4895"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/hortensia_patisserie_cafe/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "チャイニーズキッチン 匠",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市菊水町1−3",
+      "type": "食事・惣菜",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5580"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/takumichinesekitchen/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "阿修羅窟",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市寺元499",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/2937"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "カフェ&レストラン 歩絵夢",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市岩瀬1115-1",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/2206"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/chihayaguchipoemu/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "茶房郷",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市鳩原1310",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/2186"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "山川草膳 久右衛門",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市天見346",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/2962"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/q_emon23321/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "離れcafé a little bridge",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市向野町1",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/4398"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/a_little_bridge/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "麺坊 蕎麦博",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市南貴望ケ丘1-19",
+      "type": "麺類",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/2945"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "La Cerise(ラ・スリーズ)",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市大矢船南町17-6",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/2222"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/lacerise87/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "菓子工房ナボット",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市錦町25-4 (南海バス車庫隣り)",
+      "type": "菓子・スイーツ",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/2274"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/nabote2004/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "くらしの雑貨・珈琲 kurotobi",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市上田町9-7",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/4331"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/kurotobi___/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "和菓子 千慕里庵",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市昭栄町1-29",
+      "type": "菓子・スイーツ",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/2265"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "パティスリーカフェ BANFF（バンフ）",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市原町4-10-1",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/6016"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/patisserie.cafe_banff/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "新鮮食材とお酒の居酒屋 秀平．406",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市本町29-26",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5957"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "花鶏堂（あとりどう）",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市楠町東1602-1 辻上ビル1階",
+      "type": "鶏料理",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5900"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/atoridou/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Goodクマイル",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市向野町511",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5847"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/goodkumairu/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Plumage（プルマージュ）",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市美加の台5丁目6-11",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5824"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/plumage.2015/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "grasshop（グラスホップ）",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市西代町11-21 角谷ビル 103",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5798"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/grasshop_cafe/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "珈琲とドーナツ bochibochi",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市木戸1丁目6−1",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5776"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/bochi.bochi.2025/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "BENTO SHOP moguuu（モグー）",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市木戸西町3-1-10 小坂ビル1B",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5753"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/moguuu.mogmog/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Bento Café なないろ",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市本町9-15 河内長野商店街 -まちの喫茶店- LIVING+ リビングプラス内",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5733"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/bento_cafe_nanairo/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "うたこ【惣菜テイクアウト専門店/餃子屋】",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市上田町103-1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5661"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/u_ta_ko117/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "中華バル間（アイダ）",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市木戸西町2丁目8-1-106",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5623"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/aida_scheming/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "米粉シフォンケーキしましま",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市北青葉台38−25",
+      "type": "菓子・スイーツ",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5471"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/shima_chiffon/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ベイクハウス キギ",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市楠ヶ丘26-7",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5441"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "パティスリーノグチ",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市西之山町11-13-103",
+      "type": "菓子・スイーツ",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5417"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/patisseri.noguchi/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "喫茶グランドママ",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市高向514-6",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5408"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/goldenveg_grandmama/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "LEGACE coffee",
+      "city": "河内長野市",
+      "municipality": "河内長野市",
+      "address": "河内長野市木戸3丁目2-17",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "河内長野市観光ナビの食べる・店舗紹介",
+          "https://kankou-kawachinagano.jp/spot/5350"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/legace_coffee/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "焼肉一心",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市南恵我之荘4丁目5−18",
+      "type": "焼肉",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/254/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/isshin029/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "我流焼肉 宗左ヱ門",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市大黒310",
+      "type": "焼肉",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/259/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/souzaemon_habikino/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "焼肉炭火焼やわらぎ",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市白鳥3丁目1−1",
+      "type": "焼肉",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/263/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://twitter.com/ok_habikino"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "焼肉 甲子園",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市西浦1242−1",
+      "type": "焼肉",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/266/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/yakiniku_koshien"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "焼肉いやさか",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市栄町4-6",
+      "type": "焼肉",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/281/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/iyasaka0214/?hl=ja"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "cot BAGEL STAND",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市古市4-5-3",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/28/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://twitter.com/ok_habikino"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "レストラン大阪屋",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市羽曳が丘4-3-14",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/182/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://twitter.com/ok_habikino"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "喫茶レストラン ガロ",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市古市1-4",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/176/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://twitter.com/ok_habikino"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "和洋折衷料理 エイトバース",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市川向182",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/16/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://twitter.com/ok_habikino"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "味喰笑（びっぐじょう）",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市誉田3-23-17",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/61/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://twitter.com/ok_habikino"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "セラヴィ（いちぢくの花）",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市誉田3-15-30 石橋ビルB1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/64/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://twitter.com/ok_habikino"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "DELI&DINING PEKOHOUSE",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市高鷲8丁目46-24",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/163/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://instagram.com/pekomama375?igshid=YmMyMTA2M2Y="
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "日本料理 まさゆめさかゆめ",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市栄町5-7 栄ビル2階",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/135/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://twitter.com/ok_habikino"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "魚源",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市古市4-4-29",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/179/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://twitter.com/ok_habikino"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "喫茶セビリア",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市翠鳥園405-1",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/172/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://twitter.com/ok_habikino"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "美吉乃",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市恵我之荘1-4-1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/218/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/miyoshino_since_1957/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "鴨料理×蕎麦 白鳥",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市白鳥3-1-1",
+      "type": "麺類",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/58/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://twitter.com/ok_habikino"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "西洋食倶楽部 紅茶屋 カン月",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市はびきの4-14-15",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/185/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/kangetsu1963/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "BEACH -CAFE REST-（ビーチ カフェレスト）",
+      "city": "羽曳野市",
+      "municipality": "羽曳野市",
+      "address": "羽曳野市羽曳が丘西3-5-36",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "大阪はびきの観光局の食べる・店舗紹介",
+          "https://ok-habikino.jp/spot/233/"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://twitter.com/ok_habikino"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "MAHALO Cafe",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市下出720-5 オークワわくわくCITY敷地内わくわくアベニュー2F",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=150&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "焼き鳥かじ平",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市鳥取430-1",
+      "type": "鶏料理",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=149&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "SHAKA SHAKA Cafe & Kitchen Ber",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市尾崎町2-6-1",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=139&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "寿司割烹みやもと",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市尾崎町127-7",
+      "type": "寿司",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=71&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "野菜巻き串バル ぽっぽ",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市下出605-1",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=97&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "プチボヌール",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市箱作230",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=100&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "炭火焼肉 煙八",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市尾崎町1-1-7",
+      "type": "焼肉",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=101&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ファースト トレイン",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市石田283-1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=91&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ベーカーズウーベ",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市新町77-5",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=94&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "阪南洋風食堂 クゥクゥ",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市自然田820-2",
+      "type": "食事・惣菜",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=88&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "中華料理 清華園",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市石田185-1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=90&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "和歌山の中華そば泉善（せんよし）",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市自然田834-7",
+      "type": "麺類",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=89&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "インド・ネパール料理 サパナ",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市鳥取150-1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=72&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "割烹いとう",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市鳥取中489-3",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=78&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "割烹 大規鮨し",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市鳥取中11",
+      "type": "寿司",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=68&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "新生寿司",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市鳥取中159-4",
+      "type": "寿司",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=65&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "イルピアット",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市自然田820-2",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=41&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "お食事処 西村",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市下出781-14",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=39&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "漁師の家めし 英進丸 名倉",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市鳥取701-9",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=36&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "魚ダイニング光",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市自然田820-2",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=27&archive=3"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/sakana.dining.hikari/?ref=nf"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "中国料理やぐら",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市光陽台1-16-12",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "阪南市観光協会の食べる・店舗紹介",
+          "https://www.hannan-tb.jp/spot/detail.php?pkId=92&archive=3"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "林宝泉堂（たこぼうずもなか）",
+      "city": "貝塚市",
+      "municipality": "貝塚市",
+      "address": "貝塚市海塚1丁目6-16",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。市の掲載時期が古い可能性があり、営業継続・移転の再確認が必要。",
+      "sources": [
+        [
+          "貝塚市の食・買・店舗紹介",
+          "https://www.city.kaizuka.lg.jp/kanko/gurume/shoku_kau/hayashihosendo.html"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "井上甘納豆製菓（さとこの店）",
+      "city": "貝塚市",
+      "municipality": "貝塚市",
+      "address": "貝塚市澤1253",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。市の掲載時期が古い可能性があり、営業継続・移転の再確認が必要。",
+      "sources": [
+        [
+          "貝塚市の食・買・店舗紹介",
+          "https://www.city.kaizuka.lg.jp/kanko/gurume/shoku_kau/amanatto.html"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "茶房一会",
+      "city": "貝塚市",
+      "municipality": "貝塚市",
+      "address": "貝塚市水間615",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "自治体・観光団体の個別紹介で店名・所在地を確認した追加調査用のB候補。紹介ページから独自HPへの案内は確認できませんが、HPの不存在・現在営業・独立経営は未確認。市の掲載時期が古い可能性があり、営業継続・移転の再確認が必要。",
+      "sources": [
+        [
+          "貝塚市の食・買・店舗紹介",
+          "https://www.city.kaizuka.lg.jp/kanko/gurume/shoku_kau/saboichie.html"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    }
+  ],
+  "decisions": [
+    {
+      "id": 0,
+      "group": "kawachinagano",
+      "name": "Pasta Vamos",
+      "source": "https://kankou-kawachinagano.jp/spot/5341",
+      "address": "河内長野市西之山町12-8",
+      "decision": "provisional"
+    },
+    {
+      "id": 1,
+      "group": "kawachinagano",
+      "name": "TIME WILL",
+      "source": "https://kankou-kawachinagano.jp/spot/5130",
+      "address": "河内長野市加賀田264-2",
+      "decision": "hold"
+    },
+    {
+      "id": 2,
+      "group": "kawachinagano",
+      "name": "BRIO Burger & Bicycle",
+      "source": "https://kankou-kawachinagano.jp/spot/5112",
+      "address": "河内長野市高向 977-2",
+      "decision": "provisional"
+    },
+    {
+      "id": 3,
+      "group": "kawachinagano",
+      "name": "モアザンユー",
+      "source": "https://kankou-kawachinagano.jp/spot/5048",
+      "address": "河内長野市本町 24-1-317 ノバティ北館3階",
+      "decision": "provisional"
+    },
+    {
+      "id": 4,
+      "group": "kawachinagano",
+      "name": "オルタンシア パティスリー&カフェ",
+      "source": "https://kankou-kawachinagano.jp/spot/4895",
+      "address": "河内長野市木戸西町1丁目1−35 司ビル1F",
+      "decision": "provisional"
+    },
+    {
+      "id": 5,
+      "group": "kawachinagano",
+      "name": "チャイニーズキッチン 匠",
+      "source": "https://kankou-kawachinagano.jp/spot/5580",
+      "address": "河内長野市菊水町1−3",
+      "decision": "provisional"
+    },
+    {
+      "id": 6,
+      "group": "kawachinagano",
+      "name": "ACTWITH -BICYCLE and PIZZA-",
+      "source": "https://kankou-kawachinagano.jp/spot/2838",
+      "address": "河内長野市本町5-10",
+      "decision": "hold"
+    },
+    {
+      "id": 7,
+      "group": "kawachinagano",
+      "name": "阿修羅窟",
+      "source": "https://kankou-kawachinagano.jp/spot/2937",
+      "address": "河内長野市寺元499",
+      "decision": "provisional"
+    },
+    {
+      "id": 8,
+      "group": "kawachinagano",
+      "name": "インド料理「モダカ」",
+      "source": "https://kankou-kawachinagano.jp/spot/2191",
+      "address": "河内長野市小塩町136-1",
+      "decision": "hold"
+    },
+    {
+      "id": 9,
+      "group": "kawachinagano",
+      "name": "大阪産料理 天空",
+      "source": "https://kankou-kawachinagano.jp/spot/4185",
+      "address": "河内長野市長野町13-11",
+      "decision": "hold"
+    },
+    {
+      "id": 10,
+      "group": "kawachinagano",
+      "name": "カフェ&レストラン 歩絵夢",
+      "source": "https://kankou-kawachinagano.jp/spot/2206",
+      "address": "河内長野市岩瀬1115-1",
+      "decision": "provisional"
+    },
+    {
+      "id": 11,
+      "group": "kawachinagano",
+      "name": "喫茶＆グリル 魚籠里（びくり）",
+      "source": "https://kankou-kawachinagano.jp/spot/4152",
+      "address": "河内長野市北青葉台41-3",
+      "decision": "hold"
+    },
+    {
+      "id": 12,
+      "group": "kawachinagano",
+      "name": "グルメハウスPsyche（プシューケ）",
+      "source": "https://kankou-kawachinagano.jp/spot/2165",
+      "address": "河内長野市楠町東1651-1 千代田ビル1F 南海千代田西友前",
+      "decision": "hold"
+    },
+    {
+      "id": 13,
+      "group": "kawachinagano",
+      "name": "茶房郷",
+      "source": "https://kankou-kawachinagano.jp/spot/2186",
+      "address": "河内長野市鳩原1310",
+      "decision": "provisional"
+    },
+    {
+      "id": 14,
+      "group": "kawachinagano",
+      "name": "山川草膳 久右衛門",
+      "source": "https://kankou-kawachinagano.jp/spot/2962",
+      "address": "河内長野市天見346",
+      "decision": "provisional"
+    },
+    {
+      "id": 15,
+      "group": "kawachinagano",
+      "name": "創作精進料理 観心寺 KU-RI",
+      "source": "https://kankou-kawachinagano.jp/spot/2929",
+      "address": "河内長野市寺元475",
+      "decision": "hold"
+    },
+    {
+      "id": 16,
+      "group": "kawachinagano",
+      "name": "離れcafé a little bridge",
+      "source": "https://kankou-kawachinagano.jp/spot/4398",
+      "address": "河内長野市向野町1",
+      "decision": "provisional"
+    },
+    {
+      "id": 17,
+      "group": "kawachinagano",
+      "name": "BALI COFFEE",
+      "source": "https://kankou-kawachinagano.jp/spot/2835",
+      "address": "河内長野市長野町6-14",
+      "decision": "hold"
+    },
+    {
+      "id": 18,
+      "group": "kawachinagano",
+      "name": "百年邑",
+      "source": "https://kankou-kawachinagano.jp/spot/2901",
+      "address": "河内長野市市町379",
+      "decision": "hold"
+    },
+    {
+      "id": 19,
+      "group": "kawachinagano",
+      "name": "fruits shop TSURUZAWA",
+      "source": "https://kankou-kawachinagano.jp/spot/2970",
+      "address": "河内長野市本町24-1 ノバティながの北館1階",
+      "decision": "hold"
+    },
+    {
+      "id": 20,
+      "group": "kawachinagano",
+      "name": "麺坊 蕎麦博",
+      "source": "https://kankou-kawachinagano.jp/spot/2945",
+      "address": "河内長野市南貴望ケ丘1-19",
+      "decision": "provisional"
+    },
+    {
+      "id": 21,
+      "group": "kawachinagano",
+      "name": "洋食のおとぎ屋",
+      "source": "https://kankou-kawachinagano.jp/spot/2953",
+      "address": "河内長野市寺元257",
+      "decision": "hold"
+    },
+    {
+      "id": 22,
+      "group": "kawachinagano",
+      "name": "La Cerise(ラ・スリーズ)",
+      "source": "https://kankou-kawachinagano.jp/spot/2222",
+      "address": "河内長野市大矢船南町17-6",
+      "decision": "provisional"
+    },
+    {
+      "id": 23,
+      "group": "kawachinagano",
+      "name": "御菓子司「友井堂」",
+      "source": "https://kankou-kawachinagano.jp/spot/2257",
+      "address": "本店:河内長野市本町29番22号 支店:南海電鉄 河内長野駅2F",
+      "decision": "address-unresolved"
+    },
+    {
+      "id": 24,
+      "group": "kawachinagano",
+      "name": "菓子工房ナボット",
+      "source": "https://kankou-kawachinagano.jp/spot/2274",
+      "address": "河内長野市錦町25-4 (南海バス車庫隣り)",
+      "decision": "provisional"
+    },
+    {
+      "id": 25,
+      "group": "kawachinagano",
+      "name": "行者湧水直売所",
+      "source": "https://kankou-kawachinagano.jp/spot/1782",
+      "address": "河内長野市石見川8-2",
+      "decision": "hold"
+    },
+    {
+      "id": 26,
+      "group": "kawachinagano",
+      "name": "くらしの雑貨・珈琲 kurotobi",
+      "source": "https://kankou-kawachinagano.jp/spot/4331",
+      "address": "河内長野市上田町9-7",
+      "decision": "provisional"
+    },
+    {
+      "id": 27,
+      "group": "kawachinagano",
+      "name": "玄米屋の玄さん",
+      "source": "https://kankou-kawachinagano.jp/spot/2285",
+      "address": "本店:河内長野市西之山町20-11 アーバンハイツ103号 千代田店:河内長野市木戸西町2-1-20 千代田ショッピングセンター1階",
+      "decision": "address-unresolved"
+    },
+    {
+      "id": 28,
+      "group": "kawachinagano",
+      "name": "田中ぶどう園",
+      "source": "https://kankou-kawachinagano.jp/spot/2301",
+      "address": "河内長野市天野町613",
+      "decision": "hold"
+    },
+    {
+      "id": 29,
+      "group": "kawachinagano",
+      "name": "中谷農園",
+      "source": "https://kankou-kawachinagano.jp/spot/2292",
+      "address": "河内長野市小山田町2302-2",
+      "decision": "hold"
+    },
+    {
+      "id": 30,
+      "group": "kawachinagano",
+      "name": "豆の蔵元",
+      "source": "https://kankou-kawachinagano.jp/spot/2249",
+      "address": "河内長野市小塩町76-6",
+      "decision": "hold"
+    },
+    {
+      "id": 31,
+      "group": "kawachinagano",
+      "name": "道の駅 奥河内くろまろの郷",
+      "source": "https://kankou-kawachinagano.jp/spot/1243",
+      "address": "河内長野市高向1218-1",
+      "decision": "hold"
+    },
+    {
+      "id": 32,
+      "group": "kawachinagano",
+      "name": "和菓子 千慕里庵",
+      "source": "https://kankou-kawachinagano.jp/spot/2265",
+      "address": "河内長野市昭栄町1-29",
+      "decision": "provisional"
+    },
+    {
+      "id": 33,
+      "group": "kawachinagano",
+      "name": "パティスリーカフェ BANFF（バンフ）",
+      "source": "https://kankou-kawachinagano.jp/spot/6016",
+      "address": "河内長野市原町4-10-1",
+      "decision": "provisional"
+    },
+    {
+      "id": 34,
+      "group": "kawachinagano",
+      "name": "新鮮食材とお酒の居酒屋 秀平．406",
+      "source": "https://kankou-kawachinagano.jp/spot/5957",
+      "address": "河内長野市本町29-26",
+      "decision": "provisional"
+    },
+    {
+      "id": 35,
+      "group": "kawachinagano",
+      "name": "花鶏堂（あとりどう）",
+      "source": "https://kankou-kawachinagano.jp/spot/5900",
+      "address": "河内長野市楠町東1602-1 辻上ビル1階",
+      "decision": "provisional"
+    },
+    {
+      "id": 36,
+      "group": "kawachinagano",
+      "name": "Goodクマイル",
+      "source": "https://kankou-kawachinagano.jp/spot/5847",
+      "address": "河内長野市向野町511",
+      "decision": "provisional"
+    },
+    {
+      "id": 37,
+      "group": "kawachinagano",
+      "name": "Plumage（プルマージュ）",
+      "source": "https://kankou-kawachinagano.jp/spot/5824",
+      "address": "河内長野市美加の台5丁目6-11",
+      "decision": "provisional"
+    },
+    {
+      "id": 38,
+      "group": "kawachinagano",
+      "name": "grasshop（グラスホップ）",
+      "source": "https://kankou-kawachinagano.jp/spot/5798",
+      "address": "河内長野市西代町11-21 角谷ビル 103",
+      "decision": "provisional"
+    },
+    {
+      "id": 39,
+      "group": "kawachinagano",
+      "name": "珈琲とドーナツ bochibochi",
+      "source": "https://kankou-kawachinagano.jp/spot/5776",
+      "address": "河内長野市木戸1丁目6−1",
+      "decision": "provisional"
+    },
+    {
+      "id": 40,
+      "group": "kawachinagano",
+      "name": "BENTO SHOP moguuu（モグー）",
+      "source": "https://kankou-kawachinagano.jp/spot/5753",
+      "address": "河内長野市木戸西町3-1-10 小坂ビル1B",
+      "decision": "provisional"
+    },
+    {
+      "id": 41,
+      "group": "kawachinagano",
+      "name": "Bento Café なないろ",
+      "source": "https://kankou-kawachinagano.jp/spot/5733",
+      "address": "河内長野市本町9-15 河内長野商店街 -まちの喫茶店- LIVING+ リビングプラス内",
+      "decision": "provisional"
+    },
+    {
+      "id": 42,
+      "group": "kawachinagano",
+      "name": "菊水桐石",
+      "source": "https://kankou-kawachinagano.jp/spot/5689",
+      "address": "河内長野市寺元493-4",
+      "decision": "hold"
+    },
+    {
+      "id": 43,
+      "group": "kawachinagano",
+      "name": "うたこ【惣菜テイクアウト専門店/餃子屋】",
+      "source": "https://kankou-kawachinagano.jp/spot/5661",
+      "address": "河内長野市上田町103-1",
+      "decision": "provisional"
+    },
+    {
+      "id": 44,
+      "group": "kawachinagano",
+      "name": "中華バル間（アイダ）",
+      "source": "https://kankou-kawachinagano.jp/spot/5623",
+      "address": "河内長野市木戸西町2丁目8-1-106",
+      "decision": "provisional"
+    },
+    {
+      "id": 45,
+      "group": "kawachinagano",
+      "name": "cafe kiki",
+      "source": "https://kankou-kawachinagano.jp/spot/5561",
+      "address": "河内長野市高向1079-1",
+      "decision": "hold"
+    },
+    {
+      "id": 46,
+      "group": "kawachinagano",
+      "name": "cafe Villanda（カフェ ヴィランダ）",
+      "source": "https://kankou-kawachinagano.jp/spot/5554",
+      "address": "河内長野市南花台2-12-10",
+      "decision": "hold"
+    },
+    {
+      "id": 47,
+      "group": "kawachinagano",
+      "name": "手打そば 半田家",
+      "source": "https://kankou-kawachinagano.jp/spot/5548",
+      "address": "河内長野市昭栄町3-32",
+      "decision": "hold"
+    },
+    {
+      "id": 48,
+      "group": "kawachinagano",
+      "name": "米粉シフォンケーキしましま",
+      "source": "https://kankou-kawachinagano.jp/spot/5471",
+      "address": "河内長野市北青葉台38−25",
+      "decision": "provisional"
+    },
+    {
+      "id": 49,
+      "group": "kawachinagano",
+      "name": "ベイクハウス キギ",
+      "source": "https://kankou-kawachinagano.jp/spot/5441",
+      "address": "河内長野市楠ヶ丘26-7",
+      "decision": "provisional"
+    },
+    {
+      "id": 50,
+      "group": "kawachinagano",
+      "name": "パティスリーノグチ",
+      "source": "https://kankou-kawachinagano.jp/spot/5417",
+      "address": "河内長野市西之山町11-13-103",
+      "decision": "provisional"
+    },
+    {
+      "id": 51,
+      "group": "kawachinagano",
+      "name": "喫茶グランドママ",
+      "source": "https://kankou-kawachinagano.jp/spot/5408",
+      "address": "河内長野市高向514-6",
+      "decision": "provisional"
+    },
+    {
+      "id": 52,
+      "group": "kawachinagano",
+      "name": "LEGACE coffee",
+      "source": "https://kankou-kawachinagano.jp/spot/5350",
+      "address": "河内長野市木戸3丁目2-17",
+      "decision": "provisional"
+    },
+    {
+      "id": 53,
+      "group": "habikino",
+      "name": "焼肉一心",
+      "source": "https://ok-habikino.jp/spot/254/",
+      "address": "羽曳野市南恵我之荘4丁目5−18",
+      "decision": "provisional"
+    },
+    {
+      "id": 54,
+      "group": "habikino",
+      "name": "焼肉牛王 羽曳野本店",
+      "source": "https://ok-habikino.jp/spot/131/",
+      "address": "羽曳野市野々上4-1-9",
+      "decision": "hold"
+    },
+    {
+      "id": 55,
+      "group": "habikino",
+      "name": "我流焼肉 宗左ヱ門",
+      "source": "https://ok-habikino.jp/spot/259/",
+      "address": "羽曳野市大黒310",
+      "decision": "provisional"
+    },
+    {
+      "id": 56,
+      "group": "habikino",
+      "name": "焼肉炭火焼やわらぎ",
+      "source": "https://ok-habikino.jp/spot/263/",
+      "address": "羽曳野市白鳥3丁目1−1",
+      "decision": "provisional"
+    },
+    {
+      "id": 57,
+      "group": "habikino",
+      "name": "焼肉 甲子園",
+      "source": "https://ok-habikino.jp/spot/266/",
+      "address": "羽曳野市西浦1242−1",
+      "decision": "provisional"
+    },
+    {
+      "id": 58,
+      "group": "habikino",
+      "name": "焼肉いやさか",
+      "source": "https://ok-habikino.jp/spot/281/",
+      "address": "羽曳野市栄町4-6",
+      "decision": "provisional"
+    },
+    {
+      "id": 59,
+      "group": "habikino",
+      "name": "焼肉こじま 羽曳野本店",
+      "source": "https://ok-habikino.jp/spot/273/",
+      "address": "羽曳野市野353-1",
+      "decision": "hold"
+    },
+    {
+      "id": 60,
+      "group": "habikino",
+      "name": "MAISON INCO",
+      "source": "https://ok-habikino.jp/spot/37/",
+      "address": "羽曳野市栄町9-10-102",
+      "decision": "hold"
+    },
+    {
+      "id": 61,
+      "group": "habikino",
+      "name": "cot BAGEL STAND",
+      "source": "https://ok-habikino.jp/spot/28/",
+      "address": "羽曳野市古市4-5-3",
+      "decision": "provisional"
+    },
+    {
+      "id": 62,
+      "group": "habikino",
+      "name": "たらいうどん 㐂多八（きたはち） 羽曳野本店",
+      "source": "https://ok-habikino.jp/spot/227/",
+      "address": "羽曳野市伊賀4-13-11",
+      "decision": "hold"
+    },
+    {
+      "id": 63,
+      "group": "habikino",
+      "name": "フラワー 竹内街道軽里店",
+      "source": "https://ok-habikino.jp/spot/46/",
+      "address": "羽曳野市軽里2-73-1",
+      "decision": "hold"
+    },
+    {
+      "id": 64,
+      "group": "habikino",
+      "name": "レストラン大阪屋",
+      "source": "https://ok-habikino.jp/spot/182/",
+      "address": "羽曳野市羽曳が丘4-3-14",
+      "decision": "provisional"
+    },
+    {
+      "id": 65,
+      "group": "habikino",
+      "name": "道の駅 しらとりの郷・羽曳野",
+      "source": "https://ok-habikino.jp/spot/25/",
+      "address": "羽曳野市埴生野975-3",
+      "decision": "hold"
+    },
+    {
+      "id": 66,
+      "group": "habikino",
+      "name": "河内ワイン",
+      "source": "https://ok-habikino.jp/spot/19/",
+      "address": "羽曳野市駒ヶ谷1027",
+      "decision": "hold"
+    },
+    {
+      "id": 67,
+      "group": "habikino",
+      "name": "飛鳥ワイン",
+      "source": "https://ok-habikino.jp/spot/22/",
+      "address": "羽曳野市飛鳥1104",
+      "decision": "hold"
+    },
+    {
+      "id": 68,
+      "group": "habikino",
+      "name": "喫茶レストラン ガロ",
+      "source": "https://ok-habikino.jp/spot/176/",
+      "address": "羽曳野市古市1-4",
+      "decision": "provisional"
+    },
+    {
+      "id": 69,
+      "group": "habikino",
+      "name": "和洋折衷料理 エイトバース",
+      "source": "https://ok-habikino.jp/spot/16/",
+      "address": "羽曳野市川向182",
+      "decision": "provisional"
+    },
+    {
+      "id": 70,
+      "group": "habikino",
+      "name": "味喰笑（びっぐじょう）",
+      "source": "https://ok-habikino.jp/spot/61/",
+      "address": "羽曳野市誉田3-23-17",
+      "decision": "provisional"
+    },
+    {
+      "id": 71,
+      "group": "habikino",
+      "name": "ビッグジョー",
+      "source": "https://ok-habikino.jp/spot/71/",
+      "address": "藤井寺市野中2-66",
+      "decision": "hold"
+    },
+    {
+      "id": 72,
+      "group": "habikino",
+      "name": "Korean Dining せせらぎ",
+      "source": "https://ok-habikino.jp/spot/245/",
+      "address": "羽曳野市恵我之荘4-4-26 レナジア恵我之荘2-102",
+      "decision": "hold"
+    },
+    {
+      "id": 73,
+      "group": "habikino",
+      "name": "セラヴィ（いちぢくの花）",
+      "source": "https://ok-habikino.jp/spot/64/",
+      "address": "羽曳野市誉田3-15-30 石橋ビルB1",
+      "decision": "provisional"
+    },
+    {
+      "id": 74,
+      "group": "habikino",
+      "name": "DELI&DINING PEKOHOUSE",
+      "source": "https://ok-habikino.jp/spot/163/",
+      "address": "羽曳野市高鷲8丁目46-24",
+      "decision": "provisional"
+    },
+    {
+      "id": 75,
+      "group": "habikino",
+      "name": "日本料理 まさゆめさかゆめ",
+      "source": "https://ok-habikino.jp/spot/135/",
+      "address": "羽曳野市栄町5-7 栄ビル2階",
+      "decision": "provisional"
+    },
+    {
+      "id": 76,
+      "group": "habikino",
+      "name": "Taverna S（タヴェルナ エッセ）",
+      "source": "https://ok-habikino.jp/spot/215/",
+      "address": "羽曳野市恵我之荘1-3-2",
+      "decision": "hold"
+    },
+    {
+      "id": 77,
+      "group": "habikino",
+      "name": "魚源",
+      "source": "https://ok-habikino.jp/spot/179/",
+      "address": "羽曳野市古市4-4-29",
+      "decision": "provisional"
+    },
+    {
+      "id": 78,
+      "group": "habikino",
+      "name": "喫茶セビリア",
+      "source": "https://ok-habikino.jp/spot/172/",
+      "address": "羽曳野市翠鳥園405-1",
+      "decision": "provisional"
+    },
+    {
+      "id": 79,
+      "group": "habikino",
+      "name": "美吉乃",
+      "source": "https://ok-habikino.jp/spot/218/",
+      "address": "羽曳野市恵我之荘1-4-1",
+      "decision": "provisional"
+    },
+    {
+      "id": 80,
+      "group": "habikino",
+      "name": "鴨料理×蕎麦 白鳥",
+      "source": "https://ok-habikino.jp/spot/58/",
+      "address": "羽曳野市白鳥3-1-1",
+      "decision": "provisional"
+    },
+    {
+      "id": 81,
+      "group": "habikino",
+      "name": "西洋食倶楽部 紅茶屋 カン月",
+      "source": "https://ok-habikino.jp/spot/185/",
+      "address": "羽曳野市はびきの4-14-15",
+      "decision": "provisional"
+    },
+    {
+      "id": 82,
+      "group": "habikino",
+      "name": "KASUYA 羽曳野店",
+      "source": "https://ok-habikino.jp/spot/230/",
+      "address": "羽曳野市向野3-96-3",
+      "decision": "hold"
+    },
+    {
+      "id": 83,
+      "group": "habikino",
+      "name": "BEACH -CAFE REST-（ビーチ カフェレスト）",
+      "source": "https://ok-habikino.jp/spot/233/",
+      "address": "羽曳野市羽曳が丘西3-5-36",
+      "decision": "provisional"
+    },
+    {
+      "id": 84,
+      "group": "hannan",
+      "name": "浜ＮＡＴＳＵむすひ by 浜のおばちゃん家オープン！ 浜のおばちゃん家の常設展「浜ＮＡＴＳＵむすひ」が せんなん…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=165&archive=3",
+      "address": "泉南郡岬町淡輪地先 せんなん里海公園 潮騒ビバレー内",
+      "decision": "address-unresolved"
+    },
+    {
+      "id": 85,
+      "group": "hannan",
+      "name": "阪南市で泊まる 阪南国際ホテル 阪南国际HOTELは阪南市にある宿泊施設で、エアコン付きのお…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=162&archive=3",
+      "address": "阪南市箱の浦2483番5",
+      "decision": "hold"
+    },
+    {
+      "id": 86,
+      "group": "hannan",
+      "name": "すだて遊び 令和８年は４月１６日（木）オープン！ 体験プランに掲載しましたので詳細は上記にてご確認ください。 …",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=158&archive=3",
+      "address": "阪南市鳥取1718",
+      "decision": "hold"
+    },
+    {
+      "id": 87,
+      "group": "hannan",
+      "name": "【閉店されました】たまご屋tamaco たまご好きにはたまらない個性豊かなメニューが嬉しい 【閉店されました】 看板メニューは「たまごかけごはん」。先…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=152&archive=3",
+      "address": "阪南市山中渓246 山中渓サイドテラス内",
+      "decision": "closure-mentioned"
+    },
+    {
+      "id": 88,
+      "group": "hannan",
+      "name": "【閉店されました】Cafe NACLEY 古民家の中で過ごすカジュアルなカフェタイム 【閉店されました】 山中渓サイドテラス内にあるコーヒーとシ…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=151&archive=3",
+      "address": "阪南市山中渓246 山中渓サイドテラス内",
+      "decision": "closure-mentioned"
+    },
+    {
+      "id": 89,
+      "group": "hannan",
+      "name": "MAHALO Cafe",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=150&archive=3",
+      "address": "阪南市下出720-5 オークワわくわくCITY敷地内わくわくアベニュー2F",
+      "decision": "provisional"
+    },
+    {
+      "id": 90,
+      "group": "hannan",
+      "name": "（令和８年３月24日で閉店されます）茶房美美（ちゃぼうみみ） 尾崎えびの浜のすぐそばにカフェがオープン！ 外観も中も昭和…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=145&archive=3",
+      "address": "阪南市尾崎町1-36-1",
+      "decision": "closure-mentioned"
+    },
+    {
+      "id": 91,
+      "group": "hannan",
+      "name": "焼き鳥かじ平",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=149&archive=3",
+      "address": "阪南市鳥取430-1",
+      "decision": "provisional"
+    },
+    {
+      "id": 92,
+      "group": "hannan",
+      "name": "いちご狩りの橘農園 橘農園では「無農薬栽培」にこだわっており、甘みたっぷりのいち…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=143&archive=3",
+      "address": "阪南市自然田1543",
+      "decision": "hold"
+    },
+    {
+      "id": 93,
+      "group": "hannan",
+      "name": "SHAKA SHAKA Cafe & Kitchen Ber",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=139&archive=3",
+      "address": "阪南市尾崎町2-6-1",
+      "decision": "provisional"
+    },
+    {
+      "id": 94,
+      "group": "hannan",
+      "name": "寿司割烹みやもと",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=71&archive=3",
+      "address": "阪南市尾崎町127-7",
+      "decision": "provisional"
+    },
+    {
+      "id": 95,
+      "group": "hannan",
+      "name": "地元の逸品 牡蠣 はんなんの海で育つ養殖牡蠣 下荘漁業協同組合では「下荘牡蠣…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=130&archive=3",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "id": 96,
+      "group": "hannan",
+      "name": "はんなんの体験スポット 青木松風庵 月化粧ファクトリー 無料の工場見学＆本格的なお菓子作りに挑戦！ みるく饅頭「月…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=63&archive=3",
+      "address": "阪南市黒田453-15",
+      "decision": "hold"
+    },
+    {
+      "id": 97,
+      "group": "hannan",
+      "name": "野菜巻き串バル ぽっぽ",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=97&archive=3",
+      "address": "阪南市下出605-1",
+      "decision": "provisional"
+    },
+    {
+      "id": 98,
+      "group": "hannan",
+      "name": "穴場スポット 阪南市民病院7Fレストラン「セブンビュー」 オーシャンビューも楽しめるレストランで癒しの時を。 阪南市…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=132&archive=3",
+      "address": "阪南市下出17",
+      "decision": "hold"
+    },
+    {
+      "id": 99,
+      "group": "hannan",
+      "name": "地元の逸品 水なす＆こだわり野菜 はんなんの大地が生む旬の野菜 泉州地域を代表するブランド野…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=112&archive=3",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "id": 100,
+      "group": "hannan",
+      "name": "天然温泉 平野台の湯 安庵 天然温泉を利用した露天風呂や炭酸泉など、男女合わせて16種類…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=102&archive=3",
+      "address": "阪南市鳥取中632-1",
+      "decision": "hold"
+    },
+    {
+      "id": 101,
+      "group": "hannan",
+      "name": "プチボヌール",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=100&archive=3",
+      "address": "阪南市箱作230",
+      "decision": "provisional"
+    },
+    {
+      "id": 102,
+      "group": "hannan",
+      "name": "やまよし 四季折々の食材に彩られる寿司や会席料理に舌鼓 創業70年の歴史ある老舗。和モダンな店内では、大阪湾で獲れた…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=73&archive=3",
+      "address": "阪南市鳥取441-2",
+      "decision": "hold"
+    },
+    {
+      "id": 103,
+      "group": "hannan",
+      "name": "地元の逸品 鮮魚＆水産加工品 旬の魚介類をさらに美味しく！ 阪南市には、尾崎港・西鳥取漁…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=108&archive=3",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "id": 104,
+      "group": "hannan",
+      "name": "【閉店されました】たまご屋tamaco 【閉店されました】 たまご好きにはたまらない 個性豊かなメ…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=99&archive=3",
+      "address": "阪南市山中渓246",
+      "decision": "closure-mentioned"
+    },
+    {
+      "id": 105,
+      "group": "hannan",
+      "name": "炭火焼肉 煙八",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=101&archive=3",
+      "address": "阪南市尾崎町1-1-7",
+      "decision": "provisional"
+    },
+    {
+      "id": 106,
+      "group": "hannan",
+      "name": "ファースト トレイン",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=91&archive=3",
+      "address": "阪南市石田283-1",
+      "decision": "provisional"
+    },
+    {
+      "id": 107,
+      "group": "hannan",
+      "name": "ベーカーズウーベ",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=94&archive=3",
+      "address": "阪南市新町77-5",
+      "decision": "provisional"
+    },
+    {
+      "id": 108,
+      "group": "hannan",
+      "name": "阪南洋風食堂 クゥクゥ",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=88&archive=3",
+      "address": "阪南市自然田820-2",
+      "decision": "provisional"
+    },
+    {
+      "id": 109,
+      "group": "hannan",
+      "name": "野菜巻き串バル ぽっぽ 地元の食材で生み出す美味いもんが勢ぞろい 大阪湾で獲れた新鮮な海の幸や、阪南市産の黒毛和牛「なにわ黒牛…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=66&archive=3",
+      "address": "阪南市下出605-1",
+      "decision": "hold"
+    },
+    {
+      "id": 110,
+      "group": "hannan",
+      "name": "中華料理 清華園",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=90&archive=3",
+      "address": "阪南市石田185-1",
+      "decision": "provisional"
+    },
+    {
+      "id": 111,
+      "group": "hannan",
+      "name": "山中渓サイドテラス 山中渓の歴史街道の一角に、古民家をリノベーションしたおしゃれ…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=83&archive=3",
+      "address": "阪南市山中渓246",
+      "decision": "hold"
+    },
+    {
+      "id": 112,
+      "group": "hannan",
+      "name": "和歌山の中華そば泉善（せんよし）",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=89&archive=3",
+      "address": "阪南市自然田834-7",
+      "decision": "provisional"
+    },
+    {
+      "id": 113,
+      "group": "hannan",
+      "name": "阪南の旨いもん「がっちょのから揚げ」 阪南市ではなじみのある「がっちょ」ですが、泉州以外ではあまり…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=81&archive=3",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "id": 114,
+      "group": "hannan",
+      "name": "インド・ネパール料理 サパナ",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=72&archive=3",
+      "address": "阪南市鳥取150-1",
+      "decision": "provisional"
+    },
+    {
+      "id": 115,
+      "group": "hannan",
+      "name": "割烹いとう",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=78&archive=3",
+      "address": "阪南市鳥取中489-3",
+      "decision": "provisional"
+    },
+    {
+      "id": 116,
+      "group": "hannan",
+      "name": "焼き鳥かじ平 紀州備長炭と自家製タレで焼き上げる焼き鳥を堪能 30年継ぎ足している自家製タレを纏った鶏肉が、紀州備長炭の強…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=93&archive=3",
+      "address": "阪南市鳥取430-1",
+      "decision": "hold"
+    },
+    {
+      "id": 117,
+      "group": "hannan",
+      "name": "割烹 大規鮨し",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=68&archive=3",
+      "address": "阪南市鳥取中11",
+      "decision": "provisional"
+    },
+    {
+      "id": 118,
+      "group": "hannan",
+      "name": "新生寿司",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=65&archive=3",
+      "address": "阪南市鳥取中159-4",
+      "decision": "provisional"
+    },
+    {
+      "id": 119,
+      "group": "hannan",
+      "name": "イルピアット",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=41&archive=3",
+      "address": "阪南市自然田820-2",
+      "decision": "provisional"
+    },
+    {
+      "id": 120,
+      "group": "hannan",
+      "name": "西鳥取漁港 波有手（ぼうで）の牡蠣小屋 令和7年度（2025年～2026年）の牡蠣小屋は営業を終了しました 西鳥取漁港は、かつては波有手（ぼうで）浜と呼ばれていた歴史あ…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=20&archive=3",
+      "address": "阪南市鳥取1716 (株)漁師鮮度(西鳥取漁港内)",
+      "decision": "hold"
+    },
+    {
+      "id": 121,
+      "group": "hannan",
+      "name": "プチボヌール 市外からのリピーターも通う優雅なフレンチレストラン とんがり屋根が印象的なお店は、美術品が飾られた優雅さと温かさ…",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=40&archive=3",
+      "address": "阪南市箱作230",
+      "decision": "hold"
+    },
+    {
+      "id": 122,
+      "group": "hannan",
+      "name": "お食事処 西村",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=39&archive=3",
+      "address": "阪南市下出781-14",
+      "decision": "provisional"
+    },
+    {
+      "id": 123,
+      "group": "hannan",
+      "name": "漁師の家めし 英進丸 名倉",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=36&archive=3",
+      "address": "阪南市鳥取701-9",
+      "decision": "provisional"
+    },
+    {
+      "id": 124,
+      "group": "hannan",
+      "name": "魚ダイニング光",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=27&archive=3",
+      "address": "阪南市自然田820-2",
+      "decision": "provisional"
+    },
+    {
+      "id": 125,
+      "group": "hannan",
+      "name": "中国料理やぐら",
+      "source": "https://www.hannan-tb.jp/spot/detail.php?pkId=92&archive=3",
+      "address": "阪南市光陽台1-16-12",
+      "decision": "provisional"
+    },
+    {
+      "id": 126,
+      "group": "kaizuka",
+      "name": "林宝泉堂（たこぼうずもなか）",
+      "source": "https://www.city.kaizuka.lg.jp/kanko/gurume/shoku_kau/hayashihosendo.html",
+      "address": "貝塚市海塚1丁目6-16",
+      "decision": "provisional"
+    },
+    {
+      "id": 127,
+      "group": "kaizuka",
+      "name": "村雨本舗 塩五（村雨）",
+      "source": "https://www.city.kaizuka.lg.jp/kanko/gurume/shoku_kau/shiogo.html",
+      "address": "貝塚市西町7-1",
+      "decision": "hold"
+    },
+    {
+      "id": 128,
+      "group": "kaizuka",
+      "name": "井上甘納豆製菓（さとこの店）",
+      "source": "https://www.city.kaizuka.lg.jp/kanko/gurume/shoku_kau/amanatto.html",
+      "address": "貝塚市澤1253",
+      "decision": "provisional"
+    },
+    {
+      "id": 129,
+      "group": "kaizuka",
+      "name": "ステーキハウス「夢一喜」",
+      "source": "https://www.city.kaizuka.lg.jp/kanko/gurume/shoku_kau/yumeikki.html",
+      "address": "貝塚市加神1-7-8",
+      "decision": "hold"
+    },
+    {
+      "id": 130,
+      "group": "kaizuka",
+      "name": "南漬物",
+      "source": "https://www.city.kaizuka.lg.jp/kanko/gurume/shoku_kau/minamitukemono.html",
+      "address": "貝塚市小瀬1-24-10",
+      "decision": "hold"
+    },
+    {
+      "id": 131,
+      "group": "kaizuka",
+      "name": "茶房一会",
+      "source": "https://www.city.kaizuka.lg.jp/kanko/gurume/shoku_kau/saboichie.html",
+      "address": "貝塚市水間615",
+      "decision": "provisional"
+    },
+    {
+      "id": 132,
+      "group": "kaizuka",
+      "name": "水なす工房 やくし",
+      "source": "https://www.city.kaizuka.lg.jp/kanko/gurume/shoku_kau/mizunasukoboyakushi.html",
+      "address": "貝塚市王子602",
+      "decision": "hold"
+    },
+    {
+      "id": 133,
+      "group": "kaizuka",
+      "name": "水なす工房よさこい",
+      "source": "https://www.city.kaizuka.lg.jp/kanko/gurume/shoku_kau/1475208445328.html",
+      "address": "",
+      "decision": "address-unresolved"
+    }
+  ]
+}

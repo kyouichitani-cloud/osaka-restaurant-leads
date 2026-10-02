@@ -1,0 +1,34 @@
+{
+  "stats": {
+    "date": "2026-10-03",
+    "reviewed": 134,
+    "provisionalBeforeDedup": 74,
+    "added": 74,
+    "duplicates": 0,
+    "baseline": 788,
+    "total": 862
+  },
+  "duplicates": [],
+  "addressReview": [
+    {
+      "name": "鴨料理×蕎麦 白鳥",
+      "other": "焼肉炭火焼やわらぎ",
+      "address": "羽曳野市白鳥3-1-1"
+    },
+    {
+      "name": "イルピアット",
+      "other": "阪南洋風食堂 クゥクゥ",
+      "address": "阪南市自然田820-2"
+    },
+    {
+      "name": "魚ダイニング光",
+      "other": "阪南洋風食堂 クゥクゥ",
+      "address": "阪南市自然田820-2"
+    },
+    {
+      "name": "魚ダイニング光",
+      "other": "イルピアット",
+      "address": "阪南市自然田820-2"
+    }
+  ]
+}

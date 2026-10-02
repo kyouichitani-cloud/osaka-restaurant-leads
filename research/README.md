@@ -2,7 +2,7 @@
 
 ## Scope and limits
 
-The site has **788 provisional S/A/B candidates**, not 68,521 verified prospects.
+The site has **862 provisional S/A/B candidates**, not 68,521 verified prospects.
 The separate **68,521 public-permit records** are a research universe. Website
 absence, independent ownership and current operation remain unverified. Both
 lists can overlap and must not be summed as a restaurant count.
@@ -86,6 +86,20 @@ articles and historical directory profiles are specifically marked for a
 current-operation and relocation recheck. The screening is not proof of absent
 websites, current business operation, independent ownership, or complete
 prefecture-wide coverage.
+
+The latest October 3 pass read **134 individual listings** from the
+Kawachinagano, Habikino and Hannan tourism associations and the Kaizuka city
+site. `collect-batch4.py` follows food-category pagination and caches each
+profile. `review-batch4.py` pins 74 provisional B selections from the exact
+snapshot: 31 Kawachinagano, 19 Habikino, 21 Hannan and 3 Kaizuka.
+`build-batch4.cjs` checked all earlier 788 rows and found no duplicate before
+publishing **74 more**, for **862** total. Listings with a linked standalone
+website, explicit closure, non-restaurant type, unclear address or probable
+chain were held. Distinct listed shops may share one street address; they are
+not collapsed solely on that basis. This remains a source-level screen, not
+proof of no website, present operation, independent ownership or complete
+Osaka coverage. Some profiles may be historical. Decisions and original
+profile links are in `batch4-reviewed-2026-10-03.json`.
 
 `dist/additional.js` carries separately reviewed small-town sources. Each item
 states its evidence and uncertainty. Earlier hand-researched candidates stay in
