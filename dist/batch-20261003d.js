@@ -1,5 +1,5 @@
 // Provisional B leads; own HP, current operation and independent ownership not fully verified.
-window.BATCH5_REVIEW = {"date":"2026-10-03","reviewed":289,"provisionalBeforeDedup":137,"added":130,"duplicates":7,"baseline":862,"total":992};
+window.BATCH5_REVIEW = {"date":"2026-10-03","reviewed":320,"provisionalBeforeDedup":168,"added":161,"duplicates":7,"baseline":862,"total":1023};
 window.ADDITIONAL.push(...[
   {
     "name": "純喫酒コパープル",
@@ -2433,6 +2433,626 @@ window.ADDITIONAL.push(...[
       [
         "門真市・飲食店マップ",
         "https://www.city.kadoma.osaka.jp/material/images/group/14/06_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "レストラン八州",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市大倉町10-5",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/07_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "Bistro.iro",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市幸福町28-19",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/07_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "Bar Kokopelli",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市幸福町18-3",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/07_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "さごじょう",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市幸福町10-13",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/07_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "奥のほそ道",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市幸福町11-2",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/07_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "il tempo",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市幸福町1-42-101",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/07_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "みつわ",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市幸福町7-3",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/07_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "ふぐ料理門真 鉄砲",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市御堂町10-1",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/07_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "日本料理 仙亭",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市末広町37-8",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/08_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "Contigo",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市末広町10-16",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/08_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "PAJERO",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市末広町43-14 ハイツタカヒロ102",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/08_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "居酒屋マロ兄",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市末広町16-29",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/08_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "茶山",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市末広町17-14-1",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/08_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "居酒屋きく",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市末広町40-6 石井ビル102",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/08_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "オビビチュ",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市末広町32-16 コモザ古川橋1F",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/08_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "STAND BOX COFFEE",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市寿町2-18",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/08_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "ぶてぃ あういにょん",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市速見町5-6",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/08_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "ハルヒヨリ",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市速見町8-24 第一山井ビル106",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/08_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "焼肉大雅",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市宮野町4-1",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/09_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "たこやき処ふらっと",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市大橋町3-7",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/09_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "Reve marcher",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市宮野町3-10 1F",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/09_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "美奈吉",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市野里町39-3",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/09_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "呑吉",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市上島町47-7",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/09_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "本格さぬきうどんやしま",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市四宮2丁目13-5",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/10_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "隠れ家ぶらっと",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市一番町6-12",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/10_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "鉄板ダイニング円満",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市岸和田2丁目1-32",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/10_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "てんほう",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市野口833-3",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/10_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "BARN CAFE",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市下馬伏町1-16",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/10_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "門真れんこん屋",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市千石西町12-6",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/10_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "鮨 house 希繁",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市千石西町1-34",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/10_map2025.png"
+      ],
+      [
+        "門真市・案内ページ",
+        "https://www.city.kadoma.osaka.jp/machizukuri_rodo/shogyo/25848.html"
+      ]
+    ],
+    "checkedAt": "2026-10-03"
+  },
+  {
+    "name": "しまい食堂",
+    "city": "門真市",
+    "municipality": "門真市",
+    "address": "門真市三ツ島5丁目23-15",
+    "type": "飲食店",
+    "rank": "B",
+    "why": "門真市の飲食店マップで店名・所在地を確認した追加調査用のB候補。独自HPの不存在・現在営業・独立経営は未確認。",
+    "sources": [
+      [
+        "門真市・飲食店マップ",
+        "https://www.city.kadoma.osaka.jp/material/images/group/14/10_map2025.png"
       ],
       [
         "門真市・案内ページ",

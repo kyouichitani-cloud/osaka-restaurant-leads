@@ -1,12 +1,12 @@
 {
   "stats": {
     "date": "2026-10-03",
-    "reviewed": 289,
-    "provisionalBeforeDedup": 137,
-    "added": 130,
+    "reviewed": 320,
+    "provisionalBeforeDedup": 168,
+    "added": 161,
     "duplicates": 7,
     "baseline": 862,
-    "total": 992
+    "total": 1023
   },
   "duplicates": [
     {
