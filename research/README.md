@@ -1,8 +1,8 @@
-# 大阪府全域の飲食店調査（最終追加 2026-10-03）
+# 大阪府全域の飲食店調査（最終追加 2026-10-04）
 
 ## Scope and limits
 
-The site has **1,023 provisional S/A/B candidates**, not 68,521 verified prospects.
+The site has **1,190 provisional S/A/B candidates**, not 68,521 verified prospects.
 The separate **68,521 public-permit records** are a research universe. Website
 absence, independent ownership and current operation remain unverified. Both
 lists can overlap and must not be summed as a restaurant count.
@@ -114,6 +114,21 @@ candidates for **1,023** total. `batch5-publication-2026-10-03.json` records
 duplicate and same-address review. A map or guide listing is not proof that a
 shop remains open, has no standalone site or is independently owned. The
 prefecture-wide search is not exhaustive.
+
+The October 4 pass checked **364 individual Osaka Prefecture shopping-street
+profiles** and **195 restaurant rows** in Osaka City's current 24-ward
+"Yasai TABE" registry (August 2026 basis). `collect-batch6-shotengai.py` and
+`collect-batch6-city.py` cache the public records; `review-batch6.cjs` pins
+267 manually screened provisional selections against the exact cached order.
+`build-batch6.cjs` removed 100 matches with the existing list and published
+**167 new B candidates**, including **152 in Osaka City**. The cumulative list
+is **1,190**, including **214 Osaka City** candidates. The city registry is
+evidence of a listed shop and address, not proof of website absence, current
+operation, ownership or complete city coverage. Source URLs and deduplication
+are retained in `batch6-reviewed-2026-10-04.json` and
+`batch6-publication-2026-10-04.json`. Re-run review only against the exact
+cached profile ordering, and use `node research/test-batch6.cjs` before
+publication.
 
 `dist/additional.js` carries separately reviewed small-town sources. Each item
 states its evidence and uncertainty. Earlier hand-researched candidates stay in

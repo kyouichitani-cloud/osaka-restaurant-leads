@@ -1,0 +1,524 @@
+{
+  "stats": {
+    "date": "2026-10-04",
+    "reviewed": 559,
+    "selected": 267,
+    "added": 167,
+    "duplicates": 100,
+    "baseline": 1023,
+    "total": 1190,
+    "byCity": {
+      "大阪市": 152,
+      "茨木市": 3,
+      "八尾市": 1,
+      "寝屋川市": 2,
+      "堺市": 2,
+      "枚方市": 3,
+      "藤井寺市": 3,
+      "島本町": 1
+    }
+  },
+  "duplicates": [
+    {
+      "name": "喫茶 Natural",
+      "existing": "喫茶 Natural",
+      "address": "大阪市旭区森小路2-10-7"
+    },
+    {
+      "name": "Piat Thor ピアットトーラー",
+      "existing": "Piat Thor ピアットトーラー",
+      "address": "大阪市旭区千林2-10-27-2F"
+    },
+    {
+      "name": "たこ焼き ZiPANG",
+      "existing": "たこ焼き ZiPANG",
+      "address": "大阪市旭区森小路2-4-17"
+    },
+    {
+      "name": "沖縄料理 しぃさぁ～",
+      "existing": "沖縄料理 しぃさぁ～",
+      "address": "大阪市大正区泉尾3-12-17"
+    },
+    {
+      "name": "こばんざめ",
+      "existing": "こばんざめ",
+      "address": "大阪市港区築港3-8-8"
+    },
+    {
+      "name": "世起そば",
+      "existing": "世起そば",
+      "address": "大阪市東成区大今里2-29-14"
+    },
+    {
+      "name": "パスタ工房 あるでんて",
+      "existing": "パスタ工房 あるでんて",
+      "address": "大阪市淀川区西三国3-9-8"
+    },
+    {
+      "name": "みゆき",
+      "existing": "みゆき",
+      "address": "大阪市淀川区西三国3-6-2"
+    },
+    {
+      "name": "千両寿司",
+      "existing": "千両寿司",
+      "address": "大阪市港区築港4-2-4"
+    },
+    {
+      "name": "焼肉おおくぼ屋。",
+      "existing": "焼肉おおくぼ屋。",
+      "address": "大阪市旭区森小路1-9-10"
+    },
+    {
+      "name": "Tunippon Pizza(トゥニッポン ピザ)",
+      "existing": "Tunippon Pizza(トゥニッポン ピザ)",
+      "address": "大阪市東成区大今里1-37-14"
+    },
+    {
+      "name": "カレーBARクローバー",
+      "existing": "カレーBARクローバー",
+      "address": "大阪市西区南堀江2-3-24-103"
+    },
+    {
+      "name": "韓国料理 シドニー",
+      "existing": "韓国料理 シドニー",
+      "address": "大阪市西区九条2-7-17"
+    },
+    {
+      "name": "ハッピークレパス（Happy Craypas）",
+      "existing": "ハッピークレパス（Happy Craypas）",
+      "address": "大阪市住之江区粉浜2丁目10-7"
+    },
+    {
+      "name": "Pizzeria CASATIELLO",
+      "existing": "Pizzeria CASATIELLO",
+      "address": "大阪市生野区勝山北1-5-1"
+    },
+    {
+      "name": "カフェテリア マジカ",
+      "existing": "カフェテリア マジカ",
+      "address": "大阪市西区九条2-7-16"
+    },
+    {
+      "name": "いか玉屋プラスα",
+      "existing": "いか玉屋プラスα",
+      "address": "大阪市東成区大今里4-3-10"
+    },
+    {
+      "name": "焼肉ことぶき",
+      "existing": "焼肉ことぶき",
+      "address": "大阪市北区天神橋4-10-3"
+    },
+    {
+      "name": "百円屋",
+      "existing": "百円屋",
+      "address": "大阪市東成区大今里2-34-23"
+    },
+    {
+      "name": "Tanom cafe",
+      "existing": "Tanom cafe",
+      "address": "大阪市大正区泉尾1-13-15"
+    },
+    {
+      "name": "焼肉レストラン 味道園",
+      "existing": "焼肉レストラン 味道園",
+      "address": "大阪市住吉区苅田7-9-4"
+    },
+    {
+      "name": "京屋本店",
+      "existing": "京屋本店",
+      "address": "大阪市都島区東野田町3-4-15"
+    },
+    {
+      "name": "luck cafe",
+      "existing": "luck cafe",
+      "address": "大阪市東成区大今里1-31-15"
+    },
+    {
+      "name": "インド・ネパールレストラン＆バー・アグニサ",
+      "existing": "インド・ネパールレストラン＆バー・アグニサ",
+      "address": "大阪市東成区大今里3-5-5"
+    },
+    {
+      "name": "串かつ場ぁ 聖天堂",
+      "existing": "串かつ場ぁ 聖天堂",
+      "address": "大阪市福島区福島8-19-19"
+    },
+    {
+      "name": "鳥心",
+      "existing": "鳥心",
+      "address": "大阪市都島区東野田町5-9-10"
+    },
+    {
+      "name": "たこ焼き蛸二郎",
+      "existing": "たこ焼き蛸二郎",
+      "address": "大阪市旭区森小路2-8-11"
+    },
+    {
+      "name": "GoGASHA53",
+      "existing": "GoGASHA53",
+      "address": "大阪市北区天神橋3-2-23 天三木村ビル1階"
+    },
+    {
+      "name": "喫茶コーズリー",
+      "existing": "喫茶コーズリー",
+      "address": "大阪市西成区太子1-2-28 動物園前一番街ビル1F"
+    },
+    {
+      "name": "創作寿司 ひかり",
+      "existing": "創作寿司 ひかり",
+      "address": "大阪市港区築港3-6-16"
+    },
+    {
+      "name": "ステーキハウス キューブ",
+      "existing": "ステーキハウス キューブ",
+      "address": "大阪市中央区船場中央1-3-2 船場センタービル2号館B2F"
+    },
+    {
+      "name": "たこ焼き たこDAN",
+      "existing": "たこ焼き たこDAN",
+      "address": "大阪市淀川区西三国3-1-27"
+    },
+    {
+      "name": "鉄板居酒屋OHANA",
+      "existing": "鉄板居酒屋OHANA",
+      "address": "大阪市都島区片町2-5-4 千寿プラザ2F"
+    },
+    {
+      "name": "手料理 右近",
+      "existing": "手料理 右近",
+      "address": "大阪市福島区福島8-14-13"
+    },
+    {
+      "name": "つくもも",
+      "existing": "つくもも",
+      "address": "大阪市東成区大今里4-4-2"
+    },
+    {
+      "name": "月曜から葡萄酒 青果ビストロ",
+      "existing": "月曜から葡萄酒 青果ビストロ",
+      "address": "大阪市都島区片町2-7-12"
+    },
+    {
+      "name": "炭火串焼 そら",
+      "existing": "炭火串焼 そら",
+      "address": "大阪市北区曽根崎2-10-7"
+    },
+    {
+      "name": "チューハイ本舗 れいもん",
+      "existing": "チューハイ本舗 れいもん",
+      "address": "大阪市東淀川区淡路4-5-15 ベルハウス1F"
+    },
+    {
+      "name": "板場居酒屋 海源丸",
+      "existing": "板場居酒屋 海源丸",
+      "address": "大阪市中央区難波3-1-27"
+    },
+    {
+      "name": "Cafe&Boutique Y’s",
+      "existing": "Cafe&Boutique Y’s",
+      "address": "大阪市東住吉区駒川4-5-10"
+    },
+    {
+      "name": "回転ずし とら",
+      "existing": "回転ずし とら",
+      "address": "大阪市住吉区苅田5-13-23"
+    },
+    {
+      "name": "丸福食堂",
+      "existing": "丸福食堂",
+      "address": "大阪市淀川区三津屋北1-6-10"
+    },
+    {
+      "name": "立呑専科 力雅984",
+      "existing": "立呑専科 力雅984",
+      "address": "大阪市都島区東野田町3-4-6"
+    },
+    {
+      "name": "ル コントワ",
+      "existing": "ル コントワ",
+      "address": "大阪市北区曽根崎2-10-10 お初天神裏参道 第2あーけるびる1階"
+    },
+    {
+      "name": "クレープショップ デセール",
+      "existing": "クレープショップ デセール",
+      "address": "大阪市生野区林寺2-4-2"
+    },
+    {
+      "name": "鉄板焼・お好み焼 大坂風月",
+      "existing": "鉄板焼・お好み焼 大坂風月",
+      "address": "大阪市旭区森小路2-18-5"
+    },
+    {
+      "name": "plant based cafe Alle",
+      "existing": "plant based cafe Alle",
+      "address": "吹田市朝日町18-11 RKSビル"
+    },
+    {
+      "name": "spice curry ANANDA",
+      "existing": "spice curry ANANDA",
+      "address": "藤井寺市道明寺1-23-14"
+    },
+    {
+      "name": "喫茶 来夢",
+      "existing": "喫茶 来夢",
+      "address": "茨木市上郡2-5-22"
+    },
+    {
+      "name": "元町ばる子",
+      "existing": "元町ばる子",
+      "address": "茨木市元町6-37"
+    },
+    {
+      "name": "十八番まんじゅう",
+      "existing": "十八番まんじゅう",
+      "address": "豊中市中桜塚1-2-36"
+    },
+    {
+      "name": "カレー喫茶 レトロ",
+      "existing": "カレー喫茶 レトロ",
+      "address": "豊中市中桜塚8-16"
+    },
+    {
+      "name": "土手嘉",
+      "existing": "土手嘉",
+      "address": "豊中市岡町8-16"
+    },
+    {
+      "name": "テコナ",
+      "existing": "テコナ",
+      "address": "泉大津市東助松町2-11-11"
+    },
+    {
+      "name": "創作beerカクテル 美たみん屋",
+      "existing": "創作beerカクテル 美たみん屋",
+      "address": "箕面市桜井2-10-5"
+    },
+    {
+      "name": "割烹 香里亭",
+      "existing": "割烹 香里亭",
+      "address": "寝屋川市香里新町21-7"
+    },
+    {
+      "name": "勝真",
+      "existing": "勝真",
+      "address": "吹田市元町7-4"
+    },
+    {
+      "name": "立ち呑み おたやん",
+      "existing": "立ち呑み おたやん",
+      "address": "堺市堺区中瓦町2-3-5"
+    },
+    {
+      "name": "立呑処 恵夢（えむ）",
+      "existing": "立呑処 恵夢（えむ）",
+      "address": "堺市西区鳳東町4丁 358"
+    },
+    {
+      "name": "ごはんとお菓子 none",
+      "existing": "ごはんとお菓子 none",
+      "address": "豊中市中桜塚2-18-11 トーワ第2ビル1F"
+    },
+    {
+      "name": "古民家カフェゆうぷく",
+      "existing": "古民家カフェゆうぷく",
+      "address": "富田林市富田林町9-36"
+    },
+    {
+      "name": "黒毛和牛焼肉ホルモン 珍味苑",
+      "existing": "黒毛和牛焼肉ホルモン 珍味苑",
+      "address": "茨木市西駅前町4-B-114"
+    },
+    {
+      "name": "御食事処 星の森",
+      "existing": "御食事処 星の森",
+      "address": "交野市星田5-14-14"
+    },
+    {
+      "name": "タシモリカレー",
+      "existing": "タシモリカレー",
+      "address": "茨木市西駅前町4 B-117"
+    },
+    {
+      "name": "壺焼き芋 あまか",
+      "existing": "壺焼き芋 あまか",
+      "address": "柏原市国分西2-3-2"
+    },
+    {
+      "name": "コーヒーハウス カルダン",
+      "existing": "コーヒーハウス カルダン",
+      "address": "守口市西郷通1-2-7"
+    },
+    {
+      "name": "美乃や 和カフェ TEFOPO",
+      "existing": "美乃や 和カフェ TEFOPO",
+      "address": "堺市西区浜寺諏訪森町中2丁179番"
+    },
+    {
+      "name": "洋食 かりん",
+      "existing": "洋食 かりん",
+      "address": "枚方市岡本町7-1 ビオルネ北棟1F"
+    },
+    {
+      "name": "HAKUBI COFFEE(ハクビコーヒー)",
+      "existing": "HAKUBI COFFEE(ハクビコーヒー)",
+      "address": "吹田市千里山東1-17-51 田中ビル1F"
+    },
+    {
+      "name": "コンニチハクレープ",
+      "existing": "コンニチハクレープ",
+      "address": "高石市羽衣1-12-3-104"
+    },
+    {
+      "name": "カフェ 杏樹",
+      "existing": "カフェ 杏樹",
+      "address": "泉南市信達牧野395-1"
+    },
+    {
+      "name": "串焼きと炉端のお店 なべ家",
+      "existing": "串焼きと炉端のお店 なべ家",
+      "address": "堺市堺区栄橋町1-6-5"
+    },
+    {
+      "name": "酒処 備前屋",
+      "existing": "酒処 備前屋",
+      "address": "池田市菅原町3-1-110 ステーションN"
+    },
+    {
+      "name": "和＆(wato)",
+      "existing": "和＆(wato)",
+      "address": "松原市天美東7-7-2 フレッシュライフ1A"
+    },
+    {
+      "name": "中華料理 春陽",
+      "existing": "中華料理 春陽",
+      "address": "茨木市上郡2丁目5-22"
+    },
+    {
+      "name": "Rainbowクレープ",
+      "existing": "Rainbowクレープ",
+      "address": "泉大津市田中町9-21"
+    },
+    {
+      "name": "焼き芋スイーツ店 あんも。",
+      "existing": "焼き芋スイーツ店 あんも。",
+      "address": "堺市堺区中瓦町2-2-9"
+    },
+    {
+      "name": "なんぽこ",
+      "existing": "なんぽこ",
+      "address": "柏原市国分西2-7-23"
+    },
+    {
+      "name": "珈琲館 まつ川",
+      "existing": "珈琲館 まつ川",
+      "address": "藤井寺市岡1-15-21"
+    },
+    {
+      "name": "旬菜酒処 喜八",
+      "existing": "旬菜酒処 喜八",
+      "address": "堺市堺区竜神橋町1丁1-11"
+    },
+    {
+      "name": "SOLEIL CAFE(ソレイユカフェ)",
+      "existing": "SOLEIL CAFE",
+      "address": "交野市星田5-12-2-101"
+    },
+    {
+      "name": "ミネミネ",
+      "existing": "ミネミネ",
+      "address": "富田林市富田林町17-43"
+    },
+    {
+      "name": "にじいろぱいん",
+      "existing": "にじいろぱいん",
+      "address": "寝屋川市香里新町21-11"
+    },
+    {
+      "name": "岬すし",
+      "existing": "岬すし",
+      "address": "堺市南区鴨谷台2-2-1"
+    },
+    {
+      "name": "そば処 万両",
+      "existing": "そば処 万両",
+      "address": "吹田市元町6-8"
+    },
+    {
+      "name": "喫茶セブン",
+      "existing": "喫茶セブン",
+      "address": "寝屋川市東大利町2−20"
+    },
+    {
+      "name": "エペ・クープ",
+      "existing": "北新地とんかつ エペ クープ",
+      "address": "吹田市元町5-5"
+    },
+    {
+      "name": "CAFE BON VOYAGE",
+      "existing": "CAFE BON VOYAGE",
+      "address": "寝屋川市東大利町11-8"
+    },
+    {
+      "name": "御菓子司 大徳屋",
+      "existing": "御菓子司 大徳屋",
+      "address": "四條畷市楠公1-12-19 なんこうシャル内"
+    },
+    {
+      "name": "ゆう翔",
+      "existing": "ゆう翔",
+      "address": "吹田市内本町2-1-2"
+    },
+    {
+      "name": "美幸寿司",
+      "existing": "美幸寿司",
+      "address": "堺市西区浜寺諏訪森町中2丁169番5号"
+    },
+    {
+      "name": "ぱん工房 ラパン",
+      "existing": "ぱん工房ラパン",
+      "address": "守口市西郷通1-3-10"
+    },
+    {
+      "name": "カフェ プリズム",
+      "existing": "カフェ プリズム",
+      "address": "松原市天美南3-14-18"
+    },
+    {
+      "name": "原始焼き 魚炉笑 gyoroe",
+      "existing": "原始焼き 魚炉笑 gyoroe",
+      "address": "豊中市本町3-14-5 大屋ビル1F"
+    },
+    {
+      "name": "自家製麺 うどん司",
+      "existing": "自家製麺 うどん司",
+      "address": "吹田市片山町3-33-17"
+    },
+    {
+      "name": "としまさ214",
+      "existing": "としまさ214",
+      "address": "豊中市中桜塚2-27-8"
+    },
+    {
+      "name": "御菓子司 亀甲堂",
+      "existing": "御菓子司 亀甲堂",
+      "address": "豊中市中桜塚1-2-2"
+    },
+    {
+      "name": "鉄板居酒屋39",
+      "existing": "鉄板居酒屋39",
+      "address": "堺市堺区中瓦町2-3-5"
+    },
+    {
+      "name": "海鮮和風居酒屋義経",
+      "existing": "海鮮和風居酒屋義経",
+      "address": "堺市堺区栄橋町1丁10-1"
+    },
+    {
+      "name": "ダイニング おくの",
+      "existing": "ダイニング おくの",
+      "address": "堺市西区鳳東町1-49"
+    }
+  ],
+  "addressReview": []
+}
