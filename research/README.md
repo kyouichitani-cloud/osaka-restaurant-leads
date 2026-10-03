@@ -130,6 +130,23 @@ are retained in `batch6-reviewed-2026-10-04.json` and
 cached profile ordering, and use `node research/test-batch6.cjs` before
 publication.
 
+The second October 4 pass examined **90 individual profiles** in the 2026
+Nihonshu Go Around Osaka participant directory and **185 address-bearing
+entries** in eight Osaka Prefecture-linked Fish Garden stamp-rally lists.
+`collect-batch7-nga.py` and `collect-batch7-sea.py` cache the source snapshots
+privately; `review-batch7.cjs` pins 117 selections by the exact cached order.
+One existing-store duplicate was removed by `build-batch7.cjs`, leaving **116
+new provisional B candidates**, including **62 in Osaka City**. The cumulative
+list is **1,306**, including **276 Osaka City** candidates. A same-address pair
+in Izumisano is kept because municipal tourism information describes them as
+distinct sister restaurants. One Kadoma candidate with an official restaurant
+page was held out. `batch7-reviewed-2026-10-04.json` and
+`batch7-publication-2026-10-04.json` retain the selection and duplicate audit;
+`node research/test-batch7.cjs` verifies the published totals. The earlier
+100-store exclusion was cross-checked with `geography.prior_match`. Event
+participation establishes neither current operation nor absence of a separate
+website, so each new record remains B pending individual verification.
+
 `dist/additional.js` carries separately reviewed small-town sources. Each item
 states its evidence and uncertainty. Earlier hand-researched candidates stay in
 `dist/data.js`; the client merges duplicates by normalized name within municipality

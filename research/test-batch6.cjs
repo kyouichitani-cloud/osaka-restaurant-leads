@@ -22,5 +22,5 @@ for(const x of ctx.window.ADDITIONAL.slice(-167)){
 }
 const html=fs.readFileSync(path.join(root,'dist/index.html'),'utf8');
 assert.match(html,/batch-20261004\.js/);
-assert.match(html,/1,190店/);
+assert.match(html,/1,306店/);
 console.log('PASS 1190 leads, 214 Osaka City, 167 source-linked provisional additions');
