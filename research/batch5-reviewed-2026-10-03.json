@@ -1,0 +1,4306 @@
+{
+  "date": "2026-10-03",
+  "reviewed": 268,
+  "snapshotFingerprint": "6b8d8dae036e01d2b322b075c6bccd4c4482158f99d44dc9a975163b2fdcb54e",
+  "reviewLevel": "individual directory profiles; no web-wide HP/current-operation verification",
+  "accepted": [
+    {
+      "name": "純喫酒コパープル",
+      "city": "泉佐野市",
+      "municipality": "泉佐野市",
+      "address": "泉佐野市若宮町5-16",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/10171"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "お食事処 みかわ",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市尾崎町1-2-4",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/5028"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Mamma Pappa (マンマパッパ)",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市池田下町1095-1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/7093"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "イタリアン、カフェ 色彩",
+      "city": "泉佐野市",
+      "municipality": "泉佐野市",
+      "address": "泉佐野市日根野4077-4",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/10109"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "EJ牧場",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市宮町1-28",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/6880"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "はちみつ屋さんのカフェ hachiiro-cafe",
+      "city": "岸和田市",
+      "municipality": "岸和田市",
+      "address": "岸和田市尾生町2494 蜻蛉池公園事務所 スポーツハウス内",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/10157"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "中国料理 丹甫",
+      "city": "堺市",
+      "municipality": "堺市",
+      "address": "堺市堺区大町東2-1-17ハークスビル1階",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/1174"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "カフェ杏樹（あんず）",
+      "city": "泉南市",
+      "municipality": "泉南市",
+      "address": "泉南市信達牧野395-1",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/1781"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "海と窓",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市小津島町7-3",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/10112"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "カフェテラス空（クウ）",
+      "city": "泉佐野市",
+      "municipality": "泉佐野市",
+      "address": "泉佐野市大木7",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/4824"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "くりとくら",
+      "city": "貝塚市",
+      "municipality": "貝塚市",
+      "address": "貝塚市新町7-6",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/4742"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ここうみ食堂",
+      "city": "泉佐野市",
+      "municipality": "泉佐野市",
+      "address": "泉佐野市新町2丁目5187−101",
+      "type": "食事・惣菜",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/5387"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "patisserie_houx_arbre田尻町本店",
+      "city": "田尻町",
+      "municipality": "田尻町",
+      "address": "泉南郡田尻町吉見157-1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/10133"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Japanese dining 小はれ",
+      "city": "泉佐野市",
+      "municipality": "泉佐野市",
+      "address": "泉佐野市上町3-5-25",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/10106"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "そうさく料理 てんきち",
+      "city": "泉佐野市",
+      "municipality": "泉佐野市",
+      "address": "泉佐野市りんくう往来北1-10 スーパーセンターりんくうタウン店",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/3856"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "甘味茶房 さのまち庵",
+      "city": "泉佐野市",
+      "municipality": "泉佐野市",
+      "address": "泉佐野市元町1-2",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/10134"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ガジュマル",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市箱作700-1-B",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/5669"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ouchipan（おうちパン）",
+      "city": "岬町",
+      "municipality": "岬町",
+      "address": "泉南郡岬町多奈川谷川1423ー44",
+      "type": "パン・焼菓子",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/6903"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ボンヴィラージュ",
+      "city": "泉南市",
+      "municipality": "泉南市",
+      "address": "泉南市樽井2-33-33 みかさビル103",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/4129"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "手打ち蕎麦 仙太郎",
+      "city": "貝塚市",
+      "municipality": "貝塚市",
+      "address": "貝塚市海塚3-7-9",
+      "type": "麺類",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/9645"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "BARBARA COFFEE",
+      "city": "泉南市",
+      "municipality": "泉南市",
+      "address": "泉南市信達牧野202",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/7537"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ベリーグッド麺",
+      "city": "堺市",
+      "municipality": "堺市",
+      "address": "堺市中区新家町349-13",
+      "type": "麺類",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/10102"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "紀州勝浦 日の出丸",
+      "city": "堺市",
+      "municipality": "堺市",
+      "address": "堺市堺区南安井町6-1-1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/6642"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "チャイナテーブル 喜心",
+      "city": "高石市",
+      "municipality": "高石市",
+      "address": "高石市西取石6丁目6−71",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/7130"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "和cafeここら",
+      "city": "田尻町",
+      "municipality": "田尻町",
+      "address": "泉南郡田尻町吉見674-5",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/10104"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "VENTLAX GELATOO",
+      "city": "岸和田市",
+      "municipality": "岸和田市",
+      "address": "岸和田市積川町283−1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/10100"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "nuno",
+      "city": "泉南市",
+      "municipality": "泉南市",
+      "address": "泉南市樽井2丁目22−13 コンコルドビル1F",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/7122"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "セディーユ（cedille）",
+      "city": "岸和田市",
+      "municipality": "岸和田市",
+      "address": "岸和田市宮本町17-1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/10184"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "奴寿司",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市幸1丁目6-5",
+      "type": "寿司",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/7105"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "dining和実や(ダイニングなごみや)",
+      "city": "泉佐野市",
+      "municipality": "泉佐野市",
+      "address": "泉佐野市羽倉崎1丁目1−3300",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/5125"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "スイーツスリール 369",
+      "city": "熊取町",
+      "municipality": "熊取町",
+      "address": "泉南郡熊取町大久保中1-10-16",
+      "type": "菓子・スイーツ",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/4677"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "GREENWOOD COFFEE & BAKED GOODS",
+      "city": "泉佐野市",
+      "municipality": "泉佐野市",
+      "address": "泉佐野市上町3丁目6−38",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/6874"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Take's kitchen",
+      "city": "田尻町",
+      "municipality": "田尻町",
+      "address": "泉南郡田尻町吉見607−1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/9566"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "こたや",
+      "city": "泉佐野市",
+      "municipality": "泉佐野市",
+      "address": "泉佐野市新浜町3",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/5390"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "喫茶ナイス",
+      "city": "高石市",
+      "municipality": "高石市",
+      "address": "高石市羽衣1-14-3 2F",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/10115"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "cafe&Bar moto",
+      "city": "泉佐野市",
+      "municipality": "泉佐野市",
+      "address": "泉佐野市上町3-11-25",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/4149"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "MR cafe",
+      "city": "堺市",
+      "municipality": "堺市",
+      "address": "堺市堺区栄橋町1丁1−16 iPHONE iPAD CASTLE",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/7110"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "中国酒菜 福見",
+      "city": "岸和田市",
+      "municipality": "岸和田市",
+      "address": "岸和田市下池田町2丁目10−1",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/4291"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "アリラン亭",
+      "city": "岸和田市",
+      "municipality": "岸和田市",
+      "address": "岸和田市五軒屋町11-8",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/7125"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "焼肉ばーる やま龍",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市のぞみ野1-2-41 イチクラビル 2F",
+      "type": "焼肉",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/10111"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "GREEN KETTLE",
+      "city": "堺市",
+      "municipality": "堺市",
+      "address": "堺市中区新家町754-18",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/7084"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "モダンチャイニーズkita",
+      "city": "貝塚市",
+      "municipality": "貝塚市",
+      "address": "貝塚市畠中1丁目3−13",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/7760"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Caffe GIUSTO",
+      "city": "泉佐野市",
+      "municipality": "泉佐野市",
+      "address": "泉佐野市高松北1丁目1−4",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/7102"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "cafe moet",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市尾井町2丁目9−28",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/7099"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "みかん",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市旭町19-51",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/7087"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "cafe はちのわ",
+      "city": "貝塚市",
+      "municipality": "貝塚市",
+      "address": "貝塚市澤569−5",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/10210"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "I AM",
+      "city": "忠岡町",
+      "municipality": "忠岡町",
+      "address": "泉北郡忠岡町忠岡中3-16-28",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/10209"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "BONBON 手作りジェラート",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市府中町4丁目10−41",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/7715"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "そば舎 中中",
+      "city": "泉大津市",
+      "municipality": "泉大津市",
+      "address": "泉大津市二田町1丁目12−6",
+      "type": "麺類",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/6945"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "古墳カレー花茶碗",
+      "city": "堺市",
+      "municipality": "堺市",
+      "address": "堺市堺区百舌鳥夕雲町2-265",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/79"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "喫茶ロータリー",
+      "city": "岬町",
+      "municipality": "岬町",
+      "address": "泉南郡岬町深日1431-2",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/6575"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "にし川",
+      "city": "田尻町",
+      "municipality": "田尻町",
+      "address": "泉南郡田尻町りんくうポート北1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/6752"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "牛かつ専門店 うし寅",
+      "city": "岸和田市",
+      "municipality": "岸和田市",
+      "address": "岸和田市大北町11-33",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/7328"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ひなたぼっこカフェ",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市箱作307 豊大マンション 101",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/10189"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "多幸作（たこさく）",
+      "city": "阪南市",
+      "municipality": "阪南市",
+      "address": "阪南市箱作701",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "KIX泉州ツーリズムビューローの店舗紹介",
+          "https://welcome-to-senshu.jp/spots/5686"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/osaka.senshu.jp"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "カフェ レストラン %(パーセント)",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市府中町一丁目5-14",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "和泉市観光・産業団体のグルメマップ",
+          "https://satomachi-izumi.com/pamphlet/22875.html"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/cafepercent2828/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "パン工房ぺぺ・とと",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市府中町一丁目5-5",
+      "type": "パン・焼菓子",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "和泉市観光・産業団体のグルメマップ",
+          "https://satomachi-izumi.com/pamphlet/22875.html"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/pankoubou_pepe_toto/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "府中酒場 ぐでんぐでん",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市府中町一丁目8-3",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "和泉市観光・産業団体のグルメマップ",
+          "https://satomachi-izumi.com/pamphlet/22875.html"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/guden0906/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "日本料理 みやこ",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市府中町二丁目1-5",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "和泉市観光・産業団体のグルメマップ",
+          "https://satomachi-izumi.com/pamphlet/22875.html"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "CAFE & BAL コネスタ",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市府中町二丁目1-5",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "和泉市観光・産業団体のグルメマップ",
+          "https://satomachi-izumi.com/pamphlet/22875.html"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "鶏やす",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市府中町一丁目10-3第二泉洋ビル101",
+      "type": "鶏料理",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "和泉市観光・産業団体のグルメマップ",
+          "https://satomachi-izumi.com/pamphlet/22875.html"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/toriyasu_2025/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Oeuf Cafe(ウッフカフェ)",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市観音寺町656 グリーンビル1F",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "和泉市観光・産業団体のグルメマップ",
+          "https://satomachi-izumi.com/pamphlet/22916.html"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/oeufcafe_/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "鮨 こみ太郎",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市府中町四丁目5-22",
+      "type": "寿司",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "和泉市観光・産業団体のグルメマップ",
+          "https://satomachi-izumi.com/pamphlet/22916.html"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/komitaro_sushi/?hl=ja"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "KGC FOREST BRIDGE",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市大野町662",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "和泉市観光・産業団体のグルメマップ",
+          "https://satomachi-izumi.com/pamphlet/23169.html"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/kgc_forest_bridge/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "FILNE(フィルネ)",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市仏並町1739",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "和泉市観光・産業団体のグルメマップ",
+          "https://satomachi-izumi.com/pamphlet/23169.html"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/filne_store/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "CAFÉ Ruota",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市葛の葉町1-14-45",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "和泉市観光・産業団体のグルメマップ",
+          "https://satomachi-izumi.com/pamphlet/23170.html"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/cafe_ruota/?hl=ja"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "カフェレスト逵田（つじた）",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市幸二丁目2-39-108",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "和泉市観光・産業団体のグルメマップ",
+          "https://satomachi-izumi.com/pamphlet/23170.html"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Basil Basil",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市太町560-1",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "和泉市観光・産業団体のグルメマップ",
+          "https://satomachi-izumi.com/pamphlet/23170.html"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/basil_basil560_1/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "韓国料理Rhami",
+      "city": "和泉市",
+      "municipality": "和泉市",
+      "address": "和泉市鶴山台二丁目1-1-104",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "和泉市観光・産業団体のグルメマップ",
+          "https://satomachi-izumi.com/pamphlet/23170.html"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/rhami_koreanfood"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Centre de village（サントル・ドゥ・ヴィラージュ）",
+      "city": "太子町",
+      "municipality": "太子町",
+      "address": "南河内郡太子町太子307",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "太子町観光協会の店舗紹介",
+          "https://taishi-kankou.jp/spot/eat/taishiroll.php"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "お食事処 ふくべ",
+      "city": "太子町",
+      "municipality": "太子町",
+      "address": "南河内郡太子町山田107",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "太子町観光協会の店舗紹介",
+          "https://taishi-kankou.jp/spot/eat/fukube.php"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Weekend N°5",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町5-22",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/nisiki/weekend-n5"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Day Snack エルドラド",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市内本町2丁目1-7",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sinasahi/day-snack_eldorado"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "URRA-RA",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町13-2",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/nisiki/urra-ra"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "天ぷら食堂 魚徳",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町27-23",
+      "type": "食事・惣菜",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/naka/uwotoku"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://twitter.com/uwotoku1"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "じょう崎",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市元町6番3号",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/shuhentempo/jyouzaki"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "焼鳥のヒナタ",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町5-17",
+      "type": "鶏料理",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/nisiki/hinata"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "スペイン料理 BAR メソン アスタマニャーナ",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町25-1",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/naka/mesonhm"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/MesonHm/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ウインドベル",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市高浜町1-14-1F",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/shuhentempo/windbell"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ハピネスプーン",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町13-28",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/naka/happinesspoon"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.facebook.com/happinesspoon"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "食彩酒家 びーわん",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町2 吹田さんくす2番館味ののれん街B-1",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sankusu/b-1"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "まっちゃん食堂",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市内本町2-1-24",
+      "type": "食事・惣菜",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sinasahi/macchan-syokudou"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "nasaran・みずいろ喫茶",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市元町 7 - 21",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sinasahi/nasaran"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://twitter.com/nasaran0106"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "らーめん彩哲～isato～",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町5-24",
+      "type": "麺類",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/nisiki/isato"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://twitter.com/ra_men_isato"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "勝真",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市元町7-4",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/asahi/katusin"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "珈琲専門店コッペル",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町19-20",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/asahi/kopperu"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "元町カレー",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市元町7-16",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sinasahi/motomachi-curry"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "bb UNO",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市元町11-8",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sinasahi/bb-uno"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "インド料理 Paprika",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町27-7 正田ビル 1F",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/shuhentempo/paprika"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ねこや",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市元町7-23",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sinasahi/nekoya"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "パスタスタンド サイドビー",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市内本町2-2-6",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sinasahi/%e3%82%b5%e3%82%a4%e3%83%89%e3%83%93%e3%83%bc"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/sideb_2020/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "えいちゃん酒場",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町2-123 さんくす2番館B1F",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sankusu/eichan-sakaba"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "酔笑庵ぽんぽ",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sankusu/ponpo"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "地酒 ふく",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sankusu/fuku"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "立ち呑み処 ままや",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sankusu/mamaya"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "旬菜 さかえ",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町2-123 吹田さんくす2番館B1F",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sankusu/sakae"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "立呑み処 蔵",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町1-105 吹田さんくす2番館B1F",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sankusu/kura"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "福すし",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F",
+      "type": "寿司",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sankusu/fukusushi"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "居酒屋 GORO",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sankusu/izakaya-goro"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "モノクローム",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町2-121 吹田さんくす2番館1F",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sankusu/monochrome"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "だいげん",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町1 吹田さんくす2番館1F",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/sankusu/daigen"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "居酒屋一文字",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市昭和町6-14",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/shuhentempo/ichimonji"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "豚や",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市昭和町7-17",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/shuhentempo/butaya"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Bar mcClane バー マクレーン",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市昭和町10-22 2F",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/shuhentempo/bar-mcclane"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "居酒屋 おはこ",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市昭和町10-20",
+      "type": "居酒屋・バー",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/shuhentempo/ohako"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "ポコポコ亭",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町12-18",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/asahi/pokopokotei"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "そば処 万両",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市元町6-8",
+      "type": "麺類",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/asahi/manryo"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "さんきゅう水産",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市元町7-7",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/asahi/sankyusuisan"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "北新地とんかつ エペ クープ",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市元町5-5",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/asahi/tonkatsu-epeku-pu"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "やきとり とりしん",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市元町7-14",
+      "type": "鶏料理",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/asahi/yakitori-torishin"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "卯らら華",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市元町7-2",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/asahi/uraraka"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "Saikai（再会）",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市元町3-8",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/asahi/saikai"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "自家製麺 うどん 司",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市片山町3-33-17",
+      "type": "麺類",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/katayama/udon-tukasa"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://twitter.com/Udontukasa"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "喫茶ハロッズ",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市片山町3-32-14",
+      "type": "カフェ・喫茶",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/katayama/harozzu"
+        ],
+        [
+          "紹介ページ掲載のSNS",
+          "https://www.instagram.com/harotsuzu/"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "陶板焼肉 てん、てん",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町5-18",
+      "type": "焼肉",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/nisiki/ten-ten"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    },
+    {
+      "name": "おいしんぼ",
+      "city": "吹田市",
+      "municipality": "吹田市",
+      "address": "吹田市朝日町5-20",
+      "type": "飲食店（業態要確認）",
+      "rank": "B",
+      "why": "地域の店舗紹介で店名・所在地を確認した追加調査用のB候補。紹介ページに独自HPへの案内は見当たりませんが、独自HPの不存在・現在営業・独立経営は未確認。",
+      "sources": [
+        [
+          "JR吹田駅周辺商店街ポータルの店舗紹介",
+          "https://sui-town.com/archives/nisiki/oishinbo"
+        ]
+      ],
+      "checkedAt": "2026-10-03"
+    }
+  ],
+  "decisions": [
+    {
+      "group": "senshu",
+      "id": 0,
+      "name": "田尻歴史館",
+      "source": "https://welcome-to-senshu.jp/spots/10203",
+      "address": "泉南郡田尻町吉見1101-1",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 1,
+      "name": "純喫酒コパープル",
+      "source": "https://welcome-to-senshu.jp/spots/10171",
+      "address": "泉佐野市若宮町5-16",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 2,
+      "name": "ヤッホーブルーイング大阪醸造所 よなよなビアライズ",
+      "source": "https://welcome-to-senshu.jp/spots/10158",
+      "address": "泉佐野市りんくう往来北1-24",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 3,
+      "name": "the SOUP green&cafe",
+      "source": "https://welcome-to-senshu.jp/spots/7143",
+      "address": "堺市北区百舌鳥西之町3-668",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 4,
+      "name": "お食事処 みかわ",
+      "source": "https://welcome-to-senshu.jp/spots/5028",
+      "address": "阪南市尾崎町1-2-4",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 5,
+      "name": "Mamma Pappa (マンマパッパ)",
+      "source": "https://welcome-to-senshu.jp/spots/7093",
+      "address": "和泉市池田下町1095-1",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 6,
+      "name": "泉佐野ふるさと町屋館（旧新川家住宅）",
+      "source": "https://welcome-to-senshu.jp/spots/10207",
+      "address": "泉佐野市本町5-29",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 7,
+      "name": "波有手のカキ小屋",
+      "source": "https://welcome-to-senshu.jp/spots/6045",
+      "address": "阪南市鳥取1716(西鳥取漁港内)",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 8,
+      "name": "プチボヌール",
+      "source": "https://welcome-to-senshu.jp/spots/4985",
+      "address": "阪南市箱作230",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 9,
+      "name": "海鮮ダイニングいっとき",
+      "source": "https://welcome-to-senshu.jp/spots/10110",
+      "address": "泉佐野市日根野4288−1 ベルフォーレ 105",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 10,
+      "name": "イタリアン、カフェ 色彩",
+      "source": "https://welcome-to-senshu.jp/spots/10109",
+      "address": "泉佐野市日根野4077-4",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 11,
+      "name": "岸和田城二の丸広場観光交流センター",
+      "source": "https://welcome-to-senshu.jp/spots/132",
+      "address": "岸和田市岸城町7-22 岸和田城二の丸広場内",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 12,
+      "name": "EJ牧場",
+      "source": "https://welcome-to-senshu.jp/spots/6880",
+      "address": "泉大津市宮町1-28",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 13,
+      "name": "はちみつ屋さんのカフェ hachiiro-cafe",
+      "source": "https://welcome-to-senshu.jp/spots/10157",
+      "address": "岸和田市尾生町2494 蜻蛉池公園事務所 スポーツハウス内",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 14,
+      "name": "観光農園 南楽園",
+      "source": "https://welcome-to-senshu.jp/spots/10118",
+      "address": "堺市南区別所1457",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 15,
+      "name": "中国料理 丹甫",
+      "source": "https://welcome-to-senshu.jp/spots/1174",
+      "address": "堺市堺区大町東2-1-17ハークスビル1階",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 16,
+      "name": "田尻漁港 牡蠣小屋",
+      "source": "https://welcome-to-senshu.jp/spots/5381",
+      "address": "泉南郡田尻町りんくうポート北1番",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 17,
+      "name": "HANS洋菓子店 熊取店",
+      "source": "https://welcome-to-senshu.jp/spots/278",
+      "address": "泉南郡熊取町大久保中1-9-7",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 18,
+      "name": "地蔵浜みなとマルシェ",
+      "source": "https://welcome-to-senshu.jp/spots/1765",
+      "address": "岸和田市地蔵浜町7番1号",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 19,
+      "name": "岡田浦漁港",
+      "source": "https://welcome-to-senshu.jp/spots/1496",
+      "address": "泉南市りんくう南浜",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "senshu",
+      "id": 20,
+      "name": "カフェ杏樹（あんず）",
+      "source": "https://welcome-to-senshu.jp/spots/1781",
+      "address": "泉南市信達牧野395-1",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 21,
+      "name": "GREEN ROOM",
+      "source": "https://welcome-to-senshu.jp/spots/7139",
+      "address": "和泉市槇尾山町86−1",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 22,
+      "name": "サザンぴあ",
+      "source": "https://welcome-to-senshu.jp/spots/1512",
+      "address": "泉南市りんくう南浜4-201",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 23,
+      "name": "Humming Fields",
+      "source": "https://welcome-to-senshu.jp/spots/9681",
+      "address": "泉南郡熊取町野田4丁目2037番3",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 24,
+      "name": "漁師の家めし 英進丸 名倉",
+      "source": "https://welcome-to-senshu.jp/spots/4944",
+      "address": "阪南市鳥取701-9",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 25,
+      "name": "haru食堂＋",
+      "source": "https://welcome-to-senshu.jp/spots/9650",
+      "address": "貝塚市海塚3-7-2",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 26,
+      "name": "すし割烹 山吉",
+      "source": "https://welcome-to-senshu.jp/spots/4964",
+      "address": "阪南市鳥取441−2",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 27,
+      "name": "魚ダイニング 光",
+      "source": "https://welcome-to-senshu.jp/spots/5008",
+      "address": "阪南市自然田820-2",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 28,
+      "name": "海と窓",
+      "source": "https://welcome-to-senshu.jp/spots/10112",
+      "address": "泉大津市小津島町7-3",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 29,
+      "name": "カフェテラス空（クウ）",
+      "source": "https://welcome-to-senshu.jp/spots/4824",
+      "address": "泉佐野市大木7",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 30,
+      "name": "mon reve 豆乃樹",
+      "source": "https://welcome-to-senshu.jp/spots/10178",
+      "address": "泉南郡岬町淡輪3061-20",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 31,
+      "name": "SENNAN LONG PARK（泉南りんくう公園）",
+      "source": "https://welcome-to-senshu.jp/spots/2587",
+      "address": "泉南市りんくう南浜2番201ほか",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 32,
+      "name": "りんくうプレミアム・アウトレット",
+      "source": "https://welcome-to-senshu.jp/spots/608",
+      "address": "泉佐野市りんくう往来南3-28",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 33,
+      "name": "くりとくら",
+      "source": "https://welcome-to-senshu.jp/spots/4742",
+      "address": "貝塚市新町7-6",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 34,
+      "name": "野外活動ふれあい広場",
+      "source": "https://welcome-to-senshu.jp/spots/4601",
+      "address": "泉南郡熊取町久保3162",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 35,
+      "name": "カフェ キートス",
+      "source": "https://welcome-to-senshu.jp/spots/7332",
+      "address": "泉南郡岬町深日1526",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 36,
+      "name": "いずみさの関空マリーナ",
+      "source": "https://welcome-to-senshu.jp/spots/606",
+      "address": "泉佐野市りんくう往来北6番地",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 37,
+      "name": "スイーツハウスミュー",
+      "source": "https://welcome-to-senshu.jp/spots/9575",
+      "address": "高石市加茂1丁目20-12",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 38,
+      "name": "銀装（羽衣工場売店・フロリードハウス）",
+      "source": "https://welcome-to-senshu.jp/spots/120",
+      "address": "高石市羽衣5-15-13",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 39,
+      "name": "レストラン「森の小径」",
+      "source": "https://welcome-to-senshu.jp/spots/6933",
+      "address": "貝塚市地藏堂460",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 40,
+      "name": "ここうみ食堂",
+      "source": "https://welcome-to-senshu.jp/spots/5387",
+      "address": "泉佐野市新町2丁目5187−101",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 41,
+      "name": "牛滝温泉四季まつり",
+      "source": "https://welcome-to-senshu.jp/spots/4233",
+      "address": "岸和田市大沢町1156",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 42,
+      "name": "海のカフェ高木",
+      "source": "https://welcome-to-senshu.jp/spots/6771",
+      "address": "阪南市箱の浦1−59",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 43,
+      "name": "パティスリー かいと",
+      "source": "https://welcome-to-senshu.jp/spots/271",
+      "address": "泉南郡熊取町小谷北2-13-1",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 44,
+      "name": "あさつゆ愛のぶどう園",
+      "source": "https://welcome-to-senshu.jp/spots/10165",
+      "address": "岸和田市畑町(※ナビ用駐車場住所:岸和田市極楽寺町302)",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 45,
+      "name": "Grill Cafe Excellent",
+      "source": "https://welcome-to-senshu.jp/spots/10107",
+      "address": "泉北郡忠岡町新浜2丁目5",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 46,
+      "name": "patisserie_houx_arbre田尻町本店",
+      "source": "https://welcome-to-senshu.jp/spots/10133",
+      "address": "泉南郡田尻町吉見157-1",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 47,
+      "name": "割烹 大規鮨し",
+      "source": "https://welcome-to-senshu.jp/spots/4978",
+      "address": "阪南市鳥取中11",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 48,
+      "name": "Japanese dining 小はれ",
+      "source": "https://welcome-to-senshu.jp/spots/10106",
+      "address": "泉佐野市上町3-5-25",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 49,
+      "name": "野菜巻き串バル ぽっぽ",
+      "source": "https://welcome-to-senshu.jp/spots/4967",
+      "address": "阪南市下出605-1",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 50,
+      "name": "そうさく料理 てんきち",
+      "source": "https://welcome-to-senshu.jp/spots/3856",
+      "address": "泉佐野市りんくう往来北1-10 スーパーセンターりんくうタウン店",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 51,
+      "name": "Eitoku Farm いちご園 瑚愛～ことな～",
+      "source": "https://welcome-to-senshu.jp/spots/10170",
+      "address": "岸和田市阿間河滝町133",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 52,
+      "name": "ロジカ（rojica）",
+      "source": "https://welcome-to-senshu.jp/spots/10068",
+      "address": "泉南市樽井4-34-37",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 53,
+      "name": "甘味茶房 さのまち庵",
+      "source": "https://welcome-to-senshu.jp/spots/10134",
+      "address": "泉佐野市元町1-2",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 54,
+      "name": "SON CAFE（サンカフェ）",
+      "source": "https://welcome-to-senshu.jp/spots/7152",
+      "address": "泉佐野市鶴原1288−2",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 55,
+      "name": "Grill Cafe Excellent （グリル カフェ エクセレント）",
+      "source": "https://welcome-to-senshu.jp/spots/6784",
+      "address": "泉北郡忠岡町新浜2丁目5 Excellent Marina2F",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 56,
+      "name": "ファーストトレイン",
+      "source": "https://welcome-to-senshu.jp/spots/4955",
+      "address": "阪南市石田283-1",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 57,
+      "name": "イルピアット",
+      "source": "https://welcome-to-senshu.jp/spots/4990",
+      "address": "阪南市自然田820-2",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 58,
+      "name": "割烹屋ゆず",
+      "source": "https://welcome-to-senshu.jp/spots/4124",
+      "address": "貝塚市脇浜4丁目4-6",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 59,
+      "name": "ガジュマル",
+      "source": "https://welcome-to-senshu.jp/spots/5669",
+      "address": "阪南市箱作700-1-B",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 60,
+      "name": "ouchipan（おうちパン）",
+      "source": "https://welcome-to-senshu.jp/spots/6903",
+      "address": "泉南郡岬町多奈川谷川1423ー44",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 61,
+      "name": "中華そば せんよし",
+      "source": "https://welcome-to-senshu.jp/spots/10103",
+      "address": "阪南市自然田834-1",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 62,
+      "name": "匠麺と旬の和食 うどんダイニング よさこい",
+      "source": "https://welcome-to-senshu.jp/spots/10172",
+      "address": "貝塚市津田北町9-22",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 63,
+      "name": "Refarm YOSHIMI 370",
+      "source": "https://welcome-to-senshu.jp/spots/10161",
+      "address": "泉南郡田尻町吉見370",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 64,
+      "name": "ボンヴィラージュ",
+      "source": "https://welcome-to-senshu.jp/spots/4129",
+      "address": "泉南市樽井2-33-33 みかさビル103",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 65,
+      "name": "はつが野テラス",
+      "source": "https://welcome-to-senshu.jp/spots/7078",
+      "address": "和泉市はつが野3丁目1−1",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 66,
+      "name": "手打ち蕎麦 仙太郎",
+      "source": "https://welcome-to-senshu.jp/spots/9645",
+      "address": "貝塚市海塚3-7-9",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 67,
+      "name": "BARBARA COFFEE",
+      "source": "https://welcome-to-senshu.jp/spots/7537",
+      "address": "泉南市信達牧野202",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 68,
+      "name": "田尻海洋交流センター",
+      "source": "https://welcome-to-senshu.jp/spots/230",
+      "address": "泉南郡田尻町りんくうポート北1番",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 69,
+      "name": "五風荘",
+      "source": "https://welcome-to-senshu.jp/spots/1132",
+      "address": "岸和田市岸城町18-1",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 70,
+      "name": "寿司 割烹 みやもと",
+      "source": "https://welcome-to-senshu.jp/spots/5011",
+      "address": "阪南市尾崎町127-7",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 71,
+      "name": "ベリーグッド麺",
+      "source": "https://welcome-to-senshu.jp/spots/10102",
+      "address": "堺市中区新家町349-13",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 72,
+      "name": "紀州勝浦 日の出丸",
+      "source": "https://welcome-to-senshu.jp/spots/6642",
+      "address": "堺市堺区南安井町6-1-1",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 73,
+      "name": "ベーカーズ ウーベ",
+      "source": "https://welcome-to-senshu.jp/spots/5001",
+      "address": "阪南市新町77-5",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 74,
+      "name": "チャイナテーブル 喜心",
+      "source": "https://welcome-to-senshu.jp/spots/7130",
+      "address": "高石市西取石6丁目6−71",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 75,
+      "name": "ウールー",
+      "source": "https://welcome-to-senshu.jp/spots/9595",
+      "address": "高石市加茂1-19-18",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 76,
+      "name": "Baum Coffee Stand",
+      "source": "https://welcome-to-senshu.jp/spots/7372",
+      "address": "泉大津市板原町1丁目13−16",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 77,
+      "name": "GARB GREEN WALK pizzeria and cafe",
+      "source": "https://welcome-to-senshu.jp/spots/10108",
+      "address": "泉大津市小松町1−81",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 78,
+      "name": "味所望",
+      "source": "https://welcome-to-senshu.jp/spots/1167",
+      "address": "堺市北区金岡町3005‐25",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 79,
+      "name": "オールデイダイニング「ザ・ブラッスリー」/ ホテル日航関西空港",
+      "source": "https://welcome-to-senshu.jp/spots/8361",
+      "address": "泉佐野市泉州空港北 1番地 ホテル日航関西空港 2階",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 80,
+      "name": "きんちゃく家",
+      "source": "https://welcome-to-senshu.jp/spots/81",
+      "address": "岸和田市地蔵浜町7−1",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 81,
+      "name": "和cafeここら",
+      "source": "https://welcome-to-senshu.jp/spots/10104",
+      "address": "泉南郡田尻町吉見674-5",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 82,
+      "name": "ビストロギャマン",
+      "source": "https://welcome-to-senshu.jp/spots/10113",
+      "address": "熊取町大久保中1−1−7",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 83,
+      "name": "ケーキハウス・リバージュ",
+      "source": "https://welcome-to-senshu.jp/spots/6900",
+      "address": "堺市西区鳳西町1丁78−9",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 84,
+      "name": "クレープショップ ヒナアフト",
+      "source": "https://welcome-to-senshu.jp/spots/9662",
+      "address": "泉南郡熊取町紺屋1丁目26−18",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 85,
+      "name": "FIKA",
+      "source": "https://welcome-to-senshu.jp/spots/10119",
+      "address": "泉佐野市泉ヶ丘1-6-33",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 86,
+      "name": "VENTLAX GELATOO",
+      "source": "https://welcome-to-senshu.jp/spots/10100",
+      "address": "岸和田市積川町283−1",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 87,
+      "name": "nuno",
+      "source": "https://welcome-to-senshu.jp/spots/7122",
+      "address": "泉南市樽井2丁目22−13 コンコルドビル1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 88,
+      "name": "割烹 松屋",
+      "source": "https://welcome-to-senshu.jp/spots/1154",
+      "address": "泉佐野市市場東2丁目10番10号",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 89,
+      "name": "セディーユ（cedille）",
+      "source": "https://welcome-to-senshu.jp/spots/10184",
+      "address": "岸和田市宮本町17-1",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 90,
+      "name": "ひろしげ珈琲倶楽部",
+      "source": "https://welcome-to-senshu.jp/spots/10150",
+      "address": "泉南郡岬町淡輪1478-1",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 91,
+      "name": "堺市とれとれ市",
+      "source": "https://welcome-to-senshu.jp/spots/5399",
+      "address": "堺市堺区大浜西町23",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 92,
+      "name": "小島屋",
+      "source": "https://welcome-to-senshu.jp/spots/7803",
+      "address": "堺市堺区宿院町東1丁1−23",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 93,
+      "name": "三粒に種",
+      "source": "https://welcome-to-senshu.jp/spots/4138",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "senshu",
+      "id": 94,
+      "name": "すし兆",
+      "source": "https://welcome-to-senshu.jp/spots/7529",
+      "address": "高石市加茂4丁目8−28",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 95,
+      "name": "奴寿司",
+      "source": "https://welcome-to-senshu.jp/spots/7105",
+      "address": "和泉市幸1丁目6-5",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 96,
+      "name": "dining和実や(ダイニングなごみや)",
+      "source": "https://welcome-to-senshu.jp/spots/5125",
+      "address": "泉佐野市羽倉崎1丁目1−3300",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 97,
+      "name": "スイーツスリール 369",
+      "source": "https://welcome-to-senshu.jp/spots/4677",
+      "address": "泉南郡熊取町大久保中1-10-16",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 98,
+      "name": "GREENWOOD COFFEE & BAKED GOODS",
+      "source": "https://welcome-to-senshu.jp/spots/6874",
+      "address": "泉佐野市上町3丁目6−38",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 99,
+      "name": "鶏次と貝次",
+      "source": "https://welcome-to-senshu.jp/spots/10105",
+      "address": "堺市北区中百舌鳥町5-796-2",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 100,
+      "name": "Take's kitchen",
+      "source": "https://welcome-to-senshu.jp/spots/9566",
+      "address": "泉南郡田尻町吉見607−1",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 101,
+      "name": "ANTIQUA TREE CAFE",
+      "source": "https://welcome-to-senshu.jp/spots/7190",
+      "address": "和泉市はつが野3丁目13−4",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 102,
+      "name": "たるの店 山麓苑",
+      "source": "https://welcome-to-senshu.jp/spots/6939",
+      "address": "岸和田市河合町1221−2",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 103,
+      "name": "こたや",
+      "source": "https://welcome-to-senshu.jp/spots/5390",
+      "address": "泉佐野市新浜町3",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 104,
+      "name": "つろぎ",
+      "source": "https://welcome-to-senshu.jp/spots/1180",
+      "address": "泉南郡熊取町大久保南4-1351-1",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 105,
+      "name": "SCHOOL BUS COFFEE ROASTERS",
+      "source": "https://welcome-to-senshu.jp/spots/6871",
+      "address": "堺市堺区大浜北町3 3-5 1F",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 106,
+      "name": "喫茶ナイス",
+      "source": "https://welcome-to-senshu.jp/spots/10115",
+      "address": "高石市羽衣1-14-3 2F",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 107,
+      "name": "和彩「花ざと」/ ホテル日航関西空港",
+      "source": "https://welcome-to-senshu.jp/spots/9282",
+      "address": "泉佐野市泉州空港北 1番地 ホテル日航関西空港 2階",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 108,
+      "name": "ブルーテラス ハワイアンスタイル",
+      "source": "https://welcome-to-senshu.jp/spots/9639",
+      "address": "貝塚市澤859-1",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 109,
+      "name": "茶寮 つぼ市製茶本舗",
+      "source": "https://welcome-to-senshu.jp/spots/4133",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "senshu",
+      "id": 110,
+      "name": "cafe&Bar moto",
+      "source": "https://welcome-to-senshu.jp/spots/4149",
+      "address": "泉佐野市上町3-11-25",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 111,
+      "name": "MR cafe",
+      "source": "https://welcome-to-senshu.jp/spots/7110",
+      "address": "堺市堺区栄橋町1丁1−16 iPHONE iPAD CASTLE",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 112,
+      "name": "カフェ空音",
+      "source": "https://welcome-to-senshu.jp/spots/7090",
+      "address": "泉南郡田尻町りんくうポート北3−25",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 113,
+      "name": "堺市茶室 伸庵",
+      "source": "https://welcome-to-senshu.jp/spots/6894",
+      "address": "堺市堺区百舌鳥夕雲町2丁",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 114,
+      "name": "中国酒菜 福見",
+      "source": "https://welcome-to-senshu.jp/spots/4291",
+      "address": "岸和田市下池田町2丁目10−1",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 115,
+      "name": "アリラン亭",
+      "source": "https://welcome-to-senshu.jp/spots/7125",
+      "address": "岸和田市五軒屋町11-8",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 116,
+      "name": "そば繫",
+      "source": "https://welcome-to-senshu.jp/spots/10114",
+      "address": "和泉市黒鳥町2-16-13",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 117,
+      "name": "焼肉ばーる やま龍",
+      "source": "https://welcome-to-senshu.jp/spots/10111",
+      "address": "和泉市のぞみ野1-2-41 イチクラビル 2F",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 118,
+      "name": "う玄武",
+      "source": "https://welcome-to-senshu.jp/spots/4735",
+      "address": "堺市堺区寺地町東1丁1−32",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 119,
+      "name": "GREEN KETTLE",
+      "source": "https://welcome-to-senshu.jp/spots/7084",
+      "address": "堺市中区新家町754-18",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 120,
+      "name": "BEARCOFFEE",
+      "source": "https://welcome-to-senshu.jp/spots/6942",
+      "address": "泉南郡熊取町野田1丁目5−5",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 121,
+      "name": "モダンチャイニーズkita",
+      "source": "https://welcome-to-senshu.jp/spots/7760",
+      "address": "貝塚市畠中1丁目3−13",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 122,
+      "name": "Caffe GIUSTO",
+      "source": "https://welcome-to-senshu.jp/spots/7102",
+      "address": "泉佐野市高松北1丁目1−4",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 123,
+      "name": "cafe moet",
+      "source": "https://welcome-to-senshu.jp/spots/7099",
+      "address": "和泉市尾井町2丁目9−28",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 124,
+      "name": "パンケーキカフェ cafeblow",
+      "source": "https://welcome-to-senshu.jp/spots/4633",
+      "address": "泉佐野市日根野3963−3",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 125,
+      "name": "みかん",
+      "source": "https://welcome-to-senshu.jp/spots/7087",
+      "address": "泉大津市旭町19-51",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 126,
+      "name": "中華料理 「桃李」/ ホテル日航関西空港",
+      "source": "https://welcome-to-senshu.jp/spots/8356",
+      "address": "泉佐野市泉州空港北 1番地 ホテル日航関西空港 2階",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 127,
+      "name": "百日草 カフェとごはん",
+      "source": "https://welcome-to-senshu.jp/spots/6917",
+      "address": "泉佐野市羽倉崎上町3丁目1-47",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 128,
+      "name": "cafe はちのわ",
+      "source": "https://welcome-to-senshu.jp/spots/10210",
+      "address": "貝塚市澤569−5",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 129,
+      "name": "I AM",
+      "source": "https://welcome-to-senshu.jp/spots/10209",
+      "address": "泉北郡忠岡町忠岡中3-16-28",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 130,
+      "name": "IZUMI Garden Terrace",
+      "source": "https://welcome-to-senshu.jp/spots/10208",
+      "address": "和泉市黒鳥町4丁目7-7(黒鳥山公園内)",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 131,
+      "name": "ベリーパークいずみの",
+      "source": "https://welcome-to-senshu.jp/spots/10168",
+      "address": "和泉市仏並町3010",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 132,
+      "name": "きさんじPlus",
+      "source": "https://welcome-to-senshu.jp/spots/10183",
+      "address": "和泉市府中町2-7-5",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 133,
+      "name": "やぶ果樹園",
+      "source": "https://welcome-to-senshu.jp/spots/10164",
+      "address": "貝塚市三ケ山1218-1",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 134,
+      "name": "北阪町観光農場",
+      "source": "https://welcome-to-senshu.jp/spots/10167",
+      "address": "岸和田市北阪町127番地",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 135,
+      "name": "道の駅 いずみ山愛の里",
+      "source": "https://welcome-to-senshu.jp/spots/3859",
+      "address": "和泉市仏並町398-1",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 136,
+      "name": "BONBON 手作りジェラート",
+      "source": "https://welcome-to-senshu.jp/spots/7715",
+      "address": "和泉市府中町4丁目10−41",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 137,
+      "name": "げこ亭",
+      "source": "https://welcome-to-senshu.jp/spots/7096",
+      "address": "堺市堺区新在家町西1丁1-30",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 138,
+      "name": "the PARKSIDE - Nanbu Fruit & Veggie Marche -",
+      "source": "https://welcome-to-senshu.jp/spots/7339",
+      "address": "堺市北区中村町744−1",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 139,
+      "name": "くだもの王国 アオイ農園",
+      "source": "https://welcome-to-senshu.jp/spots/6780",
+      "address": "和泉市葛の葉町3丁目3−11",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 140,
+      "name": "井川みかん園",
+      "source": "https://welcome-to-senshu.jp/spots/10163",
+      "address": "貝塚市三ヶ山396",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 141,
+      "name": "岸和田ブルーベリーパーク",
+      "source": "https://welcome-to-senshu.jp/spots/10166",
+      "address": "岸和田市尾生町2905",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 142,
+      "name": "BETTEI 別邸",
+      "source": "https://welcome-to-senshu.jp/spots/7200",
+      "address": "和泉市和気町1丁目6−11",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 143,
+      "name": "かいづかいぶきヴィレッジ",
+      "source": "https://welcome-to-senshu.jp/spots/9543",
+      "address": "貝塚市馬場3081",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 144,
+      "name": "そば舎 中中",
+      "source": "https://welcome-to-senshu.jp/spots/6945",
+      "address": "泉大津市二田町1丁目12−6",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 145,
+      "name": "古墳カレー花茶碗",
+      "source": "https://welcome-to-senshu.jp/spots/79",
+      "address": "堺市堺区百舌鳥夕雲町2-265",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 146,
+      "name": "喫茶ロータリー",
+      "source": "https://welcome-to-senshu.jp/spots/6575",
+      "address": "泉南郡岬町深日1431-2",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 147,
+      "name": "にし川",
+      "source": "https://welcome-to-senshu.jp/spots/6752",
+      "address": "泉南郡田尻町りんくうポート北1",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 148,
+      "name": "牛かつ専門店 うし寅",
+      "source": "https://welcome-to-senshu.jp/spots/7328",
+      "address": "岸和田市大北町11-33",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 149,
+      "name": "ネオフルーツパーラー Rosier",
+      "source": "https://welcome-to-senshu.jp/spots/4638",
+      "address": "堺市堺区市之町東5丁1−15",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 150,
+      "name": "中国料理やぐら",
+      "source": "https://welcome-to-senshu.jp/spots/4996",
+      "address": "阪南市光陽台1-16-12",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 151,
+      "name": "ひなたぼっこカフェ",
+      "source": "https://welcome-to-senshu.jp/spots/10189",
+      "address": "阪南市箱作307 豊大マンション 101",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 152,
+      "name": "多幸作（たこさく）",
+      "source": "https://welcome-to-senshu.jp/spots/5686",
+      "address": "阪南市箱作701",
+      "decision": "provisional"
+    },
+    {
+      "group": "senshu",
+      "id": 153,
+      "name": "旧浜寺公園駅舎（浜寺公園駅旧駅舎）",
+      "source": "https://welcome-to-senshu.jp/spots/10193",
+      "address": "堺市西区浜寺公園町2丁232",
+      "decision": "hold"
+    },
+    {
+      "group": "senshu",
+      "id": 154,
+      "name": "きしかん(旧岸和田観光農園)",
+      "source": "https://welcome-to-senshu.jp/spots/10169",
+      "address": "岸和田市内畑町5068",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 155,
+      "name": "保護猫カフェねこネコ",
+      "source": "https://satomachi-izumi.com/pamphlet/22875.html",
+      "address": "和泉市府中町一丁目10-13ユウパレス和泉府中2A",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 156,
+      "name": "pâtisserie épisode （パティスリーエピソード）",
+      "source": "https://satomachi-izumi.com/pamphlet/22875.html",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "izumi",
+      "id": 157,
+      "name": "纏 -matoi- 音楽教室Cafè",
+      "source": "https://satomachi-izumi.com/pamphlet/22875.html",
+      "address": "",
+      "decision": "address-unresolved"
+    },
+    {
+      "group": "izumi",
+      "id": 158,
+      "name": "りんご飴×アサイー×グリークヨーグルト POM de Sweets 和泉店",
+      "source": "https://satomachi-izumi.com/pamphlet/22875.html",
+      "address": "和泉市府中町一丁目5-10",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 159,
+      "name": "カフェ レストラン %(パーセント)",
+      "source": "https://satomachi-izumi.com/pamphlet/22875.html",
+      "address": "和泉市府中町一丁目5-14",
+      "decision": "provisional"
+    },
+    {
+      "group": "izumi",
+      "id": 160,
+      "name": "パン工房ぺぺ・とと",
+      "source": "https://satomachi-izumi.com/pamphlet/22875.html",
+      "address": "和泉市府中町一丁目5-5",
+      "decision": "provisional"
+    },
+    {
+      "group": "izumi",
+      "id": 161,
+      "name": "府中酒場 ぐでんぐでん",
+      "source": "https://satomachi-izumi.com/pamphlet/22875.html",
+      "address": "和泉市府中町一丁目8-3",
+      "decision": "provisional"
+    },
+    {
+      "group": "izumi",
+      "id": 162,
+      "name": "そもそもきさんじ",
+      "source": "https://satomachi-izumi.com/pamphlet/22875.html",
+      "address": "和泉市府中町一丁目8-3",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 163,
+      "name": "日本料理 みやこ",
+      "source": "https://satomachi-izumi.com/pamphlet/22875.html",
+      "address": "和泉市府中町二丁目1-5",
+      "decision": "provisional"
+    },
+    {
+      "group": "izumi",
+      "id": 164,
+      "name": "CAFE & BAL コネスタ",
+      "source": "https://satomachi-izumi.com/pamphlet/22875.html",
+      "address": "和泉市府中町二丁目1-5",
+      "decision": "provisional"
+    },
+    {
+      "group": "izumi",
+      "id": 165,
+      "name": "チーズケーキの店 アンジュ",
+      "source": "https://satomachi-izumi.com/pamphlet/22875.html",
+      "address": "和泉市府中町二丁目2-24",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 166,
+      "name": "和泉府中酒場 情熱ホルモン",
+      "source": "https://satomachi-izumi.com/pamphlet/22875.html",
+      "address": "和泉市府中町六丁目1-1",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 167,
+      "name": "鶏やす",
+      "source": "https://satomachi-izumi.com/pamphlet/22875.html",
+      "address": "和泉市府中町一丁目10-3第二泉洋ビル101",
+      "decision": "provisional"
+    },
+    {
+      "group": "izumi",
+      "id": 168,
+      "name": "Oeuf Cafe(ウッフカフェ)",
+      "source": "https://satomachi-izumi.com/pamphlet/22916.html",
+      "address": "和泉市観音寺町656 グリーンビル1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "izumi",
+      "id": 169,
+      "name": "イタリア料理 LA CASA（ラ・カーサ）",
+      "source": "https://satomachi-izumi.com/pamphlet/22916.html",
+      "address": "和泉市観音寺町656 グリーンビル2F",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 170,
+      "name": "焼肉処 わらび 和泉府中本店",
+      "source": "https://satomachi-izumi.com/pamphlet/22916.html",
+      "address": "和泉市桑原町279-2第一泉洋ビル1F",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 171,
+      "name": "レストラン きさんじPlus",
+      "source": "https://satomachi-izumi.com/pamphlet/22916.html",
+      "address": "和泉市府中町二丁目7-5 和泉市役所飲食物販棟2階",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 172,
+      "name": "ジェラート BON BON",
+      "source": "https://satomachi-izumi.com/pamphlet/22916.html",
+      "address": "和泉市府中町四丁目10-41",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 173,
+      "name": "鮨 こみ太郎",
+      "source": "https://satomachi-izumi.com/pamphlet/22916.html",
+      "address": "和泉市府中町四丁目5-22",
+      "decision": "provisional"
+    },
+    {
+      "group": "izumi",
+      "id": 174,
+      "name": "マンドリルカレーBETTEI 別邸",
+      "source": "https://satomachi-izumi.com/pamphlet/22916.html",
+      "address": "和泉市和気町一丁目6-11",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 175,
+      "name": "鉄板居酒屋しえろ",
+      "source": "https://satomachi-izumi.com/pamphlet/22916.html",
+      "address": "和泉市観音寺町681-1",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 176,
+      "name": "KGC FOREST BRIDGE",
+      "source": "https://satomachi-izumi.com/pamphlet/23169.html",
+      "address": "和泉市大野町662",
+      "decision": "provisional"
+    },
+    {
+      "group": "izumi",
+      "id": 177,
+      "name": "ヨガミュージックカフェ テテオニ",
+      "source": "https://satomachi-izumi.com/pamphlet/23169.html",
+      "address": "和泉市父鬼町256",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 178,
+      "name": "花菜おに工房【薪窯パン・レストラン】",
+      "source": "https://satomachi-izumi.com/pamphlet/23169.html",
+      "address": "和泉市春木川町97-1",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 179,
+      "name": "FILNE(フィルネ)",
+      "source": "https://satomachi-izumi.com/pamphlet/23169.html",
+      "address": "和泉市仏並町1739",
+      "decision": "provisional"
+    },
+    {
+      "group": "izumi",
+      "id": 180,
+      "name": "農園cafe 苺果",
+      "source": "https://satomachi-izumi.com/pamphlet/23169.html",
+      "address": "和泉市仏並町2040",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 181,
+      "name": "GREEN ROOM(グリーンルーム）",
+      "source": "https://satomachi-izumi.com/pamphlet/23169.html",
+      "address": "和泉市槇尾山町86-1",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 182,
+      "name": "道の駅いずみ山愛の里 旬菜レストラン・つむぎ",
+      "source": "https://satomachi-izumi.com/pamphlet/23169.html",
+      "address": "和泉市仏並町398-1",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 183,
+      "name": "オヤジのたまごループ",
+      "source": "https://satomachi-izumi.com/pamphlet/23169.html",
+      "address": "和泉市若樫町1137-1",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 184,
+      "name": "S W E E T S A T E L I E R T W I N K L E",
+      "source": "https://satomachi-izumi.com/pamphlet/23170.html",
+      "address": "和泉市池上町一丁目4-19",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 185,
+      "name": "CAFÉ Ruota",
+      "source": "https://satomachi-izumi.com/pamphlet/23170.html",
+      "address": "和泉市葛の葉町1-14-45",
+      "decision": "provisional"
+    },
+    {
+      "group": "izumi",
+      "id": 186,
+      "name": "パフェとクレープのお店「ぶどうの木」",
+      "source": "https://satomachi-izumi.com/pamphlet/23170.html",
+      "address": "和泉市葛の葉町三丁目3-11",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 187,
+      "name": "カフェレスト逵田（つじた）",
+      "source": "https://satomachi-izumi.com/pamphlet/23170.html",
+      "address": "和泉市幸二丁目2-39-108",
+      "decision": "provisional"
+    },
+    {
+      "group": "izumi",
+      "id": 188,
+      "name": "café FLAT",
+      "source": "https://satomachi-izumi.com/pamphlet/23170.html",
+      "address": "和泉市幸二丁目10-14",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 189,
+      "name": "Basil Basil",
+      "source": "https://satomachi-izumi.com/pamphlet/23170.html",
+      "address": "和泉市太町560-1",
+      "decision": "provisional"
+    },
+    {
+      "group": "izumi",
+      "id": 190,
+      "name": "韓国料理Rhami",
+      "source": "https://satomachi-izumi.com/pamphlet/23170.html",
+      "address": "和泉市鶴山台二丁目1-1-104",
+      "decision": "provisional"
+    },
+    {
+      "group": "izumi",
+      "id": 191,
+      "name": "和菓子舗 栄久堂吉宗",
+      "source": "https://satomachi-izumi.com/pamphlet/23170.html",
+      "address": "和泉市池上町一丁目4-14",
+      "decision": "hold"
+    },
+    {
+      "group": "izumi",
+      "id": 192,
+      "name": "ショップともに",
+      "source": "https://satomachi-izumi.com/pamphlet/23170.html",
+      "address": "和泉市幸二丁目6-19",
+      "decision": "hold"
+    },
+    {
+      "group": "taishi",
+      "id": 193,
+      "name": "万葉の森案内所",
+      "source": "https://taishi-kankou.jp/spot/eat/manyounomori.php",
+      "address": "南河内郡太子町山田2067-1 万葉の森案内所",
+      "decision": "hold"
+    },
+    {
+      "group": "taishi",
+      "id": 194,
+      "name": "太子温泉",
+      "source": "https://taishi-kankou.jp/spot/eat/taishionsen.php",
+      "address": "南河内郡太子町山田1131",
+      "decision": "hold"
+    },
+    {
+      "group": "taishi",
+      "id": 195,
+      "name": "Centre de village（サントル・ドゥ・ヴィラージュ）",
+      "source": "https://taishi-kankou.jp/spot/eat/taishiroll.php",
+      "address": "南河内郡太子町太子307",
+      "decision": "provisional"
+    },
+    {
+      "group": "taishi",
+      "id": 196,
+      "name": "お食事処 ふくべ",
+      "source": "https://taishi-kankou.jp/spot/eat/fukube.php",
+      "address": "南河内郡太子町山田107",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 0,
+      "name": "鉄板グリル をかし",
+      "source": "https://sui-town.com/archives/shuhentempo/wokashi",
+      "address": "吹田市元町4-10",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 1,
+      "name": "Weekend N°5",
+      "source": "https://sui-town.com/archives/nisiki/weekend-n5",
+      "address": "吹田市朝日町5-22",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 2,
+      "name": "スパイスキッチン 結",
+      "source": "https://sui-town.com/archives/sinasahi/spicekitchen_yui",
+      "address": "吹田市元町11-5",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 3,
+      "name": "Day Snack エルドラド",
+      "source": "https://sui-town.com/archives/sinasahi/day-snack_eldorado",
+      "address": "吹田市内本町2丁目1-7",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 4,
+      "name": "URRA-RA",
+      "source": "https://sui-town.com/archives/nisiki/urra-ra",
+      "address": "吹田市朝日町13-2",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 5,
+      "name": "plant-bosed cafe - Alle（アレ）",
+      "source": "https://sui-town.com/archives/asahi/plantbosedcafe-alle",
+      "address": "吹田市朝日町18-11 RKSビル",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 6,
+      "name": "天ぷら食堂 魚徳",
+      "source": "https://sui-town.com/archives/naka/uwotoku",
+      "address": "吹田市朝日町27-23",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 7,
+      "name": "じょう崎",
+      "source": "https://sui-town.com/archives/shuhentempo/jyouzaki",
+      "address": "吹田市元町6番3号",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 8,
+      "name": "焼鳥のヒナタ",
+      "source": "https://sui-town.com/archives/nisiki/hinata",
+      "address": "吹田市朝日町5-17",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 9,
+      "name": "スペイン料理 BAR メソン アスタマニャーナ",
+      "source": "https://sui-town.com/archives/naka/mesonhm",
+      "address": "吹田市朝日町25-1",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 10,
+      "name": "プリマヴェーラ",
+      "source": "https://sui-town.com/archives/shuhentempo/primavera",
+      "address": "吹田市内本町1-21-12 店舗106",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 11,
+      "name": "野口製麺所",
+      "source": "https://sui-town.com/archives/shuhentempo/nogutiseimensyo",
+      "address": "吹田市高浜町7-9",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 12,
+      "name": "ウインドベル",
+      "source": "https://sui-town.com/archives/shuhentempo/windbell",
+      "address": "吹田市高浜町1-14-1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 13,
+      "name": "ハピネスプーン",
+      "source": "https://sui-town.com/archives/naka/happinesspoon",
+      "address": "吹田市朝日町13-28",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 14,
+      "name": "Restaurant Sanssouci レストランサンスーシ",
+      "source": "https://sui-town.com/archives/shuhentempo/restaurant-sanssouci",
+      "address": "吹田市高浜町9-2中央ビル1F",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 15,
+      "name": "ガストロノミア エスターテ",
+      "source": "https://sui-town.com/archives/shuhentempo/estate",
+      "address": "吹田市昭和町10-3 竹国吹田駅前ビル 1F",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 16,
+      "name": "ピザと石窯の小さなお店 Ani-アニ-",
+      "source": "https://sui-town.com/archives/shuhentempo/ani",
+      "address": "吹田市昭和町10-24 竹寅ビル1F",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 17,
+      "name": "食彩酒家 びーわん",
+      "source": "https://sui-town.com/archives/sankusu/b-1",
+      "address": "吹田市朝日町2 吹田さんくす2番館味ののれん街B-1",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 18,
+      "name": "まっちゃん食堂",
+      "source": "https://sui-town.com/archives/sinasahi/macchan-syokudou",
+      "address": "吹田市内本町2-1-24",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 19,
+      "name": "nasaran・みずいろ喫茶",
+      "source": "https://sui-town.com/archives/sinasahi/nasaran",
+      "address": "吹田市元町 7 - 21",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 20,
+      "name": "らーめん彩哲～isato～",
+      "source": "https://sui-town.com/archives/nisiki/isato",
+      "address": "吹田市朝日町5-24",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 21,
+      "name": "勝真",
+      "source": "https://sui-town.com/archives/asahi/katusin",
+      "address": "吹田市元町7-4",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 22,
+      "name": "一軒め酒場",
+      "source": "https://sui-town.com/archives/asahi/ikkenmesakaba",
+      "address": "吹田市元町4-7",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 23,
+      "name": "珈琲専門店コッペル",
+      "source": "https://sui-town.com/archives/asahi/kopperu",
+      "address": "吹田市朝日町19-20",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 24,
+      "name": "さくらカフェ",
+      "source": "https://sui-town.com/archives/asahi/sakuracafe",
+      "address": "吹田市元町6-6",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 25,
+      "name": "元町カレー",
+      "source": "https://sui-town.com/archives/sinasahi/motomachi-curry",
+      "address": "吹田市元町7-16",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 26,
+      "name": "bb UNO",
+      "source": "https://sui-town.com/archives/sinasahi/bb-uno",
+      "address": "吹田市元町11-8",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 27,
+      "name": "インド料理 Paprika",
+      "source": "https://sui-town.com/archives/shuhentempo/paprika",
+      "address": "吹田市朝日町27-7 正田ビル 1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 28,
+      "name": "人類みなまぜそば",
+      "source": "https://sui-town.com/archives/sinasahi/jinrui_mazesoba",
+      "address": "吹田市内本町2-1-23",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 29,
+      "name": "日本酒処 福warai",
+      "source": "https://sui-town.com/archives/asahi/fukuwarai",
+      "address": "吹田市朝日町5-26",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 30,
+      "name": "ねこや",
+      "source": "https://sui-town.com/archives/sinasahi/nekoya",
+      "address": "吹田市元町7-23",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 31,
+      "name": "パスタスタンド サイドビー",
+      "source": "https://sui-town.com/archives/sinasahi/%e3%82%b5%e3%82%a4%e3%83%89%e3%83%93%e3%83%bc",
+      "address": "吹田市内本町2-2-6",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 32,
+      "name": "珉珉 吹田さんくす店",
+      "source": "https://sui-town.com/archives/sankusu/minmin",
+      "address": "吹田市朝日町2-B-106 吹田さんくす2番館B1F",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 33,
+      "name": "ミスタードーナツ JR吹田ショップ",
+      "source": "https://sui-town.com/archives/sankusu/mister_donut",
+      "address": "吹田市朝日町1-110 吹田さんくす1番館1F",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 34,
+      "name": "駅うどん",
+      "source": "https://sui-town.com/archives/sankusu/eki-udon",
+      "address": "吹田市朝日町1-000 吹田さんくす1番館1F",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 35,
+      "name": "えいちゃん酒場",
+      "source": "https://sui-town.com/archives/sankusu/eichan-sakaba",
+      "address": "吹田市朝日町2-123 さんくす2番館B1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 36,
+      "name": "酔笑庵ぽんぽ",
+      "source": "https://sui-town.com/archives/sankusu/ponpo",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 37,
+      "name": "地酒 ふく",
+      "source": "https://sui-town.com/archives/sankusu/fuku",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 38,
+      "name": "立ち呑み処 ままや",
+      "source": "https://sui-town.com/archives/sankusu/mamaya",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 39,
+      "name": "旬菜 さかえ",
+      "source": "https://sui-town.com/archives/sankusu/sakae",
+      "address": "吹田市朝日町2-123 吹田さんくす2番館B1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 40,
+      "name": "立呑み処 蔵",
+      "source": "https://sui-town.com/archives/sankusu/kura",
+      "address": "吹田市朝日町1-105 吹田さんくす2番館B1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 41,
+      "name": "福すし",
+      "source": "https://sui-town.com/archives/sankusu/fukusushi",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 42,
+      "name": "居酒屋 GORO",
+      "source": "https://sui-town.com/archives/sankusu/izakaya-goro",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 43,
+      "name": "モノクローム",
+      "source": "https://sui-town.com/archives/sankusu/monochrome",
+      "address": "吹田市朝日町2-121 吹田さんくす2番館1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 44,
+      "name": "マクドナルド 吹田さんくす店",
+      "source": "https://sui-town.com/archives/sankusu/mcdonaids",
+      "address": "吹田市朝日町2-123 吹田さんくす2番館1F",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 45,
+      "name": "だいげん",
+      "source": "https://sui-town.com/archives/sankusu/daigen",
+      "address": "吹田市朝日町1 吹田さんくす2番館1F",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 46,
+      "name": "宮本むなし JR吹田駅前店",
+      "source": "https://sui-town.com/archives/sankusu/miyamotomusashi",
+      "address": "吹田市朝日町1-106 吹田さんくす1番館1F",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 47,
+      "name": "ポポラマーマ JR吹田店",
+      "source": "https://sui-town.com/archives/sankusu/popolamama",
+      "address": "吹田市朝日町1-103 吹田さんくす1番館1F",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 48,
+      "name": "居酒屋一文字",
+      "source": "https://sui-town.com/archives/shuhentempo/ichimonji",
+      "address": "吹田市昭和町6-14",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 49,
+      "name": "豚や",
+      "source": "https://sui-town.com/archives/shuhentempo/butaya",
+      "address": "吹田市昭和町7-17",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 50,
+      "name": "Bar mcClane バー マクレーン",
+      "source": "https://sui-town.com/archives/shuhentempo/bar-mcclane",
+      "address": "吹田市昭和町10-22 2F",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 51,
+      "name": "居酒屋 おはこ",
+      "source": "https://sui-town.com/archives/shuhentempo/ohako",
+      "address": "吹田市昭和町10-20",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 52,
+      "name": "ポコポコ亭",
+      "source": "https://sui-town.com/archives/asahi/pokopokotei",
+      "address": "吹田市朝日町12-18",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 53,
+      "name": "ワインバー リトゥム",
+      "source": "https://sui-town.com/archives/asahi/winebar-rythme",
+      "address": "吹田市内本町2-1-5",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 54,
+      "name": "そば処 万両",
+      "source": "https://sui-town.com/archives/asahi/manryo",
+      "address": "吹田市元町6-8",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 55,
+      "name": "さんきゅう水産",
+      "source": "https://sui-town.com/archives/asahi/sankyusuisan",
+      "address": "吹田市元町7-7",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 56,
+      "name": "北新地とんかつ エペ クープ",
+      "source": "https://sui-town.com/archives/asahi/tonkatsu-epeku-pu",
+      "address": "吹田市元町5-5",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 57,
+      "name": "やきとり とりしん",
+      "source": "https://sui-town.com/archives/asahi/yakitori-torishin",
+      "address": "吹田市元町7-14",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 58,
+      "name": "卯らら華",
+      "source": "https://sui-town.com/archives/asahi/uraraka",
+      "address": "吹田市元町7-2",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 59,
+      "name": "Saikai（再会）",
+      "source": "https://sui-town.com/archives/asahi/saikai",
+      "address": "吹田市元町3-8",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 60,
+      "name": "Gallery × Musicbar ケセラ",
+      "source": "https://sui-town.com/archives/asahi/quesera",
+      "address": "吹田市元町7-13",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 61,
+      "name": "自家製麺 うどん 司",
+      "source": "https://sui-town.com/archives/katayama/udon-tukasa",
+      "address": "吹田市片山町3-33-17",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 62,
+      "name": "肉バル ガブット吹田店",
+      "source": "https://sui-town.com/archives/katayama/gabutto",
+      "address": "吹田市片山町1-5-10 ダイオービル1F",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 63,
+      "name": "easeキッチン燦",
+      "source": "https://sui-town.com/archives/katayama/easekitchensun",
+      "address": "吹田市片山町3-33-17",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 64,
+      "name": "喫茶ハロッズ",
+      "source": "https://sui-town.com/archives/katayama/harozzu",
+      "address": "吹田市片山町3-32-14",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 65,
+      "name": "陶板焼肉 てん、てん",
+      "source": "https://sui-town.com/archives/nisiki/ten-ten",
+      "address": "吹田市朝日町5-18",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 66,
+      "name": "おいしんぼ",
+      "source": "https://sui-town.com/archives/nisiki/oishinbo",
+      "address": "吹田市朝日町5-20",
+      "decision": "provisional"
+    },
+    {
+      "group": "suita",
+      "id": 67,
+      "name": "ラウンジYES",
+      "source": "https://sui-town.com/archives/nisiki/lounge-yes",
+      "address": "吹田市朝日町5-25",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 68,
+      "name": "ショトバーNO",
+      "source": "https://sui-town.com/archives/nisiki/shot-bar-no",
+      "address": "吹田市朝日町5-25",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 69,
+      "name": "珈琲専門店 三番館 吹田店",
+      "source": "https://sui-town.com/archives/nisiki/sanbankan",
+      "address": "吹田市朝日町13-8 1F",
+      "decision": "hold"
+    },
+    {
+      "group": "suita",
+      "id": 70,
+      "name": "ケンタッキーフライドチキン 吹田店",
+      "source": "https://sui-town.com/archives/nisiki/kentucky-suita",
+      "address": "吹田市朝日町15-3",
+      "decision": "hold"
+    }
+  ]
+}

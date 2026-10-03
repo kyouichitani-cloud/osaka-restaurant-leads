@@ -1,0 +1,105 @@
+{
+  "stats": {
+    "date": "2026-10-03",
+    "reviewed": 289,
+    "provisionalBeforeDedup": 137,
+    "added": 130,
+    "duplicates": 7,
+    "baseline": 862,
+    "total": 992
+  },
+  "duplicates": [
+    {
+      "name": "カフェ杏樹（あんず）",
+      "existing": "カフェ 杏樹",
+      "address": "泉南市信達牧野395-1"
+    },
+    {
+      "name": "ouchipan（おうちパン）",
+      "existing": "Ouchipan",
+      "address": "泉南郡岬町多奈川谷川1423ー44"
+    },
+    {
+      "name": "スイーツスリール 369",
+      "existing": "スイーツスリール 369",
+      "address": "泉南郡熊取町大久保中1-10-16"
+    },
+    {
+      "name": "喫茶ロータリー",
+      "existing": "喫茶ロータリー",
+      "address": "泉南郡岬町深日1431-2"
+    },
+    {
+      "name": "勝真",
+      "existing": "勝真",
+      "address": "吹田市元町7-4"
+    },
+    {
+      "name": "そば処 万両",
+      "existing": "そば処 万両",
+      "address": "吹田市元町6-8"
+    },
+    {
+      "name": "自家製麺 うどん 司",
+      "existing": "自家製麺 うどん司",
+      "address": "吹田市片山町3-33-17"
+    }
+  ],
+  "addressReview": [
+    {
+      "name": "CAFE & BAL コネスタ",
+      "other": "日本料理 みやこ",
+      "address": "和泉市府中町二丁目1-5"
+    },
+    {
+      "name": "地酒 ふく",
+      "other": "酔笑庵ぽんぽ",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F"
+    },
+    {
+      "name": "立ち呑み処 ままや",
+      "other": "酔笑庵ぽんぽ",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F"
+    },
+    {
+      "name": "立ち呑み処 ままや",
+      "other": "地酒 ふく",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F"
+    },
+    {
+      "name": "福すし",
+      "other": "酔笑庵ぽんぽ",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F"
+    },
+    {
+      "name": "福すし",
+      "other": "地酒 ふく",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F"
+    },
+    {
+      "name": "福すし",
+      "other": "立ち呑み処 ままや",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F"
+    },
+    {
+      "name": "居酒屋 GORO",
+      "other": "酔笑庵ぽんぽ",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F"
+    },
+    {
+      "name": "居酒屋 GORO",
+      "other": "地酒 ふく",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F"
+    },
+    {
+      "name": "居酒屋 GORO",
+      "other": "立ち呑み処 ままや",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F"
+    },
+    {
+      "name": "居酒屋 GORO",
+      "other": "福すし",
+      "address": "吹田市朝日町1 吹田さんくす2番館B1F"
+    }
+  ]
+}

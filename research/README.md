@@ -2,7 +2,7 @@
 
 ## Scope and limits
 
-The site has **862 provisional S/A/B candidates**, not 68,521 verified prospects.
+The site has **992 provisional S/A/B candidates**, not 68,521 verified prospects.
 The separate **68,521 public-permit records** are a research universe. Website
 absence, independent ownership and current operation remain unverified. Both
 lists can overlap and must not be summed as a restaurant count.
@@ -100,6 +100,20 @@ not collapsed solely on that basis. This remains a source-level screen, not
 proof of no website, present operation, independent ownership or complete
 Osaka coverage. Some profiles may be historical. Decisions and original
 profile links are in `batch4-reviewed-2026-10-03.json`.
+
+The next October 3 pass screened **289 source entries**: 155 KIX Senshu tourism
+profiles, 38 Izumi gourmet-map entries, 4 Taishi tourism profiles, 71 Suita
+shopping-street profiles and 21 legible Kadoma city map entries. The first four
+sets were collected from all relevant category pages by `collect-batch5.py`
+and `collect-suitatown.py`; their exact cached snapshots are ignored by Git.
+`review-batch5.py` pins 116 provisional B selections. The Kadoma names and
+addresses were manually transcribed from two official map images and recorded
+in `kadoma-map-reviewed-2026-10-03.json`; uncertain text was held. After 7
+matches against existing listings, `build-batch5.cjs` published **130** new B
+candidates for **992** total. `batch5-publication-2026-10-03.json` records
+duplicate and same-address review. A map or guide listing is not proof that a
+shop remains open, has no standalone site or is independently owned. The
+prefecture-wide search is not exhaustive.
 
 `dist/additional.js` carries separately reviewed small-town sources. Each item
 states its evidence and uncertainty. Earlier hand-researched candidates stay in
