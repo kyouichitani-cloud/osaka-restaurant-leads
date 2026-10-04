@@ -165,7 +165,20 @@ Only `.openai/hosting.json` and `dist/` enter the deployment archive. Never publ
 `research/raw/` or `registry-raw.json`: government originals can contain owners'
 personal names and addresses. Public exports retain facility name/location and
 business-contact fields only. Raw cache and diagnostic audit files are Git-ignored.
-The site must remain owner-private unless the user requests a different audience.
+The site is public at the owner's explicit request; preserve that audience on updates unless the owner requests another change.
+
+## Business phone numbers
+
+`export-phone-targets.cjs` snapshots the 1,306 deduplicated leads to an ignored
+local working file. `collect-phones.py` associates a number only when a unique
+shop profile labels it as a phone number or when a public permit record matches
+both the shop name and address. Pages listing multiple shops are not treated as
+individual evidence. Contradictory numbers are held out. The auditable result
+is `phone-evidence-2026-10-04.json`, and `build-phones.cjs` produces the small
+public `dist/phones.js` lookup. **506** candidate shops have a sourced number;
+**800** remain unverified. The public permit-record view shows its own phone
+field only when provided by the source. All listed numbers may change and
+should be checked again before outreach.
 
 Each published record points to its original source. `registry-meta.json` records
 source authority, date and coverage; the source disclosure is visible in the UI.
