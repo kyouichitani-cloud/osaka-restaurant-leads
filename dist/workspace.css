@@ -12,3 +12,5 @@ main.shell{padding-top:24px;padding-bottom:64px}.panel{box-shadow:0 6px 24px rgb
 @media(max-width:760px){.summary span:last-child{display:none}}
 
 .email{margin:8px 0 0;color:#344a5d;font-size:.9rem;line-height:1.6;overflow-wrap:anywhere}.email>a[href^="mailto:"]{color:#145995;font-weight:700;text-underline-offset:3px}.email .source{font-size:.8rem}.email-missing{color:#647587}
+
+.contact-routes{margin-top:10px;padding-top:4px;border-top:1px solid #e8edf1}.contact-route{display:flex;gap:8px 12px;align-items:baseline;flex-wrap:wrap;line-height:1.6}.contact-route .source{margin:4px 0;min-height:28px}.contact-route span,.contact-missing,.contact-date{font-size:.875rem;color:#647587}.contact-missing{margin:6px 0}.contact-date{margin:6px 0 0}.contact-recheck{font-size:.875rem;color:#805a1c;background:#fff5df;padding:8px 10px;border-radius:5px;margin:8px 0 0}
