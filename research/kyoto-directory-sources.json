@@ -1,0 +1,111 @@
+[
+  {
+    "authority": "海の京都DMO",
+    "root": "https://www.uminokyoto.jp/gourmet/",
+    "pages": [
+      "https://www.uminokyoto.jp/gourmet/",
+      "https://www.uminokyoto.jp/gourmet/?page=1&mxcnt=241",
+      "https://www.uminokyoto.jp/gourmet/?page=10&mxcnt=241",
+      "https://www.uminokyoto.jp/gourmet/?page=11&mxcnt=241",
+      "https://www.uminokyoto.jp/gourmet/?page=2&mxcnt=241",
+      "https://www.uminokyoto.jp/gourmet/?page=3&mxcnt=241",
+      "https://www.uminokyoto.jp/gourmet/?page=4&mxcnt=241",
+      "https://www.uminokyoto.jp/gourmet/?page=5&mxcnt=241",
+      "https://www.uminokyoto.jp/gourmet/?page=6&mxcnt=241",
+      "https://www.uminokyoto.jp/gourmet/?page=7&mxcnt=241",
+      "https://www.uminokyoto.jp/gourmet/?page=8&mxcnt=241",
+      "https://www.uminokyoto.jp/gourmet/?page=9&mxcnt=241"
+    ],
+    "profiles": 241
+  },
+  {
+    "authority": "森の京都DMO",
+    "root": "https://morinokyoto.jp/gourmet/",
+    "pages": [
+      "https://morinokyoto.jp/gourmet/",
+      "https://morinokyoto.jp/gourmet/page/10/",
+      "https://morinokyoto.jp/gourmet/page/11/",
+      "https://morinokyoto.jp/gourmet/page/12/",
+      "https://morinokyoto.jp/gourmet/page/13/",
+      "https://morinokyoto.jp/gourmet/page/14/",
+      "https://morinokyoto.jp/gourmet/page/15/",
+      "https://morinokyoto.jp/gourmet/page/16/",
+      "https://morinokyoto.jp/gourmet/page/17/",
+      "https://morinokyoto.jp/gourmet/page/2/",
+      "https://morinokyoto.jp/gourmet/page/3/",
+      "https://morinokyoto.jp/gourmet/page/4/",
+      "https://morinokyoto.jp/gourmet/page/5/",
+      "https://morinokyoto.jp/gourmet/page/6/",
+      "https://morinokyoto.jp/gourmet/page/7/",
+      "https://morinokyoto.jp/gourmet/page/8/",
+      "https://morinokyoto.jp/gourmet/page/9/"
+    ],
+    "profiles": 137
+  },
+  {
+    "authority": "お茶の京都DMO",
+    "root": "https://www.ochanokyoto.jp/gourmet/",
+    "pages": [
+      "https://www.ochanokyoto.jp/gourmet/",
+      "https://www.ochanokyoto.jp/gourmet/index.php?page=1&mxcnt=184",
+      "https://www.ochanokyoto.jp/gourmet/index.php?page=10&mxcnt=184",
+      "https://www.ochanokyoto.jp/gourmet/index.php?page=2&mxcnt=184",
+      "https://www.ochanokyoto.jp/gourmet/index.php?page=3&mxcnt=184",
+      "https://www.ochanokyoto.jp/gourmet/index.php?page=4&mxcnt=184",
+      "https://www.ochanokyoto.jp/gourmet/index.php?page=5&mxcnt=184",
+      "https://www.ochanokyoto.jp/gourmet/index.php?page=6&mxcnt=184",
+      "https://www.ochanokyoto.jp/gourmet/index.php?page=7&mxcnt=184",
+      "https://www.ochanokyoto.jp/gourmet/index.php?page=8&mxcnt=184",
+      "https://www.ochanokyoto.jp/gourmet/index.php?page=9&mxcnt=184"
+    ],
+    "profiles": 184
+  },
+  {
+    "authority": "祇園商店街",
+    "root": "https://www.gion.or.jp/shop/",
+    "pages": [
+      "https://www.gion.or.jp/shop/"
+    ],
+    "profiles": 52
+  },
+  {
+    "authority": "京都三条会商店街",
+    "root": "https://sanjokai.kyoto.jp/?page_id=3313",
+    "pages": [
+      "https://sanjokai.kyoto.jp/?page_id=3313"
+    ],
+    "profiles": 170
+  },
+  {
+    "authority": "七条商店街",
+    "root": "https://kyoto-shichijo.jp/shop",
+    "pages": [
+      "https://kyoto-shichijo.jp/shop"
+    ],
+    "profiles": 5
+  },
+  {
+    "authority": "はじめまして京都西山",
+    "root": "https://kyoto-nishiyama.jp/category/cafe/",
+    "pages": [
+      "https://kyoto-nishiyama.jp/category/bread/",
+      "https://kyoto-nishiyama.jp/category/cafe/",
+      "https://kyoto-nishiyama.jp/category/cafe/page/2/",
+      "https://kyoto-nishiyama.jp/category/coffee-shop/",
+      "https://kyoto-nishiyama.jp/category/coffee/",
+      "https://kyoto-nishiyama.jp/category/dinner/",
+      "https://kyoto-nishiyama.jp/category/dinner/page/2/",
+      "https://kyoto-nishiyama.jp/category/dinner/page/3/",
+      "https://kyoto-nishiyama.jp/category/izakaya/",
+      "https://kyoto-nishiyama.jp/category/izakaya/page/2/",
+      "https://kyoto-nishiyama.jp/category/lunch/",
+      "https://kyoto-nishiyama.jp/category/lunch/page/2/",
+      "https://kyoto-nishiyama.jp/category/lunch/page/3/",
+      "https://kyoto-nishiyama.jp/category/lunch/page/4/",
+      "https://kyoto-nishiyama.jp/category/lunch/page/5/",
+      "https://kyoto-nishiyama.jp/category/men/",
+      "https://kyoto-nishiyama.jp/category/sweets/"
+    ],
+    "profiles": 64
+  }
+]

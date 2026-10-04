@@ -12,7 +12,7 @@ delegated: static HTML, CSS and JavaScript for a lightweight, easy-to-update lis
 
 ## Users
 
-The owner reviews restaurant prospects across Osaka Prefecture for website-production outreach.
+The owner reviews restaurant prospects across Kansai for website-production outreach, expanding one prefecture at a time. Osaka remains available; Kyoto is the first added prefecture.
 
 ## Product Purpose
 
@@ -24,6 +24,9 @@ Show newly researched independent food businesses by geographic area and S/A/B c
 - Each candidate needs a rank, location, concise evidence and a direct source link.
 - A rank describes the match to the website-outreach criteria, not food or service quality.
 - The absence of a listed website does not prove no website exists.
+- Collection has no arbitrary store-count cap. Public permit records and condition-reviewed candidates are separate lists and are never added together as a total store count.
+- Kyoto covers all 26 municipalities as a research scope, not a claim of completed coverage. Historical records, unconfirmed current operation and incomplete source coverage must remain visible.
+- Phone and store-linked social accounts should open directly on smartphones. A linked Instagram account does not prove DM reception is available; never send outreach as part of research.
 
 ## Evidence on Hand
 
