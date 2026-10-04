@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-04",
+  "targetCount": 1306,
+  "sourcePagesChecked": 1046,
+  "verifiedCount": 1,
+  "unverifiedCount": 1305,
+  "accepted": [
+    {
+      "key": "岸和田市|旬魚菜・なべ「きん魚」|岸和田市宮本町5-1",
+      "name": "旬魚菜・なべ「きん魚」",
+      "address": "岸和田市宮本町5-1",
+      "email": "2017.kingyo@gmail.com",
+      "source": "https://www.kishiwadashotengai.com/shop/gourmet/page-476/",
+      "context": "種別 飲食店・居酒屋住所 岸和田市宮本町5-1TEL 072-457-4492営業時間 17：00～24：00定休日 月曜日メールアドレス 2017.kingyo@gmail.com",
+      "method": "shop-specific-directory-contact"
+    }
+  ],
+  "limitations": [
+    "既存の紹介ページと補足検索で確認できた公開メールのみ。メール非公開や未発見は未確認。",
+    "メールアドレスの現在の利用・到達性は未確認。",
+    "サイト運営窓口、他店舗のメール、SNSのURLは掲載しない。"
+  ]
+}
