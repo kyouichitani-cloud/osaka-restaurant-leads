@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-10-06",
-  "candidateCount": 1961,
-  "matchedCount": 888,
+  "candidateCount": 1978,
+  "matchedCount": 905,
   "items": [
     {
       "area": "osaka",
@@ -7145,6 +7145,106 @@
     },
     {
       "area": "kyoto",
+      "key": "kyoto-400ee11492e0a889",
+      "name": "Mikke",
+      "hours": "10:30～17:00（無くなり次第終了）",
+      "opens": 630,
+      "ends": 1020,
+      "source": "https://www.kyotango.gr.jp/shops/27917/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
+      "key": "kyoto-351846d3edbf6ad9",
+      "name": "tensen",
+      "hours": "18:00～23:00(FOOD:L.O.22:00・DRINK:L.O.22:30)",
+      "opens": 1080,
+      "ends": 1380,
+      "source": "https://www.kyotango.gr.jp/shops/40829/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
+      "key": "kyoto-e384a081edd49efa",
+      "name": "イタリア料理 Aonone",
+      "hours": "ランチ 11:30～15:00(LO 13:00) / ディナー 18:00~22:00(LO 20:00)",
+      "opens": 690,
+      "ends": 1320,
+      "source": "https://www.kyotango.gr.jp/shops/5362/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
+      "key": "kyoto-65831b5ef4394175",
+      "name": "カフェ こうしゅうまる",
+      "hours": "夏：10:00～19:30 / 冬：10:00～18:00 / ※日没で終了",
+      "opens": 600,
+      "ends": 1170,
+      "source": "https://www.kyotango.gr.jp/shops/38799/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
+      "key": "kyoto-c53078e0190fa066",
+      "name": "キコリ谷TERRACE",
+      "hours": "金曜日 11:00~16:00 / 土・日 10:00〜17:00 / ※臨時営業あり 詳細はInstagramでご確認ください。",
+      "opens": 600,
+      "ends": 1020,
+      "source": "https://www.kyotango.gr.jp/shops/5470/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
+      "key": "kyoto-b1e158cfa2c6b5da",
+      "name": "久美浜駅舎カフェ",
+      "hours": "9:30～17:00（L.O. 16:30）",
+      "opens": 570,
+      "ends": 1020,
+      "source": "https://www.kyotango.gr.jp/shops/54340/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
+      "key": "kyoto-b17742449f11093a",
+      "name": "寿司割烹みつば",
+      "hours": "昼 11:00～14:00（L.O.13:30） / 夜 18:00～22:00（L.O.21:30）",
+      "opens": 660,
+      "ends": 1320,
+      "source": "https://www.kyotango.gr.jp/shops/44666/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
+      "key": "kyoto-2a6cd509e4458750",
+      "name": "小金",
+      "hours": "18:00～23:00",
+      "opens": 1080,
+      "ends": 1380,
+      "source": "https://www.kyotango.gr.jp/shops/13932/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
+      "key": "kyoto-1477e1a60eda55a3",
+      "name": "間人アイスキャンデー",
+      "hours": "11:00～18:00",
+      "opens": 660,
+      "ends": 1080,
+      "source": "https://www.kyotango.gr.jp/shops/5340/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
+      "key": "kyoto-883fdb6d67b0b013",
+      "name": "間人干し物キクオ食堂",
+      "hours": "LUNCH 11:30-14:30 / DINNER 17:30-21:30",
+      "opens": 690,
+      "ends": 1290,
+      "source": "https://www.kyotango.gr.jp/shops/46827/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
       "key": "kyoto-7595a37abec336e9",
       "name": "婆bar 朱美",
       "hours": "20時～23時",
@@ -8745,32 +8845,102 @@
     },
     {
       "area": "kyoto",
-      "key": "kyoto-5fc03bfc95e707ea",
-      "name": "へしこ工房HISAMI",
-      "hours": "9：00～17：00LO",
-      "opens": 540,
-      "ends": 1020,
-      "source": "https://www.uminokyoto.jp/gourmet/detail.php?gourmet_id=107",
+      "key": "kyoto-8cfa4b99e3e41bfd",
+      "name": "Patisserie K",
+      "hours": "10:00～18:00",
+      "opens": 600,
+      "ends": 1080,
+      "source": "https://www.kyotango.gr.jp/shops/5595/",
       "extractedAt": "2026-10-06"
     },
     {
       "area": "kyoto",
-      "key": "kyoto-7637e33953daeed6",
-      "name": "トン’sキッチン",
-      "hours": "平日 11：00～17：00（LO16：00）、17：00～21：00（LO20：00）※夜は予約制 / 土日祝 11：00～15：00（LO14：30）、17：00～21：00（LO20：00） / ※営業時間は季節による変動あり",
+      "key": "kyoto-95d7d0c9ba01de7c",
+      "name": "あさの食堂",
+      "hours": "11:00~15:00",
       "opens": 660,
-      "ends": 1260,
-      "source": "https://www.uminokyoto.jp/gourmet/detail.php?gourmet_id=98",
+      "ends": 900,
+      "source": "https://www.kyotango.gr.jp/shops/8560/",
       "extractedAt": "2026-10-06"
     },
     {
       "area": "kyoto",
-      "key": "kyoto-ee55ff0f70d25271",
-      "name": "山と海 with 日本海牧場",
-      "hours": "平日 11：00～17：00（LO16：00） / 土日祝 11：00～15：00（LO14：30）、17：00～21：00（LO20：00） / ※春休み、夏休みは平日も夜営業あり。営業時間は季節による変動あり",
+      "key": "kyoto-dbfac05365c0e863",
+      "name": "あったりなかったり 勢野うどん店",
+      "hours": "10:00〜19:00",
+      "opens": 600,
+      "ends": 1140,
+      "source": "https://www.kyotango.gr.jp/shops/605/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
+      "key": "kyoto-29f2efc1245ad788",
+      "name": "きくのや",
+      "hours": "11：00～14：00、17：00～22：00（食事のL.O.21：00）",
       "opens": 660,
+      "ends": 1320,
+      "source": "https://www.kyotango.gr.jp/shops/2138/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
+      "key": "kyoto-352018b093c9270d",
+      "name": "めし屋市ごろう",
+      "hours": "11:30～14:00 / 17:30～22:00",
+      "opens": 690,
+      "ends": 1320,
+      "source": "https://www.kyotango.gr.jp/shops/24621/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
+      "key": "kyoto-2598b094c9013768",
+      "name": "らーめん楓々亭",
+      "hours": "11:00~14:00 / 17:00~20:30",
+      "opens": 660,
+      "ends": 1230,
+      "source": "https://www.kyotango.gr.jp/shops/2162/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
+      "key": "kyoto-465c56a02080aaf2",
+      "name": "アミティ シルク",
+      "hours": "8:30～21:00（現在は19:00閉店）",
+      "opens": 510,
       "ends": 1260,
-      "source": "https://www.uminokyoto.jp/gourmet/detail.php?gourmet_id=97",
+      "source": "https://www.kyotango.gr.jp/shops/24643/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
+      "key": "kyoto-81860f1211d7cad5",
+      "name": "八月の猫",
+      "hours": "11:00～18:00 / ※12月～2月は17:00閉店",
+      "opens": 660,
+      "ends": 1080,
+      "source": "https://www.kyotango.gr.jp/shops/5800/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
+      "key": "kyoto-a4636ee1d5a1df6f",
+      "name": "千丈敷",
+      "hours": "17:00～23:00頃まで。",
+      "opens": 1020,
+      "ends": 1380,
+      "source": "https://www.kyotango.gr.jp/shops/24646/",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
+      "key": "kyoto-50e0e4c298e88b0d",
+      "name": "焼肉 武蔵",
+      "hours": "17:30～22:30（21:30フードラストオーダー、22:00ドリンクラストオーダー）",
+      "opens": 1050,
+      "ends": 1350,
+      "source": "https://www.kyotango.gr.jp/shops/24669/",
       "extractedAt": "2026-10-06"
     },
     {

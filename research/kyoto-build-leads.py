@@ -16,7 +16,7 @@ spec.loader.exec_module(kr)
 TODAY = kr.TODAY
 CONTACT_FIELDS = re.compile(r'URL|WEB|ウェブサイト|ホームページ|リンク|MAIL|メール|店舗情報|店舗リンク|公式サイト|HP|SNS|ONLINESHOP', re.I)
 SOCIAL = {'instagram.com':'instagram','facebook.com':'facebook','fb.com':'facebook','line.me':'line','lin.ee':'line'}
-DIRECTORIES = ('tabelog.com','r.gnavi.co.jp','hotpepper.jp','retty.me','localplace.jp','kyoto-nishiyama.jp','uminokyoto.jp','morinokyoto.jp','ochanokyoto.jp','gion.or.jp','sanjokai.kyoto.jp','kyoto-shichijo.jp','kyoto-kankou.or.jp','pref.kyoto.jp','kyomen.com','kyoto-hanato.com','kyoto-oideyasu.com','ujibashi.jp','4jo.or.jp','masugata.demachi.jp','sagaarashiyama.jp','fukakusa-flower.com','city.kameoka.kyoto.jp','kyoto-shijo.or.jp','dokkoise.com','kyoto-teramachi.or.jp','kyoto-kawaramachi.or.jp','kyoto-green.com')
+DIRECTORIES = ('tabelog.com','r.gnavi.co.jp','hotpepper.jp','retty.me','localplace.jp','kyoto-nishiyama.jp','uminokyoto.jp','morinokyoto.jp','ochanokyoto.jp','gion.or.jp','sanjokai.kyoto.jp','kyoto-shichijo.jp','kyoto-kankou.or.jp','pref.kyoto.jp','kyomen.com','kyoto-hanato.com','kyoto-oideyasu.com','ujibashi.jp','4jo.or.jp','masugata.demachi.jp','sagaarashiyama.jp','fukakusa-flower.com','city.kameoka.kyoto.jp','kyoto-shijo.or.jp','dokkoise.com','kyoto-teramachi.or.jp','kyoto-kawaramachi.or.jp','kyoto-green.com','kyotango.gr.jp')
 EXTRA_CHAINS = re.compile(r'珈琲館|進々堂|天下一品|来来亭|ポムの樹|まいどおおきに食堂|牛たん福助|鶏笑|モルト・ヴォーノ|ユッチャン|おさかなキッチンみやづ|ホテル|旅館|民宿|道の駅|農業公園|温泉|キャンプ|休暇村|文化パルク|エコビレッジ|農産物直売所|市直売所|市営茶室|情報発信基地|公園|フードコート')
 
 
@@ -104,6 +104,8 @@ def parse(r):
         if '詳細住所未確認' in address:why+=' 個別の番地は掲載元で確認できず、位置は商店街内まで。'
     if r['kind'].startswith('fukuchiyama-'):
         why='福知山観光協会の店舗・会員欄で店名と掲載連絡先を確認。掲載欄に独自HPリンクは見当たらないが、現在のHP・営業・独立経営は未確認。'
+    if r['kind']=='kyotango-tourism':
+        why='京丹後市観光公社の個別店舗欄で店名・所在地・掲載連絡先を確認。掲載欄に独自HPリンクは見当たらないが、現在のHP・営業・独立経営は未確認。'
     lead=dict(name=name,municipality=city,city=city,address=address,type=typ,rank=rank,why=why,
               sources=[[r['authority'],r['url']]],checkedAt=TODAY,phone=phone,phoneSource=r['url'] if phone else '',
               email=email,emailSource=r['url'] if email else '',contact=dict(routes=routes,searchedAt=TODAY))
@@ -116,6 +118,7 @@ if __name__=='__main__':
     data+=json.loads((ROOT/'research/raw/kyoto-unions-review.json').read_text())
     data+=json.loads((ROOT/'research/raw/kyoto-streets-next-review.json').read_text())
     data+=json.loads((ROOT/'research/raw/kyoto-more-streets-review.json').read_text())
+    data+=json.loads((ROOT/'research/raw/kyoto-kyotango-shops-review.json').read_text())
     overrides_path=ROOT/'research/kyoto-review-overrides.json'
     overrides=json.loads(overrides_path.read_text()) if overrides_path.exists() else {}
     accepted={}; audit=[]

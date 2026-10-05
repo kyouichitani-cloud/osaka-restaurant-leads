@@ -1,13 +1,13 @@
 {
   "checkedAt": "2026-10-05",
   "stats": {
-    "profiles": 1816,
-    "candidates": 644,
-    "phone": 585,
+    "profiles": 1929,
+    "candidates": 661,
+    "phone": 603,
     "email": 10,
-    "instagram": 135,
-    "facebook": 35,
-    "anyContact": 607
+    "instagram": 142,
+    "facebook": 38,
+    "anyContact": 624
   },
   "decisions": [
     {
@@ -320,7 +320,7 @@
       "address": "京丹後市丹後町間人1820",
       "phone": "0772-75-8080",
       "url": "https://www.uminokyoto.jp/gourmet/detail.php?gourmet_id=107",
-      "decision": "暫定候補",
+      "decision": "別の掲載元に独自HP等リンクあり",
       "websiteLinks": [],
       "reviewNote": ""
     },
@@ -1022,7 +1022,7 @@
       "address": "京丹後市丹後町間人486",
       "phone": "",
       "url": "https://www.uminokyoto.jp/gourmet/detail.php?gourmet_id=245",
-      "decision": "暫定候補",
+      "decision": "別の掲載元に独自HP等リンクあり",
       "websiteLinks": [],
       "reviewNote": ""
     },
@@ -2817,7 +2817,7 @@
       "address": "京丹後市弥栄町鳥取123道の駅丹後王国「食のみやこ」内",
       "phone": "0772-65-8018",
       "url": "https://www.uminokyoto.jp/gourmet/detail.php?gourmet_id=97",
-      "decision": "暫定候補",
+      "decision": "別の掲載元に独自HP等リンクあり",
       "websiteLinks": [],
       "reviewNote": ""
     },
@@ -2827,7 +2827,7 @@
       "address": "京丹後市弥栄町鳥取123道の駅丹後王国「食のみやこ」内",
       "phone": "0772-65-8013",
       "url": "https://www.uminokyoto.jp/gourmet/detail.php?gourmet_id=98",
-      "decision": "暫定候補",
+      "decision": "別の掲載元に独自HP等リンクあり",
       "websiteLinks": [],
       "reviewNote": ""
     },
@@ -20479,6 +20479,1288 @@
       "decision": "独自HP等の掲載リンクあり",
       "websiteLinks": [
         "https://backpackersjapan.co.jp/kyotohostel/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "小金",
+      "city": "京丹後市",
+      "address": "京丹後市峰山町杉谷1144-11",
+      "phone": "0772-62-6719",
+      "url": "https://www.kyotango.gr.jp/shops/13932/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "かふぇ=ばるJαcK",
+      "city": "京丹後市",
+      "address": "京丹後市峰山町荒山1130-1",
+      "phone": "0772-62-8478",
+      "url": "https://www.kyotango.gr.jp/shops/13949/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://food-tango.com/tennai_jack/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "農産物直売所(久美浜町果樹観光協会加盟店)",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町箱石・平田",
+      "phone": "0772-82-1781",
+      "url": "https://www.kyotango.gr.jp/shops/15391/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "THE SPICE Co.",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町3179",
+      "phone": "050-1176-2708",
+      "url": "https://www.kyotango.gr.jp/shops/15880/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://thespice.jpn.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "工房レストラン wakuden MORI",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町谷764 和久傳ノ森",
+      "phone": "0772-84-9898",
+      "url": "https://www.kyotango.gr.jp/shops/18398/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://mori.wakuden.kyoto/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "道の駅 丹後王国「食のみやこ」",
+      "city": "京丹後市",
+      "address": "京丹後市弥栄町鳥取123",
+      "phone": "",
+      "url": "https://www.kyotango.gr.jp/shops/18514/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://tangooukoku.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Reception Garden",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町向磯2575(HOTEL HOLIDAY HOME内)",
+      "phone": "0772-83-3131",
+      "url": "https://www.kyotango.gr.jp/shops/2104/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://holidayhome.co.jp/shop/receptiongarden/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Bshop 久美浜店/THE NORTH FACE京丹後",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町向磯38-22 (HOLIDAY HOME内)",
+      "phone": "0772-83-5050",
+      "url": "https://www.kyotango.gr.jp/shops/2122/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://holidayhome.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "へしこ工房HISAMI",
+      "city": "京丹後市",
+      "address": "京丹後市丹後町間人1820",
+      "phone": "0772-75-8080",
+      "url": "https://www.kyotango.gr.jp/shops/2124/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://hisami-kyoto.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "きくのや",
+      "city": "京丹後市",
+      "address": "京丹後市峰山町杉谷1012-1",
+      "phone": "0772-62-0104",
+      "url": "https://www.kyotango.gr.jp/shops/2138/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "金竜",
+      "city": "京丹後市",
+      "address": "京丹後市大宮町河辺3174-1",
+      "phone": "0772-64-4628",
+      "url": "https://www.kyotango.gr.jp/shops/2142/",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "天風",
+      "city": "京丹後市",
+      "address": "京丹後市弥栄町野中2050-1",
+      "phone": "0772-66-0088",
+      "url": "https://www.kyotango.gr.jp/shops/2147/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kyoto-tenpu.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "味工房ひさみ",
+      "city": "京丹後市",
+      "address": "京丹後市丹後町間人1830",
+      "phone": "0772-75-0160",
+      "url": "https://www.kyotango.gr.jp/shops/2155/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://hisami-kyoto.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "らーめん楓々亭",
+      "city": "京丹後市",
+      "address": "京丹後市大宮町河辺3143-7",
+      "phone": "0772-68-1556",
+      "url": "https://www.kyotango.gr.jp/shops/2162/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "リゾーピア久美浜 レストラン「旬恵」",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町湊宮1302-2",
+      "phone": "0772-83-1380",
+      "url": "https://www.kyotango.gr.jp/shops/22222/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://sunmembers.jp/kumi/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "フードコート七姫殿",
+      "city": "京丹後市",
+      "address": "京丹後市弥栄町鳥取123(道の駅 丹後王国 「食のみやこ」)",
+      "phone": "0772-65-8001",
+      "url": "https://www.kyotango.gr.jp/shops/24113/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://tangooukoku.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "campanio bakery cafe",
+      "city": "京丹後市",
+      "address": "京丹後市弥栄町鳥取123(道の駅 丹後王国 「食のみやこ」)",
+      "phone": "",
+      "url": "https://www.kyotango.gr.jp/shops/24128/",
+      "decision": "道の駅施設内の飲食店で独立経営条件の確認待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Jiggy’s  kitchen",
+      "city": "京丹後市",
+      "address": "京丹後市弥栄町鳥取123(道の駅 丹後王国 「食のみやこ」)",
+      "phone": "080-2519-0708",
+      "url": "https://www.kyotango.gr.jp/shops/24257/",
+      "decision": "道の駅施設内の飲食店で独立経営条件の確認待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "タピオカエイト",
+      "city": "京丹後市",
+      "address": "京丹後市弥栄町鳥取123(道の駅 丹後王国 「食のみやこ」)",
+      "phone": "090-1587-9550",
+      "url": "https://www.kyotango.gr.jp/shops/24271/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://tangooukoku.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "卵かけご飯専門店 KUIYA",
+      "city": "京丹後市",
+      "address": "京丹後市弥栄町鳥取123(道の駅 丹後王国 「食のみやこ」)",
+      "phone": "070-1766-9180",
+      "url": "https://www.kyotango.gr.jp/shops/24277/",
+      "decision": "道の駅施設内の飲食店で独立経営条件の確認待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "MISS ALBION",
+      "city": "京丹後市",
+      "address": "京丹後市網野町網野小浜24-15",
+      "phone": "0772-72-5161",
+      "url": "https://www.kyotango.gr.jp/shops/24358/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://acaciashop.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "無人島",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町",
+      "phone": "0772-82-0045",
+      "url": "https://www.kyotango.gr.jp/shops/24538/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://mujinto.net/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "和のオーベルジュ・まつつる",
+      "city": "京丹後市",
+      "address": "京丹後市網野町掛津74-1",
+      "phone": "0772-72-3696",
+      "url": "https://www.kyotango.gr.jp/shops/24549/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.matsu-tsuru.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "宇川温泉よし野の里 レストランTango Tango",
+      "city": "京丹後市",
+      "address": "京丹後市丹後町久僧1562",
+      "phone": "0772-76-1000",
+      "url": "https://www.kyotango.gr.jp/shops/24586/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://ukawaonsen.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "めし屋市ごろう",
+      "city": "京丹後市",
+      "address": "京丹後市大宮町三坂138-3",
+      "phone": "0772-64-5018",
+      "url": "https://www.kyotango.gr.jp/shops/24621/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "久美浜温泉 湯元館",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町平田1106-4",
+      "phone": "0772-83-1071",
+      "url": "https://www.kyotango.gr.jp/shops/24629/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kumihama-spa.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "昭恋館よ志のや",
+      "city": "京丹後市",
+      "address": "京丹後市丹後町間人1297-3",
+      "phone": "0772-75-2284",
+      "url": "https://www.kyotango.gr.jp/shops/24637/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://taiza.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "アミティ シルク",
+      "city": "京丹後市",
+      "address": "京丹後市網野町網野367",
+      "phone": "0772-72-5266",
+      "url": "https://www.kyotango.gr.jp/shops/24643/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "千丈敷",
+      "city": "京丹後市",
+      "address": "京丹後市大宮町河辺428の5番地",
+      "phone": "0772-60-1717",
+      "url": "https://www.kyotango.gr.jp/shops/24646/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "料理旅館 てり吉",
+      "city": "京丹後市",
+      "address": "京丹後市網野町浅茂川1861-13",
+      "phone": "0772-72-0308",
+      "url": "https://www.kyotango.gr.jp/shops/24663/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://terikichi.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "焼肉 武蔵",
+      "city": "京丹後市",
+      "address": "京丹後市峰山町杉谷小字津久田924",
+      "phone": "0772-62-5657",
+      "url": "https://www.kyotango.gr.jp/shops/24669/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "KISSUIEN Stay&Food RESTAURANT「aun」",
+      "city": "京丹後市",
+      "address": "京丹後市峰山町杉谷943",
+      "phone": "0772-62-5111",
+      "url": "https://www.kyotango.gr.jp/shops/24688/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kissuien.jp/food/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "地魚料理の宿 新海荘",
+      "city": "京丹後市",
+      "address": "京丹後市網野町浜詰44",
+      "phone": "0772-74-0632",
+      "url": "https://www.kyotango.gr.jp/shops/24697/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.shinkaiso.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "餃子の王将 峰山店",
+      "city": "京丹後市",
+      "address": "京丹後市峰山町荒山282-1",
+      "phone": "0772-62-1119",
+      "url": "https://www.kyotango.gr.jp/shops/24741/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://map.ohsho.co.jp/b/ohsho/info/4009/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "堅木屋",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町野中206",
+      "phone": "0772-84-0008",
+      "url": "https://www.kyotango.gr.jp/shops/24743/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://katagiya.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "海鮮の駅 喜代三郎",
+      "city": "京丹後市",
+      "address": "京丹後市丹後町間人486",
+      "phone": "0772-66-3347",
+      "url": "https://www.kyotango.gr.jp/shops/24810/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kiyosaburou.com/eat/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "喜久屋旅館",
+      "city": "京丹後市",
+      "address": "京丹後市丹後町成願寺1163",
+      "phone": "0772-75-0169",
+      "url": "https://www.kyotango.gr.jp/shops/25396/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.tango-kikuya.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "焼肉サンタ",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町平田1349−1",
+      "phone": "0772-83-1309",
+      "url": "https://www.kyotango.gr.jp/shops/25422/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "乙姫玉手箱",
+      "city": "京丹後市",
+      "address": "京丹後市弥栄町鳥取123(道の駅 丹後王国「食のみやこ」)",
+      "phone": "",
+      "url": "https://www.kyotango.gr.jp/shops/25606/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://tangooukoku.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Gelateria SORA",
+      "city": "京丹後市",
+      "address": "京丹後市弥栄町鳥取123(道の駅丹後王国「食のみやこ」)",
+      "phone": "0772-83-1617",
+      "url": "https://www.kyotango.gr.jp/shops/25617/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://tangooukoku.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "(株)とまり",
+      "city": "京丹後市",
+      "address": "京丹後市丹後町間人3324",
+      "phone": "0772-75-0041",
+      "url": "https://www.kyotango.gr.jp/shops/27671/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.tango-tomari.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Mikke",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町平田1361",
+      "phone": "0772-83-1216",
+      "url": "https://www.kyotango.gr.jp/shops/27917/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "JA琴引メロン直売所",
+      "city": "京丹後市",
+      "address": "京丹後市網野町下岡",
+      "phone": "0772-84-0801",
+      "url": "https://www.kyotango.gr.jp/shops/2861/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "茶天苑 峰山店本店",
+      "city": "京丹後市",
+      "address": "京丹後市峰山町杉谷937-8",
+      "phone": "0772-62-3624",
+      "url": "https://www.kyotango.gr.jp/shops/29875/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tangohokuto.com/satenen/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "MATSUTARO",
+      "city": "京丹後市",
+      "address": "京丹後市網野町網野146",
+      "phone": "0772-72-0429",
+      "url": "https://www.kyotango.gr.jp/shops/32793/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://torimatsu.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "かに一番 久美浜店",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町稲口3505-1",
+      "phone": "0772-82-9028",
+      "url": "https://www.kyotango.gr.jp/shops/33314/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kani-ichiban.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "橘商店",
+      "city": "京丹後市",
+      "address": "京丹後市網野町木津16",
+      "phone": "0772-74-1155",
+      "url": "https://www.kyotango.gr.jp/shops/33530/",
+      "decision": "鮮魚・土産物販売が主体で飲食個店の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "平七水産 間人本店",
+      "city": "京丹後市",
+      "address": "京丹後市丹後町間人1789-1",
+      "phone": "0772-75-0025",
+      "url": "https://www.kyotango.gr.jp/shops/33618/",
+      "decision": "鮮魚・土産物販売が主体で飲食個店の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "HEKISUIEN Café&Bakery",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町湊宮1432",
+      "phone": "0772-83-0555",
+      "url": "https://www.kyotango.gr.jp/shops/35768/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://hekisuien.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "カフェ こうしゅうまる",
+      "city": "京丹後市",
+      "address": "京丹後市網野町浜詰757-1",
+      "phone": "0772-66-3683",
+      "url": "https://www.kyotango.gr.jp/shops/38799/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "PangoTango",
+      "city": "京丹後市",
+      "address": "京丹後市網野町浅茂川1981",
+      "phone": "0772-72-0088",
+      "url": "https://www.kyotango.gr.jp/shops/39955/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://seaside-satake.com/page1"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "牡蠣小屋 風蘭の館 11~5月限定",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町蒲井518-1",
+      "phone": "0772-83-1033",
+      "url": "https://www.kyotango.gr.jp/shops/4008/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.huuran.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "無人島《カキクルーズ》",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町久美浜湾",
+      "phone": "0772-82-0045",
+      "url": "https://www.kyotango.gr.jp/shops/4016/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://mujinto.net/yuran"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "いろり処ふなや浮島《久美浜かきのフルコース》",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町湊宮",
+      "phone": "0772-83-0489",
+      "url": "https://www.kyotango.gr.jp/shops/4022/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kyoto-tango.net/ukishima.htm"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "tensen",
+      "city": "京丹後市",
+      "address": "京丹後市大宮町善王寺1162-2",
+      "phone": "0772-60-4100",
+      "url": "https://www.kyotango.gr.jp/shops/40829/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京丹後舞輪源蒸留所",
+      "city": "京丹後市",
+      "address": "京丹後市弥栄町野中10329-1 京丹後森林公園スイス村内",
+      "phone": "",
+      "url": "https://www.kyotango.gr.jp/shops/40870/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://mairingen.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Wine & Coffee YOiNE",
+      "city": "京丹後市",
+      "address": "京丹後市大宮町善王寺1162-2",
+      "phone": "050-3612-8275",
+      "url": "https://www.kyotango.gr.jp/shops/40932/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://wineshopyoine.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "寿司割烹みつば",
+      "city": "京丹後市",
+      "address": "京丹後市網野町木津192-8",
+      "phone": "070-8366-0328",
+      "url": "https://www.kyotango.gr.jp/shops/44666/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "丹後温泉はしうど荘",
+      "city": "京丹後市",
+      "address": "京丹後市丹後町間人632-1",
+      "phone": "0772-75-2212",
+      "url": "https://www.kyotango.gr.jp/shops/45944/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.hashiudosou.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "間人干し物キクオ食堂",
+      "city": "京丹後市",
+      "address": "京丹後市丹後町間人2132",
+      "phone": "090-7342-1421",
+      "url": "https://www.kyotango.gr.jp/shops/46827/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "牡蠣小屋 風蘭の館[岩牡蠣] 6~10月限定",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町蒲井518-1",
+      "phone": "0772-83-1033",
+      "url": "https://www.kyotango.gr.jp/shops/47252/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.huuran.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "小野甚味噌醤油醸造",
+      "city": "京丹後市",
+      "address": "京丹後市峰山町杉谷300",
+      "phone": "0772-62-0476",
+      "url": "https://www.kyotango.gr.jp/shops/4728/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "健勝丸",
+      "city": "京丹後市",
+      "address": "京丹後市網野町木津4番地",
+      "phone": "",
+      "url": "https://www.kyotango.gr.jp/shops/47476/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://yuhigauraparks.studio.site/%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E2%80%BBURL%E3%81%8C%E9%95%B7%E3%81%84%E5%A0%B4%E5%90%88%E3%81%AF%E4%B8%8B%E8%A8%98%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E5%AE%9B%E3%81%AB%E9%80%81%E4%BB%98%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "きもの処 いけ部",
+      "city": "京丹後市",
+      "address": "京丹後市網野町浅茂川1942-17",
+      "phone": "0772-72-1069",
+      "url": "https://www.kyotango.gr.jp/shops/50415/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://xn--h9j4c0a0bz130akzv.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "無印良品エール峰山",
+      "city": "京丹後市",
+      "address": "京丹後市峰山町新町1606-1 エール峰山1F",
+      "phone": "0772-66-3979",
+      "url": "https://www.kyotango.gr.jp/shops/51291/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.muji.com/jp/ja/shop/detail/046886"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ペットハウスtakao [トリミングサロン・ペットホテル]",
+      "city": "京丹後市",
+      "address": "京丹後市網野町木津49",
+      "phone": "0772-74-0741",
+      "url": "https://www.kyotango.gr.jp/shops/52412/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://pettakao.base.shop/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "保護猫カフェNEKOKOKORO",
+      "city": "京丹後市",
+      "address": "京丹後市網野町木津49",
+      "phone": "0772-74-0741",
+      "url": "https://www.kyotango.gr.jp/shops/52653/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://pettakao.base.shop/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "【愛犬とゆったり】wanto.cafe",
+      "city": "京丹後市",
+      "address": "京丹後市網野町木津49",
+      "phone": "0772-74-0741",
+      "url": "https://www.kyotango.gr.jp/shops/52656/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://pettakao.base.shop/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "丹後ひもの屋[お食事処・お土産処]",
+      "city": "京丹後市",
+      "address": "京丹後市網野町小浜912",
+      "phone": "0772-72-3023",
+      "url": "https://www.kyotango.gr.jp/shops/5284/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.tango-himonoya.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "綿徳商店",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町3162",
+      "phone": "0772-82-0216",
+      "url": "https://www.kyotango.gr.jp/shops/5295/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "酒市水産部",
+      "city": "京丹後市",
+      "address": "京丹後市峰山町新町1981",
+      "phone": "0772-62-5505",
+      "url": "https://www.kyotango.gr.jp/shops/53029/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://maizuru.mypl.net/shop/00000381670/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "間人アイスキャンデー",
+      "city": "京丹後市",
+      "address": "京丹後市丹後町間人1856",
+      "phone": "0772-75-1402",
+      "url": "https://www.kyotango.gr.jp/shops/5340/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "イタリア料理 Aonone",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町仲町924-4",
+      "phone": "0772-82-0591",
+      "url": "https://www.kyotango.gr.jp/shops/5362/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "酪ママ工房 ロイヤルメリー",
+      "city": "京丹後市",
+      "address": "京丹後市網野町浜詰46",
+      "phone": "0772-74-1911",
+      "url": "https://www.kyotango.gr.jp/shops/5404/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.rakumamakobo.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Acacia Farm",
+      "city": "京丹後市",
+      "address": "京丹後市網野町小浜24-1",
+      "phone": "0772-72-5588",
+      "url": "https://www.kyotango.gr.jp/shops/5426/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.acaciashop.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "久美浜駅舎カフェ",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町栄町772",
+      "phone": "080-1032-2346",
+      "url": "https://www.kyotango.gr.jp/shops/54340/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Restaurant 縁  Enishi",
+      "city": "京丹後市",
+      "address": "京丹後市峰山町杉谷378",
+      "phone": "0772-62-7070",
+      "url": "https://www.kyotango.gr.jp/shops/5442/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kyotango-enishi.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "キコリ谷TERRACE",
+      "city": "京丹後市",
+      "address": "京丹後市弥栄町船木407 キコリ谷テラス",
+      "phone": "0772-66-3210",
+      "url": "https://www.kyotango.gr.jp/shops/5470/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Patisserie K",
+      "city": "京丹後市",
+      "address": "京丹後市峰山町荒山372-6",
+      "phone": "0772-62-3458",
+      "url": "https://www.kyotango.gr.jp/shops/5595/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "かに一番 木津店",
+      "city": "京丹後市",
+      "address": "京丹後市網野町木津376",
+      "phone": "0772-74-9011",
+      "url": "https://www.kyotango.gr.jp/shops/5764/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kani-ichiban.com/theme63.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "つねよし百貨店",
+      "city": "京丹後市",
+      "address": "京丹後市大宮町上常吉123-2",
+      "phone": "0772-68-1819",
+      "url": "https://www.kyotango.gr.jp/shops/5775/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.e-mura.jp/tsuneyoshi/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "八月の猫",
+      "city": "京丹後市",
+      "address": "京丹後市大宮町上常吉869-1",
+      "phone": "0772-64-3002",
+      "url": "https://www.kyotango.gr.jp/shops/5800/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "YAMASHO いととめEAT店",
+      "city": "京丹後市",
+      "address": "京丹後市大宮町周枳1670",
+      "phone": "0772-64-5295",
+      "url": "https://www.kyotango.gr.jp/shops/5850/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "さんとよ大宮店",
+      "city": "京丹後市",
+      "address": "京丹後市大宮町周枳1767",
+      "phone": "0772-68-5003",
+      "url": "https://www.kyotango.gr.jp/shops/5861/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.santoyo.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "34 FLOWER&CAFE",
+      "city": "京丹後市",
+      "address": "京丹後市峰山町新町1606-1",
+      "phone": "0772-62-6333",
+      "url": "https://www.kyotango.gr.jp/shops/5872/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.sc-mine.com/shopguide/1009"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "だいまるしょうゆcafe",
+      "city": "京丹後市",
+      "address": "京丹後市弥栄町和田野566",
+      "phone": "0772-65-2405",
+      "url": "https://www.kyotango.gr.jp/shops/602/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://daimarusyouyu.blogspot.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "道の駅 てんきてんき丹後",
+      "city": "京丹後市",
+      "address": "京丹後市丹後町竹野313-1",
+      "phone": "0772-75-2525",
+      "url": "https://www.kyotango.gr.jp/shops/603/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://tenkitenki-mura.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "碇高原 ステーキハウス",
+      "city": "京丹後市",
+      "address": "京丹後市丹後町碇1 碇高原内",
+      "phone": "0772-76-1061",
+      "url": "https://www.kyotango.gr.jp/shops/604/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tenkitenki-mura.jp/steak/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "あったりなかったり 勢野うどん店",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町仲町3014",
+      "phone": "0772-82-0902",
+      "url": "https://www.kyotango.gr.jp/shops/605/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "日本料理・寿司 とり松",
+      "city": "京丹後市",
+      "address": "京丹後市網野町網野146",
+      "phone": "0772-72-0429",
+      "url": "https://www.kyotango.gr.jp/shops/606/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://torimatsu.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "トン’sキッチン",
+      "city": "京丹後市",
+      "address": "京丹後市弥栄町鳥取123(道の駅 丹後王国 「食のみやこ」)",
+      "phone": "0772-65-8013",
+      "url": "https://www.kyotango.gr.jp/shops/609/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://tangooukoku.com/map-ja/tons/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "山と海 with 日本海牧場",
+      "city": "京丹後市",
+      "address": "京丹後市弥栄町鳥取123(道の駅 丹後王国 「食のみやこ」)",
+      "phone": "0772-65-8018",
+      "url": "https://www.kyotango.gr.jp/shops/610/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://tangooukoku.com/map-ja/yamatoumi/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "うみのうた 炭火海鮮バイキング/海鮮食堂",
+      "city": "京丹後市",
+      "address": "京丹後市網野町木津5番地",
+      "phone": "0772-74-0812",
+      "url": "https://www.kyotango.gr.jp/shops/613/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://yuhigauraparks.studio.site/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "道の駅 くみはまSANKAIKAN れすとらん めし〜る",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町浦明1709",
+      "phone": "0772-83-2000",
+      "url": "https://www.kyotango.gr.jp/shops/614/",
+      "decision": "主要チェーン・施設内等の条件照合待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京都丹後海鮮の匠 魚政",
+      "city": "京丹後市",
+      "address": "京丹後市網野町網野2707-17",
+      "phone": "0772-72-0823",
+      "url": "https://www.kyotango.gr.jp/shops/619/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.uomasa.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "宇川温泉よし野の里 マルシェ",
+      "city": "京丹後市",
+      "address": "京丹後市丹後町久僧1562",
+      "phone": "0772-76-1000",
+      "url": "https://www.kyotango.gr.jp/shops/620/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ukawaonsen.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "O・I・SHI・I AGRI FACTORY 野木源",
+      "city": "京丹後市",
+      "address": "京丹後市丹後町大山1011",
+      "phone": "0772-75-1939",
+      "url": "https://www.kyotango.gr.jp/shops/622/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.nogigen.me/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "豪商稲葉本家",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町3102",
+      "phone": "0772-82-2356",
+      "url": "https://www.kyotango.gr.jp/shops/623/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.inabahonke.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "アミティ丹後",
+      "city": "京丹後市",
+      "address": "京丹後市網野町網野367",
+      "phone": "0772-72-5261",
+      "url": "https://www.kyotango.gr.jp/shops/624/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://tango.jibasan.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "松栄屋",
+      "city": "京丹後市",
+      "address": "京丹後市網野町木津415-1",
+      "phone": "0772-74-0058",
+      "url": "https://www.kyotango.gr.jp/shops/625/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.matsusakaya.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ann-御菓子司 あん-",
+      "city": "京丹後市",
+      "address": "京丹後市網野町木津1",
+      "phone": "0772-74-9109",
+      "url": "https://www.kyotango.gr.jp/shops/626/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://yuhigauraparks.studio.site/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "丹後匠庵",
+      "city": "京丹後市",
+      "address": "京丹後市弥栄町鳥取123(道の駅 丹後王国「食のみやこ」)",
+      "phone": "0772-65-8021",
+      "url": "https://www.kyotango.gr.jp/shops/629/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://tangooukoku.com/map-ja/tango-takumian/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "戸田風月堂",
+      "city": "京丹後市",
+      "address": "京丹後市峰山町杉谷27-7",
+      "phone": "0772-62-0790",
+      "url": "https://www.kyotango.gr.jp/shops/632/",
+      "decision": "菓子製造・販売主体で飲食個店の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ミルク工房そら",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町神崎411",
+      "phone": "0772-83-1617",
+      "url": "https://www.kyotango.gr.jp/shops/633/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tango-jersey.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "かに干物工房 丹水",
+      "city": "京丹後市",
+      "address": "京丹後市網野町浜詰266-30",
+      "phone": "0772-74-1380",
+      "url": "https://www.kyotango.gr.jp/shops/634/",
+      "decision": "干物製造・販売主体で飲食個店の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "うみのうた[お土産店・鮮魚店]",
+      "city": "京丹後市",
+      "address": "京丹後市網野町木津5",
+      "phone": "0772-74-0812",
+      "url": "https://www.kyotango.gr.jp/shops/635/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://yuhigauraparks.studio.site/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "湯けむり朝市",
+      "city": "京丹後市",
+      "address": "京丹後市網野町木津242",
+      "phone": "0772-74-0040",
+      "url": "https://www.kyotango.gr.jp/shops/636/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "道の駅 くみはまSANKAIKAN",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町浦明1709",
+      "phone": "0772-83-2000",
+      "url": "https://www.kyotango.gr.jp/shops/637/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Organic Restaurant てんとうむしばたけ",
+      "city": "京丹後市",
+      "address": "京丹後市弥栄町黒部441",
+      "phone": "080-4195-6312",
+      "url": "https://www.kyotango.gr.jp/shops/7840/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tentoumushi-batake.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Taiza Terrace My Sunshine",
+      "city": "京丹後市",
+      "address": "京丹後市丹後町間人5001",
+      "phone": "0772-75-0168",
+      "url": "https://www.kyotango.gr.jp/shops/8401/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.jukaitei.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "シーサイド佐竹 お食事処「味な」",
+      "city": "京丹後市",
+      "address": "京丹後市網野町浅茂川1980",
+      "phone": "0772-72-1188",
+      "url": "https://www.kyotango.gr.jp/shops/8446/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://seaside-satake.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "あさの食堂",
+      "city": "京丹後市",
+      "address": "京丹後市峰山町杉谷930番地9",
+      "phone": "0772-62-0815",
+      "url": "https://www.kyotango.gr.jp/shops/8560/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "木下酒造",
+      "city": "京丹後市",
+      "address": "京丹後市久美浜町甲山1512",
+      "phone": "0772-82-0071",
+      "url": "https://www.kyotango.gr.jp/shops/9082/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.sake-tamagawa.com/"
       ],
       "reviewNote": ""
     }

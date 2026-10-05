@@ -14,8 +14,8 @@ assert.equal(meta.sources.length,69);
 assert.equal(meta.coverage.length,26);
 assert.equal(registries.length,39184);
 assert.equal(new Set(registries.map(r=>r.id)).size,registries.length);
-assert.equal(audit.decisions.length,1816);
-assert.equal(leads.length,644);
+assert.equal(audit.decisions.length,1929);
+assert.equal(leads.length,661);
 assert.equal(new Set(leads.map(r=>r.id)).size,leads.length);
 for(const name of ['ゑびや','力 餅','千成餅食堂']){
   const same=leads.filter(r=>r.name===name);
@@ -67,9 +67,9 @@ for(const name of ['やきにくの丹の吉','御肉料理竹下'])
   await page.goto('http://127.0.0.1:8765/kyoto.html',{waitUntil:'networkidle'});
   await page.waitForFunction(()=>document.getElementById('research-count').textContent.includes('39,184'));
   assert.equal(await page.locator('#region-count').textContent(),`${leads.length}店`);
-  assert.match(await page.locator('#contact-count').textContent(),/607店.*37店/);
+  assert.match(await page.locator('#contact-count').textContent(),/624店.*37店/);
   assert.equal(await page.locator('#municipality option').count(),27);
-  await page.locator('#contact-filter').selectOption('instagram');assert.equal(await page.locator('#region-count').textContent(),'135店');
+  await page.locator('#contact-filter').selectOption('instagram');assert.equal(await page.locator('#region-count').textContent(),'142店');
   await page.locator('#contact-filter').selectOption('missing');assert.equal(await page.locator('#region-count').textContent(),'37店');
   await page.locator('#contact-filter').selectOption('all');
   await page.locator('#rank-filter').selectOption('S');assert.equal(await page.locator('#items .item').count(),0);
@@ -119,8 +119,8 @@ for(const name of ['やきにくの丹の吉','御肉料理竹下'])
   await page.locator('.prefectures a').filter({hasText:'大阪府'}).click();
   await page.waitForFunction(()=>document.getElementById('total-count').textContent.includes('1,306'));
   await page.locator('.prefectures a').filter({hasText:'京都府'}).click();
-  await page.waitForFunction(()=>document.getElementById('total-count').textContent.includes('644'));
+  await page.waitForFunction(()=>document.getElementById('total-count').textContent.includes('661'));
   assert.deepEqual(errors,[]);
-  console.log('PASS Kyoto: 1,816 source listings; 644 candidates; 26 municipalities; all 39,184 records reachable; new-source/phone/alias integrity; privacy whitelist; mobile; prefecture switching.');
+  console.log('PASS Kyoto: 1,929 source listings; 661 candidates; 26 municipalities; all 39,184 records reachable; new-source/phone/alias integrity; privacy whitelist; mobile; prefecture switching.');
   await browser.close();
 })().catch(e=>{console.error(e);process.exit(1)});

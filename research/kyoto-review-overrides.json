@@ -81,5 +81,12 @@
   "name:天丼まきの 京都寺町店": {"exclude":"運営会社の複数店舗ブランドで公式HPあり", "website":"https://stores.toridoll.com/110977"},
   "name:デンプラス 京都": {"exclude":"食器・雑貨販売主体で飲食個店ではない"},
   "name:蓬萊堂": {"exclude":"茶・茶器の物販主体で飲食個店ではない"},
-  "name:SHIN‐SETSU": {"exclude":"追加検索で店舗HPを確認", "website":"https://9483181615.amebaownd.com/"}
+  "name:SHIN‐SETSU": {"exclude":"追加検索で店舗HPを確認", "website":"https://9483181615.amebaownd.com/"},
+  "https://www.kyotango.gr.jp/shops/24128/": {"exclude":"道の駅施設内の飲食店で独立経営条件の確認待ち"},
+  "https://www.kyotango.gr.jp/shops/24257/": {"exclude":"道の駅施設内の飲食店で独立経営条件の確認待ち"},
+  "https://www.kyotango.gr.jp/shops/24277/": {"exclude":"道の駅施設内の飲食店で独立経営条件の確認待ち"},
+  "https://www.kyotango.gr.jp/shops/33530/": {"exclude":"鮮魚・土産物販売が主体で飲食個店の確認なし"},
+  "https://www.kyotango.gr.jp/shops/33618/": {"exclude":"鮮魚・土産物販売が主体で飲食個店の確認なし"},
+  "https://www.kyotango.gr.jp/shops/632/": {"exclude":"菓子製造・販売主体で飲食個店の確認なし"},
+  "https://www.kyotango.gr.jp/shops/634/": {"exclude":"干物製造・販売主体で飲食個店の確認なし"}
 }
