@@ -1,4 +1,11 @@
 {
+  "name:炭火串焼 灯志": {"exclude":"追加検索で公式HPを確認", "website":"https://akashi-maizuru.jp/"},
+  "name:Antica Pizzeria L'ASINELLO(大阪屋マーケット)": {"exclude":"追加検索で公式HPを確認", "website":"https://www.anticapizzerialasinello.com/"},
+  "name:Chop Chop Banh Mi(大阪屋)": {"exclude":"同商店街の詳細欄に同店名・所在地・電話・Instagramを掲載した別ページがあり重複"},
+  "name:京もつ鍋ホルモン朱々 京都四条大宮店": {"exclude":"運営会社の複数店舗ブランドで公式HPあり", "website":"https://www.traum2002.co.jp/brand/detail/shushu/"},
+  "name:S.O.U./Violet and Claire": {"exclude":"店舗公式ページと移転情報があり現所在地・HP条件の確認待ち", "website":"https://sou-kyoto.tumblr.com/about"},
+  "name:パレスチナ料理 Bisan": {"exclude":"東京の本店からの多店舗展開と掲載元に記載があり、独立個店条件の確認待ち"},
+  "name:DELTA Bistro, Coffee Shop & Gallery by KYOTOGRAPHIE": {"exclude":"複合ギャラリー運営のため独立飲食個店条件の確認待ち"},
   "name:島原 乙文": {"exclude":"追加検索で公式HPを確認", "website":"https://shimabara-otobun.com/"},
   "name:都すけろく": {"exclude":"異なる所在地の山勝と同じ電話が掲載されており誤記の可能性があるため照合待ち", "note":"京都府寿司組合の宇治支部一覧で両店とも0774-33-8023。取り違え防止のため保留。"},
   "name:山勝": {"exclude":"異なる所在地の都すけろくと同じ電話が掲載されており誤記の可能性があるため照合待ち", "note":"京都府寿司組合の宇治支部一覧で両店とも0774-33-8023。取り違え防止のため保留。"},
@@ -54,5 +61,9 @@
   "name:ハッピークック 宇治市役所": {"exclude":"市役所内食堂で独立経営条件の確認待ち"},
   "name:テオテラスいで": {"exclude":"自治体地域交流拠点のため独立経営条件の確認待ち"},
   "name:展望レストラン": {"exclude":"観光施設内・個店運営主体の確認待ち"},
-  "name:ダイニングレストランたんば": {"exclude":"ホテル内レストラン・独立経営条件の確認待ち"}
+  "name:ダイニングレストランたんば": {"exclude":"ホテル内レストラン・独立経営条件の確認待ち"},
+  "https://kyoto-shijo.or.jp/?author=285": {"exclude":"追加検索で運営元の店舗HPを確認", "website":"https://www.kyoto-teppan.com/"},
+  "https://kyoto-shijo.or.jp/?author=384": {"exclude":"追加検索で運営元の店舗HPを確認", "website":"https://www.unchi-co.com/jinrui-kyoto/"},
+  "https://kyoto-shijo.or.jp/?author=397": {"exclude":"追加検索で公式HPを確認", "website":"https://www.mstandcoffee.com/coffee"},
+  "https://kyoto-shijo.or.jp/?author=404": {"exclude":"追加検索でブランド公式HPを確認", "website":"https://www.paradisegp.com/"}
 }

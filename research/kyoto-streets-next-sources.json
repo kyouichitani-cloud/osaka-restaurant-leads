@@ -1,0 +1,66 @@
+[
+  {
+    "authority": "宇治橋通商店街",
+    "root": "https://www.ujibashi.jp/shop_category/shop-restaurant/",
+    "pages": [
+      "https://www.ujibashi.jp/shop_category/shop-restaurant/"
+    ],
+    "entries": 32,
+    "unit": "店舗紹介ページ"
+  },
+  {
+    "authority": "四条大宮商店街",
+    "root": "https://www.4jo.or.jp/shops",
+    "pages": [
+      "https://www.4jo.or.jp/shops"
+    ],
+    "entries": 21,
+    "unit": "店舗紹介ページ"
+  },
+  {
+    "authority": "出町桝形商店街",
+    "root": "https://masugata.demachi.jp/shop/?cat=gourmet",
+    "pages": [
+      "https://masugata.demachi.jp/shop/?cat=gourmet",
+      "https://masugata.demachi.jp/shop/page/2/?cat=gourmet"
+    ],
+    "entries": 13,
+    "unit": "店舗紹介ページ"
+  },
+  {
+    "authority": "深草商店街",
+    "root": "https://fukakusa-flower.com/shoplist",
+    "pages": [
+      "https://fukakusa-flower.com/shoplist"
+    ],
+    "entries": 6,
+    "unit": "店舗紹介ページ"
+  },
+  {
+    "authority": "四条繁栄会商店街",
+    "root": "https://kyoto-shijo.or.jp/shop/",
+    "pages": [
+      "https://kyoto-shijo.or.jp/shop/"
+    ],
+    "entries": 30,
+    "unit": "店舗紹介ページ"
+  },
+  {
+    "authority": "嵯峨商店街",
+    "root": "https://sagaarashiyama.jp/official/shoplist/",
+    "pages": [
+      "https://sagaarashiyama.jp/official/shoplist/"
+    ],
+    "entries": 31,
+    "unit": "店舗行"
+  },
+  {
+    "authority": "亀岡市・オーガニック販売店・飲食店マップ",
+    "root": "https://www.city.kameoka.kyoto.jp/soshiki/30/64805.html",
+    "pages": [
+      "https://www.city.kameoka.kyoto.jp/soshiki/30/64805.html"
+    ],
+    "entries": 9,
+    "unit": "飲食店行"
+  }
+]

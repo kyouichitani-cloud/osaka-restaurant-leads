@@ -14,8 +14,8 @@ assert.equal(meta.sources.length,69);
 assert.equal(meta.coverage.length,26);
 assert.equal(registries.length,39184);
 assert.equal(new Set(registries.map(r=>r.id)).size,registries.length);
-assert.equal(audit.decisions.length,1489);
-assert.equal(leads.length,573);
+assert.equal(audit.decisions.length,1631);
+assert.equal(leads.length,615);
 assert.equal(new Set(leads.map(r=>r.id)).size,leads.length);
 for(const name of ['ゑびや','力 餅','千成餅食堂']){
   const same=leads.filter(r=>r.name===name);
@@ -53,6 +53,10 @@ assert.equal(leads.find(r=>r.name==='&beer しとらす').phone,'075-285-4743');
 assert.equal(leads.find(r=>r.name==='Ray cafe').contact.routes[0].url,'https://www.instagram.com/ray_cafe2023/');
 assert.equal(leads.find(r=>r.name==='Ray cafe').phone,'');
 assert.match(leads.find(r=>r.name==='はらさんち').why,/古い情報/);
+for(const name of ['らーめん遊貯','Chop Chop Banh Mi(チョップチョップバインミー)','ふかふか家'])
+  assert.ok(leads.some(r=>r.name===name),'New street source should include '+name);
+for(const name of ['京都鉄板焼grow','人類みな麺類 近未来と日本文化の融合','M Stand 京都四条河原町店','Paradise Dynasty 京都四条店'])
+  assert.ok(!leads.some(r=>r.name===name),'Exclude confirmed site or multi-store brand: '+name);
 (async()=>{
   const browser=await chromium.launch({headless:true,channel:'chrome'});
   const page=await browser.newPage({viewport:{width:1365,height:960}});
@@ -61,10 +65,10 @@ assert.match(leads.find(r=>r.name==='はらさんち').why,/古い情報/);
   await page.goto('http://127.0.0.1:8765/kyoto.html',{waitUntil:'networkidle'});
   await page.waitForFunction(()=>document.getElementById('research-count').textContent.includes('39,184'));
   assert.equal(await page.locator('#region-count').textContent(),`${leads.length}店`);
-  assert.match(await page.locator('#contact-count').textContent(),/549店.*24店/);
+  assert.match(await page.locator('#contact-count').textContent(),/580店.*35店/);
   assert.equal(await page.locator('#municipality option').count(),27);
-  await page.locator('#contact-filter').selectOption('instagram');assert.equal(await page.locator('#region-count').textContent(),'107店');
-  await page.locator('#contact-filter').selectOption('missing');assert.equal(await page.locator('#region-count').textContent(),'24店');
+  await page.locator('#contact-filter').selectOption('instagram');assert.equal(await page.locator('#region-count').textContent(),'123店');
+  await page.locator('#contact-filter').selectOption('missing');assert.equal(await page.locator('#region-count').textContent(),'35店');
   await page.locator('#contact-filter').selectOption('all');
   await page.locator('#rank-filter').selectOption('S');assert.equal(await page.locator('#items .item').count(),0);
   await page.locator('#clear-filters').click();
@@ -113,8 +117,8 @@ assert.match(leads.find(r=>r.name==='はらさんち').why,/古い情報/);
   await page.locator('.prefectures a').filter({hasText:'大阪府'}).click();
   await page.waitForFunction(()=>document.getElementById('total-count').textContent.includes('1,306'));
   await page.locator('.prefectures a').filter({hasText:'京都府'}).click();
-  await page.waitForFunction(()=>document.getElementById('total-count').textContent.includes('573'));
+  await page.waitForFunction(()=>document.getElementById('total-count').textContent.includes('615'));
   assert.deepEqual(errors,[]);
-  console.log('PASS Kyoto: 1,489 source listings; 573 candidates; 26 municipalities; all 39,184 records reachable; new-source/phone/alias integrity; privacy whitelist; mobile; prefecture switching.');
+  console.log('PASS Kyoto: 1,631 source listings; 615 candidates; 26 municipalities; all 39,184 records reachable; new-source/phone/alias integrity; privacy whitelist; mobile; prefecture switching.');
   await browser.close();
 })().catch(e=>{console.error(e);process.exit(1)});

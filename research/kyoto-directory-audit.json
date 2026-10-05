@@ -1,13 +1,13 @@
 {
   "checkedAt": "2026-10-05",
   "stats": {
-    "profiles": 1489,
-    "candidates": 573,
-    "phone": 536,
-    "email": 4,
-    "instagram": 107,
-    "facebook": 30,
-    "anyContact": 549
+    "profiles": 1631,
+    "candidates": 615,
+    "phone": 559,
+    "email": 8,
+    "instagram": 123,
+    "facebook": 33,
+    "anyContact": 580
   },
   "decisions": [
     {
@@ -759,10 +759,9 @@
       "address": "舞鶴市字円満寺145-10",
       "phone": "0773-60-4202",
       "url": "https://www.uminokyoto.jp/gourmet/detail.php?gourmet_id=300",
-      "decision": "独自HP等の掲載リンクあり",
+      "decision": "追加検索で公式HPを確認",
       "websiteLinks": [
-        "https://localplace.jp/sp/t200462357/index.html",
-        "https://localplace.jp/sp/t200462357/index.html"
+        "https://akashi-maizuru.jp/"
       ],
       "reviewNote": ""
     },
@@ -13793,7 +13792,7 @@
       "address": "京都市中京区大宮通四条上ル錦大宮町135",
       "phone": "075-841-8126",
       "url": "https://www.kyoto-hanato.com/sushikumiai/shop/nakagyo.html",
-      "decision": "暫定候補",
+      "decision": "別の掲載元に独自HP等リンクあり",
       "websiteLinks": [],
       "reviewNote": ""
     },
@@ -16718,6 +16717,1643 @@
       "websiteLinks": [
         "https://wagokoro5577.com/"
       ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ちょい呑み はわい (大阪屋マーケット)",
+      "city": "宇治市",
+      "address": "宇治市宇治橋通り商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://www.ujibashi.jp/shop/%e3%81%a1%e3%82%87%e3%81%84%e5%91%91%e3%81%bf-%e3%81%af%e3%82%8f%e3%81%84-%ef%bc%88%e5%a4%a7%e9%98%aa%e5%b1%8b%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88%ef%bc%89/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Antica Pizzeria L'ASINELLO(大阪屋マーケット)",
+      "city": "宇治市",
+      "address": "宇治市宇治橋通り商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://www.ujibashi.jp/shop/%e5%a4%a7%e9%98%aa%e5%b1%8b%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88%ef%bc%88antica%e3%80%80pizzeria%e3%80%80%ef%bd%8c%ef%bd%81%ef%bd%93%ef%bd%89%ef%bd%8e%ef%bd%85%ef%bd%8c%ef%bd%8c/",
+      "decision": "追加検索で公式HPを確認",
+      "websiteLinks": [
+        "https://www.anticapizzerialasinello.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Copain=A3(大阪屋マーケット)",
+      "city": "宇治市",
+      "address": "宇治市宇治橋通り商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://www.ujibashi.jp/shop/%e5%a4%a7%e9%98%aa%e5%b1%8b%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88copaina3%ef%bc%89/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "大阪屋食堂(大阪屋マーケット)",
+      "city": "宇治市",
+      "address": "宇治市宇治橋通り商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://www.ujibashi.jp/shop/%e5%a4%a7%e9%98%aa%e5%b1%8b%e9%a3%9f%e5%a0%82%ef%bc%88%e5%a4%a7%e9%98%aa%e5%b1%8b%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88%ef%bc%89/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "日本酒家 溝口さんち",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽41 大阪屋マーケット内",
+      "phone": "080-9120-5079",
+      "url": "https://www.ujibashi.jp/shop/%e6%97%a5%e6%9c%ac%e9%85%92%e5%ae%b6%e3%80%80%e6%ba%9d%e5%8f%a3%e3%81%95%e3%82%93%e3%81%a1%ef%bc%88%e5%a4%a7%e9%98%aa%e5%b1%8b%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88%e5%86%85%ef%bc%89/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "清水屋",
+      "city": "宇治市",
+      "address": "宇治市宇治橋通り商店街(詳細住所未確認)",
+      "phone": "0774-25-3335",
+      "url": "https://www.ujibashi.jp/shop/%e6%b8%85%e6%b0%b4%e5%b1%8b/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://gochio.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "肉が旨い店 Food Park",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽41 大阪屋マーケット",
+      "phone": "07084795883",
+      "url": "https://www.ujibashi.jp/shop/%ef%bd%86%ef%bd%8f%ef%bd%8f%ef%bd%84-%ef%bd%90%ef%bd%81%ef%bd%92%ef%bd%8b%ef%bc%88%e5%a4%a7%e9%98%aa%e5%b1%8b%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88%ef%bc%89/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "あぶらや",
+      "city": "宇治市",
+      "address": "宇治市宇治壱番33-1",
+      "phone": "0774-22-2777",
+      "url": "https://www.ujibashi.jp/shop/aburaya/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.uji-aburaya.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "いろり紅家",
+      "city": "宇治市",
+      "address": "宇治市宇治橋通り商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://www.ujibashi.jp/shop/beniya/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "びすとろD",
+      "city": "宇治市",
+      "address": "宇治市宇治橋通り商店街(詳細住所未確認)",
+      "phone": "0774-20-8808",
+      "url": "https://www.ujibashi.jp/shop/bistro-d/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "茶願寿カフェ",
+      "city": "宇治市",
+      "address": "宇治市宇治橋通り商店街(詳細住所未確認)",
+      "phone": "0774-21-5551",
+      "url": "https://www.ujibashi.jp/shop/chaganjyu/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.cha-ganju.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Chop Chop Banh Mi(チョップチョップバインミー)",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽41 大阪屋マーケット",
+      "phone": "0774-34-1599",
+      "url": "https://www.ujibashi.jp/shop/chop-chop-banh-mi%ef%bc%88%e5%a4%a7%e9%98%aa%e5%b1%8b%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88%ef%bc%89/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Chop Chop Banh Mi(大阪屋)",
+      "city": "宇治市",
+      "address": "宇治市宇治橋通り商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://www.ujibashi.jp/shop/chop-chop-banh-mi%ef%bc%88%e5%a4%a7%e9%98%aa%e5%b1%8b%ef%bc%89/",
+      "decision": "同商店街の詳細欄に同店名・所在地・電話・Instagramを掲載した別ページがあり重複",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "coconi",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽16",
+      "phone": "0774-51-1183",
+      "url": "https://www.ujibashi.jp/shop/coconi/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://coconi.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "宇治第一ホテル",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽178-13",
+      "phone": "0774-20-3333",
+      "url": "https://www.ujibashi.jp/shop/daiichi-hotel/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://ujidai1.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ウエスタンバー フローライト",
+      "city": "宇治市",
+      "address": "宇治市宇治橋通り商店街(詳細住所未確認)",
+      "phone": "0774-20-0855",
+      "url": "https://www.ujibashi.jp/shop/fluorite/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://fluorite-kyoto.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "宇治洋食屋カレー",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽50",
+      "phone": "0774-20-3315",
+      "url": "https://www.ujibashi.jp/shop/genkisyokudou/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://uji-genkisyokudou.owst.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "旬菜魚庵はせ川",
+      "city": "宇治市",
+      "address": "宇治市宇治橋通り商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://www.ujibashi.jp/shop/hasegawa/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.uji-hasegawa.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "HOHO HOJICHA 焙茶専門店",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽51番地2",
+      "phone": "0774-22-0977",
+      "url": "https://www.ujibashi.jp/shop/hoho-hojicha-%e7%84%99%e8%8c%b6%e5%b0%82%e9%96%80%e5%ba%97/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.hohohojicha.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ホテルトレンド",
+      "city": "宇治市",
+      "address": "宇治市宇治橋通り商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://www.ujibashi.jp/shop/hotel-trend/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "伊藤久右衛門",
+      "city": "宇治市",
+      "address": "宇治市宇治宇文字16-1",
+      "phone": "0774-22-0475",
+      "url": "https://www.ujibashi.jp/shop/ito-kyuemon/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.itohkyuemon.co.jp/corporate/shop/jruji/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "地鶏家 心",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽25",
+      "phone": "0774-22-5584",
+      "url": "https://www.ujibashi.jp/shop/kokoro/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "MATCHA RE:PUBLIC",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽26-2",
+      "phone": "0774-39-8996",
+      "url": "https://www.ujibashi.jp/shop/macha-kyowakoku/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.matcha-republic.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "中村製麺 はなれ",
+      "city": "宇治市",
+      "address": "宇治市宇治橋通り商店街(詳細住所未確認)",
+      "phone": "0774-20-1011",
+      "url": "https://www.ujibashi.jp/shop/nakamuraseimen/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "中村藤吉本店",
+      "city": "宇治市",
+      "address": "宇治市宇治壱番十番地",
+      "phone": "0774-22-7800",
+      "url": "https://www.ujibashi.jp/shop/nakamuratoukichi/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.tokichi.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "noccas wion (ノケイズ・ウィオン)",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽41番地大阪屋マーケット内",
+      "phone": "",
+      "url": "https://www.ujibashi.jp/shop/noccas-wion-%ef%bc%88%e5%a4%a7%e9%98%aa%e5%b1%8b%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88%ef%bc%89/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.noccaswion.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "舌にお礼を言わせたい 乱",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽24-1 ミツダビル 1 F",
+      "phone": "0774-21-2275",
+      "url": "https://www.ujibashi.jp/shop/ran/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.shitaniorei.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "暮らし工房 BAR kaguya",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽17ー1",
+      "phone": "0774-23-1115",
+      "url": "https://www.ujibashi.jp/shop/sawaki/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "辻利一本店",
+      "city": "宇治市",
+      "address": "宇治市宇治橋通り商店街(詳細住所未確認)",
+      "phone": "0774-94-6990",
+      "url": "https://www.ujibashi.jp/shop/tsujiriichi/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.tsujiriichihonten.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "宇治紅茶館 supported by MLESNA TEA ®",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽46-2",
+      "phone": "0774-25-3711",
+      "url": "https://www.ujibashi.jp/shop/uji-kouchakan/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://uji-kochakan.com",
+        "https://ujikochakan.stores.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "宇治創こころ (創作ダイニング)",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽58",
+      "phone": "0774-24-5617",
+      "url": "https://www.ujibashi.jp/shop/ujiso/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ujiso-cocoro.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Watte chai",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽41大阪屋マーケット内",
+      "phone": "",
+      "url": "https://www.ujibashi.jp/shop/watte-chai%ef%bc%88%e5%a4%a7%e9%98%aa%e5%b1%8b%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88%ef%bc%89/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Holly’s Café 四条大宮店",
+      "city": "京都市",
+      "address": "京都市下京区四条通大宮東入立中町487番 レ・ジェイド京都四条大宮1F",
+      "phone": "075-682-0011",
+      "url": "https://www.4jo.or.jp/shops/128.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://hollys-corp.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "喫茶 ハットリー",
+      "city": "京都市",
+      "address": "京都市下京区四条大宮町18",
+      "phone": "075-841-7107",
+      "url": "https://www.4jo.or.jp/shops/164.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "モリタ屋 四条猪熊 本店",
+      "city": "京都市",
+      "address": "京都市中京区猪熊通四条上る錦猪熊町521",
+      "phone": "075-842-0298",
+      "url": "https://www.4jo.or.jp/shops/199.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://moritaya-kyoto.co.jp/restaurant/honten/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "タリーズコーヒー四条大宮店",
+      "city": "京都市",
+      "address": "京都市下京区四条通大宮東入立中町495 大宮MOMOビル1階",
+      "phone": "075-803-3101",
+      "url": "https://www.4jo.or.jp/shops/229.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.tullys.co.jp/company/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京もつ鍋ホルモン朱々 京都四条大宮店",
+      "city": "京都市",
+      "address": "京都市下京区五坊大宮町93-4",
+      "phone": "075-406-1559",
+      "url": "https://www.4jo.or.jp/shops/231.html",
+      "decision": "運営会社の複数店舗ブランドで公式HPあり",
+      "websiteLinks": [
+        "https://www.traum2002.co.jp/brand/detail/shushu/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "味ごころ談",
+      "city": "京都市",
+      "address": "京都市中京区壬生坊城町13-3  木村四条ビル1F",
+      "phone": "075-821-2010",
+      "url": "https://www.4jo.or.jp/shops/311.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kirinya-foods.jp/dan/index.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "天下の焼肉 大将軍 四条大宮店",
+      "city": "京都市",
+      "address": "京都市下京区下り松町146 大将軍ビル2階-4階",
+      "phone": "075-802-1129",
+      "url": "https://www.4jo.or.jp/shops/316.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.daishogun.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "めんきや 壬生本店",
+      "city": "京都市",
+      "address": "京都市中京区壬生相合町32",
+      "phone": "075-888-0022",
+      "url": "https://www.4jo.or.jp/shops/375.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://mms-hd.co.jp/business/business2"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "らぁ麺 櫻井",
+      "city": "京都市",
+      "address": "京都市中京区壬生坊城町1-3",
+      "phone": "075-812-4912",
+      "url": "https://www.4jo.or.jp/shops/427.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "イタリアンバルTreotto",
+      "city": "京都市",
+      "address": "京都市中京区錦大宮町130-204",
+      "phone": "075-823-7667",
+      "url": "https://www.4jo.or.jp/shops/436.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.treotto.co/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ヤオイソ 四条大宮店",
+      "city": "",
+      "address": "果物店:京都市下京区四条大宮東入ル立中町488 フルーツパーラー:京都市下京区四条大宮東入ル立中町496",
+      "phone": "075-841-0353",
+      "url": "https://www.4jo.or.jp/shops/445.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://yaoiso.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京一本店",
+      "city": "京都市",
+      "address": "京都市中京区壬生坊城町1番地",
+      "phone": "075-842-0385",
+      "url": "https://www.4jo.or.jp/shops/453.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kyouichi.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ゼッテリア京都四条大宮店",
+      "city": "京都市",
+      "address": "京都市下京区四条通大宮東入る立中町490−2",
+      "phone": "0120-29-5770",
+      "url": "https://www.4jo.or.jp/shops/455.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.zetteria.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "九州 熱中屋 四条大宮 LIVE",
+      "city": "京都市",
+      "address": "京都市中京区大宮通り四条上ル錦大宮町145",
+      "phone": "075-813-5173",
+      "url": "https://www.4jo.or.jp/shops/457.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.dd-holdings.jp/shops/necchuya/sijyo#/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "お好み焼き・鉄板焼 のんちゃん",
+      "city": "京都市",
+      "address": "京都市下京区立中町478-5F",
+      "phone": "075-811-5403",
+      "url": "https://www.4jo.or.jp/shops/461.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://omiya-nonchan.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "湯葉料理 かめや本家",
+      "city": "京都市",
+      "address": "京都市中京区錦大宮町135",
+      "phone": "075-841-8126",
+      "url": "https://www.4jo.or.jp/shops/463.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kameya-honke.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "餃子の王将 四条大宮店",
+      "city": "京都市",
+      "address": "京都市中京区四条通大宮西入錦大宮町116-2",
+      "phone": "075-801-7723",
+      "url": "https://www.4jo.or.jp/shops/517.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://map.ohsho.co.jp/b/ohsho/info/1001/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "マクドナルド 四条大宮店",
+      "city": "京都市",
+      "address": "京都市下京区黒門通四条下ル下り松町155",
+      "phone": "075-813-3713",
+      "url": "https://www.4jo.or.jp/shops/565.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://map.mcdonalds.co.jp/map/26543"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "カレーハウスCoCo壱番屋 京都四条大宮店",
+      "city": "京都市",
+      "address": "京都市下京区大宮通四条下る四条大宮町33",
+      "phone": "075-811-1832",
+      "url": "https://www.4jo.or.jp/shops/568.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tenpo.ichibanya.co.jp/map/1054"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "松屋 四条大宮駅前店",
+      "city": "京都市",
+      "address": "京都市下京区四条通大宮東入立中町492",
+      "phone": "075-823-6161",
+      "url": "https://www.4jo.or.jp/shops/570.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://pkg.navitime.co.jp/matsuyafoods/spot/detail?code=0000001864"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "南国ジンジャー",
+      "city": "京都市",
+      "address": "京都市下京区四条大宮町33四条大宮ビル102",
+      "phone": "",
+      "url": "https://www.4jo.or.jp/shops/889.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://nngkginger.base.shop/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "16 ichiroku",
+      "city": "京都市",
+      "address": "京都市上京区桝形通出町西入(商店街内・詳細住所未確認)",
+      "phone": "075-600-9160",
+      "url": "https://masugata.demachi.jp/shop/16-ichiroku/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "パレスチナ料理 Bisan",
+      "city": "京都市",
+      "address": "京都市上京区桝形通出町西入(商店街内・詳細住所未確認)",
+      "phone": "090-5897-4586",
+      "url": "https://masugata.demachi.jp/shop/bisan/",
+      "decision": "東京の本店からの多店舗展開と掲載元に記載があり、独立個店条件の確認待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "DELTA Bistro, Coffee Shop & Gallery by KYOTOGRAPHIE",
+      "city": "京都市",
+      "address": "京都市上京区桝形通出町西入(商店街内・詳細住所未確認)",
+      "phone": "075-708-8727",
+      "url": "https://masugata.demachi.jp/shop/delta-kyotographie-permanent-space/",
+      "decision": "複合ギャラリー運営のため独立飲食個店条件の確認待ち",
+      "websiteLinks": [
+        "https://delta.kyotographie.jp/",
+        "https://delta.kyotographie.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "S.O.U./Violet and Claire",
+      "city": "京都市",
+      "address": "京都市上京区桝形通出町西入(商店街内・詳細住所未確認)",
+      "phone": "075-741-7354",
+      "url": "https://masugata.demachi.jp/shop/s-o-u-violet-and-claire/",
+      "decision": "店舗公式ページと移転情報があり現所在地・HP条件の確認待ち",
+      "websiteLinks": [
+        "https://sou-kyoto.tumblr.com",
+        "https://sou-kyoto.tumblr.com",
+        "https://sou-kyoto.tumblr.com/about"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "満寿形屋",
+      "city": "京都市",
+      "address": "京都市上京区桝形通出町西入(商店街内・詳細住所未確認)",
+      "phone": "075-231-4209",
+      "url": "https://masugata.demachi.jp/shop/shop_102/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "焼肉 さが喜",
+      "city": "京都市",
+      "address": "京都市上京区桝形通出町西入(商店街内・詳細住所未確認)",
+      "phone": "075-211-3811",
+      "url": "https://masugata.demachi.jp/shop/shop_1146/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "出町座",
+      "city": "京都市",
+      "address": "京都市上京区桝形通出町西入(商店街内・詳細住所未確認)",
+      "phone": "075-203-9862",
+      "url": "https://masugata.demachi.jp/shop/shop_119/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://demachiza.com/",
+        "http://cvbks.jp/",
+        "https://demachiza.com/",
+        "http://cvbks.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "LION KITCHEN(ライオンキッチン)",
+      "city": "京都市",
+      "address": "京都市上京区桝形通出町西入(商店街内・詳細住所未確認)",
+      "phone": "075-231-2332",
+      "url": "https://masugata.demachi.jp/shop/shop_85/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.lionkitchen.com/",
+        "https://www.lionkitchen.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "タコとケンタローパート2",
+      "city": "京都市",
+      "address": "京都市上京区桝形通出町西入(商店街内・詳細住所未確認)",
+      "phone": "075-366-4949",
+      "url": "https://masugata.demachi.jp/shop/shop_88/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ロイとリン",
+      "city": "京都市",
+      "address": "京都市上京区桝形通出町西入(商店街内・詳細住所未確認)",
+      "phone": "075-222-1831",
+      "url": "https://masugata.demachi.jp/shop/shop_89/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "寿司ふじ井",
+      "city": "京都市",
+      "address": "京都市上京区桝形通出町西入(商店街内・詳細住所未確認)",
+      "phone": "075-285-0988",
+      "url": "https://masugata.demachi.jp/shop/shop_90/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "串焼き いの田",
+      "city": "京都市",
+      "address": "京都市上京区桝形通出町西入(商店街内・詳細住所未確認)",
+      "phone": "075-256-0170",
+      "url": "https://masugata.demachi.jp/shop/shop_93/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "いのうえの餃子",
+      "city": "京都市",
+      "address": "京都市上京区桝形通出町西入(商店街内・詳細住所未確認)",
+      "phone": "075-223-3878",
+      "url": "https://masugata.demachi.jp/shop/shop_957/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ふかふか家",
+      "city": "京都市",
+      "address": "京都市伏見区深草直違橋2丁目435-3",
+      "phone": "075-634-9655",
+      "url": "https://fukakusa-flower.com/fukafukaya",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "みんなのカフェちいろば",
+      "city": "京都市",
+      "address": "京都市伏見区深草直違橋4丁目370",
+      "phone": "075-643-2476",
+      "url": "https://fukakusa-flower.com/iroba-cafe",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "居酒屋なかま",
+      "city": "京都市",
+      "address": "京都市伏見区深草直違橋北1丁目470",
+      "phone": "075-642-9958",
+      "url": "https://fukakusa-flower.com/nakama",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "居酒屋おたふく",
+      "city": "京都市",
+      "address": "京都市伏見区深草直違橋3丁目404",
+      "phone": "075-645-0029",
+      "url": "https://fukakusa-flower.com/otafuku",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "タカギ食品メリケン家",
+      "city": "京都市",
+      "address": "京都市伏見区深草直違橋2丁目423",
+      "phone": "075-641-2523",
+      "url": "https://fukakusa-flower.com/takagishokuhin",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "力餅食堂",
+      "city": "京都市",
+      "address": "京都市伏見区深草直違橋2丁目425-1",
+      "phone": "075-642-0249",
+      "url": "https://fukakusa-flower.com/tikaramochishokudo",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "生きている珈琲",
+      "city": "京都市",
+      "address": "京都市下京区四条通麸屋町西入ル立売東町24 みのや四条ビルB1",
+      "phone": "075-255-3039",
+      "url": "https://kyoto-shijo.or.jp/?author=140",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ikiteiru.com",
+        "http://ikiteiru.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "都そば四条店",
+      "city": "京都市",
+      "address": "京都市下京区四条通寺町東入御旅宮本町5",
+      "phone": "080-5764-9562",
+      "url": "https://kyoto-shijo.or.jp/?author=165",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://miyakosoba.com/",
+        "https://miyakosoba.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "洋麺屋五右衛門",
+      "city": "京都市",
+      "address": "京都市下京区四条通小橋西入真町81番地",
+      "phone": "075-708-6341",
+      "url": "https://kyoto-shijo.or.jp/?author=176",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.yomenya-goemon.com/",
+        "https://www.yomenya-goemon.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "おめん先斗町",
+      "city": "京都市",
+      "address": "京都市中京区四条通先斗町西入ル",
+      "phone": "075-253-0377",
+      "url": "https://kyoto-shijo.or.jp/?author=184",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.omen.co.jp/",
+        "http://www.omen.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "すき家四条店",
+      "city": "京都市",
+      "address": "京都市下京区四条通高倉西入ル立売西町67",
+      "phone": "0120-498-007",
+      "url": "https://kyoto-shijo.or.jp/?author=193",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.sukiya.jp/",
+        "https://www.sukiya.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ウェンディーズ・ファーストキッチン京都大丸前店",
+      "city": "京都市",
+      "address": "京都市下京区四条通柳馬場西入立売中之町92 アオキビル1F",
+      "phone": "075-253-3301",
+      "url": "https://kyoto-shijo.or.jp/?author=204",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.first-kitchen.co.jp/",
+        "http://www.first-kitchen.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ドトールコーヒーショップ京都四条通り店",
+      "city": "京都市",
+      "address": "京都市下京区四条通り麩屋町西入ル 東京海上ビル1F",
+      "phone": "075-213-4041",
+      "url": "https://kyoto-shijo.or.jp/?author=214",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.doutor.co.jp/index.html",
+        "http://www.doutor.co.jp/index.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "マクドナルド四条河原町店",
+      "city": "京都市",
+      "address": "京都市下京区貞安前文町610-5",
+      "phone": "075-257-3305",
+      "url": "https://kyoto-shijo.or.jp/?author=220",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.mcdonalds.co.jp",
+        "http://www.mcdonalds.co.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "マクドナルド四条大橋店",
+      "city": "京都市",
+      "address": "京都市下京区四条通小橋東入ル橋本町105-1",
+      "phone": "075-212-5208",
+      "url": "https://kyoto-shijo.or.jp/?author=234",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.mcdonalds.co.jp/",
+        "https://www.mcdonalds.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ととうお四条河原町店",
+      "city": "京都市",
+      "address": "京都市下京区四条小橋東入ル橋本町105",
+      "phone": "075-221-3077",
+      "url": "https://kyoto-shijo.or.jp/?author=236",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://totouo.dkdining.com/shijokawara/",
+        "https://totouo.dkdining.com/shijokawara/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "すき家四条木屋町店",
+      "city": "京都市",
+      "address": "京都市下京区四条通小橋東入橋本町109 ビュッフェビル",
+      "phone": "0120-498-007",
+      "url": "https://kyoto-shijo.or.jp/?author=239",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.sukiya.jp/",
+        "https://www.sukiya.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "イノダコーヒ",
+      "city": "京都市",
+      "address": "京都市下京区四条通高倉西入立売西町66 京都証券ビルB2",
+      "phone": "075-211-7738",
+      "url": "https://kyoto-shijo.or.jp/?author=243",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.inoda-coffee.co.jp/",
+        "https://www.inoda-coffee.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "住友不動産京都ビルFOOD HALL",
+      "city": "京都市",
+      "address": "京都市下京区四条通河原町東入真町68",
+      "phone": "075-255-1911",
+      "url": "https://kyoto-shijo.or.jp/?author=277",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kyoto-kawaramachigarden.com/foodhall/",
+        "https://www.kyoto-kawaramachigarden.com/foodhall/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京都鉄板焼grow",
+      "city": "京都市",
+      "address": "京都市下京区真町88 ユーイットゥ池善ビル B1",
+      "phone": "075-256-2291",
+      "url": "https://kyoto-shijo.or.jp/?author=285",
+      "decision": "追加検索で運営元の店舗HPを確認",
+      "websiteLinks": [
+        "https://www.kyoto-teppan.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "一蘭 京都烏丸店",
+      "city": "京都市",
+      "address": "京都市下京区立売中之町102-3 ミューズ389京都ビル 2F",
+      "phone": "075-211-7755",
+      "url": "https://kyoto-shijo.or.jp/?author=310",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://ichiran.com/shop/kinki/kyoto-karasuma/",
+        "https://ichiran.com/shop/kinki/kyoto-karasuma/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "タリーズコーヒー 四条烏丸京都三井ビル店",
+      "city": "京都市",
+      "address": "京都市下京区四条通烏丸東入ル長刀鉾町8番 京都三井ビル地下1階",
+      "phone": "075-256-8155",
+      "url": "https://kyoto-shijo.or.jp/?author=321",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.tullys.co.jp/",
+        "https://www.tullys.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "スターバックスコーヒー京都信用金庫本店ビル店",
+      "city": "京都市",
+      "address": "京都市下京区四条通柳馬場東入立売東町7",
+      "phone": "075-366-4060",
+      "url": "https://kyoto-shijo.or.jp/?author=324",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://store.starbucks.co.jp/detail-1854/",
+        "https://store.starbucks.co.jp/detail-1854/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "珉珉四条店",
+      "city": "京都市",
+      "address": "京都市下京区真町88 ユー・イットゥ池善ビル地下1階",
+      "phone": "075-366-4533",
+      "url": "https://kyoto-shijo.or.jp/?author=342",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.minminhonten.com/",
+        "https://www.minminhonten.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "サー・トーマス・リプトンティーハウス四条店",
+      "city": "京都市",
+      "address": "京都市下京区四条寺町西入ル",
+      "phone": "075-255-3551",
+      "url": "https://kyoto-shijo.or.jp/?author=36",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.lipton-teahouse.jp/",
+        "http://www.lipton-teahouse.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "カモセ珈琲直売所",
+      "city": "京都市",
+      "address": "京都市下京区四条通寺町東入ル御旅宮本町7番地",
+      "phone": "",
+      "url": "https://kyoto-shijo.or.jp/?author=360",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kamose.shop/",
+        "https://kamose.shop/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "おにまる京都四条河原町店",
+      "city": "京都市",
+      "address": "京都市下京区四条通寺町東入御旅宮本町11番地",
+      "phone": "075-746-6777",
+      "url": "https://kyoto-shijo.or.jp/?author=368",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.onimaru-net.com/",
+        "https://www.onimaru-net.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "人類みな麺類 近未来と日本文化の融合",
+      "city": "京都市",
+      "address": "京都市下京区四条通河原町東入真町88 ユーイットゥ池善ビル1F",
+      "phone": "",
+      "url": "https://kyoto-shijo.or.jp/?author=384",
+      "decision": "追加検索で運営元の店舗HPを確認",
+      "websiteLinks": [
+        "https://www.unchi-co.com/jinrui-kyoto/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "よーじや四条河原町店",
+      "city": "京都市",
+      "address": "京都市下京区御旅町30番地",
+      "phone": "075-708-6678",
+      "url": "https://kyoto-shijo.or.jp/?author=385",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://yojiyacafe.com/shop/kawara/",
+        "https://yojiyacafe.com/shop/kawara/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "らーめん遊貯",
+      "city": "京都市",
+      "address": "京都市下京区貞安前之町609 飯田屋ビル2階",
+      "phone": "075-257-2828",
+      "url": "https://kyoto-shijo.or.jp/?author=395",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "M Stand 京都四条河原町店",
+      "city": "京都市",
+      "address": "京都市下京区真町91",
+      "phone": "",
+      "url": "https://kyoto-shijo.or.jp/?author=397",
+      "decision": "追加検索で公式HPを確認",
+      "websiteLinks": [
+        "https://www.mstandcoffee.com/coffee"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Paradise Dynasty 京都四条店",
+      "city": "京都市",
+      "address": "京都市下京区奈良物町364 中央四条ビル2F",
+      "phone": "075-708-7806",
+      "url": "https://kyoto-shijo.or.jp/?author=404",
+      "decision": "追加検索でブランド公式HPを確認",
+      "websiteLinks": [
+        "https://www.paradisegp.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "四条 御旅町 田ごと",
+      "city": "京都市",
+      "address": "京都市下京区四条通寺町東入ル御旅町34番地",
+      "phone": "075-221-1811",
+      "url": "https://kyoto-shijo.or.jp/?author=45",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kyoto-tagoto.co.jp/",
+        "http://www.kyoto-tagoto.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "吉野家四条東洞院店",
+      "city": "京都市",
+      "address": "京都市下京区四条通東洞院東入立売西町59番地の2",
+      "phone": "075-254-3235",
+      "url": "https://kyoto-shijo.or.jp/?author=63",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://stores.yoshinoya.com/ysn_042491",
+        "https://stores.yoshinoya.com/ysn_042491"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "焼き肉やる気四条河原町店",
+      "city": "京都市",
+      "address": "京都市中京区四条通小橋東入橋本町111番地 アイブリ屋ビル1F",
+      "phone": "075-211-2981",
+      "url": "https://kyoto-shijo.or.jp/?author=97",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.yaruki.co.jp/",
+        "http://www.yaruki.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "東華菜館",
+      "city": "京都市",
+      "address": "京都市下京区四条大橋西詰",
+      "phone": "075-221-1147",
+      "url": "https://kyoto-shijo.or.jp/?author=98",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.tohkasaikan.com/",
+        "http://www.tohkasaikan.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "中村屋総本店",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.nakamuraya.website/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "角田香勢園",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "たこ焼き歌ぶ岐",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "たい焼き松風",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "中村惣菜店",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.nakamuraya.website/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "鳥留",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.arashiyama-kyoto.com/shop/2-033.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京料理 矢尾定",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.yaosada.com/kyoryori"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Rickshaw café",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Café Style Resort 嵯峨野湯",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.sagano-yu.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "嵐山豆腐 葵",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "酒商 おまっとう",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://omatto.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "食事処さがのや",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://sagano-ya.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "嵐山 たなか",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.arashiyama-tanaka.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "串龍",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "廣瀬珈琲店",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "マルシェすみのくら",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "鶴屋寿",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.sakuramochi.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京菓匠 鶴屋長生",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kyofuzei.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "zarame gourmet cotton and candy",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://zarame-japan.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "カフェドタイム",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "紅茶専門店・アンナマリア",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.tea-annamaria.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "コーヒーショップヤマモト",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "米のおかべ",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.arashiyama-kyoto.com/shop/2-019.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "すし磯",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "嵯峨漬物やまじょう",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://sagatsukemono.sakura.ne.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "プティボヌール",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ラウンジ ジール",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.snakaranavi.net/shop.php?sno=13629"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京都金の華嵯峨嵐山店",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kin-no-hana.kyoto/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "日本茶茶房 茶三楽",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.chasanraku.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "和食居酒屋いのうえ",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "中川発明堂",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://sagaarashiyama.jp/official/shoplist/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "comenaka ヘクタールus (コメナカハウス)",
+      "city": "亀岡市",
+      "address": "亀岡市畑野町広野平井19番地",
+      "phone": "",
+      "url": "https://www.city.kameoka.kyoto.jp/soshiki/30/64805.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "cafe nouka",
+      "city": "亀岡市",
+      "address": "亀岡市宮前町神前障子53番地",
+      "phone": "",
+      "url": "https://www.city.kameoka.kyoto.jp/soshiki/30/64805.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://cafe-nouka.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "kiri cafe",
+      "city": "亀岡市",
+      "address": "亀岡市千歳町毘沙門向畑39",
+      "phone": "",
+      "url": "https://www.city.kameoka.kyoto.jp/soshiki/30/64805.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "丹波亀吾郎",
+      "city": "亀岡市",
+      "address": "亀岡市余部町走田2 走田神社",
+      "phone": "",
+      "url": "https://www.city.kameoka.kyoto.jp/soshiki/30/64805.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "小町カフェ",
+      "city": "亀岡市",
+      "address": "亀岡市宮前町宮川森川1",
+      "phone": "",
+      "url": "https://www.city.kameoka.kyoto.jp/soshiki/30/64805.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://komati-v03.hp.peraichi.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Pepin CAFE",
+      "city": "亀岡市",
+      "address": "亀岡市内丸町44-1-3F",
+      "phone": "",
+      "url": "https://www.city.kameoka.kyoto.jp/soshiki/30/64805.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://peskyoto.com/cafe"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "KAMEOKA Food kitchen",
+      "city": "亀岡市",
+      "address": "亀岡市追分町谷筋25-33-2F",
+      "phone": "",
+      "url": "https://www.city.kameoka.kyoto.jp/soshiki/30/64805.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.marujuji.work/kyoto-enjoyfarm/store/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "天ぷら亀泉",
+      "city": "亀岡市",
+      "address": "亀岡市追分町谷筋25-29",
+      "phone": "",
+      "url": "https://www.city.kameoka.kyoto.jp/soshiki/30/64805.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tempurakisen.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "弄月庵",
+      "city": "亀岡市",
+      "address": "亀岡市東本梅町大内垣尻40",
+      "phone": "",
+      "url": "https://www.city.kameoka.kyoto.jp/soshiki/30/64805.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
       "reviewNote": ""
     }
   ]
