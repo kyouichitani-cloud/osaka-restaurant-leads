@@ -1,13 +1,13 @@
 {
   "checkedAt": "2026-10-05",
   "stats": {
-    "profiles": 853,
-    "candidates": 236,
-    "phone": 222,
+    "profiles": 1132,
+    "candidates": 324,
+    "phone": 302,
     "email": 4,
-    "instagram": 84,
-    "facebook": 26,
-    "anyContact": 230
+    "instagram": 89,
+    "facebook": 28,
+    "anyContact": 312
   },
   "decisions": [
     {
@@ -8163,6 +8163,2563 @@
       "city": "向日市",
       "url": "https://kyoto-nishiyama.jp/lunch/%E6%B0%97%E3%81%BE%E3%81%BE%E3%81%AB%E3%83%80%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0-%E3%81%B5%E3%81%86%E3%81%9B%E3%82%93%E3%81%8B%E3%81%9A%E3%82%89/",
       "decision": "同市町村・店名の既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "錦・高倉屋",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/takakuraya/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.takakuraya.jp",
+        "http://www.takakuraya.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "立ち呑み処 賀花",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/tachinomidokoro-gabana/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京都かに侍",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kanizamurai/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kanizamurai.com/sister-store/",
+        "https://kanizamurai.com/sister-store/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "豆招福",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/mamesyouhuku/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Sally's kitchen",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/takecho_east/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "和牛 天勝",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/wagyu-tensyo/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "花よりキヨエ",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/hanayorikiyoe/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.hanayori-kiyoe.jp",
+        "http://www.hanayori-kiyoe.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "もり",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/mori/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kyoto-mori.com",
+        "http://www.kyoto-mori.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "四寅",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/yontora/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "いちごとさつまいも工房",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/ichigoto-satsumaimo-kobo/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "まねきねこのて",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/maneki/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://mrucompany.co.jp/",
+        "https://mrucompany.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "やきとり 鳥勝",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/yakitori-torisyo/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "有次",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/aritsugu/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://aritsugu.co.jp/",
+        "https://aritsugu.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "舞扇堂 錦店",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/maisendo/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.maisendo.co.jp/",
+        "https://www.maisendo.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京のお肉処 弘 錦",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/hironishiki/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://meatshop-hiro.com/",
+        "http://meatshop-hiro.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "桝俉東店",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/masugoeast/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://masugo.co.jp/",
+        "https://masugo.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "漁港直送漁師小屋",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/gyokochokusouryoshigoya/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://natura-foods.com",
+        "https://natura-foods.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "のとよ",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/notoyo/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "湯波吉",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/yubakichi/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://yubakichi.jp/",
+        "http://yubakichi.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "櫂 KAI",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kai/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.nisiki-kai.com/",
+        "https://www.nisiki-kai.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "麩房老舗",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/fufusa/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.fufusa.com",
+        "http://www.fufusa.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "あづま屋",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/azumaya/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "市場直送海鮮問屋",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kaisentonya/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "丸弥太",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/maruyata/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京都錦座",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kyotonishikiza/",
+      "decision": "フードコートのため独立飲食個店の条件確認待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "桒藤(閉店)",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kuwatou/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京丹波",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kyotanba/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kyotanba.co.jp/",
+        "https://kyotanba.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ごま福堂",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/gomafuku/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "竹長",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/takecho/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "MAIKOHaaan!!!BURGER",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/maikohaaanburger/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "渡半",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/watahan/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "やまだしや",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/yamadashiya/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www12.plala.or.jp/yamadasi/",
+        "http://www12.plala.or.jp/yamadasi/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "野村佃煮",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/nomuratsukudani/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.nomuratsukudani.com",
+        "http://www.nomuratsukudani.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "錦・幸福堂",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kofukudo/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ko-fukudo.com",
+        "http://ko-fukudo.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "陶葊",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/touan/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.touan.co.jp/",
+        "https://www.touan.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "旅籠屋利兵衛",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/hatagoyarihe/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://rihe.jp",
+        "http://rihe.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "津乃弥",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/tsunoya/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "㐂久屋",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kikuya/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kyoto-kikuya.jp",
+        "http://www.kyoto-kikuya.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "不二食品",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/fujishokuhin/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "hale ~晴~",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/hale/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "鮨勝",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/sushisho/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "マルヤ",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/maruya/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "斗米庵",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/tobeian/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tobeian.jp",
+        "https://tobeian.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "山元馬場",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/yamamotobaba/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://yamamotobanba.jp",
+        "http://yamamotobanba.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "島本海苔乾物",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/shimamotonori/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://shimamoto.kyoto/",
+        "http://shimamoto.kyoto/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "津之喜",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/tsunoki/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.tsunoki.co.jp",
+        "http://www.tsunoki.co.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "魚よし",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/uoyoshi/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "北尾",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kitao/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kitaoshoji.co.jp/",
+        "http://www.kitaoshoji.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "川政",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kawamasa/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.rakuten.co.jp/kawamasa/",
+        "https://www.rakuten.co.jp/kawamasa/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "錦レトロ横丁",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/nishikiretoroyokocho/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "錦 大友",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/daitomo/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "弥生刃物 錦店",
+      "city": "",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/%e5%bc%a5%e7%94%9f%e5%88%83%e7%89%a9-%e9%8c%a6%e5%ba%97/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "鳥清",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/torisei/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kyoto-torisei.jp",
+        "https://www.kyoto-torisei.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "汸臼庵",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/houkyuuan/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.houkyuuan.com",
+        "http://www.houkyuuan.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "田中鶏卵",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/tanakakeiran/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "WAGYU STATION",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/wagyu_station/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "近新",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kinshin/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kyoto-kinshin.co.jp/",
+        "http://www.kyoto-kinshin.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "錦一葉&まめものとたい焼き",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/nishiki-ichiha-mamemono-taiyaki/",
+      "decision": "複数店舗ブランドのため独立経営条件の確認待ち",
+      "websiteLinks": [],
+      "reviewNote": "京阪の出店資料でKAWAKATSU運営のコラボブランドを確認。https://www.keihan.co.jp/corporate/info/release/assets/pdf/240419_kyoto-tower-sando.pdf"
+    },
+    {
+      "name": "三木鶏卵",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/mikikeiran/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://mikikeiran.com/",
+        "http://mikikeiran.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "箸屋万作",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/hashiyamansaku/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.wargo.jp/products/list939.html",
+        "https://www.wargo.jp/products/list939.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "2D café BAW",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/cafebaw/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "大島",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/ohshima/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kyoto-wel.com/shop/S86087/index.html",
+        "https://www.kyoto-wel.com/shop/S86087/index.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "三京水産",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/sankyosuisan/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京・月待庵 東店",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/tsukimachianeast/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kyo-tsukimachian.com/",
+        "http://www.kyo-tsukimachian.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "錦まるん",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/marun/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kyotomarun.com",
+        "http://www.kyotomarun.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "カリカリ博士",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/karikarihakase/",
+      "decision": "追加検索で公式HPを確認",
+      "websiteLinks": [
+        "https://www.karikari.jp/faq"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "桝俉北店",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/masugonorth/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://masugo.co.jp/",
+        "https://masugo.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京・月待庵 西店",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/tsukimachiannorth/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kyo-tsukimachian.com",
+        "http://www.kyo-tsukimachian.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "椿家",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/tsubakiya/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "桝俉本店",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/masugohonten/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://masugo.co.jp/",
+        "https://masugo.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "魚力",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/uoriki/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Strawberrychoco京都錦市場店",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/strawberrychoco/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "津乃利",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/tsunori/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "河一",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kawaichi/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kawaichi-nishiki.com",
+        "https://kawaichi-nishiki.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "杉養蜂園",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/sugiyohoen/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.0038.co.jp/",
+        "http://www.0038.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Wagyu teppanyaki MIYABI",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/wagyu-teppanyaki-steak-house-nishiki-miyabi/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://todaiji-nagomi.com/sister.html",
+        "https://todaiji-nagomi.com/sister.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ほそかわ",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/hosokawa/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "大國屋",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/ohkuniya/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.bubu-unagi.com/ookuni/index.html",
+        "https://www.bubu-unagi.com/ookuni/index.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "立ち食い寿司鮨にしき",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/tatiguisushi-sushinishiki/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://natura-foods.com",
+        "https://natura-foods.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "サンドラッグ",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/sundrug/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.sundrug.co.jp/",
+        "https://www.sundrug.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "錦 花つね",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/hanatsune/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "いけまさ亭",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/ikemasatei/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "味彩のと与",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/notoyo_ajisai/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "鶏鶏餃子 JIJIGYOZA",
+      "city": "",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/%e9%b6%8f%e9%b6%8f%e9%a4%83%e5%ad%90-jijigyoza/",
+      "decision": "店名・京都府内所在地の照合待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "のとよ 西店",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/notoyo_nishiten/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "海鮮帆立センター",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kaisenhotatesenta/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "戌前屋",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/inumaeya/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "錦佐竹生花店",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/satakeseika/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://satake-seikaten.com",
+        "https://satake-seikaten.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "蒟蒻しゃぼん",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/konnyaku_shabon/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "かざり錦",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kazarinishiki/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kazari.info/",
+        "http://kazari.info/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "錦 鮨しん本店",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/sushi-shin/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.nishiki-sushishin.com/",
+        "https://www.nishiki-sushishin.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "元蔵",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/genzou/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.nisiki-genzou.com",
+        "https://www.nisiki-genzou.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "タコとハイボール",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/tako-hai/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tako-hai.jp/",
+        "https://tako-hai.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京錦かんざし屋wargo",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kyonishikikanzashiya/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://wargo.jp/collections/kanzashi",
+        "https://wargo.jp/collections/kanzashi"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "茶和々",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/sawawa/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.telacoya.co.jp",
+        "https://www.telacoya.co.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "SNOOPY茶屋",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/snoopychaya/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.snoopychaya.jp/",
+        "http://www.snoopychaya.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "木村",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kimura/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://nishiki-kimura.com",
+        "http://nishiki-kimura.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "千波",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/chinami/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kyoto-chinami.com",
+        "https://kyoto-chinami.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "打田",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/uchida/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kyoto-uchida.ne.jp",
+        "https://www.kyoto-uchida.ne.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "錦居酒屋",
+      "city": "",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/nishikiozakaya/",
+      "decision": "店名・京都府内所在地の照合待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "南大門 錦店",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/nandaimon/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "炉端にしき",
+      "city": "",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/%e7%82%89%e7%ab%af%e3%81%ab%e3%81%97%e3%81%8d/",
+      "decision": "店名・京都府内所在地の照合待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "屋台村はなれ",
+      "city": "",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/yataimura_hanare/",
+      "decision": "店名・京都府内所在地の照合待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "山市",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/yamaichi/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "錦平野",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/hirano/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://nishiki-hirano.com",
+        "https://nishiki-hirano.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "器土合爍",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kidoairaku/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "レッグヤスダ",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/legyasuda/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://legyasuda-nisiki.stores.jp",
+        "https://legyasuda-nisiki.stores.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "鳴門屋",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/narutoya-2/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "山庄",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/yamasho/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "畠中商店",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/hatanaka/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "麩嘉",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/fuka/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://fuka-kyoto.com/",
+        "http://fuka-kyoto.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "錦屋台村",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/nishikiyataimura/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "こんなもんじゃ",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/konnamonja/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kyotofu.co.jp/",
+        "https://www.kyotofu.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "冨美家",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/fumiya/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kyoto-fumiya.co.jp/",
+        "https://www.kyoto-fumiya.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京七味ぢんとら",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/dintora/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.rakuten.co.jp/dintora/",
+        "http://www.rakuten.co.jp/dintora/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "おちゃのこさいさい",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/ochanokosaisai/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.ochanokosaisai.com/",
+        "http://www.ochanokosaisai.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "プラウデコ",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/plaudeko/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.ewalk.co.jp/",
+        "http://www.ewalk.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "遊膳",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kitchenyuzen/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.telacoya.co.jp",
+        "https://www.telacoya.co.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "鳥豊",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/toritoyo/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "にしきギョーザ",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/nishikigyoza/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.telacoya.co.jp/nishikigyoza/",
+        "https://www.telacoya.co.jp/nishikigyoza/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "笹屋昌園 錦小路店",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kumonocha/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kumonocha.com/",
+        "https://www.kumonocha.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "THE CITY BAKERY 京都錦小路",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/the-city-bakery-nishikikoji/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://thecitybakery.jp/",
+        "https://thecitybakery.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "うなぎや花道",
+      "city": "",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/%e3%81%86%e3%81%aa%e3%81%8e%e3%82%84%e8%8a%b1%e9%81%93/",
+      "decision": "店名・京都府内所在地の照合待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京錦北斎グラフィック",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kyotohokusaigraphic/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://wargo.jp/products/4076",
+        "https://wargo.jp/products/4076"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "錦大丸",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/nishikidaimaru/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "鱧秀 錦本店",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/hamohide/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "スギドラッグ",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/sugidrug/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "田邊屋",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/tanabeya/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kyototanabeya.com/",
+        "http://kyototanabeya.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "珈琲館 京都錦高倉通店",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/kohikan-kyotonishikitakakura/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://c-united.co.jp/coffeekan/",
+        "https://c-united.co.jp/coffeekan/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "寺子屋本舗",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/terakoyahonpo/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.terakoyahonpo.jp/",
+        "https://www.terakoyahonpo.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "錦大安",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/daiyasu/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "伊藤久右衛門 錦高倉店",
+      "city": "京都市",
+      "url": "https://www.kyoto-nishiki.or.jp/stores/itoukyuuemon/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.itohkyuemon.co.jp/corporate/shop/nishikitakakura/",
+        "https://www.itohkyuemon.co.jp/corporate/shop/nishikitakakura/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "卒業写真を聴きながら",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e5%8d%92%e6%a5%ad%e5%86%99%e7%9c%9f%e3%82%92%e8%81%b4%e3%81%8d%e3%81%aa%e3%81%8c%e3%82%89/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "立呑 甲賀流 隠れ家",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e7%94%b2%e8%b3%80%e6%b5%81%e3%80%80%e9%9a%a0%e3%82%8c%e5%ae%b6/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "葉月邸",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e8%91%89%e6%9c%88%e9%82%b8/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "久宿 白川",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e4%b9%85%e5%ae%bf%e3%80%80%e7%99%bd%e5%b7%9d/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Ray cafe",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/ray-cafe/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "株式会社三味洪庵 事務所兼工場",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e4%b8%89%e5%91%b3%e6%b4%aa%e5%ba%b5-%e4%ba%8b%e5%8b%99%e6%89%80%e5%85%bc%e5%b7%a5%e5%a0%b4/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://sanmikouan.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Wire & Days",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/wire-days/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://wireanddays.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "焼肉ホルモン安東",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e7%84%bc%e8%82%89%e3%83%9b%e3%83%ab%e3%83%a2%e3%83%b3%e5%ae%89%e6%9d%b1/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Hi! cafe",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/hi-cafe/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京生麩のお店 愛麩",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e4%ba%ac%e7%94%9f%e9%ba%a9%e3%81%ae%e3%81%8a%e5%ba%97%e6%84%9b%e9%ba%a9%e3%80%80/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://manafu.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "島田食料品店",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e5%b3%b6%e7%94%b0%e9%a3%9f%e6%96%99%e5%93%81%e5%ba%97/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "刃物研ぎ専門店 常真",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e5%88%83%e7%89%a9%e7%a0%94%e3%81%8e%e5%b0%82%e9%96%80%e5%ba%97%e3%80%80%e5%b8%b8%e7%9c%9f/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tsuneshin.net/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "【閉店】本かしわ 鳥寿",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e6%9c%ac%e3%81%8b%e3%81%97%e3%82%8f%e3%80%80%e9%b3%a5%e5%af%bf/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "BEER Komachi",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/beer-komachi/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京都東山あゆや",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e4%ba%ac%e9%83%bd%e6%9d%b1%e5%b1%b1%e3%81%82%e3%82%86%e3%82%84/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京昆布舗 田なか 東山三条店",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e4%ba%ac%e6%98%86%e5%b8%83%e8%88%97-%e7%94%b0%e3%81%aa%e3%81%8b/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kyokonbu.jp",
+        "https://is.gd/h9weN3"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "暮らしの店 かじむら",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e6%9a%ae%e3%82%89%e3%81%97%e3%81%ae%e5%ba%97-%e3%81%8b%e3%81%98%e3%82%80%e3%82%89/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "町家旅館 桜香楽",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e7%94%ba%e5%ae%b6%e6%97%85%e9%a4%a8%e3%80%80%e6%a1%9c%e9%a6%99%e6%a5%bd/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://sakarakyoto.com/wp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "阪本商店",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e9%98%aa%e6%9c%ac%e5%95%86%e5%ba%97/",
+      "decision": "一般食品・酒類小売業で飲食個店ではない",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ゲストハウス 沖のまちやど",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e3%82%b2%e3%82%b9%e3%83%88%e3%83%8f%e3%82%a6%e3%82%b9-%e6%b2%96%e3%81%ae%e3%81%be%e3%81%a1%e3%82%84%e3%81%a9/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.okimachi.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "株式会社KOHBU(コーブ)",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bekohbu%ef%bc%88%e3%82%b3%e3%83%bc%e3%83%96%ef%bc%89/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kohbu.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京都衹園ボロニヤ工場",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e4%ba%ac%e9%83%bd%e8%a1%b9%e5%9c%92%e3%83%9c%e3%83%ad%e3%83%8b%e3%83%a4/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://boloniya1979.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "町家ステイ 小町家",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e7%94%ba%e5%ae%b6%e3%82%b9%e3%83%86%e3%82%a4-%e5%b0%8f%e7%94%ba%e5%ae%b6/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.komachiya-kyoto.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "トーヨー電化",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e3%83%88%e3%83%bc%e3%83%a8%e3%83%bc%e9%9b%bb%e5%8c%96/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "株式会社白川まちづくり会社 : 古川趣蔵",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e7%99%bd%e5%b7%9d%e3%81%be%e3%81%a1%e3%81%a5%e3%81%8f%e3%82%8a%e4%bc%9a%e7%a4%be%e3%80%80-%e5%8f%a4%e5%b7%9d%e8%b6%a3%e8%94%b5/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://shirakawa-academia.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "東山三条整骨院",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e6%9d%b1%e5%b1%b1%e4%b8%89%e6%9d%a1%e6%95%b4%e9%aa%a8%e9%99%a2/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://higashiyama-ss.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京ごはん にしむら",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e4%ba%ac%e3%81%94%e3%81%af%e3%82%93-%e3%81%ab%e3%81%97%e3%82%80%e3%82%89/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.nishimuragohan.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "織田自然堂薬局",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e7%b9%94%e7%94%b0%e8%87%aa%e7%84%b6%e5%a0%82%e8%96%ac%e5%b1%80/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kanpo-kusuriya.com/kanpo/odasizendouyakkyoku/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "古川町 万両",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e5%8f%a4%e5%b7%9d%e7%94%ba-%e4%b8%87%e4%b8%a1/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京山食品",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e4%ba%ac%e5%b1%b1%e9%a3%9f%e5%93%81/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ミズギク生花",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e3%83%9f%e3%82%ba%e3%82%ae%e3%82%af%e7%94%9f%e8%8a%b1/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "衹園 新鮮畑",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e8%a1%b9%e5%9c%92-%e6%96%b0%e9%ae%ae%e7%95%91/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "祇園白川ラーメン",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e7%a5%87%e5%9c%92%e7%99%bd%e5%b7%9d%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://gion-shirakawa.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "JARFO Art Square",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/jarfoartsquare/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "美癒亭酒房 いづみ",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e7%be%8e%e7%99%92%e4%ba%ad%e9%85%92%e6%88%bf-%e3%81%84%e3%81%a5%e3%81%bf/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "エレーネ",
+      "city": "京都市",
+      "url": "https://www.furukawacho.com/information/%e3%82%a8%e3%83%ac%e3%83%bc%e3%83%8d/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "&beer しとらす",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/beercitrus/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "米菓匠 紫芳軒 おかきとWaカフェ",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/beikasyo-shihouken/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://arare-ya.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Cafe Magda",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/cafe-magda/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://cafemagda.wixsite.com/kyoto",
+        "http://cafemagda.wixsite.com/kyoto"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "炭火串焼 一幸屋",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/charcoal-grill-ikkouya/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "中華料理 紅華",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/chinise-restaurant-koka/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "コーヒーハウスダモン",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/coffee-house-damon/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "フルーツパーラ いけだ",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/fruitparlor-ikeda/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "婦久佐",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/fukusa/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ゴスペルハウス カフェ",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/gospel-house-cafe/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://gsph.org/cafe/",
+        "http://gsph.org/cafe/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "餃子の王将 御薗橋店",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/gyoza-no-ohsho-misonobashi-ten/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ohsho.co.jp/",
+        "https://www.ohsho.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ハラペコオイル",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/harapico-oil/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ほっかほっか亭 御薗橋大宮店",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/hokka-hokka-tei-misonobashi-oomiya-ten/",
+      "decision": "主要チェーン・施設内等の条件照合待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "可族",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/kazoku/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "串揚げと逸品 ぼぶ",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/kushiagetoippin-bobu/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "串揚げと魚 ときどき休み",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/kushiagetosakana-tokidokiyasumi/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "万次郎",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/manjiro/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "みその橋サカイ",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/misonobashi-sakai/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.misonobashi-sakai.com/",
+        "http://www.misonobashi-sakai.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Music bar kinaco",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/music-bar-kinaco/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "にしむらや",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/nishimuraya/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://nishimurayaofficial.amebaownd.com/",
+        "https://nishimurayaofficial.amebaownd.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "NMH  ノース マウンテン ホーミーズ",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/nmh/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "お気楽健康酒場 おばんず",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/obanzu/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ライズ",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/rise/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "おばんざい酒場 せいこめし",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/seikomeshi/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "炭火焼肉ひろ",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/sumibiyakiniku-hiro/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "とりのすけ 上賀茂店",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/torinosuke/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://torinosuke.gr.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "酒と鉄板料理 やいたん",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/yaitan/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "やきとり ちょっと",
+      "city": "京都市",
+      "url": "https://misonobashi-801.com/shop/yakitori-chotto/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "えびすやのパン",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "末廣菓舗",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "アイハート",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "食品小売業主体のため飲食個店条件の確認待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "鼓月 新大宮店",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "追加検索で公式HPを確認",
+      "websiteLinks": [
+        "https://www.kogetsu.com/shop/kyoto/11.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "於多福菓舗",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "鎰良光",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ほっかほっか亭 御薗橋大宮店",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "主要チェーン・施設内等の条件照合待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京のおん菓子 朧八瑞雲堂",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "フルーツパーラ いけだ",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "同市町村・店名の既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": "御薗橋商店街と市の一覧の電話075-493-0035・所在地一致。"
+    },
+    {
+      "name": "Thanks Marche Green Smile",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://shin-oomiya.jp/shop/093/093.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "はらさんち",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "大徳寺さいき家",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "追加検索で公式HPを確認",
+      "websiteLinks": [
+        "https://www.saikiya.com/index.php"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ヴェルク",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "そば鶴",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "GIMMICK",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "中華のサカイ本店",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "追加検索で公式HPを確認",
+      "websiteLinks": [
+        "https://www.reimen.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "孝月",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ゴスペルハウス コーヒー",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.gswh.org/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "南屋和牛堂",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.minamico.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "コーヒーハウス ダモン",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "同市町村・店名の既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "八島丹山 西賀茂店",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://niyama.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "中華料理 紅華",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "同市町村・店名の既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "万次郎",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "同市町村・店名の既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": "御薗橋商店街と市の一覧の電話075-492-9317・所在地一致。"
+    },
+    {
+      "name": "みその橋 サカイ",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "TAMARIBA",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://tamariba-kyoto.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "machi kichi",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://twaz.org/machi_kichi/4234036096"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "PumeHana cafe",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.pumehana-cafe.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "コミュニティカフェ新大宮",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://cc-shinoomiya.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "社会福祉法人京都ライトハウス",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kyoto-lighthouse.or.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "惣菜いちかわ",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127744.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Les bles d'or(レ・ブレドオル)",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127744.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.les-blesdor.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "成駒寿司",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127744.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "亀廣宗(かめひろむね)",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127744.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "手打蕎麦 藤芳",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127744.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://blog.livedoor.jp/sobayafujiyosi/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ぐるぐるかふぇ",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127744.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://guruguru.ninpou.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Known Cafe Bar圓",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127744.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ちゃ.ごころ小花.",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127744.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "cafe はなみずき",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127744.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.sogofukushi.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "菜彩",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127744.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "おうちごはん きりん家 guest house 百万遍cross",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127744.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.gh100manben.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "株式会社 北白川ともえ",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127744.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "西陣千本商店街振興組合",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127746.html",
+      "decision": "市のHP欄が無ではないため追加確認待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "バザールカフェ",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127746.html",
+      "decision": "追加検索で公式HPを確認",
+      "websiteLinks": [
+        "https://www.bazaarcafe.org/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ごはんやさん 菜の花",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127746.html",
+      "decision": "社会福祉会館内・旧所在地のため現在営業と独立経営の確認待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "オニカフェ",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127746.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "吾妻軒",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127746.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ときわ寿し",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127746.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "コーヒーハウス サンライズ2001",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127746.html",
+      "decision": "市のHP欄が無ではないため追加確認待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "鳥よし",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127746.html",
+      "decision": "市のHP欄が無ではないため追加確認待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "胡麻屋くれぇぷ堂",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "馬場商店",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "味工房菜彩",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ajikoubousaisai.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京佃煮・京菓子 永楽屋",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.eirakuya.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "パティスリー京都sazare",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "decision": "市のHP欄が無ではないため追加確認待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "カフェはな",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "寿司処 大野屋",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "decision": "同市町村・店名の既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": "商店街と市の一覧の店名・電話075-841-3524・三条神泉苑の所在地を照合し統合。"
+    },
+    {
+      "name": "寿し保",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "コーヒータイム ケーキとあっくん",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "さらさ御供焼菓子工房",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://sarasaonn.exblog.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "サラサ3",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "decision": "追加検索で公式HPを確認",
+      "websiteLinks": [
+        "https://www.cafe-sarasa.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ハイ・どうぞ",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ノンベクキッチン Hotevilla",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "天狗堂 海野製パン所",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Cafe奏",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "decision": "市のHP欄が無ではないため追加確認待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京料理 寿司 花登",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www6.plala.or.jp/hanato/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "はあと・フレンズ・ストア",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127753.html",
+      "decision": "京都市の福祉製品アンテナショップで独立飲食個店ではない",
+      "websiteLinks": [],
+      "reviewNote": "https://mumokuteki.com/goods/9364"
+    },
+    {
+      "name": "京・朱雀すし市場",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127753.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ごはん処矢尾定",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127753.html",
+      "decision": "追加検索で公式HPを確認",
+      "websiteLinks": [
+        "https://www.yaosada.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "梅小路パークカフェ",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127753.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.u-parkcafe.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "株式会社京都にしひがし",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127753.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "D-Light",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127769.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.d-light-kids.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "うずまさふたば",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127770.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://ameblo.jp/futabakaho/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "洋菓子工房 キシモト",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127770.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "布袋餅",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127770.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "株式会社 うさみ",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127770.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "パティスリーヒロヤ 京都太秦",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127770.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kyoto-hiroya.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京料理せんしょう",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127770.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://sensyou.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "名代 たこつぼ",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127770.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "キネマ・キッチン",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127770.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "KOTO KOTO",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127770.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "食楽酒場 でんでけ",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127770.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "オークフード",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127805.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.oakfood.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "有限会社 すし清",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127805.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ピコット手芸",
+      "city": "京都市",
+      "url": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127806.html",
+      "decision": "市のHP欄が無ではないため追加確認待ち",
       "websiteLinks": [],
       "reviewNote": ""
     }

@@ -1,0 +1,48 @@
+[
+  {
+    "authority": "京都市・人にやさしいサービス宣言",
+    "root": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+    "pages": [
+      "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127734.html",
+      "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127744.html",
+      "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127746.html",
+      "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127748.html",
+      "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127750.html",
+      "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127751.html",
+      "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127753.html",
+      "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127769.html",
+      "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127770.html",
+      "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127805.html",
+      "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000127806.html"
+    ],
+    "entries": 84,
+    "unit": "飲食業種の店舗行"
+  },
+  {
+    "authority": "京都錦市場商店街",
+    "root": "https://www.kyoto-nishiki.or.jp/map/",
+    "pages": [
+      "https://www.kyoto-nishiki.or.jp/map/"
+    ],
+    "entries": 132,
+    "unit": "店舗紹介ページ"
+  },
+  {
+    "authority": "古川町商店街",
+    "root": "https://www.furukawacho.com/information/",
+    "pages": [
+      "https://www.furukawacho.com/information/"
+    ],
+    "entries": 36,
+    "unit": "店舗紹介ページ"
+  },
+  {
+    "authority": "御薗橋801商店街",
+    "root": "https://misonobashi-801.com/shop/shop_tax/eat/",
+    "pages": [
+      "https://misonobashi-801.com/shop/shop_tax/eat/"
+    ],
+    "entries": 27,
+    "unit": "店舗紹介ページ"
+  }
+]

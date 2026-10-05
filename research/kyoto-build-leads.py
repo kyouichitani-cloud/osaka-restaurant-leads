@@ -13,7 +13,7 @@ spec = importlib.util.spec_from_file_location('kyoto_registry', ROOT/'research/k
 kr = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(kr)
 TODAY = kr.TODAY
-CONTACT_FIELDS = re.compile(r'URL|WEB|ホームページ|リンク|MAIL|メール|店舗情報|店舗リンク|公式サイト|ONLINESHOP', re.I)
+CONTACT_FIELDS = re.compile(r'URL|WEB|ホームページ|リンク|MAIL|メール|店舗情報|店舗リンク|公式サイト|公式HP|HPアドレス|SNS|ONLINESHOP', re.I)
 SOCIAL = {'instagram.com':'instagram','facebook.com':'facebook','fb.com':'facebook','line.me':'line','lin.ee':'line'}
 DIRECTORIES = ('tabelog.com','r.gnavi.co.jp','hotpepper.jp','retty.me','kyoto-nishiyama.jp','uminokyoto.jp','morinokyoto.jp','ochanokyoto.jp','gion.or.jp','sanjokai.kyoto.jp','kyoto-shichijo.jp','kyoto-kankou.or.jp','pref.kyoto.jp')
 EXTRA_CHAINS = re.compile(r'珈琲館|進々堂|天下一品|来来亭|ポムの樹|まいどおおきに食堂|牛たん福助|鶏笑|モルト・ヴォーノ|ユッチャン|おさかなキッチンみやづ|ホテル|旅館|民宿|道の駅|農業公園|温泉|キャンプ|休暇村|文化パルク|エコビレッジ|農産物直売所|市直売所|市営茶室|情報発信基地|公園|フードコート')
@@ -43,6 +43,7 @@ def parse(r):
     if city=='京都市' and address and not address.startswith('京都市'):
         address='京都市'+address
     if r.get('notFood'): reason='飲食業種の確認なし'
+    elif r.get('closed'): reason='掲載元に閉店・廃業の表記あり'
     elif not name or not city: reason='店名・京都府内所在地の照合待ち'
     elif kr.CHAINS.search(name) or EXTRA_CHAINS.search(name): reason='主要チェーン・施設内等の条件照合待ち'
     phone=phonevalue(fields.get('TEL') or fields.get('電話番号') or fields.get('電話') or fields.get('店舗情報',''))
@@ -57,6 +58,7 @@ def parse(r):
             if e: email=e[0]
     for l in links:
         url=l['url']; p=urlparse(url); host=p.netloc.lower().removeprefix('www.')
+        if url.rstrip('/')==r['url'].rstrip('/'):continue
         if p.scheme=='mailto':
             email=p.path;continue
         if p.scheme not in ['http','https']:continue
@@ -65,15 +67,19 @@ def parse(r):
             if re.search(r'/shar(?:er|e)|/intent|/p/|/reel/|/stories/|/accounts/',p.path):continue
             clean=urlunparse((p.scheme,p.netloc,quote(unquote(p.path),safe='/@:-_.'),'',p.query if 'profile.php' in p.path else '', ''))
             routes.append(dict(kind=kind,url=clean,source=r['url'],status='receipt-unverified'))
-        elif not any(host==d or host.endswith('.'+d) for d in DIRECTORIES) and not re.search(r'google\.|goo.gl|maps.app|youtube.com|youtu.be|twitter.com|x.com',host):
+        elif not any(host==d or host.endswith('.'+d) for d in DIRECTORIES) and not re.search(r'google\.|goo.gl|^g\.co$|maps.app|youtube.com|youtu.be|twitter.com|x.com',host):
             websites.append(url)
     routes=list({(x['kind'],x['url']):x for x in routes}.values())
     if websites:reason='独自HP等の掲載リンクあり'
+    if r['kind']=='city-declaration' and fields.get('ホームページ') not in ['無','なし','無し'] and not routes:
+        reason=reason or '市のHP欄が無ではないため追加確認待ち'
     if r['kind']=='nishiyama' and not re.search(r'カフェ|ランチ|ディナー|スイーツ|パン|喫茶|居酒屋|珈琲|コーヒー',fields.get('カテゴリ','')):
         reason='飲食業種の確認なし'
     rank='A' if routes else 'B'
     typ=norm(fields.get('ジャンル') or fields.get('ショップジャンル') or fields.get('カテゴリ') or '飲食店')
     why=('店舗紹介の連絡先欄にSNSを掲載。調べた掲載欄には独自HPリンクがなく、HP・独立経営・現在営業は連絡前に要確認。' if routes else '観光協会・商店街の店舗情報で確認。調べた掲載欄に独自HPリンクは見当たらず、別サイトの有無・独立経営・現在営業は追加確認が必要。')
+    if r['kind']=='city-declaration':
+        why='京都市のサービス宣言一覧で飲食業種・店舗電話を確認。HP欄は掲載当時の申告で、現在のHP・営業・独立経営は未確認。古い情報を含むため連絡前に要再確認。'
     lead=dict(name=name,municipality=city,city=city,address=address,type=typ,rank=rank,why=why,
               sources=[[r['authority'],r['url']]],checkedAt=TODAY,phone=phone,phoneSource=r['url'] if phone else '',
               email=email,emailSource=r['url'] if email else '',contact=dict(routes=routes,searchedAt=TODAY))
@@ -82,6 +88,7 @@ def parse(r):
 
 if __name__=='__main__':
     data=json.loads((ROOT/'research/raw/kyoto-directory-review.json').read_text())
+    data+=json.loads((ROOT/'research/raw/kyoto-more-review.json').read_text())
     overrides_path=ROOT/'research/kyoto-review-overrides.json'
     overrides=json.loads(overrides_path.read_text()) if overrides_path.exists() else {}
     accepted={}; audit=[]
