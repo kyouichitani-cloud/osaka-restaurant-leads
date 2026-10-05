@@ -25,7 +25,7 @@
   <header class="top"><div class="shell top-inner"><div class="brand">関西の飲食店候補</div><nav class="prefectures" aria-label="府県を切り替え"><a href="./">大阪府</a><a href="./kyoto.html" aria-current="page">京都府</a></nav></div></header>
   <main class="shell">
     <div class="intro"><h1>京都全域から、次の候補を。</h1><p>京都市から乙訓・山城・丹波・丹後まで。26市町村の飲食店を、件数上限なしで調査。</p></div>
-    <div class="summary"><span id="total-count">候補を集計中</span><span id="contact-count">連絡先を集計中</span><span id="email-count">メールを集計中</span><span id="phone-count">電話番号を集計中</span><span id="research-count">公開名簿を読み込み中</span><span>件数上限なし · 最終追加 2026年10月5日</span></div>
+    <div class="summary"><span id="total-count">候補を集計中</span><span id="contact-count">連絡先を集計中</span><span id="hours-count">営業時間を集計中</span><span id="email-count">メールを集計中</span><span id="phone-count">電話番号を集計中</span><span id="research-count">公開名簿を読み込み中</span><span>件数上限なし · 最終追加 2026年10月5日</span></div>
     <p class="notice"><strong>京都府全域を、上限なしで調査。</strong> 暫定候補644店と、条件確認待ちの公開記録39,184件を掲載。全店舗の網羅・判定は未完了です。</p>
     <div class="views" role="group" aria-label="表示する一覧"><button type="button" data-view="leads" aria-pressed="true">S・A・B候補</button><button type="button" data-view="registry" aria-pressed="false">調査対象の全件</button><button type="button" data-view="coverage" aria-pressed="false">26市町村の調査状況</button></div>
     <div class="layout">
@@ -35,6 +35,7 @@
         <div class="filters" id="filters"><label class="search-label">店舗名・住所<input id="search" type="search" placeholder="店名・区名・地名で検索" autocomplete="off"></label><label>市町村<select id="municipality"><option value="all">すべての市町村</option></select></label><label id="contact-label">連絡手段<select id="contact-filter"><option value="all">すべて</option><option value="any">連絡先あり</option><option value="text">文章の連絡先・SNSあり</option><option value="instagram">Instagramあり</option><option value="email">メールあり</option><option value="line">LINEあり</option><option value="form">フォームあり</option><option value="facebook">Facebookあり</option><option value="phone">電話あり</option><option value="missing">すべて未確認</option></select></label>
       <label id="rank-label">判定<select id="rank-filter"><option value="all">すべての判定</option><option>S</option><option>A</option><option>B</option></select></label></div>
         <div class="panel-head"><div><h2 id="region-title" tabindex="-1">京都府全域</h2><p id="region-subtitle">候補一覧</p></div><span class="count" id="region-count" role="status"></span></div>
+        <div class="sort-tools" id="sort-tools"><label for="sort-order">並び順</label><select id="sort-order"><option value="rank">S → A → B</option><option value="open-early">ランク内で開店が早い順</option><option value="open-late">ランク内で開店が遅い順</option><option value="close-late">ランク内で終了が遅い順</option></select><small class="sort-help">掲載元の時刻が基準。曜日・臨時休業は要確認。</small></div>
         <p class="scope-note" id="scope-note"></p>
         <div id="items"><p class="empty">店舗データを読み込み中です。</p></div>
         <div class="pagination" id="pagination" hidden><button type="button" id="previous">前へ</button><label>ページ<select id="page-number" aria-label="表示ページ"></select></label><span id="page-info"></span><button type="button" id="next">次へ</button></div>
@@ -45,6 +46,7 @@
     <noscript><p class="notice">店舗一覧を表示するにはJavaScriptを有効にしてください。</p></noscript>
   </main>
   <script src="./kyoto-data.js"></script>
+  <script src="./hours.js"></script>
   <script src="./app.js"></script>
 </body>
 </html>

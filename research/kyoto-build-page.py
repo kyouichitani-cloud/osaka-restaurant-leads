@@ -21,7 +21,7 @@ nav='<nav class="nav" aria-label="地域"><h2>地域</h2>'+''.join(f'<button typ
 s=re.sub(r'<nav class="nav".*?</nav>',lambda _:nav,s)
 s=s.replace('>大阪府全域<','>京都府全域<')
 s=re.sub(r'<details class="method">.*?</details>','<details class="method"><summary>調査方法・除外条件・出典</summary><div id="method-content"><p>出典一覧を読み込み中です。</p></div></details>',s,flags=re.S)
-s=re.sub(r'  <script src="\./data.js"></script>.*?  <script src="\./app.js"></script>','  <script src="./kyoto-data.js"></script>\n  <script src="./app.js"></script>',s,flags=re.S)
+s=re.sub(r'  <script src="\./data.js"></script>.*?  <script src="\./app.js"></script>','  <script src="./kyoto-data.js"></script>\n  <script src="./hours.js"></script>\n  <script src="./app.js"></script>',s,flags=re.S)
 assert '1,306' not in s and '43市町村' not in s and '大阪府内' not in s
 (ROOT/'dist/kyoto.html').write_text(s)
 print('Kyoto page built:',stats['candidates'],'candidates;',meta['stats']['researchRecords'],'public records')
