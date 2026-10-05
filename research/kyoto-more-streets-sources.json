@@ -1,0 +1,36 @@
+[
+  {
+    "authority": "福知山観光協会・料理飲食会員",
+    "root": "https://dokkoise.com/all_members/members_restaurant/",
+    "entries": 40,
+    "unit": "会員行"
+  },
+  {
+    "authority": "福知山観光協会・飲食店",
+    "root": "https://dokkoise.com/sightseeing/eat/",
+    "entries": 55,
+    "unit": "店舗紹介"
+  },
+  {
+    "authority": "寺町京極商店街",
+    "root": "https://www.kyoto-teramachi.or.jp/shop/shop_type/eat/",
+    "pages": [
+      "https://www.kyoto-teramachi.or.jp/shop/shop_type/eat/",
+      "https://www.kyoto-teramachi.or.jp/shop/shop_type/food/"
+    ],
+    "entries": 35,
+    "unit": "店舗紹介"
+  },
+  {
+    "authority": "河原町商店街",
+    "root": "https://www.kyoto-kawaramachi.or.jp/shop/?action=srch&tcat=6",
+    "entries": 34,
+    "unit": "店舗紹介"
+  },
+  {
+    "authority": "河原町グリーン商店街",
+    "root": "https://kyoto-green.com/shop-category/",
+    "entries": 21,
+    "unit": "店舗紹介"
+  }
+]

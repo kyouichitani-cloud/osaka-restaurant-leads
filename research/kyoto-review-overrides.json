@@ -65,5 +65,21 @@
   "https://kyoto-shijo.or.jp/?author=285": {"exclude":"追加検索で運営元の店舗HPを確認", "website":"https://www.kyoto-teppan.com/"},
   "https://kyoto-shijo.or.jp/?author=384": {"exclude":"追加検索で運営元の店舗HPを確認", "website":"https://www.unchi-co.com/jinrui-kyoto/"},
   "https://kyoto-shijo.or.jp/?author=397": {"exclude":"追加検索で公式HPを確認", "website":"https://www.mstandcoffee.com/coffee"},
-  "https://kyoto-shijo.or.jp/?author=404": {"exclude":"追加検索でブランド公式HPを確認", "website":"https://www.paradisegp.com/"}
+  "https://kyoto-shijo.or.jp/?author=404": {"exclude":"追加検索でブランド公式HPを確認", "website":"https://www.paradisegp.com/"},
+  "name:夢の里やながわ 福知山店": {"exclude":"追加検索で運営元の店舗HPを確認", "website":"https://tamba-yanagawa.co.jp/service/shop/store-introduction"},
+  "name:京都寺町 鯛めし槇": {"exclude":"追加検索で公式HPを確認", "website":"https://taimeshi-maki.com/"},
+  "name:居酒屋○家 まるや 河原町店": {"exclude":"追加検索で公式HPを確認", "website":"https://izakayamaruya.jp/"},
+  "name:桃園亭(中華料理)": {"exclude":"追加検索で公式HPを確認", "website":"https://touentei.com/"},
+  "name:浪花ひとくち餃子 餃々 四条河原町店": {"exclude":"追加検索でブランド公式HPを確認", "website":"https://www.gyozakeikaku.com/shop/list/detail/18"},
+  "name:コギソウル京都河原町店": {"exclude":"追加検索で店舗サイトを確認", "website":"https://akr6505203324.owst.jp/", "note":"商店街の所在地欄は中央区だが、店舗サイトは中京区。所在地にも相違あり。"},
+  "name:niko and... 京都寺町店": {"exclude":"衣料品チェーン併設のカフェで独立飲食個店ではない", "website":"https://www.nikoand.jp/food/427.html"},
+  "name:あじびる河原町": {"exclude":"複数の飲食店が入るビルで個店ではない"},
+  "name:お母ら工房": {"exclude":"菓子製造・販売主体で飲食個店の確認なし"},
+  "name:味工房 〈(一社)しあわせネット・輝〉": {"exclude":"福祉団体運営の弁当喫茶で独立経営条件の確認待ち"},
+  "name:(有)大源": {"name":"大源", "note":"福知山観光協会の会員欄と市の飲食店資料で同じ住所・電話のふぐ料理店と照合。"},
+  "name:合同会社 天山(焼肉三樹shuhari天山)": {"name":"焼肉三樹shuhari天山", "note":"観光協会会員欄の法人名を除き、掲載された店名を表示。"},
+  "name:天丼まきの 京都寺町店": {"exclude":"運営会社の複数店舗ブランドで公式HPあり", "website":"https://stores.toridoll.com/110977"},
+  "name:デンプラス 京都": {"exclude":"食器・雑貨販売主体で飲食個店ではない"},
+  "name:蓬萊堂": {"exclude":"茶・茶器の物販主体で飲食個店ではない"},
+  "name:SHIN‐SETSU": {"exclude":"追加検索で店舗HPを確認", "website":"https://9483181615.amebaownd.com/"}
 }

@@ -1,13 +1,13 @@
 {
   "checkedAt": "2026-10-05",
   "stats": {
-    "profiles": 1631,
-    "candidates": 615,
-    "phone": 559,
-    "email": 8,
-    "instagram": 123,
-    "facebook": 33,
-    "anyContact": 580
+    "profiles": 1816,
+    "candidates": 644,
+    "phone": 585,
+    "email": 10,
+    "instagram": 135,
+    "facebook": 35,
+    "anyContact": 607
   },
   "decisions": [
     {
@@ -213,7 +213,7 @@
       "address": "福知山市土師宮町1-216",
       "phone": "0773-27-4968",
       "url": "https://www.uminokyoto.jp/gourmet/detail.php?gourmet_id=40",
-      "decision": "暫定候補",
+      "decision": "別の掲載元に独自HP等リンクあり",
       "websiteLinks": [],
       "reviewNote": ""
     },
@@ -2454,7 +2454,7 @@
       "address": "福知山市駅南町3-134",
       "phone": "0773-23-1014",
       "url": "https://www.uminokyoto.jp/gourmet/detail.php?gourmet_id=272",
-      "decision": "暫定候補",
+      "decision": "別の掲載元に独自HP等リンクあり",
       "websiteLinks": [],
       "reviewNote": ""
     },
@@ -18354,6 +18354,2132 @@
       "url": "https://www.city.kameoka.kyoto.jp/soshiki/30/64805.html",
       "decision": "暫定候補",
       "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "株式会社青丘(焼肉ゆらの)",
+      "city": "福知山市",
+      "address": "福知山市字堀2303-2",
+      "phone": "0773-24-2322",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://heijyotei.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "(株)タルソン 焼肉冷麺ユッチャン福知山店",
+      "city": "福知山市",
+      "address": "福知山市広峯町11",
+      "phone": "0773-22-7700",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "主要チェーン・施設内等の条件照合待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "焼肉三樹shuhari天山",
+      "city": "福知山市",
+      "address": "福知山市岩井東町64-2",
+      "phone": "0773-23-1169",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": "観光協会会員欄の法人名を除き、掲載された店名を表示。"
+    },
+    {
+      "name": "ア陸蒸気(オカジョウキ)",
+      "city": "福知山市",
+      "address": "福知山市末広町1丁目30-1",
+      "phone": "0773-22-8885",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://okajyoki-fukuchiyama.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "鉄板・肴・神威",
+      "city": "福知山市",
+      "address": "福知山市厚東町142",
+      "phone": "0773-45-8971",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "中華サン",
+      "city": "福知山市",
+      "address": "福知山市駅南町3丁目8",
+      "phone": "0773-24-1245",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "スナック紬",
+      "city": "福知山市",
+      "address": "福知山市中ノ200-6 トークビル1F",
+      "phone": "090-5154-4776",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "(株)Craft Bank",
+      "city": "福知山市",
+      "address": "福知山市南本町264-5",
+      "phone": "050-3091-0726",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.craftbk.net/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Bistrot q(ビストロキュー)",
+      "city": "福知山市",
+      "address": "福知山市厚中町220 あつなかビル1階",
+      "phone": "0773-21-4183",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://bistro+q.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Lounge 粋",
+      "city": "福知山市",
+      "address": "福知山市字南本町205-9 LSさくらビル1F",
+      "phone": "0773-24-5266",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ワインスポット芽留詩",
+      "city": "福知山市",
+      "address": "福知山市篠尾新町二丁目6",
+      "phone": "0773-23-7617",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "食房 和楽",
+      "city": "福知山市",
+      "address": "福知山市末広町一丁目24",
+      "phone": "0773-24-3373",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://waraku-fukuchiyama.owst.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "珉珉福知山店",
+      "city": "福知山市",
+      "address": "福知山市末広町二丁目29",
+      "phone": "0773-23-6226",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "(有)ホアンカン",
+      "city": "福知山市",
+      "address": "福知山市篠尾新町三丁目7-2",
+      "phone": "0773-23-8286",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://hoankan.jimdofree.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "まいまい堂",
+      "city": "福知山市",
+      "address": "福知山市字下新26",
+      "phone": "0773-22-4686",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://maimai-do.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ふくし事業協同組合",
+      "city": "福知山市",
+      "address": "福知山市和久市町46",
+      "phone": "0773-22-5009",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://fukushi-kyushoku.or.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "肉山田肉子",
+      "city": "福知山市",
+      "address": "福知山市駅前町2番地",
+      "phone": "0773-25-0290",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "やきにくの丹の吉",
+      "city": "福知山市",
+      "address": "福知山市土師宮町一丁目216",
+      "phone": "0773-27-4968",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ninokichi.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "やきとり 当吉",
+      "city": "福知山市",
+      "address": "福知山市字内記14-10",
+      "phone": "0773-24-3739",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "(有)鳥名子",
+      "city": "福知山市",
+      "address": "福知山市中ノ233",
+      "phone": "0773-22-1804",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.torinago.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "(有)高田商事 丹波の奥座敷 たかた荘",
+      "city": "福知山市",
+      "address": "福知山市末広町四丁目22-1",
+      "phone": "0773-23-5221",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://takatasou.net"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "(有)御肉料理竹下",
+      "city": "福知山市",
+      "address": "福知山市駅南町三丁目134",
+      "phone": "0773-23-1014",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.yakiniku-takeshita.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "御食事処梁山泊たらふく",
+      "city": "福知山市",
+      "address": "福知山市字堀小字馬場2538-2",
+      "phone": "0773-23-0510",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.fukuchiyama-tarafuku.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "食べ処飲み処 丹波茶屋",
+      "city": "福知山市",
+      "address": "福知山市駅前町140-3",
+      "phone": "0773-23-5001",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tanbajaya.gorp.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "大源",
+      "city": "福知山市",
+      "address": "福知山市西長34-2",
+      "phone": "0773-22-2349",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": "福知山観光協会の会員欄と市の飲食店資料で同じ住所・電話のふぐ料理店と照合。"
+    },
+    {
+      "name": "酒肆 石の花 (有限会社博邦)",
+      "city": "福知山市",
+      "address": "福知山市字中10番地",
+      "phone": "0773-22-3377",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "紀文",
+      "city": "福知山市",
+      "address": "福知山市内記二丁目44",
+      "phone": "0773-22-6688",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ryoutei-kibun.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ku-nel (クーネル)",
+      "city": "福知山市",
+      "address": "福知山市駅前町196-4",
+      "phone": "0773-48-9471",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "有限会社お城の下で",
+      "city": "福知山市",
+      "address": "福知山市堀今岡ゆらのガーデン内",
+      "phone": "0773-23-3339",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://junko@bunshindo.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "かき末・ひのき",
+      "city": "福知山市",
+      "address": "福知山市西中ノ216",
+      "phone": "0773-22-3532",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "雲原 大江山鬼そば屋",
+      "city": "福知山市",
+      "address": "福知山市字雲原1248-2",
+      "phone": "0773-36-0016",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.onisobaya.net"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "お好み焼たこ焼き翁イオン福知山店",
+      "city": "福知山市",
+      "address": "福知山市岩井79-8イオン福知山店1階",
+      "phone": "0773-45-3582",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://takoyaki-okina.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "日本料理 一ゑん",
+      "city": "福知山市",
+      "address": "福知山市土師宮町1-93",
+      "phone": "0773-20-1057",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ichien.kyoto.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "TRATTORIAèBAR IL PULCINELLA",
+      "city": "福知山市",
+      "address": "福知山市下柳町41",
+      "phone": "0773-22-3751",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "(有)魚辰",
+      "city": "福知山市",
+      "address": "福知山市内記51-85(内記三丁目)",
+      "phone": "0773-22-2680",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://uotatsu.co.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ゆったり・ほんのり和楽宴 うさぎ",
+      "city": "福知山市",
+      "address": "福知山市字奥野部小字本庄34番地7",
+      "phone": "0773-23-2065",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "(株)あじくら",
+      "city": "福知山市",
+      "address": "福知山市厚中町121",
+      "phone": "0773-24-3600",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://ajikura.bsj.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "一般社団法人しあわせネット・輝 味工房",
+      "city": "福知山市",
+      "address": "福知山市字内記56番地の4",
+      "phone": "0773-22-8960",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://shiawase-net.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ATAMAN COFFEE",
+      "city": "福知山市",
+      "address": "福知山市駅前町439ビエラ福知山内",
+      "phone": "0773-23-6421",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "(社福)ふくちやま福祉会 あまづキッチン",
+      "city": "福知山市",
+      "address": "福知山市字上天津1915",
+      "phone": "0773-33-0055",
+      "url": "https://dokkoise.com/all_members/members_restaurant/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://amadu-kitchen.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "あまづキッチン (社福)ふくちやま福祉会",
+      "city": "福知山市",
+      "address": "福知山市字上天津1915",
+      "phone": "0773-33-0055",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://amadu-kitchen.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京・丹波むらいち「さんの丸」",
+      "city": "福知山市",
+      "address": "福知山市内記10-64 (裁判所横)",
+      "phone": "0773-25-9300",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://san-no-maru.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "パティスリーカフェ カタシマ福知山店",
+      "city": "福知山市",
+      "address": "福知山市厚中町8",
+      "phone": "0773-24-2451",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.katashima.co.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ニコリナ京都本店",
+      "city": "福知山市",
+      "address": "福知山市三和町芦渕981-5",
+      "phone": "0773-45-6701",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://oichiffon.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ATAMAN COFFEE",
+      "city": "福知山市",
+      "address": "福知山市駅前町439 ビエラ福知山内",
+      "phone": "0773-23-6421",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "UN.DONPURI(アン・ドンプリ)",
+      "city": "福知山市",
+      "address": "福知山市堀2363-1",
+      "phone": "0773-21-1959",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "足立音衛門 京都本店 姉妹店 丹波鶴屋",
+      "city": "福知山市",
+      "address": "福知山市内記44-18",
+      "phone": "0120-535-411",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.otoemon.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "明智茶屋",
+      "city": "福知山市",
+      "address": "福知山市篠尾新町1-1",
+      "phone": "0773-52-0140",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://akechichaya.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "味工房 〈(一社)しあわせネット・輝〉",
+      "city": "福知山市",
+      "address": "福知山市字内記56-4",
+      "phone": "0773-22-8960",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "福祉団体運営の弁当喫茶で独立経営条件の確認待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "たこ焼きお好み焼き 翁(おきな)福知山店",
+      "city": "福知山市",
+      "address": "福知山市岩井79-8 1F",
+      "phone": "0773-45-3582",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.takoyaki-okina.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ku-nel(クーネル)",
+      "city": "福知山市",
+      "address": "福知山市駅前町196-4",
+      "phone": "0773-48-9471",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ku-nel.kyoto"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "和楽宴 うさぎ",
+      "city": "福知山市",
+      "address": "福知山市字奥野部34-7",
+      "phone": "0773-23-2065",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "踊せんべいの千切屋",
+      "city": "福知山市",
+      "address": "福知山市字岡ノ一町23",
+      "phone": "0773-22-3632",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://chikiriya-kyoto.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "菓樹工房 きぬがわ",
+      "city": "福知山市",
+      "address": "福知山市駅南町2-288",
+      "phone": "0773-24-7788",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://k-kinugawa.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "洋菓子マウンテン×CELLAR DE CHOCOLAT by Naomi Mizuno",
+      "city": "福知山市",
+      "address": "福知山市字猪崎小字山本322",
+      "phone": "0773-22-1658",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.naomi-mizuno.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "焼肉冷麺ユッチャン福知山店",
+      "city": "福知山市",
+      "address": "福知山市広峯町11",
+      "phone": "0773-22-7700",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "主要チェーン・施設内等の条件照合待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "焼肉三樹shuhari天山",
+      "city": "福知山市",
+      "address": "福知山市字東堀2367-1",
+      "phone": "0773-22-2506",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ア陸蒸気(オカジョウキ)",
+      "city": "福知山市",
+      "address": "福知山市末広町1丁目30-1",
+      "phone": "",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "鉄板・肴・神威",
+      "city": "福知山市",
+      "address": "福知山市厚東町142",
+      "phone": "0773-45-8971",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ぱん工房わんダフル",
+      "city": "福知山市",
+      "address": "福知山市字堀小字今岡2641 三ツ丸ストア堀店内",
+      "phone": "0773-22-7155",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "中華サン",
+      "city": "福知山市",
+      "address": "福知山市駅南町3丁目8",
+      "phone": "0773-24-1245",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "元伊勢製菓",
+      "city": "福知山市",
+      "address": "福知山市大江町二俣755",
+      "phone": "0773-56-1861",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.motoise-seika.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "夢の里やながわ 福知山店",
+      "city": "福知山市",
+      "address": "福知山市駅前町343 和田ビル1階",
+      "phone": "0773-22-2840",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "追加検索で運営元の店舗HPを確認",
+      "websiteLinks": [
+        "https://tamba-yanagawa.co.jp/service/shop/store-introduction"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "日本茶と茶道具の専門店 山城屋茶舗",
+      "city": "福知山市",
+      "address": "福知山市字内記71",
+      "phone": "0773-22-3005",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://fukuchiyamacha.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "アップルパイのシャルム",
+      "city": "福知山市",
+      "address": "福知山市字奥榎原2041",
+      "phone": "090-5361-6601",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://apple-pie.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "お母ら工房",
+      "city": "福知山市",
+      "address": "福知山市三和町菟原下124",
+      "phone": "090-8655-9592",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "菓子製造・販売主体で飲食個店の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "炭火やきとり当吉",
+      "city": "福知山市",
+      "address": "福知山市字内記14-10",
+      "phone": "0773-24-3739",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "PIZZA&GRILL ITALIANBAR ILPAZZINI",
+      "city": "福知山市",
+      "address": "福知山市堀2344-1",
+      "phone": "0773-23-0882",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://ls-plus.co.jp/ilpazzini/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "まぃまぃ堂",
+      "city": "福知山市",
+      "address": "福知山市字下新26",
+      "phone": "0773-22-4686",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://maimai-do.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "御食事処 ともしげ",
+      "city": "福知山市",
+      "address": "福知山市土師新町3丁目13-1",
+      "phone": "0773-27-4779",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.tomoshige.net"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "日本料理 一ゑん",
+      "city": "福知山市",
+      "address": "福知山市土師宮町1-93",
+      "phone": "0773-20-1057",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ichien.kyoto.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "酒肆 石の花",
+      "city": "福知山市",
+      "address": "福知山市字中ノ10番地",
+      "phone": "0773-22-3377",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "お食事処 梁山泊 たらふく",
+      "city": "福知山市",
+      "address": "福知山市堀2538-2",
+      "phone": "0773-23-0510",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.fukuchiyama-tarafuku.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Bistrot q",
+      "city": "福知山市",
+      "address": "福知山市上紺屋50番地",
+      "phone": "0773-21-4183",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://bistrotq.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "お城の下で",
+      "city": "福知山市",
+      "address": "福知山市堀今岡6 ゆらのガーデン内",
+      "phone": "0773-23-3339",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "駅北酒場 肉山田肉子",
+      "city": "福知山市",
+      "address": "福知山市駅前町2",
+      "phone": "0773-25-0290",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "レストラン あじくら",
+      "city": "福知山市",
+      "address": "福知山市厚中町121",
+      "phone": "0773-24-3600",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://ajikura.bsj.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "魚辰",
+      "city": "福知山市",
+      "address": "福知山市内記51-85",
+      "phone": "0773-22-2680",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://uotatsu.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "大江山 鬼そば屋",
+      "city": "福知山市",
+      "address": "福知山市字雲原1248",
+      "phone": "0773-36-0016",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.onisobaya.net/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "かき末(牡蠣料理)・ひのき(瓦そば)",
+      "city": "福知山市",
+      "address": "福知山市西中ノ町216",
+      "phone": "0773-22-3532",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kakisue-hinoki.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "料亭 紀文",
+      "city": "福知山市",
+      "address": "福知山市字内記2丁目47-5",
+      "phone": "0773-22-6688",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ryoutei-kibun.jp/menu.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "丹波の奥座敷 たかた荘",
+      "city": "福知山市",
+      "address": "福知山市末広町4丁目22-1",
+      "phone": "0773-23-5221",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://takatasou.net/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "御肉料理 竹下",
+      "city": "福知山市",
+      "address": "福知山市駅南町3丁目134",
+      "phone": "0773-23-1014",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.yakiniku-takeshita.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "大源",
+      "city": "福知山市",
+      "address": "福知山市西長34-2",
+      "phone": "0773-22-2349",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "食べ処・飲み処 丹波茶屋",
+      "city": "福知山市",
+      "address": "福知山市駅前140-3 ニチレクビル2階",
+      "phone": "0773-23-5001",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.tanbatyaya.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "鳥名子(とりなご)姉妹店 柳町 とりなご久兵衛",
+      "city": "福知山市",
+      "address": "福知山市中ノ233",
+      "phone": "0773-22-1804",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.torinago.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ふくし",
+      "city": "福知山市",
+      "address": "福知山市和久市町46",
+      "phone": "0773-22-5009",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://fukushi-kyushoku.or.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "珉珉福知山店",
+      "city": "福知山市",
+      "address": "福知山市末広町2丁目29番地",
+      "phone": "0773-23-6226",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.minminhonten.com/norenwake"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ワインスポット芽留詩",
+      "city": "福知山市",
+      "address": "福知山市篠尾新町2丁目6",
+      "phone": "0773-23-7617",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "和楽(福知山アークホテル内)",
+      "city": "福知山市",
+      "address": "福知山市末広町1丁目24(福知山アークホテル1階)",
+      "phone": "0773-24-3373",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.f-ark.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "三和荘たには(丘の上のレストラン)",
+      "city": "福知山市",
+      "address": "福知山市三和町寺尾8004番地の丙 三和荘内",
+      "phone": "0773-45-4411",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.taniwa-miwa.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "大江山グリーンロッジ",
+      "city": "福知山市",
+      "address": "福知山市大江町仏性寺902",
+      "phone": "0773-56-0095",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.oeyama-green-lodge.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "コーヒーハウス ホアンカン(福知山店)",
+      "city": "福知山市",
+      "address": "福知山市篠尾新町3丁目7-2",
+      "phone": "0773-23-8286",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "やきにくの丹の吉",
+      "city": "福知山市",
+      "address": "福知山市土師宮町1-216",
+      "phone": "0773274968",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ninokichi29.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "BBQ&CAFE Honoho",
+      "city": "福知山市",
+      "address": "福知山市大呂298-5 京都大呂ガーデンテラス内",
+      "phone": "0773-33-2041",
+      "url": "https://dokkoise.com/sightseeing/eat/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://oro-gardenterrace.com/bbqcafe-honoho/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "三嶋亭",
+      "city": "京都市",
+      "address": "京都市中京区寺町通三条下ル桜之町405",
+      "phone": "075-221-0003",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e003/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.mishima-tei.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "金扇",
+      "city": "京都市",
+      "address": "京都市中京区寺町通三条下る桜之町406",
+      "phone": "075-241-3366",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e009/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "セブンイレブン 京都寺町六角店",
+      "city": "京都市",
+      "address": "京都市中京区桜之町406-4",
+      "phone": "075-212-7115",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e016/",
+      "decision": "主要チェーン・施設内等の条件照合待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "タリーズコーヒー 京都寺町通り店",
+      "city": "京都市",
+      "address": "京都市中京区寺町通り三条下る桜之町425-2",
+      "phone": "075-253-6116",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e019/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.tullys.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "バーガーキング 寺町京極店",
+      "city": "京都市",
+      "address": "京都市中京区寺町通六角上る桜之町426番地",
+      "phone": "075-746-4850",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e024/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.burgerking.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "天丼まきの 京都寺町店",
+      "city": "京都市",
+      "address": "京都市中京区寺町通六角下ル中筋町481-3",
+      "phone": "075-222-5560",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e030_1/",
+      "decision": "運営会社の複数店舗ブランドで公式HPあり",
+      "websiteLinks": [
+        "https://stores.toridoll.com/110977"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "マリオンクレープ 京都寺町店",
+      "city": "京都市",
+      "address": "京都市中京区寺町通蛸薬師上る中筋町493",
+      "phone": "080-4204-4981",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e045/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.marion.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "EL’S 蔵 bar",
+      "city": "京都市",
+      "address": "京都市中京区寺町通蛸薬師上る東側中筋町493-1(2F)",
+      "phone": "070-1075-4615",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e046_2f/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "お好み焼 鉄板焼 世都",
+      "city": "京都市",
+      "address": "京都市中京区寺町通蛸薬師上ル東側町498-3",
+      "phone": "075-252-0189",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e047/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "uru",
+      "city": "京都市",
+      "address": "京都市中京区寺町通蛸薬師下る東側501-10",
+      "phone": "",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e053/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京都勝牛 寺町京極店",
+      "city": "京都市",
+      "address": "京都市中京区寺町通蛸薬師下ル東側町529-2",
+      "phone": "075-744-1418",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e064_1/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kyoto-katsugyu.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京都寺町 鯛めし槇",
+      "city": "京都市",
+      "address": "京都市中京区寺町通東側町534番地 天清ビル西側1F",
+      "phone": "075-746-3710",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e069/",
+      "decision": "追加検索で公式HPを確認",
+      "websiteLinks": [
+        "https://taimeshi-maki.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "デンプラス 京都",
+      "city": "京都市",
+      "address": "京都市中京区寺町通四条上ル中之町552",
+      "phone": "075-741-8171",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e088-2/",
+      "decision": "食器・雑貨販売主体で飲食個店ではない",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "CAFÉ de CRIÉ",
+      "city": "京都市",
+      "address": "京都市中京区寺町通四条上ル中之町 菊水ビルB1",
+      "phone": "075-213-7880",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e090/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://pokkacreate.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "つるかめ 本店",
+      "city": "京都市",
+      "address": "京都市中京区寺町通四条上ル中之町559 菊水ビル1F",
+      "phone": "075-211-3213",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e091_1f/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "サイゼリヤ 京都寺町店",
+      "city": "京都市",
+      "address": "京都市中京区寺町通四条上る中之町559 菊水ビル2F",
+      "phone": "075-213-1413",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e094_2f/",
+      "decision": "主要チェーン・施設内等の条件照合待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "くるみ",
+      "city": "京都市",
+      "address": "京都市中京区寺町通四条上る 菊水ビルB1",
+      "phone": "075-221-2222",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e094_b1f/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "アショカ(3F)",
+      "city": "京都市",
+      "address": "京都市中京区寺町通四条上る中之町559 菊水ビル3F",
+      "phone": "075-241-1318",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/e095_3f/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.ashoka-jp.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "甘党茶屋 梅園 三条寺町店",
+      "city": "京都市",
+      "address": "京都市中京区天性寺前町526",
+      "phone": "075-211-1235",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w000/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://umezono-kyoto.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "かに道楽 京都本店",
+      "city": "京都市",
+      "address": "京都市中京区三条寺町西入ル天性寺前町525",
+      "phone": "075-211-0671",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w001/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://douraku.co.jp/kansai/kyotohonten/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "フルーツ飴STAND amenone(アメノネ) 京都店",
+      "city": "京都市",
+      "address": "京都市中京区寺町通六角下る式部町247",
+      "phone": "075-744-1767",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w029/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.amenone.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ナッツダム",
+      "city": "京都市",
+      "address": "京都市中京区寺町通六角下る式部町247-1",
+      "phone": "070-6546-8572",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w030/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://nutsdom.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "寺町 大丈夫",
+      "city": "京都市",
+      "address": "京都市中京区寺町通六角下る式部町249 2F",
+      "phone": "075-254-7810",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w032_2f/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://teramachi-daijobu.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "MORITOSHI",
+      "city": "京都市",
+      "address": "京都市中京区寺町通蛸薬師上る式部町265",
+      "phone": "075-221-5955",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w046/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "niko and... 京都寺町店",
+      "city": "京都市",
+      "address": "京都市中京区寺町通蛸薬師下る円福寺前町270 邑粧ビル1~2F",
+      "phone": "075-741-8595",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w054/",
+      "decision": "衣料品チェーン併設のカフェで独立飲食個店ではない",
+      "websiteLinks": [
+        "https://www.nikoand.jp/food/427.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "SHIN‐SETSU",
+      "city": "京都市",
+      "address": "京都市中京区寺町通錦小路上ル円福寺前町277",
+      "phone": "075-221-4468",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w062_2f/",
+      "decision": "追加検索で店舗HPを確認",
+      "websiteLinks": [
+        "https://9483181615.amebaownd.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "パーティー・ケータリング スター食堂",
+      "city": "京都市",
+      "address": "京都市中京区寺町通錦小路上ル円福寺前町283 スター食堂ビル3F~5F",
+      "phone": "075-241-0600",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w069_3f/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.star-kyoto.co.jp/",
+        "https://withyou-k.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "窯焼和牛ステーキと京のおばんざい 市場小路 寺町本店",
+      "city": "京都市",
+      "address": "京都市中京区寺町通錦小路上ル スター食堂ビルB1",
+      "phone": "075-252-2008",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w069_b1f/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.star-kyoto.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "B の階段",
+      "city": "京都市",
+      "address": "京都市中京区寺町通錦小路下ル 東大文字町294 カドマビル2F",
+      "phone": "075-241-1786",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w077_2f/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.b-kaidan.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "蓬萊堂",
+      "city": "京都市",
+      "address": "京都市中京区寺町通四条上る東大文字町295",
+      "phone": "075-221-1215",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w078/",
+      "decision": "茶・茶器の物販主体で飲食個店ではない",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "キムラ",
+      "city": "京都市",
+      "address": "京都市中京区寺町通四条上る大文字町300",
+      "phone": "075-231-0002",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w081/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "くら寿司 京都寺町通店",
+      "city": "京都市",
+      "address": "京都市中京区寺町通四条上る東大文字町302 寺町MEGA POWERビル2F",
+      "phone": "075-746-4610",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w083_2F",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kurasushi.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "井筒八ッ橋本舗 京極一番街店",
+      "city": "京都市",
+      "address": "京都市中京区寺町通四条上る",
+      "phone": "075-255-2121",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w092/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.yatsuhashi.co.jp "
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ミスター・ヤングメン",
+      "city": "京都市",
+      "address": "京都市中京区寺町通四条上る東大文字町312",
+      "phone": "075-255-4591",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w094/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "サー・トーマス・リプトンティーハウス 四条店",
+      "city": "京都市",
+      "address": "京都市中京区寺町通四条上ル奈良物町379",
+      "phone": "075-255-3551",
+      "url": "https://www.kyoto-teramachi.or.jp/shop/w095/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.lipton-teahouse.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "21時にアイス 京都河原町店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通蛸薬師下ル塩屋町333",
+      "phone": "",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/21jiniice/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://21-ni-ice.com/",
+        "https://21-ni-ice.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "サーティワンアイスクリーム 四条河原町店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通四条上ル米屋町388",
+      "phone": "075-212-9031",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/31-ice/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://store.31ice.co.jp/31ice/spot/detail?code=0000000143",
+        "https://store.31ice.co.jp/31ice/spot/detail?code=0000000143"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "あじびる河原町",
+      "city": "京都市",
+      "address": "京都市中京区河原町通三条下ル2丁目山崎町238",
+      "phone": "",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/ajibld-kawaramachi/",
+      "decision": "複数の飲食店が入るビルで個店ではない",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ANAKUMA CAFE 京都店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通三条下る大黒町33-3",
+      "phone": "",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/anakumacafe/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://anakuma.jp/",
+        "https://anakuma.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Beer Thiry 京都河原町店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通三条下ル大黒町50",
+      "phone": "075-221-1882",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/beer-thirty/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.beerthirty.jp/",
+        "https://www.beerthirty.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "代官山Candy Apple 京都河原町店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通蛸薬師上る奈良屋町304-1",
+      "phone": "075-708-3274",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/candy-apple/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://candy-apple.shop/",
+        "https://candy-apple.shop/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "チファジャ 四条河原町店",
+      "city": "京都市",
+      "address": "京都市中京区山崎町252-1 河原町竹本ビル1~3F",
+      "phone": "075-256-1129",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/chifaja/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://chifaja.com/",
+        "https://chifaja.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "カレーハウスCoCo壱番屋 中京区河原町三条店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通三条下ル大黒町51番地 林ビルヂング",
+      "phone": "075-254-7551",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/cocoichiban/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tenpo.ichibanya.co.jp/search/shop/pc/detail.php?SCODE=2490",
+        "https://tenpo.ichibanya.co.jp/search/shop/pc/detail.php?SCODE=2490"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "DECKビル",
+      "city": "京都市",
+      "address": "京都市中京区奈良屋町291番地",
+      "phone": "",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/deck/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ドトールコーヒーショップ 京都四条河原町店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通四条上ル米屋町391 河原町ニュートーキョービル1F",
+      "phone": "075-254-6235",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/doutor-shijokawaramachi/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://shop.doutor.co.jp/map/2012179",
+        "https://shop.doutor.co.jp/map/2012179"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ゴンチャ 京都河原町蛸薬師店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通蛸薬師下ル塩屋町324-1",
+      "phone": "075-746-6216",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/gongcha/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.gongcha.co.jp/",
+        "https://www.gongcha.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "餃子の勝男",
+      "city": "京都市",
+      "address": "京都市中京区河原町四条上ル米屋町376-8",
+      "phone": "075-741-7501",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/gyozanokatsuo/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://katsuo-web.com/",
+        "https://katsuo-web.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "肉重 北斎",
+      "city": "京都市",
+      "address": "京都市中京区山崎町234-5",
+      "phone": "075-366-4483",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/hokusai/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.nikujuhokusai.com/",
+        "https://www.nikujuhokusai.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "星乃珈琲店 河原町店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通蛸薬師下ル塩屋町331 龍善堂河原町ビル",
+      "phone": "075-746-5355",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/hoshinocoffee/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.hoshinocoffee.com/",
+        "https://www.hoshinocoffee.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "いきなりステーキ 京都河原町三条店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通三条下る大黒町51-1",
+      "phone": "075-256-9229",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/ikinari-steak-kawaramachi/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ikinaristeak.com/shopinfo/kyotokawaramachisanjo/",
+        "http://ikinaristeak.com/shopinfo/kyotokawaramachisanjo/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "鎌倉パスタ トラベロッジ河原町四条店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通三条下ル二丁目山崎町240 トラベロッジ河原町四条店1階",
+      "phone": "075-257-2309",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/kamakura-pasta/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.saint-marc-hd.com/b/saintmarc/info/90207/?brand_type=PST",
+        "https://www.saint-marc-hd.com/b/saintmarc/info/90207/?brand_type=PST"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "からふね屋珈琲 三条本店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通三条下ル大黒町39番地",
+      "phone": "075-254-8774",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/karafuneya/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.karafuneya.jp/",
+        "http://www.karafuneya.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "KAWARAMACHI食堂",
+      "city": "京都市",
+      "address": "京都市中京区河原町通三条下る大黒町36番",
+      "phone": "",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/kawaramachisyokudo/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ケンタッキーフライドチキン 河原町三条店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通六角下ル大黒町59番地",
+      "phone": "075-256-8835",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/kfc/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://search.kfc.co.jp/map/3166",
+        "https://search.kfc.co.jp/map/3166"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "和カフェ 季の音",
+      "city": "京都市",
+      "address": "京都市中京区河原町通四条上ル米屋町384くらもとビル4F",
+      "phone": "075-213-2288",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/kinone/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kyoto-kinone.jp/",
+        "https://kyoto-kinone.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "コギソウル京都河原町店",
+      "city": "京都市",
+      "address": "京都市中央区奈良屋町302 幸楽ビル地下1階",
+      "phone": "070-3277-3252",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/kogiseoul-kyoto/",
+      "decision": "追加検索で店舗サイトを確認",
+      "websiteLinks": [
+        "https://akr6505203324.owst.jp/"
+      ],
+      "reviewNote": "商店街の所在地欄は中央区だが、店舗サイトは中京区。所在地にも相違あり。"
+    },
+    {
+      "name": "MACCHA HOUSE 抹茶館 京都河原町",
+      "city": "京都市",
+      "address": "京都市中京区河原町通四条上ル米屋町382‐2",
+      "phone": "075-253-1540",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/macchakan/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://maccha-house.com/1174/",
+        "https://maccha-house.com/1174/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "居酒屋○家 まるや 河原町店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通三条下る奈良屋町296スーパージャンカラBF",
+      "phone": "075-211-0819",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/maruya/",
+      "decision": "追加検索で公式HPを確認",
+      "websiteLinks": [
+        "https://izakayamaruya.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "丼ぶり・京風うどん なか卯 河原町三条店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通三条下ル大黒町35番地",
+      "phone": "03-6833-8824",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/nakau/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.nakau.co.jp",
+        "https://www.nakau.co.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "お好み焼きはここやねん 四条河原町店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通蛸薬師下る奈良屋町302東側 幸楽ビル2F",
+      "phone": "075-212-5539",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/okonomiyakihakokoyanen/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.cocoyanen.jp/shop_detail?id=kawaramachi",
+        "https://www.cocoyanen.jp/shop_detail?id=kawaramachi"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ごちそう焼むすび おにまる 三条河原町店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通三条下ル大黒町33-4",
+      "phone": "075-741-7222",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/onimaru/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.onimaru-net.com/",
+        "https://www.onimaru-net.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "リンガーハット 京都四条河原町店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通四条上ル米屋町380-1 ツジクラビル1F",
+      "phone": "075-254-8681",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/ringerhut/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://shop.ringerhut.jp/shop/r0666",
+        "https://shop.ringerhut.jp/shop/r0666"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "サンマルクカフェ 京都河原町三条店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通三条下る二丁目山崎町237-6",
+      "phone": "075-253-0309",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/saint-marc/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.saint-marc-hd.com/b/saintmarc/info/20423/?brand_type=CFE",
+        "https://www.saint-marc-hd.com/b/saintmarc/info/20423/?brand_type=CFE"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "台湾老劉胡椒餅 京都三条河原町店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通三条下る大黒町33-2",
+      "phone": "075-708-6077",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/taiwanroryukosyomochi/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://roryukoshomochi.jp",
+        "https://roryukoshomochi.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "麺匠 たか松 KAWARAMACHI",
+      "city": "京都市",
+      "address": "京都市中京区奈良屋町302-1",
+      "phone": "075-253-6773",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/takamatsu/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://mensho.net/tenpo.html#kawaramachi",
+        "https://mensho.net/tenpo.html#kawaramachi"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "上島珈琲店 河原町店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通蛸薬師下ル奈良屋町302幸楽ビル1F",
+      "phone": "075-257-3085",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/ueshima-coffee/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ueshima-coffee-ten.jp/",
+        "https://www.ueshima-coffee-ten.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京都牛光 河原町店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通三条下る三丁目奈良屋町297番地2 歌舞伎屋ビル",
+      "phone": "075-256-2107",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/ushimitsu/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ushimitsu.net/",
+        "https://www.ushimitsu.net/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "焼肉食べ放題やる気 四条河原町店",
+      "city": "京都市",
+      "address": "京都市中京区塩屋町333-2",
+      "phone": "075-221-7711",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/yaruki/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.yaruki.co.jp/",
+        "http://www.yaruki.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "楊國福マーラータン 京都河原町店",
+      "city": "京都市",
+      "address": "京都市中京区河原町通蛸薬師下ル奈良屋町300番地",
+      "phone": "",
+      "url": "https://www.kyoto-kawaramachi.or.jp/shop/yougofuku/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.daitengen-jp.com/",
+        "https://www.daitengen-jp.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "幸福堂(株式会社幸福堂)",
+      "city": "京都市",
+      "address": "京都市下京区松原通河原町西入松川町388-2",
+      "phone": "075-341-8850",
+      "url": "https://kyoto-green.com/post-1202/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.ko-fukudo.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "カワラマチ ソーヤ",
+      "city": "京都市",
+      "address": "京都市下京区河原町グリーン商店街(詳細住所未確認)",
+      "phone": "",
+      "url": "https://kyoto-green.com/post-1230/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "アケトテモロ",
+      "city": "京都市",
+      "address": "京都市下京区河原町通松原下る難波町405",
+      "phone": "075-351-1435",
+      "url": "https://kyoto-green.com/post-1236/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "酒呑にし川 河原町五条店",
+      "city": "京都市",
+      "address": "京都市下京区河原町グリーン商店街(詳細住所未確認)",
+      "phone": "080-2479-2424",
+      "url": "https://kyoto-green.com/post-1251/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://nishikawa-kawaramachigojo.owst.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "つち福食堂",
+      "city": "京都市",
+      "address": "京都市下京区清水町293番地",
+      "phone": "075-351-5339",
+      "url": "https://kyoto-green.com/post-1255/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tsuchi-fuku.business.site"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "バーガーイレブン",
+      "city": "京都市",
+      "address": "京都市下京区河原町 松原上ル清水町284-1",
+      "phone": "075-366-4367",
+      "url": "https://kyoto-green.com/post-1258/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "麺屋優光河原町店 ラーメン",
+      "city": "京都市",
+      "address": "京都市下京区稲荷町329   建物名 :エリッツ四条河原町ビル1F",
+      "phone": "075-365-8818",
+      "url": "https://kyoto-green.com/post-1305/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://yukou-kiyo.com/yukou-kawaramachi.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "JOYS TABLE Dining&Cafe",
+      "city": "京都市",
+      "address": "京都市下京区植松町716 シャイニービル小阪1F",
+      "phone": "075-746-3382",
+      "url": "https://kyoto-green.com/post-1310/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "浪花ひとくち餃子 餃々 四条河原町店",
+      "city": "京都市",
+      "address": "京都市下京区順風町312-1   建物名 :河原町ビル1階",
+      "phone": "075-353-2626",
+      "url": "https://kyoto-green.com/post-1313/",
+      "decision": "追加検索でブランド公式HPを確認",
+      "websiteLinks": [
+        "https://www.gyozakeikaku.com/shop/list/detail/18"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京都とんかつ かつ田/すき焼き 牛鍋力山",
+      "city": "",
+      "address": "600−8022 京都府京都市下京区稲荷町330-2 京都和牛館",
+      "phone": "075-708-8229",
+      "url": "https://kyoto-green.com/post-1335/",
+      "decision": "店名・京都府内所在地の照合待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "炭火焼く鳥ソリレス",
+      "city": "京都市",
+      "address": "京都市下京区清水町284:フジヨシビル 1F",
+      "phone": "075-353-7018",
+      "url": "https://kyoto-green.com/post-1345/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Dan’sKitchen 團’sキッチン",
+      "city": "京都市",
+      "address": "京都市下京区河原町通松原下る難波町 410-2 河原町エイトビル地下",
+      "phone": "090-4849-9608",
+      "url": "https://kyoto-green.com/post-1403/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "日本酒とお料理 お湯",
+      "city": "京都市",
+      "address": "京都市下京区河原町通松原上る清水町282",
+      "phone": "080-4242-3429",
+      "url": "https://kyoto-green.com/post-1493/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "嘉乃や河原町店",
+      "city": "京都市",
+      "address": "京都市下京区河原町通高辻上る富永町365 河原町瀬古ビルF1",
+      "phone": "075-352-8088",
+      "url": "https://kyoto-green.com/post-1498/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.enic-kyoto.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ラーメン大志",
+      "city": "京都市",
+      "address": "京都市下京区河原町仏光寺下る天満町271-2",
+      "phone": "050-5597-5910",
+      "url": "https://kyoto-green.com/post-1553/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "お酒の美術館 河原町五条店",
+      "city": "京都市",
+      "address": "京都市下京区河原町通松原下る難波町410-2 河原町エイトビル1階",
+      "phone": "075-496-5151",
+      "url": "https://kyoto-green.com/post-1558/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://osakeno-museum.com/kawaramachigojo/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "桃園亭(中華料理)",
+      "city": "京都市",
+      "address": "京都市下京区河原町通り四条下る稲荷町335",
+      "phone": "075-351-4745",
+      "url": "https://kyoto-green.com/post-485/",
+      "decision": "追加検索で公式HPを確認",
+      "websiteLinks": [
+        "https://touentei.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "なか卯",
+      "city": "京都市",
+      "address": "京都市下京区河原町通り五条上る御影堂前町843",
+      "phone": "075-344-9326",
+      "url": "https://kyoto-green.com/post-492/",
+      "decision": "主要チェーン・施設内等の条件照合待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "肉の長崎屋",
+      "city": "京都市",
+      "address": "京都市下京区河原町通り松原下る難波町406-5",
+      "phone": "075-351-3315",
+      "url": "https://kyoto-green.com/post-495/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "かに料理 山よし四条河原町店",
+      "city": "京都市",
+      "address": "京都市下京区河原町通り仏光寺下る天満町272",
+      "phone": "075-342-4400",
+      "url": "https://kyoto-green.com/post-572/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.yamayoshi-group.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "レン(Len KyotoKawaramachi)",
+      "city": "京都市",
+      "address": "京都市下京区河原町通り松原下ル植松町709−3",
+      "phone": "",
+      "url": "https://kyoto-green.com/post-864/",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://backpackersjapan.co.jp/kyotohostel/"
+      ],
       "reviewNote": ""
     }
   ]
