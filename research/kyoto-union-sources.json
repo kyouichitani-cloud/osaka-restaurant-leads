@@ -1,0 +1,46 @@
+[
+  {
+    "authority": "京都府寿司生活衛生同業組合",
+    "root": "https://www.kyoto-hanato.com/sushikumiai/shop/index.html",
+    "pages": [
+      "https://www.kyoto-hanato.com/sushikumiai/shop/amino.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/ayabe.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/fukuchiyama.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/fushimi.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/higashiyama.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/joyo.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/kameoka.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/kamigyo.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/kita.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/koyo.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/maidsuru.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/nakagyo.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/nishikyo.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/sakyo.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/shimogyo_minami.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/uji.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/ukyo.html",
+      "https://www.kyoto-hanato.com/sushikumiai/shop/yamashina.html"
+    ],
+    "entries": 151,
+    "unit": "店舗行"
+  },
+  {
+    "authority": "京都府麺類飲食業生活衛生同業組合",
+    "root": "https://kyomen.com/kameiten/",
+    "pages": [
+      "https://kyomen.com/kameiten/"
+    ],
+    "entries": 112,
+    "unit": "店舗紹介ページ"
+  },
+  {
+    "authority": "京都上京料理飲食業組合",
+    "root": "https://www.kyoto-oideyasu.com/oideyasumap/",
+    "pages": [
+      "https://www.kyoto-oideyasu.com/oideyasumap/"
+    ],
+    "entries": 94,
+    "unit": "店舗行"
+  }
+]
