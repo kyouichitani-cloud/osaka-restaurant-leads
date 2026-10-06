@@ -8,8 +8,8 @@
 - 飲食・喫茶以外34,203行、名称・所在地が不足または府外6,184行、露店・移動販売・給食等3,291行、名称で確認できた主要チェーン2,889行を除外。
 - 同市町村・正規化店名・正規化所在地で14,526行を統合。住所の数字・丁目・ハイフンの表記を保守的に正規化。明示廃業21行を照合し、再許可より新しい廃業記録に合う5件を除外。
 - 結果39,184件を「条件未判定の公開記録」として掲載。4,372件には公開営業施設電話番号あり。これは現存店舗数でも営業候補数でもない。
-- 店舗掲載情報1,929件から暫定候補661店（A172、B489）。前回644店から差し引き17店増。京丹後市観光公社の113プロフィールを追加し、独自HPリンクや物販主体・施設内の店舗を除外した。Sを付けるだけの営業・HP・独立経営の横断確認は行っていない。
-- 電話603店、Instagram142店、Facebook38店、メール10店。いずれかがある624店、未確認37店。手段別件数は重複する。
+- 店舗掲載情報2,262件から暫定候補807店（A187、B620）。前回661店から差し引き146店増。京都府喫茶飲食組合の213行と京都府・京やましろ食の120行を追加し、別資料との重複・独自HP・施設内等を除外した。800店は作業上の区切りであり、全該当店の収集完了を意味しない。Sを付けるだけの営業・HP・独立経営の横断確認は行っていない。
+- 電話743店、Instagram157店、Facebook37店、メール10店。いずれかがある765店、未確認42店。手段別件数は重複する。
 
 ## 公開名簿の出典と限界
 
@@ -48,8 +48,10 @@
 - [河原町商店街](https://www.kyoto-kawaramachi.or.jp/shop/?action=srch&tcat=6)：GOURMET分類34プロフィール。飲食ビルやチェーンは候補に含めない。
 - [河原町グリーン商店街](https://kyoto-green.com/shop-category/)：フード・グルメ分類21プロフィール。番地のない店は「詳細住所未確認」とする。
 - [京丹後市観光公社・店舗](https://www.kyotango.gr.jp/shops/)：全6ページの113個別プロフィール。住所・電話・営業時間・URL欄から事実のみ取得。独自HPリンク、物販主体、道の駅内で独立経営が未確認の店は候補から除外。
+- [京都府喫茶飲食生活衛生同業組合・店舗一覧](https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/)：213行。店名・所在地・電話を取得。名簿にHP欄はなく、店名・電話番号を使ったWeb検索で公式サイトが見つかった店を除外。古い名簿の可能性がある。
+- [京都府・京やましろ食 登録店一覧](https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html)：飲食店120行。掲載リンクが公式サイトの店を除外し、SNSリンクは連絡経路として区別。追加検索で公式サイトが見つかった店、庁舎内・一時休業中・独立経営未確認の店も保留。
 
-訪問した一覧ページURLは `kyoto-directory-sources.json`、`kyoto-more-sources.json`、`kyoto-union-sources.json`、`kyoto-streets-next-sources.json`、`kyoto-kyotango-shops-sources.json`、各紹介の採否理由は `kyoto-directory-audit.json`、追加検索による除外と誤リンク除去は `kyoto-review-overrides.json` に残す。店舗自身のHP・ショップ等への掲載リンクがある店は除外。行政・観光紹介・飲食ポータルは独自HPとは扱わない。追加検索で見つけたHPも除外に反映するが、全店の独自HP不存在を確認したとは扱わない。
+訪問した一覧ページURLは `kyoto-directory-sources.json`、`kyoto-more-sources.json`、`kyoto-union-sources.json`、`kyoto-streets-next-sources.json`、`kyoto-kyotango-shops-sources.json`、`kyoto-cafe-union-sources.json`、`kyoto-yamashiro-food-sources.json`、各紹介の採否理由は `kyoto-directory-audit.json`、追加検索による除外と誤リンク除去は `kyoto-review-overrides.json` に残す。店舗自身のHP・ショップ等への掲載リンクがある店は除外。行政・観光紹介・飲食ポータルは独自HPとは扱わない。追加検索で見つけたHPも除外に反映するが、全店の独自HP不存在を確認したとは扱わない。Web検索で結果が出ないことも、HP不存在の証明にはしない。
 
 前回の279件では、旧一覧のHP「無」を鵜呑みにせず、さいき家・中華のサカイ・サラサ3・矢尾定・バザールカフェ・カリカリ博士・鼓月の公式HPを別途確認して除外。施設内・物販主体・複数店ブランド等も保留。同じ電話・所在地の「大野屋／寿司処 大野屋」「フルーツパーラー／フルーツパーラ いけだ」「お好み焼き 万次郎／万次郎」は手動照合して統合。新規候補88店を追加し、既存236店を維持した。追加は京都市内中心であり、今回その他地域の調査完了度が上がったとは扱わない。
 
@@ -77,7 +79,7 @@ Instagram等を開くリンクはあるが、DM・メッセージ・チャット
 
 ## 再現手順
 
-Python依存：beautifulsoup4、xlrd。rawキャッシュがある場合は既存の取得内容を再利用するため、再取得日を変える際は対象URLのキャッシュ更新も明示的に行う。保健所公開資料と従来の商店街スナップショットは2026-10-05、今回追加の5一覧は2026-10-06に取得。
+Python依存：beautifulsoup4、xlrd。rawキャッシュがある場合は既存の取得内容を再利用するため、再取得日を変える際は対象URLのキャッシュ更新も明示的に行う。保健所公開資料と従来の商店街スナップショットは2026-10-05、今回追加の7一覧は2026-10-06に取得。
 
 1. `python research/kyoto-collect.py`：京都市2データセットの全ページ、国の2ファイルを取得。
 2. `python research/kyoto-build-registry.py`：フィールド許可リスト、重複整理、未判定記録・メタデータを生成。
@@ -86,13 +88,14 @@ Python依存：beautifulsoup4、xlrd。rawキャッシュがある場合は既�
 5. `python research/kyoto-unions.py`：寿司組合の18支部一覧151行、麺類組合の全112紹介、上京料理飲食業組合94行を処理。
 6. `python research/kyoto-streets-next.py`：6商店街と亀岡市の飲食欄142掲載件を処理。
 7. `python research/kyoto-more-streets.py`：福知山観光協会2一覧、寺町・河原町の商店街3一覧、計185掲載件を処理。
-8. `python research/kyoto-build-leads.py --summary`：5つのレビューキューを併合し、保守的抽出、手動照合記録を適用、採否監査と候補を生成。
-9. `python research/kyoto-build-page.py`：共通の大阪ページ構造から京都のページを生成。
-10. `research/test-kyoto.cjs`：名簿の全件到達、26市町村、個人情報フィールドの不在、新情報源の電話/SNS・HP除外・別名統合、フィルター、府県切り替え、スマホ横幅を検証。
-11. `research/test-ui.cjs`：従来の大阪の候補1,306店・公開記録68,521件と操作を回帰検証。
+8. `python research/kyoto-kyotango-shops.py`、`python research/kyoto-cafe-union.py`、`python research/kyoto-yamashiro-food.py`：追加の観光公社・組合・府登録店一覧を取得。
+9. `python research/kyoto-build-leads.py --summary`：全レビューキューを併合し、保守的抽出、手動照合記録を適用、採否監査と候補を生成。
+10. `python research/kyoto-build-page.py`：共通の大阪ページ構造から京都のページを生成。
+11. `research/test-kyoto.cjs`：名簿の全件到達、26市町村、個人情報フィールドの不在、新情報源の電話/SNS・HP除外・別名統合、フィルター、府県切り替え、スマホ横幅を検証。
+12. `research/test-ui.cjs`：従来の大阪の候補1,306店・公開記録68,521件と操作を回帰検証。
 
 静的ページ `dist/kyoto.html` は `kyoto-data.js` と共有 `app.js` を使う。公開記録は6地域単位のJSONを必要時に読み込み、画面は50件ずつ表示するが全件のページへ到達可能。表示のページサイズは収集上限ではない。
 
 ## 残る確認
 
-全店舗の網羅、候補すべてのHP横断検索、独立経営の確定、現時点の営業、電話疎通、SNS受付は未完了。情報源に載っていない店舗もある。661店を府内の条件該当全店とは表現しない。大阪と京都、候補と公開記録を合算して「全店舗数」としない。
+全店舗の網羅、候補すべてのHP横断検索、独立経営の確定、現時点の営業、電話疎通、SNS受付は未完了。情報源に載っていない店舗もある。807店を府内の条件該当全店とは表現しない。大阪と京都、候補と公開記録を合算して「全店舗数」としない。

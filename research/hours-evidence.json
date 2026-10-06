@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-10-06",
-  "candidateCount": 1978,
-  "matchedCount": 905,
+  "candidateCount": 2124,
+  "matchedCount": 899,
   "items": [
     {
       "area": "osaka",
@@ -6565,6 +6565,16 @@
     },
     {
       "area": "kyoto",
+      "key": "kyoto-4c3c5246cfec408e",
+      "name": "おばんざい料理 友芽家",
+      "hours": "11:30〜13:30、18:00〜22:00 ・お昼の営業は配達優先・昼および夜の営業は予約いただいた方のみ",
+      "opens": 690,
+      "ends": 1320,
+      "source": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=329",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
       "key": "kyoto-22cc4858aaeeec59",
       "name": "ちきんはうす",
       "hours": "11:30～14:00、17:00～22:00",
@@ -6585,22 +6595,12 @@
     },
     {
       "area": "kyoto",
-      "key": "kyoto-5785b1ad20192090",
-      "name": "Café m-alie(カフェマリエ)",
-      "hours": "11:00～22:00",
-      "opens": 660,
+      "key": "kyoto-0c9aed372fe7f523",
+      "name": "とんかつ揚げ処 かつ扇",
+      "hours": "11:30～14:30、17:00～22:00 / 17:00～21:30（日・祝日）",
+      "opens": 690,
       "ends": 1320,
-      "source": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=530",
-      "extractedAt": "2026-10-06"
-    },
-    {
-      "area": "kyoto",
-      "key": "kyoto-afcd32a920d84f1f",
-      "name": "Restaurant MariBeau(レストラン マリヴォー)",
-      "hours": "ランチ 12:00～15:00 / ディナー 17:00～21:00",
-      "opens": 720,
-      "ends": 1260,
-      "source": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=541",
+      "source": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=537",
       "extractedAt": "2026-10-06"
     },
     {
@@ -6645,6 +6645,16 @@
     },
     {
       "area": "kyoto",
+      "key": "kyoto-f391493b8bbfb46b",
+      "name": "手づくり洋食の店 リンデンバウム",
+      "hours": "11:00～15:00（LO 14:30） / 17:00～21:00（LO 20:30）ディナーは完全予約制",
+      "opens": 660,
+      "ends": 1260,
+      "source": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=302",
+      "extractedAt": "2026-10-06"
+    },
+    {
+      "area": "kyoto",
       "key": "kyoto-7960ca566c9edc9e",
       "name": "魚定本店",
       "hours": "10:00-18:30(ご宴会は22:00まで)",
@@ -6681,26 +6691,6 @@
       "opens": 660,
       "ends": 1020,
       "source": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=443",
-      "extractedAt": "2026-10-06"
-    },
-    {
-      "area": "kyoto",
-      "key": "kyoto-d693ec8f0efc5d64",
-      "name": "ナチュラルフレンチ ビストロ・ヨシムラ",
-      "hours": "ランチ11:30～14:00（L.O.13:00）ディナー18:00～21:30（L.O.20:00）",
-      "opens": 690,
-      "ends": 1290,
-      "source": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=567",
-      "extractedAt": "2026-10-06"
-    },
-    {
-      "area": "kyoto",
-      "key": "kyoto-9b9018888fbe738b",
-      "name": "パン工房 風いろ小麦",
-      "hours": "9:00～18:00",
-      "opens": 540,
-      "ends": 1080,
-      "source": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=441",
       "extractedAt": "2026-10-06"
     },
     {
@@ -8215,32 +8205,12 @@
     },
     {
       "area": "kyoto",
-      "key": "kyoto-4c3c5246cfec408e",
-      "name": "おばんざい料理 友芽家",
-      "hours": "11:30〜13:30、18:00〜22:00 ・お昼の営業は配達優先・昼および夜の営業は予約いただいた方のみ",
-      "opens": 690,
-      "ends": 1320,
-      "source": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=329",
-      "extractedAt": "2026-10-06"
-    },
-    {
-      "area": "kyoto",
       "key": "kyoto-85d6a90c3c1ea117",
       "name": "ザ・マーク",
       "hours": "9:00～18:30",
       "opens": 540,
       "ends": 1110,
       "source": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=275",
-      "extractedAt": "2026-10-06"
-    },
-    {
-      "area": "kyoto",
-      "key": "kyoto-23beda45522b4af3",
-      "name": "多来多来",
-      "hours": "・ランチ（月・火・木・金）11:30～14:00（L.O.13:00) / ・ディナー（月・火・木） 17:00～21:00 (L.O.20:00)、(金・土・日・祝日）16:30～22:00(L.O.21:00）",
-      "opens": 690,
-      "ends": 1320,
-      "source": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=271",
       "extractedAt": "2026-10-06"
     },
     {
@@ -8325,16 +8295,6 @@
     },
     {
       "area": "kyoto",
-      "key": "kyoto-0c9aed372fe7f523",
-      "name": "とんかつ揚げ処 かつ扇",
-      "hours": "11:30～14:30、17:00～22:00 / 17:00～21:30（日・祝日）",
-      "opens": 690,
-      "ends": 1320,
-      "source": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=537",
-      "extractedAt": "2026-10-06"
-    },
-    {
-      "area": "kyoto",
       "key": "kyoto-95d3e33d40b94ab8",
       "name": "フレンチ イタリアン レストラン すわん",
       "hours": "昼 11:30～14:00 / 夜 17:00～20:30（L.O）",
@@ -8401,16 +8361,6 @@
       "opens": 690,
       "ends": 1200,
       "source": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=853",
-      "extractedAt": "2026-10-06"
-    },
-    {
-      "area": "kyoto",
-      "key": "kyoto-f391493b8bbfb46b",
-      "name": "手づくり洋食の店 リンデンバウム",
-      "hours": "11:00～15:00（LO 14:30） / 17:00～21:00（LO 20:30）ディナーは完全予約制",
-      "opens": 660,
-      "ends": 1260,
-      "source": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=302",
       "extractedAt": "2026-10-06"
     },
     {
@@ -8901,16 +8851,6 @@
       "opens": 660,
       "ends": 1230,
       "source": "https://www.kyotango.gr.jp/shops/2162/",
-      "extractedAt": "2026-10-06"
-    },
-    {
-      "area": "kyoto",
-      "key": "kyoto-465c56a02080aaf2",
-      "name": "アミティ シルク",
-      "hours": "8:30～21:00（現在は19:00閉店）",
-      "opens": 510,
-      "ends": 1260,
-      "source": "https://www.kyotango.gr.jp/shops/24643/",
       "extractedAt": "2026-10-06"
     },
     {

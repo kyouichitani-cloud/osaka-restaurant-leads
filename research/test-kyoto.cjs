@@ -14,8 +14,8 @@ assert.equal(meta.sources.length,69);
 assert.equal(meta.coverage.length,26);
 assert.equal(registries.length,39184);
 assert.equal(new Set(registries.map(r=>r.id)).size,registries.length);
-assert.equal(audit.decisions.length,1929);
-assert.equal(leads.length,661);
+assert.equal(audit.decisions.length,2262);
+assert.equal(leads.length,807);
 assert.equal(new Set(leads.map(r=>r.id)).size,leads.length);
 for(const name of ['ゑびや','力 餅','千成餅食堂']){
   const same=leads.filter(r=>r.name===name);
@@ -45,6 +45,10 @@ for(const r of leads){
 }
 assert.equal(leads.find(r=>r.name==='マダムシュークレーム').contact.routes.length,0);
 assert.ok(!leads.some(r=>r.name==='CRAFT BANK'||r.name==='錦水亭'));
+for(const name of ['割烹しなとみ','むしやしない','グリル デミ','中国料理游鈴(りゅうりん)','OKUDO-YA Kyoto(おくどやきょうと)'])
+  assert.ok(!leads.some(r=>r.name===name),'Exclude independently discovered shop website: '+name);
+for(const name of ['手作りおばさんの店PAKU(パク)','パンの喫茶2525','茶亭楓庵(ちゃていふうあん)'])
+  assert.ok(leads.some(r=>r.name===name),'Include prefectural-list candidate: '+name);
 for(const name of ['中華のサカイ本店','大徳寺さいき家','サラサ3','カリカリ博士','鼓月 新大宮店','阪本商店','京都錦座'])
   assert.ok(!leads.some(r=>r.name===name),'Exclude newly discovered official sites/non-food facilities: '+name);
 assert.equal(leads.filter(r=>r.name==='寿司処 大野屋').length,1);
@@ -67,10 +71,10 @@ for(const name of ['やきにくの丹の吉','御肉料理竹下'])
   await page.goto('http://127.0.0.1:8765/kyoto.html',{waitUntil:'networkidle'});
   await page.waitForFunction(()=>document.getElementById('research-count').textContent.includes('39,184'));
   assert.equal(await page.locator('#region-count').textContent(),`${leads.length}店`);
-  assert.match(await page.locator('#contact-count').textContent(),/624店.*37店/);
+  assert.match(await page.locator('#contact-count').textContent(),/765店.*42店/);
   assert.equal(await page.locator('#municipality option').count(),27);
-  await page.locator('#contact-filter').selectOption('instagram');assert.equal(await page.locator('#region-count').textContent(),'142店');
-  await page.locator('#contact-filter').selectOption('missing');assert.equal(await page.locator('#region-count').textContent(),'37店');
+  await page.locator('#contact-filter').selectOption('instagram');assert.equal(await page.locator('#region-count').textContent(),'157店');
+  await page.locator('#contact-filter').selectOption('missing');assert.equal(await page.locator('#region-count').textContent(),'42店');
   await page.locator('#contact-filter').selectOption('all');
   await page.locator('#rank-filter').selectOption('S');assert.equal(await page.locator('#items .item').count(),0);
   await page.locator('#clear-filters').click();
@@ -119,8 +123,8 @@ for(const name of ['やきにくの丹の吉','御肉料理竹下'])
   await page.locator('.prefectures a').filter({hasText:'大阪府'}).click();
   await page.waitForFunction(()=>document.getElementById('total-count').textContent.includes('1,306'));
   await page.locator('.prefectures a').filter({hasText:'京都府'}).click();
-  await page.waitForFunction(()=>document.getElementById('total-count').textContent.includes('661'));
+  await page.waitForFunction(()=>document.getElementById('total-count').textContent.includes('807'));
   assert.deepEqual(errors,[]);
-  console.log('PASS Kyoto: 1,929 source listings; 661 candidates; 26 municipalities; all 39,184 records reachable; new-source/phone/alias integrity; privacy whitelist; mobile; prefecture switching.');
+  console.log('PASS Kyoto: 2,262 source listings; 807 candidates; 26 municipalities; all 39,184 records reachable; source/phone/alias integrity; privacy whitelist; mobile; prefecture switching.');
   await browser.close();
 })().catch(e=>{console.error(e);process.exit(1)});

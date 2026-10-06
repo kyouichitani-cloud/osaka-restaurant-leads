@@ -1,0 +1,13 @@
+{
+  "authority": "京都府・京やましろ食 登録店一覧",
+  "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+  "entries": 120,
+  "collectedAt": "2026-10-06",
+  "fields": [
+    "店名",
+    "住所",
+    "TEL",
+    "掲載リンク"
+  ],
+  "limit": "登録店一覧は現営業や独自HPの不存在を保証しない"
+}

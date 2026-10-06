@@ -106,9 +106,11 @@ def parse(r):
         why='福知山観光協会の店舗・会員欄で店名と掲載連絡先を確認。掲載欄に独自HPリンクは見当たらないが、現在のHP・営業・独立経営は未確認。'
     if r['kind']=='kyotango-tourism':
         why='京丹後市観光公社の個別店舗欄で店名・所在地・掲載連絡先を確認。掲載欄に独自HPリンクは見当たらないが、現在のHP・営業・独立経営は未確認。'
+    if r['kind']=='yamashiro-food':
+        why='京都府の登録店一覧で店名・所在地と掲載連絡先を確認。掲載欄と追加検索で独自HPは見つからなかったが、不存在の証明ではなく、現在の営業・独立経営は未確認。'
     lead=dict(name=name,municipality=city,city=city,address=address,type=typ,rank=rank,why=why,
-              sources=[[r['authority'],r['url']]],checkedAt=TODAY,phone=phone,phoneSource=r['url'] if phone else '',
-              email=email,emailSource=r['url'] if email else '',contact=dict(routes=routes,searchedAt=TODAY))
+              sources=[[r['authority'],r['url']]],checkedAt=r.get('checkedAt',TODAY),phone=phone,phoneSource=r['url'] if phone else '',
+              email=email,emailSource=r['url'] if email else '',contact=dict(routes=routes,searchedAt=r.get('checkedAt',TODAY)))
     return lead,reason,websites
 
 
@@ -119,6 +121,8 @@ if __name__=='__main__':
     data+=json.loads((ROOT/'research/raw/kyoto-streets-next-review.json').read_text())
     data+=json.loads((ROOT/'research/raw/kyoto-more-streets-review.json').read_text())
     data+=json.loads((ROOT/'research/raw/kyoto-kyotango-shops-review.json').read_text())
+    data+=json.loads((ROOT/'research/raw/kyoto-cafe-union-review.json').read_text())
+    data+=json.loads((ROOT/'research/raw/kyoto-yamashiro-food-review.json').read_text())
     overrides_path=ROOT/'research/kyoto-review-overrides.json'
     overrides=json.loads(overrides_path.read_text()) if overrides_path.exists() else {}
     accepted={}; audit=[]

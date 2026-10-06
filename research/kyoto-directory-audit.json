@@ -1,13 +1,13 @@
 {
   "checkedAt": "2026-10-05",
   "stats": {
-    "profiles": 1929,
-    "candidates": 661,
-    "phone": 603,
+    "profiles": 2262,
+    "candidates": 807,
+    "phone": 743,
     "email": 10,
-    "instagram": 142,
-    "facebook": 38,
-    "anyContact": 624
+    "instagram": 157,
+    "facebook": 37,
+    "anyContact": 765
   },
   "decisions": [
     {
@@ -4772,7 +4772,7 @@
       "address": "木津川市城山台11丁目22-8",
       "phone": "0774-73-5800",
       "url": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=441",
-      "decision": "暫定候補",
+      "decision": "別の掲載元に独自HP等リンクあり",
       "websiteLinks": [],
       "reviewNote": ""
     },
@@ -4802,7 +4802,7 @@
       "address": "宇治市小倉町天王55-1 ホワイトレジデンス1F",
       "phone": "0774-85-1405",
       "url": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=530",
-      "decision": "暫定候補",
+      "decision": "別の掲載元に独自HP等リンクあり",
       "websiteLinks": [],
       "reviewNote": ""
     },
@@ -4812,7 +4812,7 @@
       "address": "宇治市宇治妙楽4-9",
       "phone": "0774-21-2358",
       "url": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=541",
-      "decision": "暫定候補",
+      "decision": "別の掲載元に独自HP等リンクあり",
       "websiteLinks": [],
       "reviewNote": ""
     },
@@ -4822,7 +4822,7 @@
       "address": "木津川市相楽新堂前5-2",
       "phone": "0774-46-9900",
       "url": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=567",
-      "decision": "暫定候補",
+      "decision": "別の掲載元に独自HP等リンクあり",
       "websiteLinks": [],
       "reviewNote": ""
     },
@@ -6075,7 +6075,7 @@
       "address": "久世郡久御山町野村村東240",
       "phone": "075-632-2929",
       "url": "https://www.ochanokyoto.jp/gourmet/detail.php?sid=271",
-      "decision": "暫定候補",
+      "decision": "別の掲載元に独自HP等リンクあり",
       "websiteLinks": [],
       "reviewNote": ""
     },
@@ -20794,8 +20794,10 @@
       "address": "京丹後市網野町網野367",
       "phone": "0772-72-5266",
       "url": "https://www.kyotango.gr.jp/shops/24643/",
-      "decision": "暫定候補",
-      "websiteLinks": [],
+      "decision": "運営施設の公式店舗ページを確認",
+      "websiteLinks": [
+        "https://amitytango.jp/pages/amity-silk"
+      ],
       "reviewNote": ""
     },
     {
@@ -21762,6 +21764,3629 @@
       "websiteLinks": [
         "https://www.sake-tamagawa.com/"
       ],
+      "reviewNote": ""
+    },
+    {
+      "name": "(株)一文字屋和輔",
+      "city": "京都市",
+      "address": "京都市北区紫野今宮町69",
+      "phone": "075-492-6852",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "コーヒーハウス ダモン",
+      "city": "京都市",
+      "address": "京都市北区大宮北山ノ前町35-6",
+      "phone": "075-495-9989",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ほうき星",
+      "city": "京都市",
+      "address": "京都市北区紫竹西野山町56 クレセント三宝1F",
+      "phone": "075-492-2699",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ガーニッシュ",
+      "city": "京都市",
+      "address": "京都市北区紫野西御所田町33-2",
+      "phone": "075-492-2512",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "珈琲屋ナカガワ",
+      "city": "京都市",
+      "address": "京都市北区上賀茂朝露ヶ原町28-2",
+      "phone": "075-712-6770",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Sons de lamer 本陣",
+      "city": "京都市",
+      "address": "京都市北区大宮薬師山東町37-6",
+      "phone": "075-491-6038",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "piu cafe",
+      "city": "京都市",
+      "address": "京都市北区大将軍西町131 KNOBビル1F",
+      "phone": "075-205-5109",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Le Refuge",
+      "city": "京都市",
+      "address": "京都市北区紫竹東高縄町51-3",
+      "phone": "075-344-8085",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "司津屋",
+      "city": "京都市",
+      "address": "京都市上京区寺町今出川上ル1丁目立本寺前町81",
+      "phone": "075-255-2819",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "レストラン丸太町東洋亭",
+      "city": "京都市",
+      "address": "京都市上京区河原町通丸太町上る桝屋町",
+      "phone": "075-231-7055",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "フレスコ",
+      "city": "京都市",
+      "address": "京都市上京区今出川通智恵光院西入西北小路町245 藤和シティコープ1F",
+      "phone": "075-451-4960",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "タナカコーヒ 今出川店",
+      "city": "京都市",
+      "address": "京都市上京区河原町通今出川下ル梶井町448",
+      "phone": "075-212-7220",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "串 しずか",
+      "city": "京都市",
+      "address": "京都市上京区今出川通千本西入南上善寺町163",
+      "phone": "075-464-9411",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "茶房 いせはん",
+      "city": "京都市",
+      "address": "京都市上京区河原町通今出川上ル青龍町242",
+      "phone": "075-231-5422",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "le 14e",
+      "city": "京都市",
+      "address": "京都市上京区伊勢屋町393-3 ポガンビル2F",
+      "phone": "075-231-7009",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "chou chou favori",
+      "city": "京都市",
+      "address": "京都市上京区寺之内通大宮西入大猪熊町61",
+      "phone": "075-202-8591",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "酒場 井倉木材",
+      "city": "京都市",
+      "address": "京都市上京区下長者町通西洞院東入藪之内町77-1",
+      "phone": "075-441-0375",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "deico",
+      "city": "京都市",
+      "address": "京都市上京区東今小路町744-42",
+      "phone": "075-406-5745",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Reine des pres",
+      "city": "京都市",
+      "address": "京都市上京区中町通丸太町下ル駒之町537-1",
+      "phone": "075-223-2337",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://reine-des-pres.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "cafe  TIGER",
+      "city": "京都市",
+      "address": "京都市上京区下立売通室町西入東立売町211-2",
+      "phone": "075-555-8533",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "珈 道",
+      "city": "京都市",
+      "address": "京都市上京区西上善寺町206",
+      "phone": "075-462-1033",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式オンラインショップを確認",
+      "websiteLinks": [
+        "https://codou.thebase.in/about/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "THE NICOLE",
+      "city": "京都市",
+      "address": "京都市上京区奈良物町418出水堀川商店街",
+      "phone": "075-406-1980",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.the-nicole.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "割烹しなとみ",
+      "city": "京都市",
+      "address": "京都市上京区信富町315-4",
+      "phone": "075-366-4736",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://shinatomi.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "タトゥル カフェ",
+      "city": "京都市",
+      "address": "京都市上京区出水通葭屋町西入亀屋町323",
+      "phone": "075-366-2282",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://kahve.tatli.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "LIVEHOUSE音屋AFTER BEAT",
+      "city": "京都市",
+      "address": "京都市上京区西丸太町185 京都二条ハイツB1F",
+      "phone": "075-821-3744",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "cafe standards",
+      "city": "京都市",
+      "address": "京都市上京区今出川通寺町西入大原口町211",
+      "phone": "090-3267-4862",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Osteria san Donato",
+      "city": "京都市",
+      "address": "京都市上京区硯屋町273",
+      "phone": "090-1711-9602",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "アンティコ",
+      "city": "京都市",
+      "address": "京都市左京区一乗寺赤ノ宮町27 グレイン48 1F",
+      "phone": "075-701-9250",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "喫茶 華林唐",
+      "city": "京都市",
+      "address": "京都市左京区上高野薩田町3",
+      "phone": "075-722-0960",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "茶房 小径",
+      "city": "京都市",
+      "address": "京都市左京区鹿ヶ谷上宮ノ前町63-4",
+      "phone": "075-751-9801",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "珈琲店 再 願",
+      "city": "京都市",
+      "address": "京都市左京区浄土寺下南田町133",
+      "phone": "075-751-7968",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "(株)ザックエンタープライズ",
+      "city": "京都市",
+      "address": "京都市左京区北白川山田町45-1",
+      "phone": "075-724-0900",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "進々堂 白川店",
+      "city": "京都市",
+      "address": "京都市左京区北白川追分町88",
+      "phone": "075-701-4121",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "主要チェーン・施設内等の条件照合待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "大文字",
+      "city": "京都市",
+      "address": "京都市左京区浄土寺下馬場町83",
+      "phone": "075-771-5412",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "千茜 ニューサパー",
+      "city": "京都市",
+      "address": "京都市左京区岡崎天王町53",
+      "phone": "075-751-1463",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "自家焙煎珈琲店 バンビ",
+      "city": "京都市",
+      "address": "京都市左京区浄土寺石橋町3-1",
+      "phone": "075-751-9600",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "58DINER",
+      "city": "京都市",
+      "address": "京都市左京区岡崎最勝寺町2-38",
+      "phone": "075-752-1358",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://58diner.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Tamburino",
+      "city": "京都市",
+      "address": "京都市左京区田中下柳町8-12",
+      "phone": "075-761-9385",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "スペイン料理 ティオ・ペペ",
+      "city": "京都市",
+      "address": "京都市左京区北白川東久保田町6",
+      "phone": "075-724-3440",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "コロラド東二条店",
+      "city": "京都市",
+      "address": "京都市左京区岡崎徳成町7-2",
+      "phone": "075-761-4119",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "聖護院 嵐まる",
+      "city": "京都市",
+      "address": "京都市左京区聖護院山王町28-58",
+      "phone": "075-761-7738",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "下鴨 デリ",
+      "city": "京都市",
+      "address": "京都市左京区下鴨松ノ木町51 1F",
+      "phone": "075-702-3339",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式ページを確認",
+      "websiteLinks": [
+        "https://kyotosimogamoderi.owst.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "むしやしない",
+      "city": "京都市",
+      "address": "京都市左京区一乗寺里ノ西町78番地236",
+      "phone": "075-723-8364",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式オンラインショップを確認",
+      "websiteLinks": [
+        "https://www.648471.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "洋食とワインのお店 浅井食堂",
+      "city": "京都市",
+      "address": "京都市左京区下鴨松ノ木町43-1 富山コーポ1F",
+      "phone": "075-706-5706",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.asaishokudou.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "‘apelila",
+      "city": "京都市",
+      "address": "京都市左京区川端御蔭上ル高野蓼原町36-3",
+      "phone": "075-203-8506",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "カフェ ランチ あさの",
+      "city": "京都市",
+      "address": "京都市左京区南禅寺北ノ坊町39",
+      "phone": "075-751-1933",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "さるぅ屋 cafe",
+      "city": "京都市",
+      "address": "京都市左京区田中下柳町14",
+      "phone": "075-203-6552",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗ブログを確認",
+      "websiteLinks": [
+        "https://salutya.exblog.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "スペイン食堂 ラ・ファローラ",
+      "city": "京都市",
+      "address": "京都市左京区聖護院山王町43-2 パレステート日生熊野B2",
+      "phone": "",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Cafe 吟遊詩人",
+      "city": "京都市",
+      "address": "京都市左京区浄土寺石橋町61番地",
+      "phone": "",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.aoidos.cafe/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "HOWENE",
+      "city": "京都市",
+      "address": "京都市左京区北白川東久保田町7",
+      "phone": "080-4734-0485",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "喫茶 鴨",
+      "city": "京都市",
+      "address": "京都市左京区下鴨上川原町65",
+      "phone": "",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "(有)スマート珈琲店",
+      "city": "京都市",
+      "address": "京都市中京区寺町通三条上ル天性寺前町537",
+      "phone": "075-231-6547",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.smartcoffee.jp/information"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "竹・鉄板 28号",
+      "city": "京都市",
+      "address": "京都市中京区壬生坊城町4",
+      "phone": "075-841-3688",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "喫茶 チロル",
+      "city": "京都市",
+      "address": "京都市中京区御池通大宮西入ル門前町539-3",
+      "phone": "075-821-3031",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗が更新する公式ページを確認",
+      "websiteLinks": [
+        "https://tyrol.favy.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "甘味処 月ケ瀬",
+      "city": "京都市",
+      "address": "京都市中京区堺町通御池下ル丸木材木町675-103 アーバンライフフォルムズ烏丸御池",
+      "phone": "075-212-1959",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗HP・公式オンラインショップを確認",
+      "websiteLinks": [
+        "https://www.tsukigase.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "コーヒ&クック ドルフィン",
+      "city": "京都市",
+      "address": "京都市中京区西ノ京南聖町1",
+      "phone": "075-841-1123",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ホリィホック",
+      "city": "京都市",
+      "address": "京都市中京区裏寺町通四条上ル仲之町647",
+      "phone": "075-223-0383",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "コーヒー・ラウンジポット",
+      "city": "京都市",
+      "address": "京都市中京区寺町通り押小路下ル上本能寺前町472",
+      "phone": "075-241-0599",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "(株)フクナガ",
+      "city": "京都市",
+      "address": "京都市中京区高倉通御池上ル柊町584",
+      "phone": "075-221-0593",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "飲食業種の確認なし",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "(株)六曜社",
+      "city": "京都市",
+      "address": "京都市中京区河原町通三条下る大黒町",
+      "phone": "075-221-3820",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "cafe Hello !",
+      "city": "京都市",
+      "address": "京都市中京区二条通柳馬場東入ル晴明町650",
+      "phone": "075-231-8625",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "和カフェ 季の音",
+      "city": "京都市",
+      "address": "京都市中京区河原町四条上ル米屋町384 くらもとビル4F",
+      "phone": "075-213-2288",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "まんまるの月",
+      "city": "京都市",
+      "address": "京都市中京区錦小路通烏丸西入占出山町312ケイズビル1F",
+      "phone": "075-212-3388",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://manmarunotuki.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Seven Pot",
+      "city": "京都市",
+      "address": "京都市中京区木屋町通三条下ル下樵木町192-7-2F",
+      "phone": "075-241-7555",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京 富 庵",
+      "city": "京都市",
+      "address": "京都市中京区油小路通四条上ル藤本町560",
+      "phone": "075-211-1157",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://kyotomian.main.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "酒陶 柳野",
+      "city": "京都市",
+      "address": "京都市中京区三条通新町西入釜座町33",
+      "phone": "075-253-4310",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "逸品 はし長",
+      "city": "京都市",
+      "address": "京都市中京区室町通鯉山町535室蛸ビル1階",
+      "phone": "075-212-3303",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.kyoto-hashinaga.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "イル カント デル マッジョ",
+      "city": "京都市",
+      "address": "京都市中京区堺町通蛸薬師下る菊屋町512-2",
+      "phone": "075-211-7768",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Cucina KURAMOCHI",
+      "city": "京都市",
+      "address": "京都市中京区釜座通丸太町下ル桝屋町149",
+      "phone": "075-253-6336",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "炭火 ろぐ",
+      "city": "京都市",
+      "address": "京都市中京区油小路通竹屋町上る大文字町42-6",
+      "phone": "075-741-8522",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://sumibirogu.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "おばんざいTatsunosuke",
+      "city": "京都市",
+      "address": "京都市中京区木屋町通四条上ル紙屋町370-1",
+      "phone": "075-252-5544",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.tatsunosuke.jp/obanzai.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Pizzeria Solono",
+      "city": "京都市",
+      "address": "京都市中京区新町通姉小路下ル町頭町90-3",
+      "phone": "075-708-2729",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "IL TOBANCHI",
+      "city": "京都市",
+      "address": "京都市中京区小川通三条下ル猩々町123",
+      "phone": "075-555-9271",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "先斗町 魯ビン",
+      "city": "京都市",
+      "address": "京都市中京区先斗町若松町137-4 2番路地奥",
+      "phone": "075-222-8200",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.robin-kyoto.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Ailes",
+      "city": "京都市",
+      "address": "京都市中京区室町御池下ル東側円福寺町342-1",
+      "phone": "075-223-3322",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.kyoto-restaurant.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "モダンタイムス",
+      "city": "京都市",
+      "address": "京都市中京区衣棚通二条下ル大恩寺町245",
+      "phone": "075-211-7502",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "nicotto&mam",
+      "city": "京都市",
+      "address": "京都市中京区車屋町通押小路上ル西押小路町",
+      "phone": "075-223-3630",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://doughnut.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "酒 蔵",
+      "city": "京都市",
+      "address": "京都市中京区木屋町通三条下石屋町122-4 1F",
+      "phone": "075-255-0351",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "喫茶 葦島",
+      "city": "京都市",
+      "address": "京都市中京区三条通河原町東入大黒町37文明堂ビル5F",
+      "phone": "075-241-2210",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://ashijimacoffee.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "La famille Morinaga",
+      "city": "京都市",
+      "address": "京都市中京区蛸薬師通新町西入不動町175-5",
+      "phone": "075-223-3120",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "バー ル・コック",
+      "city": "京都市",
+      "address": "京都市中京区麩屋町二条下尾張町210-3 第2ふじビル1F",
+      "phone": "075-229-6308",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "石丸商店",
+      "city": "京都市",
+      "address": "京都市中京区木屋町通四条上2丁目下樵木町199-2てるや小路203",
+      "phone": "075-221-8616",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Restaurant 信",
+      "city": "京都市",
+      "address": "京都市中京区寺町通竹屋町下久遠院前町667-1",
+      "phone": "075-231-1211",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://kyoto-shin.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Ristoria Radice",
+      "city": "京都市",
+      "address": "京都市中京区夷川通室町東入鏡屋町50",
+      "phone": "075-256-5550",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "巛 COFFEE",
+      "city": "京都市",
+      "address": "京都市中京区丸太町通麩屋町西入昆布屋町397",
+      "phone": "075-746-5499",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "グリル デミ",
+      "city": "京都市",
+      "address": "京都市中京区夷川通室町東入巴町80 パルマビル1-A",
+      "phone": "075-211-7661",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.grilldemi.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "酒肴 かおりぐさ",
+      "city": "京都市",
+      "address": "京都市中京区壬生東檜町30 澤田ビル1F",
+      "phone": "070-5433-4489",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "とんかつ山本",
+      "city": "京都市",
+      "address": "京都市中京区新烏丸通夷川下橘柳町152",
+      "phone": "075-231-4495",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Sue",
+      "city": "京都市",
+      "address": "京都市中京区錦小路通大宮東入七軒町461",
+      "phone": "075-201-9113",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "浜風屋台 風雲児",
+      "city": "京都市",
+      "address": "京都市中京区寺町通御池上ル上本能寺前町484番地トミタヤビル1F奥",
+      "phone": "075-741-6614",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "(有)前田珈琲",
+      "city": "京都市",
+      "address": "京都市中京区蛸薬師通烏丸西入橋弁慶町236",
+      "phone": "075-255-2588",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "複数店舗のブランド公式HPを確認",
+      "websiteLinks": [
+        "https://www.maedacoffee.com/shopinfo/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "(株)てらまち",
+      "city": "京都市",
+      "address": "京都市中京区上瓦町64-26",
+      "phone": "075-821-6323",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "和食房 つるや 勇寿",
+      "city": "京都市",
+      "address": "京都市中京区丸太町通油小路東入大文字町44-1ハイツクリオネ1F",
+      "phone": "075-708-5672",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.you-zyu.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ちんたら処 かなすとーた",
+      "city": "京都市",
+      "address": "京都市中京区壬生馬場町11-6",
+      "phone": "075-406-7626",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "喫茶Sirara",
+      "city": "京都市",
+      "address": "京都市中京区壬生東大竹町21-4",
+      "phone": "075-406-1803",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://orange0425.sakura.ne.jp/sirara/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "酒パンダ",
+      "city": "京都市",
+      "address": "京都市中京区新京極通四条上ル中之町580",
+      "phone": "080-1940-4196",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "料理 りはく",
+      "city": "京都市",
+      "address": "京都市中京区西ノ京永本町9-16",
+      "phone": "075-802-8028",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京旬いちえ",
+      "city": "京都市",
+      "address": "京都市中京区夷川通高倉東入百足屋町146 ルシエル御所南101",
+      "phone": "075-231-1122",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "IOLITE COFFEE ROASTERS",
+      "city": "京都市",
+      "address": "京都市中京区西洞院六角下ル池須町422",
+      "phone": "075-231-8989",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.iolite-coffee.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京洋食まつもと",
+      "city": "京都市",
+      "address": "京都市中京区蛸薬師通新町西入不動町171-4",
+      "phone": "075-708-7616",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.youshoku-matsumoto.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "逸品さかい",
+      "city": "京都市",
+      "address": "京都市中京区蛸薬師通高倉西入泉正寺町323 松本ビル101",
+      "phone": "075-285-3759",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "INADA COFFEE",
+      "city": "京都市",
+      "address": "京都市中京区壬生相合町32番地マンション大宮",
+      "phone": "090-6673-5441",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "喫茶マドラグ",
+      "city": "京都市",
+      "address": "京都市中京区上松屋町706-5",
+      "phone": "075-744-0067",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://141o.nen2.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "さらさ花遊小路",
+      "city": "京都市",
+      "address": "京都市中京区裏寺町通四条上る中之町565-13",
+      "phone": "075-212-2310",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "複数店舗のブランド公式HPを確認",
+      "websiteLinks": [
+        "https://www.cafe-sarasa.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "CAFE KOCSI",
+      "city": "京都市",
+      "address": "京都市中京区富小路通三条上ル福長町123 黄瀬ビル2F",
+      "phone": "075-212-7411",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "甘党茶屋 梅園",
+      "city": "京都市",
+      "address": "京都市中京区河原町通三条下る山崎町234番地の4",
+      "phone": "075-221-5017",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "複数店舗のブランド公式HPを確認",
+      "websiteLinks": [
+        "https://umezono-kyoto.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "牛光 河原町店",
+      "city": "京都市",
+      "address": "京都市中京区奈良屋町297-2 歌舞伎屋ビル",
+      "phone": "075-256-2107",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Brisa",
+      "city": "京都市",
+      "address": "京都市中京区妙満寺前町446 若林ビル1F奥",
+      "phone": "075-741-7080",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "FORTUNE GARDEN KYOTO",
+      "city": "京都市",
+      "address": "京都市中京区一之船入町386-2",
+      "phone": "075-254-8843",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.fortunegarden.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "CAMPOsuOVEST",
+      "city": "京都市",
+      "address": "京都市中京区冷泉町68",
+      "phone": "075-366-4665",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://campo-su-ovest.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "深夜喫茶 ホール 多聞",
+      "city": "京都市",
+      "address": "京都市中京区東木屋町通材木町175番地 京都ゴールデンビルB1",
+      "phone": "075-606-5713",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "酒菜米べゑ",
+      "city": "京都市",
+      "address": "京都市中京区阪東屋町664-25",
+      "phone": "075-286-3889",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "フィオリスカ",
+      "city": "京都市",
+      "address": "京都市中京区高倉二条下ル瓦町545番地アビリティ高倉1F",
+      "phone": "075-212-9270",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "COFFEE BASE KANONDO",
+      "city": "京都市",
+      "address": "京都市中京区観音堂町466ミヤコビル3F",
+      "phone": "075-741-8718",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.kanondo.coffee/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Luca",
+      "city": "京都市",
+      "address": "京都市中京区富小路通蛸薬師下る高宮町585若葉ビル2F",
+      "phone": "",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://luca-kyoto.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "お料理 かさい",
+      "city": "京都市",
+      "address": "京都市中京区小川通丸太町下る中之町73-6",
+      "phone": "070-4172-3535",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "キアオラこんにちは",
+      "city": "京都市",
+      "address": "京都市中京区六角通堺町西入堀之上町119",
+      "phone": "",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "コロラドコーヒーショップ マスサン",
+      "city": "京都市",
+      "address": "京都市中京区東堀川通御池上ル押堀町40",
+      "phone": "075-222-0990",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "OUTSIDERS CoFFEE",
+      "city": "京都市",
+      "address": "京都市中京区壬生東桧町12番地2",
+      "phone": "",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式オンラインショップを確認",
+      "websiteLinks": [
+        "https://outsiders11.base.shop/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "タナカコーヒ祇園店",
+      "city": "京都市",
+      "address": "京都市東山区八坂新地末吉町99-3",
+      "phone": "075-561-8054",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "株式会社 祇園辻利",
+      "city": "京都市",
+      "address": "京都市東山区祇園町南側573-3",
+      "phone": "075-561-2257",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "ブランド公式HPを確認",
+      "websiteLinks": [
+        "https://www.giontsujiri.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京甘味 文の助茶屋 本店",
+      "city": "京都市",
+      "address": "京都市東山区下河原通東入る八坂上町373-1",
+      "phone": "075-593-0588",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "運営ブランド公式オンラインショップを確認",
+      "websiteLinks": [
+        "https://ecstore.bunnosuke.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Kye stone",
+      "city": "京都市",
+      "address": "京都市東山区大和大路三条下ル3丁目弁財天町8-1",
+      "phone": "075-708-7288",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "甘 多",
+      "city": "京都市",
+      "address": "京都市東山区祇園町南側570-125",
+      "phone": "075-551-1587",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "パストランテ カフェ ラ・シエスタ",
+      "city": "京都市",
+      "address": "京都市東山区大和大路四条上ル富永町145 片山ビル1F",
+      "phone": "075-541-2540",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ぎおん 徳屋",
+      "city": "京都市",
+      "address": "京都市東山区祇園町南側570-127",
+      "phone": "075-561-5554",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "http://gion-tokuya.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "プランチャー 健",
+      "city": "京都市",
+      "address": "京都市東山区祇園町北側282-3",
+      "phone": "075-746-5701",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://plancha-ken117.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "レストラン菊水",
+      "city": "京都市",
+      "address": "京都市東山区川端四条上ル川端町187",
+      "phone": "075-561-1001",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "祇園 にし",
+      "city": "京都市",
+      "address": "京都市東山区月見町21番2号1階",
+      "phone": "075-532-4124",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://gion-nishi.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "株式会社 松詠堂 MATCHA GARDEN",
+      "city": "京都市",
+      "address": "京都市東山区星野町八坂塔ノ下87",
+      "phone": "050-5461-3178",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Ange",
+      "city": "京都市",
+      "address": "京都市東山区新橋通大和大路東入2丁目清本町375-10",
+      "phone": "075-708-8777",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "夢詠ミ",
+      "city": "京都市",
+      "address": "京都市東山区四条通大和大路西入中之町206番地2F",
+      "phone": "",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京菓匠 七条甘春堂 且坐喫茶",
+      "city": "京都市",
+      "address": "京都市東山区西之門町551番地",
+      "phone": "075-541-3771",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "運営ブランド公式HPを確認",
+      "websiteLinks": [
+        "https://7jyo-kansyundo.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "長 楽 館",
+      "city": "京都市",
+      "address": "京都市東山区八坂鳥居前東入円山町604",
+      "phone": "075-561-0001",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "運営ホテル公式HPを確認",
+      "websiteLinks": [
+        "https://www.chourakukan.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "樹",
+      "city": "京都市",
+      "address": "京都市東山区祇園町北側279-12 2階",
+      "phone": "075-525-5202",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "珈琲専門店 オクムラ",
+      "city": "京都市",
+      "address": "京都市山科区竹鼻竹ノ街道町91 ラクト専門店街1F",
+      "phone": "075-581-1316",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "コーヒーとランチの店 ココット",
+      "city": "京都市",
+      "address": "京都市山科区日ノ岡鴨土町43-10 光陽ビル1F",
+      "phone": "075-593-8124",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "コジーハウス",
+      "city": "京都市",
+      "address": "京都市山科区竹鼻地蔵寺南町39-2",
+      "phone": "075-592-4555",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "やましなコーヒープラザ マリ亜ンヌ",
+      "city": "京都市",
+      "address": "京都市山科区椥辻池尻町32-4",
+      "phone": "075-592-0854",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "喫茶 道草",
+      "city": "京都市",
+      "address": "京都市山科区西野岸ノ下町18-14",
+      "phone": "075-581-2543",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "エルボ",
+      "city": "京都市",
+      "address": "京都市山科区厨子奥若林町50-2",
+      "phone": "075-592-5078",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "カフェ とも",
+      "city": "京都市",
+      "address": "京都市山科区川田土仏13-4",
+      "phone": "075-593-3723",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "焼肉一家 駿",
+      "city": "京都市",
+      "address": "京都市山科区音羽野田町20-21",
+      "phone": "075-595-0029",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "焼肉一家 駿",
+      "city": "京都市",
+      "address": "京都市山科区音羽野田町20-21",
+      "phone": "",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "炭火焼 牛たんつづみ",
+      "city": "京都市",
+      "address": "京都市山科区栗栖野打越町32-5",
+      "phone": "075-502-1700",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://tuzumi.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "珈琲家あさぬま",
+      "city": "京都市",
+      "address": "京都市下京区四条通河原町西入真町52 高島屋京都店4階",
+      "phone": "075-221-8906",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "雲仙珈琲店",
+      "city": "京都市",
+      "address": "京都市下京区西洞院綾小路下ル妙伝寺町",
+      "phone": "075-351-5479",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "カフェボーイ大塚",
+      "city": "京都市",
+      "address": "京都市下京区朱雀宝蔵町59-1",
+      "phone": "075-322-4056",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "喫茶 ぎやまん",
+      "city": "京都市",
+      "address": "京都市下京区寺町通貞安前之町619 アサヒビル2F",
+      "phone": "075-351-7610",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "喫茶ロンド",
+      "city": "京都市",
+      "address": "京都市下京区朱雀分木町 中央市場内関連12号棟",
+      "phone": "075-312-8618",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "CafeWORLD 新町",
+      "city": "京都市",
+      "address": "京都市下京区鍵屋町通新町東入ル蛭子町134-3",
+      "phone": "075-343-4955",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.umai-cafe.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "創作料理と京野菜のビストロ KIZANO",
+      "city": "京都市",
+      "address": "京都市下京区不明門通下数珠屋町上ル卓屋町66-1 ベルセゾン京都駅前",
+      "phone": "075-708-2454",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://kizano.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "りょうりや 御旅屋",
+      "city": "京都市",
+      "address": "京都市下京区西木屋町通松原上ル二丁目天満町456-2",
+      "phone": "075-343-1513",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://otaya-kyoto.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ふたえ",
+      "city": "京都市",
+      "address": "京都市下京区東中筋六条上ル天使突抜4丁目459-111",
+      "phone": "075-748-1709",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "洋食と葡萄酒のお店 サフラン サフラン",
+      "city": "京都市",
+      "address": "京都市下京区東洞院通仏光寺下ル高橋町605",
+      "phone": "075-351-3292",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "味 人",
+      "city": "京都市",
+      "address": "京都市下京区四条西洞院東入郭巨山町21",
+      "phone": "075-211-5611",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "のち家",
+      "city": "京都市",
+      "address": "京都市下京区若宮通五条上布屋町96-1 サニーハイツ五条",
+      "phone": "075-352-2220",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.nochika.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "BARMANE",
+      "city": "京都市",
+      "address": "京都市下京区松原柳馬場通下ル杉屋町295 カーサデ河原町1F",
+      "phone": "075-353-5977",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "御料理 辰むら",
+      "city": "京都市",
+      "address": "京都市下京区西木屋町四条下ル船頭町197 1F",
+      "phone": "075-361-3020",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://tatsumura-kyoto.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "PUBLIC BAR PEPIN",
+      "city": "京都市",
+      "address": "京都市下京区西橋詰町761番地コスモハイツ1F",
+      "phone": "075-746-4110",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "BAR WHAT EVER",
+      "city": "京都市",
+      "address": "京都市下京区河原町通四条下る稲荷町317-2 小西ビル2F",
+      "phone": "",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Okaffe",
+      "city": "京都市",
+      "address": "京都市下京区綾小路通東洞院東入神明町235-2",
+      "phone": "075-708-8162",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://okaffe.kyoto/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "PATISSERIE.S",
+      "city": "京都市",
+      "address": "京都市下京区高辻通室町西入繁昌町300-1カノン室町四条1F",
+      "phone": "075-361-5521",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "煕怡 kii",
+      "city": "京都市",
+      "address": "京都市下京区仏光寺烏丸西入釘隠町242",
+      "phone": "090-7098-4392",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "わいんば-りゅうちゃん",
+      "city": "京都市",
+      "address": "京都市下京区四条通堀川東入柏屋町12 Guys57 2F",
+      "phone": "075-708-6186",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Germoglio",
+      "city": "京都市",
+      "address": "京都市下京区東境町172 ネオヒルズ2F",
+      "phone": "075-343-0690",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.germogliokyoto.com/location"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "wine labo reif",
+      "city": "京都市",
+      "address": "京都市下京区東洞院綾小路下ル扇酒屋町274-3",
+      "phone": "075-741-7353",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京都炭火串焼きつじや",
+      "city": "京都市",
+      "address": "京都市下京区朱雀北ノ口町51",
+      "phone": "050-5487-2337",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "食堂デイズ",
+      "city": "京都市",
+      "address": "京都市下京区河原町通四条下る2丁目稲荷町330-3しきさい河原町ビル2F",
+      "phone": "075-744-0191",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "喫茶 野火",
+      "city": "京都市",
+      "address": "京都市南区九条西洞院西入西山町48",
+      "phone": "075-681-9241",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "カレーハウスCoCo壱番屋 南区上鳥羽店",
+      "city": "京都市",
+      "address": "京都市南区上鳥羽鴨田町10-2",
+      "phone": "075-682-8533",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "主要チェーン・施設内等の条件照合待ち",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "赤マンマ",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨天龍寺瀬戸川町26",
+      "phone": "075-861-0090",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "さくら餅 稲",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨天龍寺造路町19",
+      "phone": "075-882-5808",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "運営ブランド公式HPを確認",
+      "websiteLinks": [
+        "https://www.kyo-ine.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "お好み焼 克",
+      "city": "京都市",
+      "address": "京都市右京区龍安寺斎宮町1-4",
+      "phone": "075-464-8981",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ラウンジ喫茶 グッド",
+      "city": "京都市",
+      "address": "京都市右京区梅津中倉町26-22",
+      "phone": "075-864-2860",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "スマート珈琲店 太秦店",
+      "city": "京都市",
+      "address": "京都市右京区太秦帷子ヶ辻町11-22",
+      "phone": "075-881-1624",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "ブランド公式店舗ページを確認",
+      "websiteLinks": [
+        "https://www.smartcoffee.jp/information"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "喫茶 双園",
+      "city": "京都市",
+      "address": "京都市右京区常盤御池町14-11",
+      "phone": "075-871-3355",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Arrows",
+      "city": "京都市",
+      "address": "京都市右京区太秦下刑部町12 サンサ右京店舗103",
+      "phone": "075-862-5667",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.arrows777.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "たいちろうや",
+      "city": "京都市",
+      "address": "京都市右京区西京極西池田町62-3",
+      "phone": "075-323-0123",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "やく味 美食健FOODS",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨野開町24-9",
+      "phone": "075-861-0515",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "FRANKIE BASE",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨明星町31-4-1 嵐山ビュ-ハイツ1-B",
+      "phone": "075-432-7217",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Kew",
+      "city": "京都市",
+      "address": "京都市右京区龍安寺五反田町15",
+      "phone": "075-406-0763",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.kewkyoto.com/shop-info"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "千 秋",
+      "city": "京都市",
+      "address": "京都市右京区西院三蔵町22-9 1F",
+      "phone": "075-756-0647",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "永田珈琲店",
+      "city": "京都市",
+      "address": "京都市右京区嵯峨広沢南下馬野町20-1",
+      "phone": "075-863-0111",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.nagata-coffee.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "珈琲専門店 オカザキ",
+      "city": "京都市",
+      "address": "京都市西京区上桂宮ノ後町41",
+      "phone": "075-392-1925",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "茶房 か寿が",
+      "city": "京都市",
+      "address": "京都市西京区大原野南春日町214-2",
+      "phone": "075-331-6993",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "CLOVER",
+      "city": "京都市",
+      "address": "京都市西京区桂上野東町77",
+      "phone": "075-393-9680",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "喰いもんや しをみ",
+      "city": "京都市",
+      "address": "京都市西京区山田平尾町51-250",
+      "phone": "075-381-9491",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "きよだだ",
+      "city": "京都市",
+      "address": "京都市西京区桂朝日町114 1F",
+      "phone": "075-393-9911",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "石焼生パスタ 蔵之助",
+      "city": "京都市",
+      "address": "京都市西京区樫原宇治井町26",
+      "phone": "075-925-8734",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "運営グループ公式HPを確認",
+      "websiteLinks": [
+        "https://ishiyakinamapastakuranosuke.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "bakerycafe パン教室なごみ",
+      "city": "京都市",
+      "address": "京都市西京区松尾大利町17-10",
+      "phone": "075-925-8162",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://pansyokuninss.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ウインドベル",
+      "city": "京都市",
+      "address": "京都市伏見区深草下川原町1-1 コトーハイツ1F",
+      "phone": "075-643-9022",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "喫茶 くれたけ",
+      "city": "京都市",
+      "address": "京都市伏見区京町4丁目 170",
+      "phone": "075-622-2808",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "喫茶 みどり",
+      "city": "京都市",
+      "address": "京都市伏見区深草ススハキ町35",
+      "phone": "075-641-1364",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "(株)京豆庵 伏見稲荷店",
+      "city": "京都市",
+      "address": "京都市伏見区深草祓川町16-20",
+      "phone": "075-641-1887",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "ブランド公式HPを確認",
+      "websiteLinks": [
+        "https://kyozuan.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ビストロ オブリン",
+      "city": "京都市",
+      "address": "京都市伏見区醍醐御園尾町26-13",
+      "phone": "075-574-2158",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "小料理 花吹雪",
+      "city": "京都市",
+      "address": "京都市伏見区新町7丁目463-5",
+      "phone": "075-612-7705",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "おばんざいBAL  COCCI",
+      "city": "京都市",
+      "address": "京都市伏見区深草飯食町839-1 エステート21 101",
+      "phone": "075-642-1811",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "串ダイニング 遊",
+      "city": "京都市",
+      "address": "京都市伏見区醍醐御霊ヶ下町12",
+      "phone": "075-572-4563",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式ページを確認",
+      "websiteLinks": [
+        "https://asobi.owst.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Pizzeria Napoletana Don Ciccio",
+      "city": "京都市",
+      "address": "京都市伏見区下油掛町144 1階",
+      "phone": "075-611-2888",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.pizzerianapoletana-donciccio.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "FUJINOMORI BEER&C",
+      "city": "京都市",
+      "address": "京都市伏見区深草山村町1001-2",
+      "phone": "075-643-7330",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "カノコカフェ",
+      "city": "京都市",
+      "address": "京都市伏見区深草一ノ坪町34-1 カノコビル2階",
+      "phone": "080-8541-0164",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "喫茶 ポイント",
+      "city": "向日市",
+      "address": "向日市寺戸町瓜生18-5",
+      "phone": "075-933-5548",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "志なcafé",
+      "city": "向日市",
+      "address": "向日市鶏冠井町上古1-14",
+      "phone": "075-202-2452",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Pave nature",
+      "city": "大山崎町",
+      "address": "乙訓郡大山崎町白味才51-2",
+      "phone": "075-952-1188",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "栄光堂倶楽部",
+      "city": "福知山市",
+      "address": "福知山市駅前町385番地",
+      "phone": "0773-22-3404",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "京料理 岡もと",
+      "city": "宇治市",
+      "address": "宇治市莵道東隼上り5-82",
+      "phone": "0774-33-3052",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Pizzeria da ENDO",
+      "city": "宇治市",
+      "address": "宇治市木幡御園52-19",
+      "phone": "0774-32-7177",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://taka18000.wixsite.com/pizzeriadaendo"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "カリブの宴",
+      "city": "宇治市",
+      "address": "宇治市宇治壱番33-1",
+      "phone": "0774-43-3331",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "店舗公式ページを確認",
+      "websiteLinks": [
+        "https://caribnoutage.owst.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "小川珈琲 宇治東店",
+      "city": "宇治市",
+      "address": "宇治市莵道平町28-1平和堂アルプラザ1F",
+      "phone": "0774-33-6610",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "ブランド公式HPを確認",
+      "websiteLinks": [
+        "https://www.oc-ogawa.co.jp/shop/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "やまぼうし",
+      "city": "京田辺市",
+      "address": "京田辺市田辺尼ケ池1-1",
+      "phone": "0774-62-5090",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ROSETTA",
+      "city": "亀岡市",
+      "address": "亀岡市東つつじケ丘曙台1-4-1",
+      "phone": "0771-25-0270",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "珈琲処 ぼん",
+      "city": "城陽市",
+      "address": "城陽市上津屋高下10-2",
+      "phone": "090-1916-4140",
+      "url": "https://kyoto-kissainshoku.com/%E5%BA%97%E8%88%97%E4%B8%80%E8%A6%A7/",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "異食家styleよっしゃん",
+      "city": "宇治市",
+      "address": "宇治市小倉町蓮池130-52",
+      "phone": "070-5268-0544",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://style-yoshan.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "宇治創こころ",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽58",
+      "phone": "0774-24-5617",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ujiso-cocoro.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "季節料理と天ぷらのお店LovA",
+      "city": "宇治市",
+      "address": "宇治市宇治壱番83",
+      "phone": "0774-24-5966",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://lova2021.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Cafém-alie(カフェマリエ)",
+      "city": "宇治市",
+      "address": "宇治市小倉町天王55-1 \n\t\t\tホワイトレジデンス1F",
+      "phone": "0774-85-1405",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://cafemaliemalie.wixsite.com/malie"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京料理・寿司竹林本店",
+      "city": "宇治市",
+      "address": "宇治市宇治池森19",
+      "phone": "0774-22-7475",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://chikurin-uji.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京料理抹茶料理辰巳屋",
+      "city": "宇治市",
+      "address": "宇治市宇治塔川3番地の7",
+      "phone": "0774-21-3131",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.uji-tatsumiya.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "清水屋",
+      "city": "宇治市",
+      "address": "宇治市宇治壱番63",
+      "phone": "0774-25-3335",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://gochio.kyoto.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "とんかつ揚げ処かつ扇",
+      "city": "宇治市",
+      "address": "宇治市小倉町山際3-11",
+      "phone": "0774-21-1489",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "フレンチイタリアンレストランすわん",
+      "city": "宇治市",
+      "address": "宇治市宇治宇文字2-33",
+      "phone": "0774-24-9991",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "RestaurantMariBeau(レストランマリヴォー)",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽4-9",
+      "phone": "0774-21-2358",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://maribeau.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "山城広域振興局宇治総合庁舎食堂",
+      "city": "宇治市",
+      "address": "宇治市宇治若森7-6 \n\t\t\t京都府宇治総合庁舎内",
+      "phone": "",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "庁舎内食堂・独立経営の確認待ち",
+      "websiteLinks": [],
+      "reviewNote": "庁舎内食堂・独立経営の確認待ち"
+    },
+    {
+      "name": "炭焼き肉と京の野菜Nico",
+      "city": "宇治市",
+      "address": "宇治市宇治壱番59-1",
+      "phone": "0774-23-1116",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://sumiyaki-nico.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "和風ダイニングちょうじ",
+      "city": "宇治市",
+      "address": "宇治市宇治宇文字2-31",
+      "phone": "050-5487-1386",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://chouji.gorp.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "餃子屋ミヤコパンダ",
+      "city": "宇治市",
+      "address": "宇治市宇治半白19-11",
+      "phone": "0774-51-4088",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://miyakopanda.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "カフェさぴゅいえ",
+      "city": "宇治市",
+      "address": "宇治市宇治蔭山9-11 \n\t\t\t地域福祉支援センター宇治小倉内",
+      "phone": "0774-23-0338",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://minamiyamashiro.com/sappuyer/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "はんなりかふぇ憩和井(いわい)平等院店",
+      "city": "宇治市",
+      "address": "宇治市宇治蓮華5-6",
+      "phone": "0774-23-0050",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.iwaiseika.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "レストラン太陽",
+      "city": "宇治市",
+      "address": "宇治市広野町八軒屋谷1番地 \n\t\t\t京都府立山城総合運動公園(太陽が丘)公園センター内",
+      "phone": "0774-22-8015",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.iwaiseika.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ラクチーナデイイク",
+      "city": "宇治市",
+      "address": "宇治市五ケ庄西浦14−19",
+      "phone": "0774-66-5140",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.lacucinadiiku.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "BARKaguya",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽17-1",
+      "phone": "050-5262-4743",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://bar-kaguya.foodre.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "旬菜魚庵はせ川",
+      "city": "宇治市",
+      "address": "宇治市宇治壱番85-1",
+      "phone": "0774-21-2820",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://uji-hasegawa.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "coconi(ココニ)",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽16",
+      "phone": "0774-51-1183",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://coconi.jp"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京鴨kitchen善(ぜん)",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽171-21",
+      "phone": "050-5493-7774",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kyogamo.com/zen/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ウエスタンバー蛍石(ふろ~らいと)",
+      "city": "宇治市",
+      "address": "宇治市宇治宇文字2-7 \n\t\t\tポップズスクエアビル1F",
+      "phone": "0774-20-0855",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://fluorite-kyoto.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京うどん三よしや(みよしや)",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽4-10",
+      "phone": "0774-23-5958",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://uji-kyoudon.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "和夢茶(わむちゃ)カフェ",
+      "city": "宇治市",
+      "address": "宇治市宇治蓮華12",
+      "phone": "0774-23-8388",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://wamucha-cafe.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "つばめ屋",
+      "city": "宇治市",
+      "address": "宇治市宇治東内13-3",
+      "phone": "0774-21-9111",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://uji-tsubameya.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "中国料理游鈴(りゅうりん)",
+      "city": "宇治市",
+      "address": "宇治市木幡西中31-7 \n\t\t\tハイクラスマンション1F",
+      "phone": "0774-33-3151",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://ryurin-kyoto-uji.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "うなぎのしお冨(しおとみ)",
+      "city": "宇治市",
+      "address": "宇治市六地蔵町並40",
+      "phone": "0774-32-0602",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://shiotomi-uji.jimdofree.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "手作りおばさんの店PAKU(パク)",
+      "city": "宇治市",
+      "address": "宇治市小倉町蓮池165-13",
+      "phone": "0774-21-5181",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "和食屋げん月(げんげつ)",
+      "city": "宇治市",
+      "address": "宇治市小倉町天王37-14",
+      "phone": "0774-20-0931",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://gengetu.wixsite.com/washoku"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "わに食堂",
+      "city": "宇治市",
+      "address": "宇治市木幡内畑23-14",
+      "phone": "",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "tomarico(トマリコ)",
+      "city": "宇治市",
+      "address": "宇治市菟道車田1",
+      "phone": "0774-39-7476",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "カレー設計事務所",
+      "city": "宇治市",
+      "address": "宇治市五ケ庄西浦32-5",
+      "phone": "0774-66-4186",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://curry-arch.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "きっちん・まきしま(槇島福祉の園)",
+      "city": "宇治市",
+      "address": "宇治市槇島町石橋13-6",
+      "phone": "0774-20-8060",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.yamashiro.or.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "CAFE&DINING UP(アップ)",
+      "city": "宇治市",
+      "address": "宇治市羽拍子町3-2",
+      "phone": "0774-45-2949",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://gohan-up.crayonsite.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "cafe de SAKURA(カフェドゥサクラ)",
+      "city": "宇治市",
+      "address": "宇治市宇治蓮華69",
+      "phone": "0774-22-1488",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://cafe-de-sakura.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "カトリのKitchen",
+      "city": "宇治市",
+      "address": "宇治市広野町東裏100-20",
+      "phone": "090-7368-1807",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "御菓子司富士笠(ふじがさ)",
+      "city": "宇治市",
+      "address": "宇治市小倉町西浦63-3",
+      "phone": "0774-22-1879",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.fujigasa.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "パンの喫茶2525",
+      "city": "宇治市",
+      "address": "宇治市伊勢田町遊田12-189",
+      "phone": "0774-26-7918",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "四季彩処しんか",
+      "city": "宇治市",
+      "address": "宇治市槇島町薗場27-25",
+      "phone": "0774-23-7074",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "日本茶とジェラートかめうさぎ",
+      "city": "宇治市",
+      "address": "宇治市莵道門前26-1",
+      "phone": "0774-46-8814",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "串徳",
+      "city": "宇治市",
+      "address": "宇治市小倉町西浦29-3",
+      "phone": "0774-21-1334",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "お台所roji(ロジ)",
+      "city": "宇治市",
+      "address": "宇治市宇治妙楽171-14",
+      "phone": "0774-94-6243",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "レストランボヌール",
+      "city": "宇治市",
+      "address": "宇治市槙島町三十五34-2",
+      "phone": "0774-22-3556",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "カラフル餃子",
+      "city": "宇治市",
+      "address": "宇治市神明石塚54-357",
+      "phone": "0774-80-5486",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "おむすび屋さんGOEN(ゴエン)",
+      "city": "宇治市",
+      "address": "宇治市宇治里尻72-22",
+      "phone": "",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://suit-chocolate.com/brand/atelier-rouge/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "Italian&Japanese壽Toshi",
+      "city": "城陽市",
+      "address": "城陽市寺田樋尻48-52",
+      "phone": "0774-56-5838",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.web-net.jp/toshi/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "かっぽう仙羽亭",
+      "city": "城陽市",
+      "address": "城陽市寺田大川原43-9",
+      "phone": "0774-55-1008",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.senbatei.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "星待ちキッチン",
+      "city": "城陽市",
+      "address": "城陽市寺田今堀1番地 \n\t\t\t文化パルク城陽1階",
+      "phone": "0774-56-8127",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.bunkaparcjoyo.net/restaurant/restaurant.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京都八百忠",
+      "city": "城陽市",
+      "address": "城陽市平川山道112",
+      "phone": "0774-52-2721",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kyoto-yaochu.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "創作基地(そうさくキッチン)きままにおいでよ",
+      "city": "城陽市",
+      "address": "城陽市寺田東ノ口17-170",
+      "phone": "0774-56-8505",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ぷちぽんとKitchen+farm",
+      "city": "城陽市",
+      "address": "城陽市富野東田部69-1",
+      "phone": "0774-56-7881",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://puchipont.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "天ぷらすぺいすきら",
+      "city": "城陽市",
+      "address": "城陽市寺田大川原20-10",
+      "phone": "0774-53-6789",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://tenpurakira.jp/index.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "和壯-wasaw-",
+      "city": "城陽市",
+      "address": "城陽市寺田西ノ口17-1 \n\t\t\tスカイドーム106",
+      "phone": "0774-52-9519",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://wa-saw.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "珈琲処ぼん",
+      "city": "城陽市",
+      "address": "城陽市上津屋高下10-2",
+      "phone": "090-1916-4140",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "花登寿司(はなとずし)",
+      "city": "城陽市",
+      "address": "城陽市枇杷庄島ノ宮56-29",
+      "phone": "0774-52-2046",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://hanatosushi.jp/menu_1.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京料理十両",
+      "city": "城陽市",
+      "address": "城陽市寺田樋尻48-28",
+      "phone": "0774-52-2281",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kyoryori-juryo.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "#FFB7C5 CHERRY BLOSSOM(シャープエフエフビーナナシーゴチェリーブロッサム)",
+      "city": "城陽市",
+      "address": "城陽市寺田東ノ口44-54 \n\t\t\t2階",
+      "phone": "090-6054-1930",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://suit-chocolate.com/brand/atelier-rouge/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "越前",
+      "city": "八幡市",
+      "address": "八幡市八幡柿木垣内1-24",
+      "phone": "075-981-5028",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "カフェカナリヤ",
+      "city": "八幡市",
+      "address": "八幡市男山八望3-1B47 \n\t\t\t107",
+      "phone": "075-983-7787",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "カフェキャンドル",
+      "city": "八幡市",
+      "address": "八幡市八幡高坊8-16",
+      "phone": "075-981-8330",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.eonet.ne.jp/~candle/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京都吉兆松花堂店",
+      "city": "八幡市",
+      "address": "八幡市八幡女郎花43-1",
+      "phone": "075-971-3311",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kyoto-kitcho.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "朝日屋",
+      "city": "八幡市",
+      "address": "八幡市八幡高坊11-4",
+      "phone": "075-981-3202",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.sabasusi-asahiya.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "八幡家",
+      "city": "八幡市",
+      "address": "八幡市上津屋里垣内56-1 \n\t\t\tやわた流れ橋交流プラザ \n\t\t\t四季彩館内",
+      "phone": "075-983-7789",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ちきんはうす",
+      "city": "京田辺市",
+      "address": "京田辺市普賢寺中島2",
+      "phone": "0774-62-0436",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ハンバーグダイニングたくみ",
+      "city": "京田辺市",
+      "address": "京田辺市三山木野神56",
+      "phone": "0774-64-2639",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "寿司処山かげ",
+      "city": "京田辺市",
+      "address": "京田辺市河原平田2-6",
+      "phone": "0774-62-8628",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://yamakage-tanabe.jimdo.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "レストランルスティク",
+      "city": "京田辺市",
+      "address": "京田辺市興戸宮ノ前80",
+      "phone": "0774-46-9178",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://restaurant-rustique.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "OKUDO-YA Kyoto(おくどやきょうと)",
+      "city": "京田辺市",
+      "address": "京田辺市三山木中央6丁目5番地8",
+      "phone": "0774-26-1868",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.okudo-ya.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "二八一休(にはちいっきゅう)",
+      "city": "京田辺市",
+      "address": "京田辺市河原御影30-109",
+      "phone": "0774-66-7291",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://nihatiikkyu.jimdofree.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京田辺イタリアンカフェほわか",
+      "city": "京田辺市",
+      "address": "京田辺市河原御影4-12",
+      "phone": "0774-34-0430",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://howaka.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "旭食堂",
+      "city": "京田辺市",
+      "address": "京田辺市大住池ノ谷58-1",
+      "phone": "080-1471-5436",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://asahishokudo.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "一粒亭(いちりゅうてい)かず",
+      "city": "京田辺市",
+      "address": "京田辺市田辺鳥本15",
+      "phone": "0774-27-5364",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://ichiryuuteikazu.owst.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "あしたのぱん",
+      "city": "京田辺市",
+      "address": "京田辺市田辺沓脱34-3",
+      "phone": "0774-66-2456",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ウッドデザインパーク京都-彩-(イロドリ)",
+      "city": "京田辺市",
+      "address": "京田辺市大住竜王谷9-1",
+      "phone": "0774-34-3930",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://wood-designpark.jp/kyoto/",
+        "https://suit-chocolate.com/brand/atelier-rouge/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "DEMETER’s Table(デメターズテーブル)",
+      "city": "京田辺市",
+      "address": "京田辺市田辺久戸35番 \n\t\t\tアカデモスレジデンス101",
+      "phone": "0774-34-1750",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://suit-chocolate.com/brand/atelier-rouge/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "あいはうす鹿背山",
+      "city": "木津川市",
+      "address": "木津川市鹿背山当田68",
+      "phone": "0774-73-1414",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://i-house.jp/kaseyama/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "かもめの台所",
+      "city": "木津川市",
+      "address": "木津川市南加茂台4-15-6",
+      "phone": "0774-66-1895",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.npo-kamome.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ギャラリーカフェ人と木",
+      "city": "木津川市",
+      "address": "木津川市相楽城ノ堀26",
+      "phone": "0774-71-0305",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ナチュラルフレンチビストロ・ヨシムラ",
+      "city": "木津川市",
+      "address": "木津川市相楽新堂前5-2",
+      "phone": "050-5493-2608",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://bistrot-yoshimura.gorp.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "FRONT",
+      "city": "木津川市",
+      "address": "木津川市城山台13丁目37",
+      "phone": "0774-66-4541",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "和ダイニング心穏cocon(ココン)",
+      "city": "木津川市",
+      "address": "木津川市山城町平尾不知田129-1",
+      "phone": "0774-86-6930",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "木津川市情報発信基地kichikichicafé(キチキチカフェ)理科準備室",
+      "city": "木津川市",
+      "address": "木津川市木津南垣外15-2",
+      "phone": "090-6607-9191",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kichikichi.amebaownd.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "大佛汽茶(だいぶつきっちゃ)",
+      "city": "木津川市",
+      "address": "木津川市加茂町兎並東前田23-1 \n\t\t\t2F",
+      "phone": "0774-99-2050",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://daibutsu-kiccha.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "いづみ福祉会ワーキングセンターいづみフルーヴ",
+      "city": "木津川市",
+      "address": "木津川市加茂町観音寺石部8番地",
+      "phone": "0774-76-7210",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.idumi-fukushikai.or.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "パン工房風いろ小麦",
+      "city": "木津川市",
+      "address": "木津川市城山台城山台11丁目22-8",
+      "phone": "0774-73-5800",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kazeirokomugi.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "旅猫食堂(たびねこダイニング)",
+      "city": "木津川市",
+      "address": "木津川市木津池田2-5/2F",
+      "phone": "0774-66-2004",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ごはんとおやつ日々舎(にちにちしゃ)",
+      "city": "木津川市",
+      "address": "木津川市市坂高座165",
+      "phone": "080-2544-4295",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://nichinichisha-1.jimdosite.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "パン工房Haru-Kanadeハルカナデ",
+      "city": "木津川市",
+      "address": "木津川市城山台7-26-3",
+      "phone": "0774-73-9719",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.goope.jp/haru-kanade/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "だし巻き専門店京こっこ",
+      "city": "木津川市",
+      "address": "木津川市木津八色77-2",
+      "phone": "070-4779-3165",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://dashimaki-kyococco.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京料理佐山うを梅",
+      "city": "久御山町",
+      "address": "久世郡久御山町佐山双置1",
+      "phone": "0774-44-4564",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://uoume.jp/menu_list.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "komughi(こむぎ)",
+      "city": "久御山町",
+      "address": "久世郡久御山町藤和田村西16",
+      "phone": "075-963-6735",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "府の掲載欄に一時休業中と明記",
+      "websiteLinks": [],
+      "reviewNote": "府の掲載欄に一時休業中と明記"
+    },
+    {
+      "name": "おばんざい料理友芽家(ゆめや)",
+      "city": "久御山町",
+      "address": "久世郡久御山町島田堤外2-9",
+      "phone": "075-632-0765",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "多来多来(たくたく)",
+      "city": "久御山町",
+      "address": "久世郡久御山町野村村東240",
+      "phone": "075-632-2929",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.takutaku.net/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "おれんじはうす",
+      "city": "久御山町",
+      "address": "久世郡久御山町佐山双栗53-2 \n\t\t\tラポート双栗1F",
+      "phone": "0774-46-1595",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.seafoodcafe-orangehouse.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "レストラン庵樹(あんじゅ)  \n\t\t\t (一時休業中)",
+      "city": "井手町",
+      "address": "綴喜郡井手町多賀東北河原2-13",
+      "phone": "0774-82-7800",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://life.or.jp/anju/index.html"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "銘木カフェSHIKI(しき)",
+      "city": "井手町",
+      "address": "綴喜郡井手町井手柏原37",
+      "phone": "0774-82-2025",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://mukugi.com/archives/service/cafe/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京料理魚又(うおまた)",
+      "city": "井手町",
+      "address": "綴喜郡井手町多賀東南組10",
+      "phone": "0774-82-2205",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://uomata.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "魚定本店",
+      "city": "宇治田原町",
+      "address": "綴喜郡宇治田原町南溝尻16",
+      "phone": "0774-88-2030",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "手づくり洋食の店リンデンバウム",
+      "city": "宇治田原町",
+      "address": "綴喜郡宇治田原町湯屋谷上西谷1番地",
+      "phone": "0774-88-2647",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "かつぜん",
+      "city": "宇治田原町",
+      "address": "綴喜郡宇治田原町郷之口池の首61",
+      "phone": "0774-88-2153",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "古民家atelier&caféてとThé(てとて)",
+      "city": "宇治田原町",
+      "address": "綴喜郡宇治田原町湯屋谷下西谷38",
+      "phone": "0774-88-4465",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "泊まれる小料理屋与一",
+      "city": "笠置町",
+      "address": "相楽郡笠置町笠置西通67-1",
+      "phone": "0743-25-1639",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://yoichi-kasagi.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "京都和束荘",
+      "city": "和束町",
+      "address": "相楽郡和束町白栖猪ヶ口25-5",
+      "phone": "0774-78-2603",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://wazukaso.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "d:matcha Kyoto Café&Kitchen  \n\t\t\t (ツアー客限定)",
+      "city": "和束町",
+      "address": "相楽郡和束町湯船五の瀬142",
+      "phone": "0774-74-8205",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://dmatcha.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "和束茶屋山甚(やまじん)",
+      "city": "和束町",
+      "address": "相楽郡和束町白栖大狭間26-5",
+      "phone": "0774-66-7722",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.yamajin-cafe.com"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "茶蕎麦専門店和束家(和束茶スパイス専門店健康お茶芽)",
+      "city": "和束町",
+      "address": "相楽郡和束町石寺初尾平21",
+      "phone": "090-9982-1889",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://wazukatya.com/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "dan dan cafë(ダンダンカフェ)",
+      "city": "和束町",
+      "address": "相楽郡和束町石寺東谷1-1",
+      "phone": "0774-66-1185",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "楽楽亭",
+      "city": "精華町",
+      "address": "相楽郡精華町祝園幸田5-1",
+      "phone": "0774-93-2121",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "店名と電話・所在地を照合し既存候補に統合",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "ベーカリーカフェブロート",
+      "city": "精華町",
+      "address": "相楽郡精華町精華台2丁目10-19",
+      "phone": "0774-94-9252",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "別の掲載元に独自HP等リンクあり",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "Conditioning Lab Cafe(コンディショニングラボカフェ)",
+      "city": "精華町",
+      "address": "相楽郡精華町光台1丁目7 \n\t\t\tけいはんなプラザ1階",
+      "phone": "0774-93-0880",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.conditioninglab.co.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "COCONI(ココニ)",
+      "city": "精華町",
+      "address": "相楽郡精華町南稲八妻北尻70 \n\t\t\t(役場内2階)",
+      "phone": "",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "役場庁舎内店舗で独立経営条件の確認待ち",
+      "websiteLinks": [],
+      "reviewNote": "京都府の一覧に精華町役場内2階と記載。"
+    },
+    {
+      "name": "ここらく",
+      "city": "精華町",
+      "address": "相楽郡精華町祝園西1丁目8-1 \n\t\t\tほうその共生ビル1階",
+      "phone": "0774-95-7902",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "福祉事業所の運営店舗で独立経営条件の確認待ち",
+      "websiteLinks": [],
+      "reviewNote": "精華町の案内にNPO法人プラッツここらくと記載。"
+    },
+    {
+      "name": "Yell cafe(エールカフェ)",
+      "city": "精華町",
+      "address": "相楽郡精華町下狛上新庄31",
+      "phone": "0774-84-9894",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
+      "reviewNote": ""
+    },
+    {
+      "name": "道の駅お茶の京都みなみやましろ村むらふうど食堂つちのうぶ",
+      "city": "南山城村",
+      "address": "相楽郡南山城村北大河原殿田102",
+      "phone": "0743-93-1392",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://michinoeki.kyoto.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ガーデンカフェミーム",
+      "city": "南山城村",
+      "address": "相楽郡南山城村北大河原下中谷27",
+      "phone": "0743-93-3051",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.goope.jp/cafemim/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "ORTO(オルト)",
+      "city": "京都市",
+      "address": "京都市中京区衣棚通三条下る三条町337-2",
+      "phone": "075-212-1166",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "http://orto-kyoto.jp/"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "麩屋柳緑(ふやりゅうりょく)",
+      "city": "京都市",
+      "address": "京都市中京区麩屋町通六角上る白壁町439",
+      "phone": "075-201-7862",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "独自HP等の掲載リンクあり",
+      "websiteLinks": [
+        "https://ryu-ryoku.kyoto"
+      ],
+      "reviewNote": ""
+    },
+    {
+      "name": "NATURAL BAL MEAT UP",
+      "city": "京都市",
+      "address": "京都市東山区中之町210-4 \n\t\t\tホテルマテリアル1F",
+      "phone": "075-762-1700",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "ホテル内レストラン・独立経営の確認待ち",
+      "websiteLinks": [],
+      "reviewNote": "ホテル内レストラン・独立経営の確認待ち"
+    },
+    {
+      "name": "茶亭楓庵(ちゃていふうあん)",
+      "city": "長岡京市",
+      "address": "長岡京市長岡1-2-18",
+      "phone": "075-951-6798",
+      "url": "https://www.pref.kyoto.jp/yamashiro/no-kikaku/yamashiroplatform/kyoyamashiroshoku.html",
+      "decision": "暫定候補",
+      "websiteLinks": [],
       "reviewNote": ""
     }
   ]
