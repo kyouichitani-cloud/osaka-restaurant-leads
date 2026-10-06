@@ -1,0 +1,13 @@
+{
+  "authority": "明石観光協会・食べる",
+  "pages": [
+    "https://www.yokoso-akashi.jp/eat",
+    "https://www.yokoso-akashi.jp/eat?page=1",
+    "https://www.yokoso-akashi.jp/eat?page=2",
+    "https://www.yokoso-akashi.jp/eat?page=3",
+    "https://www.yokoso-akashi.jp/eat?page=4"
+  ],
+  "profiles": 90,
+  "collectedAt": "2026-10-06",
+  "limitation": "掲載店の現営業・独立経営・独自サイト不存在を保証しない。"
+}

@@ -1,0 +1,2081 @@
+{
+  "checkedAt": "2026-10-06",
+  "stats": {
+    "profiles": 198,
+    "candidates": 49,
+    "phone": 46,
+    "instagram": 6,
+    "facebook": 6,
+    "hours": 38
+  },
+  "decisions": [
+    {
+      "name": "白鷺茶房",
+      "municipality": "姫路市",
+      "address": "姫路市忍町19",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/289/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://shirasagi-sabou.com/"
+      ]
+    },
+    {
+      "name": "旬の天ぷらと季節料理 吉福",
+      "municipality": "姫路市",
+      "address": "姫路市駅前町353 ダイワロイネットホテル姫路1F",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/281/",
+      "decision": "施設内・独立経営の確認待ち",
+      "websiteLinks": [
+        "https://r.gnavi.co.jp/32fkh78f0000/"
+      ]
+    },
+    {
+      "name": "手延べの掟",
+      "municipality": "姫路市",
+      "address": "姫路市呉服町2番地",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/279/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tenobe-no-okite.com/"
+      ]
+    },
+    {
+      "name": "イタリアンダイニング リコルド",
+      "municipality": "姫路市",
+      "address": "姫路市駅前町27番地 テラッソ姫路4F (アースシネマズ姫路向かい)",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/278/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ricordo-ita.jp/"
+      ]
+    },
+    {
+      "name": "重次郎",
+      "municipality": "姫路市",
+      "address": "姫路市本町68-170-14 大手前第一ビル1F",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/255/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://jyujiro.com/"
+      ]
+    },
+    {
+      "name": "レストラン活水軒",
+      "municipality": "姫路市",
+      "address": "姫路市本町68 姫路城西御屋敷跡庭園 好古園内",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/155/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.himeji-machishin.jp/ryokka/kokoen/kassuiken/index.html"
+      ]
+    },
+    {
+      "name": "えきそば在来下りそば売店 / 上りそば売店",
+      "municipality": "姫路市",
+      "address": "姫路市駅前町188-1 姫路駅 在来線上り/下りホーム",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/159/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.maneki-co.com"
+      ]
+    },
+    {
+      "name": "ピオレ姫路おみやげ館 播州うまいもん処",
+      "municipality": "姫路市",
+      "address": "姫路市豆腐町222 ピオレ姫路おみやげ館",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/23/",
+      "decision": "商業施設内の集合売場で独立飲食個店ではない",
+      "websiteLinks": []
+    },
+    {
+      "name": "力丸 JR姫路駅店",
+      "municipality": "姫路市",
+      "address": "姫路市豆腐町222 ピオレ3",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/149/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kaiten-sushi.net/"
+      ]
+    },
+    {
+      "name": "千姫茶屋",
+      "municipality": "姫路市",
+      "address": "姫路市本町68-290 イーグレひめじ1F",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/26/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kiko-himeji.com"
+      ]
+    },
+    {
+      "name": "おもてなしダイニング 福亭",
+      "municipality": "姫路市",
+      "address": "姫路市亀井町75番地",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/12/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://seiko-fukutei.com/"
+      ]
+    },
+    {
+      "name": "えきそば大手前店",
+      "municipality": "姫路市",
+      "address": "姫路市白銀町68",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/156/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.maneki-co.com"
+      ]
+    },
+    {
+      "name": "はまもとコーヒー",
+      "municipality": "姫路市",
+      "address": "姫路市二階町49",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/13/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.hamamoto-coffee.com/"
+      ]
+    },
+    {
+      "name": "和ダイニング 三日潮",
+      "municipality": "姫路市",
+      "address": "姫路市総社本町190番地",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/36/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.seiko-sousha.com/"
+      ]
+    },
+    {
+      "name": "カフェ・ド・ムッシュ 姫路店",
+      "municipality": "姫路市",
+      "address": "姫路市市川台1-7",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/160/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.muche.jp/"
+      ]
+    },
+    {
+      "name": "酒饌亭 灘菊かっぱ亭",
+      "municipality": "姫路市",
+      "address": "姫路市東駅前町58",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/7/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.nadagiku.co.jp/"
+      ]
+    },
+    {
+      "name": "高田の馬場",
+      "municipality": "姫路市",
+      "address": "姫路市本町68",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/35/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.takatanobaba.co.jp/"
+      ]
+    },
+    {
+      "name": "喃風 姫路本店",
+      "municipality": "姫路市",
+      "address": "姫路市東駅前町57 あらきビル1F",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/256/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.hotpepper.jp/strJ001109696/"
+      ]
+    },
+    {
+      "name": "洋食 グリル天平 (Grill TENPEI)",
+      "municipality": "姫路市",
+      "address": "姫路市本町68-170 大手前第1ビル 1F-11",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/11/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        " http://grilltenpei.com/"
+      ]
+    },
+    {
+      "name": "えきそばグランフェスタ店",
+      "municipality": "姫路市",
+      "address": "姫路市駅前町188-1 グランフェスタ",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/157/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.maneki-co.com"
+      ]
+    },
+    {
+      "name": "海鮮どんぶり本舗 力丸 ピオレ姫路おみやげ館店",
+      "municipality": "姫路市",
+      "address": "姫路市豆腐町222 ピオレおみやげ館",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/260/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kaiten-sushi.net/"
+      ]
+    },
+    {
+      "name": "天晴水産 きりん",
+      "municipality": "姫路市",
+      "address": "姫路市駅前町188-1 グランフェスタ6番街",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/215/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.apparesuisan.co.jp/",
+        "https://himeji-festa.com/shop/detail/48"
+      ]
+    },
+    {
+      "name": "串揚倶楽部 蔵",
+      "municipality": "姫路市",
+      "address": "姫路市魚町91",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/16/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.nadagiku.co.jp/"
+      ]
+    },
+    {
+      "name": "清交倶楽部 商工会議所店",
+      "municipality": "姫路市",
+      "address": "姫路市下寺町43 姫路商工会議所内",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/238/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://seiko-club.com/"
+      ]
+    },
+    {
+      "name": "カフェダイニング&バー コーニッシュ",
+      "municipality": "姫路市",
+      "address": "姫路市福中町51番地ヘルメスビル7F",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/258/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.corniche-himeji.com/"
+      ]
+    },
+    {
+      "name": "こばやし茶店 抹茶喫茶 存外",
+      "municipality": "姫路市",
+      "address": "姫路市二階町66",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/244/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ocha-kobayashi.jp/"
+      ]
+    },
+    {
+      "name": "食菜家うさぎ 町なか 姫路駅前店",
+      "municipality": "姫路市",
+      "address": "姫路市南町65 大手前ビル3F~4F",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/147/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.japanese-dining-usagi.com/ekimae/"
+      ]
+    },
+    {
+      "name": "宴ん屋一代",
+      "municipality": "姫路市",
+      "address": "姫路市南駅前町125 ピオレおみやげ館1F",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/237/",
+      "decision": "運営会社の店舗公式ページを確認",
+      "websiteLinks": [
+        "https://kanoko-co.jp/branch_office/enya_himeji/"
+      ]
+    },
+    {
+      "name": "東天紅",
+      "municipality": "姫路市",
+      "address": "姫路市南町1番地 山陽百貨店6階レストラン街",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/153/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.totenko.jp"
+      ]
+    },
+    {
+      "name": "西村屋 白鷺館",
+      "municipality": "姫路市",
+      "address": "姫路市十二所前町23",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/24/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.nishimuraya-fc.com/hakuro/"
+      ]
+    },
+    {
+      "name": "ステーキ千寿",
+      "municipality": "姫路市",
+      "address": "姫路市千代田町596",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/154/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.steak-senju.jp"
+      ]
+    },
+    {
+      "name": "すし一",
+      "municipality": "姫路市",
+      "address": "姫路市坂元町35",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/201/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.sushi-ichi.co.jp/"
+      ]
+    },
+    {
+      "name": "一張羅",
+      "municipality": "姫路市",
+      "address": "姫路市駅前町345 みき正駅前ビル地下一階",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/20/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.himeji-anago-iccyoura.com/"
+      ]
+    },
+    {
+      "name": "割烹 森富",
+      "municipality": "姫路市",
+      "address": "姫路市綿町124番地",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/210/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www2.memenet.or.jp/moritomi/"
+      ]
+    },
+    {
+      "name": "森重",
+      "municipality": "姫路市",
+      "address": "姫路市魚町126番地",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/204/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.moriju.net"
+      ]
+    },
+    {
+      "name": "炭焼牛タン 孝",
+      "municipality": "姫路市",
+      "address": "姫路市立町39 萩原ビル1F",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/234/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://akr5718084593.owst.jp/"
+      ]
+    },
+    {
+      "name": "ステーキハウスろーいん 姫路南店",
+      "municipality": "姫路市",
+      "address": "姫路市飾磨区三宅1丁目132",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/232/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.roin.jp/"
+      ]
+    },
+    {
+      "name": "旧逓信省姫路別館 HIMEJI MONOLITH",
+      "municipality": "姫路市",
+      "address": "姫路市総社本町115",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/206/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://produce.novarese.jp/himeji-monolith/"
+      ]
+    },
+    {
+      "name": "かごの屋 姫路市民会館前店",
+      "municipality": "姫路市",
+      "address": "姫路市本町68-71 NTT姫路ビル1号館",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/202/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kagonoya.food-kr.com/"
+      ]
+    },
+    {
+      "name": "キュエル姫路",
+      "municipality": "姫路市",
+      "address": "姫路市西駅前町1番地4",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/46/",
+      "decision": "複数店舗が入る商業施設で飲食個店ではない",
+      "websiteLinks": []
+    },
+    {
+      "name": "和ごころの台所 笑み屋",
+      "municipality": "姫路市",
+      "address": "姫路市駅前町227 福楽ビルB1F",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/29/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://emiya.owst.jp/"
+      ]
+    },
+    {
+      "name": "姫路食堂",
+      "municipality": "姫路市",
+      "address": "姫路市南町5 モルティひめじ",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/217/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "えきそばマネキダイニング店",
+      "municipality": "姫路市",
+      "address": "姫路市駅前町188-1 姫路駅 新幹線乗降口前",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/158/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.maneki-co.com"
+      ]
+    },
+    {
+      "name": "フェスタ フェスタビル・グランフェスタ(地下街)",
+      "municipality": "姫路市",
+      "address": "姫路市駅前町363-1(フェスタ)/188-1(グランフェスタ)",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/34/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://himeji-festa.com/"
+      ]
+    },
+    {
+      "name": "シェアリガ",
+      "municipality": "姫路市",
+      "address": "姫路市立町44",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/31/",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://chezariga.sakura.ne.jp/"
+      ]
+    },
+    {
+      "name": "家庭割烹 杉本",
+      "municipality": "姫路市",
+      "address": "姫路市本町68-170 大手前第一ビル1F南側",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/30/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "農家レストラン 且緩々",
+      "municipality": "姫路市",
+      "address": "姫路市夢前町山之内乙120-1",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/247/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "夢乃井ダイニング 康貴",
+      "municipality": "姫路市",
+      "address": "姫路市夢前町前之庄187 夢乃井 1階",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/241/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.yumenoi.com/"
+      ]
+    },
+    {
+      "name": "御食事処・姫路おみやげ “夢乃そば”",
+      "municipality": "姫路市",
+      "address": "姫路市夢前町置本583番地",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/85/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://yumenosoba.com/"
+      ]
+    },
+    {
+      "name": "ニューサンピア姫路ゆめさき レストラン「夢の華」",
+      "municipality": "姫路市",
+      "address": "姫路市夢前町置本432-56",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/233/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ns-yumesaki.jp/"
+      ]
+    },
+    {
+      "name": "灘菊酒造「前蔵」",
+      "municipality": "姫路市",
+      "address": "姫路市手柄1丁目121",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/33/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.nadagiku.co.jp/"
+      ]
+    },
+    {
+      "name": "Egretbrewery (イーグレ ブルワリー)",
+      "municipality": "姫路市",
+      "address": "姫路市苫編396",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/277/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://egretbrewery.jp/"
+      ]
+    },
+    {
+      "name": "洋食屋料理番",
+      "municipality": "姫路市",
+      "address": "姫路市中地283-2",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/10/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ryouriban.com"
+      ]
+    },
+    {
+      "name": "ワンカルビ広畑店",
+      "municipality": "姫路市",
+      "address": "姫路市広畑区才873-1",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/285/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://1andd.co.jp/1dining/"
+      ]
+    },
+    {
+      "name": "ワンカルビ姫路保城店",
+      "municipality": "姫路市",
+      "address": "姫路市保城453",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/284/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://1andd.co.jp/1dining/"
+      ]
+    },
+    {
+      "name": "ワンカルビ姫路飯田店",
+      "municipality": "姫路市",
+      "address": "姫路市飯田1-4",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/283/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://1andd.co.jp/1dining/"
+      ]
+    },
+    {
+      "name": "きんのぶた姫路勝原店",
+      "municipality": "姫路市",
+      "address": "姫路市勝原区熊見16-3",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/282/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://1andd.co.jp/1dining/"
+      ]
+    },
+    {
+      "name": "食菜家うさぎ 市役所南本店",
+      "municipality": "姫路市",
+      "address": "姫路市飾磨区野田町70",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/148/",
+      "decision": "施設内・独立経営の確認待ち",
+      "websiteLinks": [
+        "http://www.japanese-dining-usagi.com/honten/"
+      ]
+    },
+    {
+      "name": "DINING ROOM ON THE HARIMA(セトレハイランドヴィラ姫路内)",
+      "municipality": "姫路市",
+      "address": "姫路市広嶺山224-26",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/225/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.hotelsetre.com/himeji/restaurant/"
+      ]
+    },
+    {
+      "name": "和",
+      "municipality": "姫路市",
+      "address": "姫路市林田町大堤535番地",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/14/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.nagomi-itasoba.com/"
+      ]
+    },
+    {
+      "name": "力丸 中地店",
+      "municipality": "姫路市",
+      "address": "姫路市飾磨区構4丁目90",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/264/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kaiten-sushi.net/"
+      ]
+    },
+    {
+      "name": "力丸 辻井店",
+      "municipality": "姫路市",
+      "address": "姫路市辻井3丁目1193-1",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/263/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kaiten-sushi.net/"
+      ]
+    },
+    {
+      "name": "力丸 東山店",
+      "municipality": "姫路市",
+      "address": "姫路市東山239-1",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/262/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kaiten-sushi.net/"
+      ]
+    },
+    {
+      "name": "力丸 大津店",
+      "municipality": "姫路市",
+      "address": "姫路市大津区西土井281-1",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/261/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kaiten-sushi.net/"
+      ]
+    },
+    {
+      "name": "ビフテキのカワムラ 姫路店",
+      "municipality": "姫路市",
+      "address": "姫路市飾磨区三宅1-8",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/17/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.bifteck.co.jp"
+      ]
+    },
+    {
+      "name": "姫路まえどれ市場",
+      "municipality": "姫路市",
+      "address": "姫路市白浜町912-18",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/267/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://boze.or.jp/"
+      ]
+    },
+    {
+      "name": "天晴水産 みのり家",
+      "municipality": "姫路市",
+      "address": "姫路市白浜町912-18 天晴水産(株)2F",
+      "phone": "",
+      "source": "https://www.himeji-kanko.jp/spot/214/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.apparesuisan.co.jp/"
+      ]
+    },
+    {
+      "name": "明石浦正",
+      "municipality": "明石市",
+      "address": "明石市日富美町14-23",
+      "phone": "078-917-9955",
+      "source": "https://www.yokoso-akashi.jp/facility/2482",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.urazushi.com"
+      ]
+    },
+    {
+      "name": "明石江井島酒館",
+      "municipality": "明石市",
+      "address": "明石市大久保町西島1194",
+      "phone": "078-948-2060",
+      "source": "https://www.yokoso-akashi.jp/facility/2451",
+      "decision": "施設内・独立経営の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "明石菊水 桜町本店",
+      "municipality": "明石市",
+      "address": "明石市桜町12-22",
+      "phone": "078-911-3355",
+      "source": "https://www.yokoso-akashi.jp/facility/2722",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.a-kikusui.co.jp/"
+      ]
+    },
+    {
+      "name": "あかし多幸",
+      "municipality": "明石市",
+      "address": "明石市本町1丁目5-17",
+      "phone": "078-911-2241",
+      "source": "https://www.yokoso-akashi.jp/facility/2485",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.akashiyaki.ne.jp/akashit.htm"
+      ]
+    },
+    {
+      "name": "明石玉 十三味",
+      "municipality": "明石市",
+      "address": "明石市西明石南町2-12-3",
+      "phone": "078-924-4438",
+      "source": "https://www.yokoso-akashi.jp/facility/445",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.rakuten.co.jp/tomiaji/"
+      ]
+    },
+    {
+      "name": "明石丁",
+      "municipality": "明石市",
+      "address": "明石市鍛治屋町4-17",
+      "phone": "078-917-1301",
+      "source": "https://www.yokoso-akashi.jp/facility/448",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "明石の魚 嵜~SAKI~",
+      "municipality": "明石市",
+      "address": "明石市本町1-9-7",
+      "phone": "078-945-6994",
+      "source": "https://www.yokoso-akashi.jp/facility/460",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "明石みつぼし",
+      "municipality": "明石市",
+      "address": "明石市本町1丁目2-4",
+      "phone": "078-911-3381",
+      "source": "https://www.yokoso-akashi.jp/facility/2446",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://akashi-mitsuboshi.com/"
+      ]
+    },
+    {
+      "name": "明石焼き ゴ",
+      "municipality": "明石市",
+      "address": "明石市本町2-1-4",
+      "phone": "078-913-8205",
+      "source": "https://www.yokoso-akashi.jp/facility/2413",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://akashiyaki-go.com/"
+      ]
+    },
+    {
+      "name": "明石焼 焼肉 樂",
+      "municipality": "明石市",
+      "address": "明石市本町1丁目9-8",
+      "phone": "078-914-0122",
+      "source": "https://www.yokoso-akashi.jp/facility/2427",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.akashiyakiraku.com/　"
+      ]
+    },
+    {
+      "name": "明石焼 よこ井",
+      "municipality": "明石市",
+      "address": "明石市本町1丁目1-13",
+      "phone": "078-913-0068",
+      "source": "https://www.yokoso-akashi.jp/facility/2411",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.akashiyaki-yokoi.com/"
+      ]
+    },
+    {
+      "name": "明石焼 よし川",
+      "municipality": "明石市",
+      "address": "明石市本町1-2-16",
+      "phone": "078-911-8311",
+      "source": "https://www.yokoso-akashi.jp/facility/2490",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.uonotana.or.jp/%E3%82%88%E3%81%97%E5%B7%9D.html"
+      ]
+    },
+    {
+      "name": "明石焼 乱",
+      "municipality": "明石市",
+      "address": "明石市松の内2-4-10 ユタカ第一ビル1階",
+      "phone": "078-922-5590",
+      "source": "https://www.yokoso-akashi.jp/facility/3047",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋漁太",
+      "municipality": "明石市",
+      "address": "明石市大明石町1-8-8 孫助ビル1階",
+      "phone": "078-913-2275",
+      "source": "https://www.yokoso-akashi.jp/facility/2419",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://okaimono123.web.fc2.com/ryota.htm"
+      ]
+    },
+    {
+      "name": "いそざかな一とく",
+      "municipality": "明石市",
+      "address": "明石市桜町13-6",
+      "phone": "078-912-2212",
+      "source": "https://www.yokoso-akashi.jp/facility/2445",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "イタリアン酒場まるべろ",
+      "municipality": "明石市",
+      "address": "明石市松の内1丁目9-2 藤本マンション105",
+      "phone": "078-945-5556",
+      "source": "https://www.yokoso-akashi.jp/facility/3149",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://marubero.jp/",
+        "https://lucabuono.jp/"
+      ]
+    },
+    {
+      "name": "市松寿司",
+      "municipality": "明石市",
+      "address": "明石市大久保町江井島763-1",
+      "phone": "078-946-1012",
+      "source": "https://www.yokoso-akashi.jp/facility/2476",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "うえむら寿司",
+      "municipality": "明石市",
+      "address": "明石市大蔵天神町22-25シーサイドパレス錦明館1階",
+      "phone": "078-917-0588",
+      "source": "https://www.yokoso-akashi.jp/facility/2481",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "魚菜酒蔵 だいがく",
+      "municipality": "明石市",
+      "address": "明石市本町1-2-46",
+      "phone": "078-918-8009",
+      "source": "https://www.yokoso-akashi.jp/facility/2677",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.sakana-daigaku.com/"
+      ]
+    },
+    {
+      "name": "うお左衛門",
+      "municipality": "明石市",
+      "address": "明石市本町1丁目1-21",
+      "phone": "078-940-6522",
+      "source": "https://www.yokoso-akashi.jp/facility/3209",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み鉄板笑家 まるふじ",
+      "municipality": "明石市",
+      "address": "明石市大久保町大窪342-1",
+      "phone": "078-940-9895",
+      "source": "https://www.yokoso-akashi.jp/facility/3002",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み焼 しまちゃん",
+      "municipality": "明石市",
+      "address": "明石市東仲ノ町3-25 アスピア明石東館1F",
+      "phone": "078-912-3821",
+      "source": "https://www.yokoso-akashi.jp/facility/2441",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み焼道場",
+      "municipality": "明石市",
+      "address": "明石市大明石町1-6-1パピオスあかし1階",
+      "phone": "078-911-8084",
+      "source": "https://www.yokoso-akashi.jp/facility/444",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.akashi-dojyo.com/"
+      ]
+    },
+    {
+      "name": "お好み焼・鉄板焼 つくし 明石本店",
+      "municipality": "明石市",
+      "address": "明石市大明石町1-6-20",
+      "phone": "078-911-5967",
+      "source": "https://www.yokoso-akashi.jp/facility/2424",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://akashi-tukushi.jp/"
+      ]
+    },
+    {
+      "name": "お料理 図子",
+      "municipality": "明石市",
+      "address": "明石市二見町西二見591",
+      "phone": "078-943-0500",
+      "source": "https://www.yokoso-akashi.jp/facility/2450",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://hitosara.com/0006008071/"
+      ]
+    },
+    {
+      "name": "お料理 大福",
+      "municipality": "明石市",
+      "address": "明石市小久保2-12-3",
+      "phone": "078-939-4366",
+      "source": "https://www.yokoso-akashi.jp/facility/2868",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://oryori-daifuku.com/"
+      ]
+    },
+    {
+      "name": "回転寿司 力丸 明石二見店",
+      "municipality": "明石市",
+      "address": "明石市二見町西二見1864",
+      "phone": "078-941-4488",
+      "source": "https://www.yokoso-akashi.jp/facility/3071",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kaiten-sushi.net/shop/futami/"
+      ]
+    },
+    {
+      "name": "割烹杉本",
+      "municipality": "明石市",
+      "address": "明石市鍛治屋町3-26",
+      "phone": "078-912-1254",
+      "source": "https://www.yokoso-akashi.jp/facility/2420",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.gnavi.co.jp/kah9900/"
+      ]
+    },
+    {
+      "name": "活魚と日本料理 和楽心 魚住店",
+      "municipality": "明石市",
+      "address": "明石市明石市魚住町長坂寺769-2",
+      "phone": "078-947-3468",
+      "source": "https://www.yokoso-akashi.jp/facility/2981",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tomoe-group.com/warakushin/shop/uosumi/"
+      ]
+    },
+    {
+      "name": "カネ正",
+      "municipality": "明石市",
+      "address": "明石市相生町1丁目10-16",
+      "phone": "078-911-2177",
+      "source": "https://www.yokoso-akashi.jp/facility/457",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Cafe工房 UROKO",
+      "municipality": "明石市",
+      "address": "明石市本町1丁目14-9",
+      "phone": "078-220-6445",
+      "source": "https://www.yokoso-akashi.jp/facility/3208",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://uroko.amebaownd.com/"
+      ]
+    },
+    {
+      "name": "株式会社淡路屋",
+      "municipality": "明石市",
+      "address": "神戸市東灘区魚崎南町3-6-18",
+      "phone": "078-431-1682",
+      "source": "https://www.yokoso-akashi.jp/facility/3016",
+      "decision": "明石市外の所在地",
+      "websiteLinks": [
+        "https://www.awajiya.co.jp/"
+      ]
+    },
+    {
+      "name": "かんだ",
+      "municipality": "明石市",
+      "address": "明石市西明石南町2-18-13",
+      "phone": "078-965-6571",
+      "source": "https://www.yokoso-akashi.jp/facility/2416",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://sushi-kanda.com/",
+        "https://www.youtube.com/watch?v=3PIx4Iq5IrA"
+      ]
+    },
+    {
+      "name": "カンポフェリーチェ",
+      "municipality": "明石市",
+      "address": "明石市松の内2-2 ホテルキャッスルプラザ2F",
+      "phone": "078-924-2177",
+      "source": "https://www.yokoso-akashi.jp/facility/2453",
+      "decision": "施設内・独立経営の確認待ち",
+      "websiteLinks": [
+        "https://www.castlehotel.co.jp/restaurant/stores/1/"
+      ]
+    },
+    {
+      "name": "菊水鮓",
+      "municipality": "明石市",
+      "address": "明石市桜町11-6",
+      "phone": "078-911-3513",
+      "source": "https://www.yokoso-akashi.jp/facility/2477",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://kikusui-sushi.net/"
+      ]
+    },
+    {
+      "name": "菊水鮓 西店",
+      "municipality": "明石市",
+      "address": "明石市松の内1-4-15",
+      "phone": "078-928-7157",
+      "source": "https://www.yokoso-akashi.jp/facility/2417",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ギャラリーであい",
+      "municipality": "明石市",
+      "address": "明石市本町1-2-8",
+      "phone": "078-914-5728",
+      "source": "https://www.yokoso-akashi.jp/facility/2412",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ぎょうざ一番",
+      "municipality": "明石市",
+      "address": "明石市西明石南町2丁目13-7",
+      "phone": "078-922-4948",
+      "source": "https://www.yokoso-akashi.jp/facility/2431",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "串処 満蔵",
+      "municipality": "明石市",
+      "address": "明石市大明石町1-13-33",
+      "phone": "078-914-2200",
+      "source": "https://www.yokoso-akashi.jp/facility/2808",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "くるみや本店",
+      "municipality": "明石市",
+      "address": "明石市本町1-19-3",
+      "phone": "078-911-2468",
+      "source": "https://www.yokoso-akashi.jp/facility/2430",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kurumiya.jp/"
+      ]
+    },
+    {
+      "name": "グリーンヒルホテル明石 シャトーメール",
+      "municipality": "明石市",
+      "address": "明石市大明石町2-1-1 グリーンヒルホテル明石内",
+      "phone": "078-912-2111",
+      "source": "https://www.yokoso-akashi.jp/facility/2444",
+      "decision": "施設内・独立経営の確認待ち",
+      "websiteLinks": [
+        "https://gh-hotel.co.jp/akashi/restaurant/"
+      ]
+    },
+    {
+      "name": "こかく庵",
+      "municipality": "明石市",
+      "address": "明石市本町2丁目5番6号",
+      "phone": "078-912-2118",
+      "source": "https://www.yokoso-akashi.jp/facility/3179",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kokaku.co.jp/"
+      ]
+    },
+    {
+      "name": "こだま",
+      "municipality": "明石市",
+      "address": "明石市大明石町1丁目1-23ピオレ明石東館1階",
+      "phone": "078-913-0160",
+      "source": "https://www.yokoso-akashi.jp/facility/446",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://piole.jp/akashi/shop/index.html?_id=20193"
+      ]
+    },
+    {
+      "name": "こて屋",
+      "municipality": "明石市",
+      "address": "明石市大明石町1丁目6-1 パピオスあかし1F",
+      "phone": "078-917-3717",
+      "source": "https://www.yokoso-akashi.jp/facility/2972",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "コリアンキッチン カッチ",
+      "municipality": "明石市",
+      "address": "明石市松の内2-2-10西明石ビル1F",
+      "phone": "078-929-2388",
+      "source": "https://www.yokoso-akashi.jp/facility/3069",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "珈琲木熊家コーヒーきくまや",
+      "municipality": "明石市",
+      "address": "明石市松の内2-5-2 松ノ内ビル1F",
+      "phone": "",
+      "source": "https://www.yokoso-akashi.jp/facility/3226",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://cafekikumaya.com"
+      ]
+    },
+    {
+      "name": "魚処さかづき",
+      "municipality": "明石市",
+      "address": "明石市鍛冶屋町4-19",
+      "phone": "078-917-0246",
+      "source": "https://www.yokoso-akashi.jp/facility/3153",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://akashi-ayumi.jp/"
+      ]
+    },
+    {
+      "name": "酒菜や ゑびす井",
+      "municipality": "明石市",
+      "address": "明石市鍛冶屋町6-20 松本ビル1F",
+      "phone": "090-6675-5710",
+      "source": "https://www.yokoso-akashi.jp/facility/2472",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "山陽亭",
+      "municipality": "明石市",
+      "address": "明石市本町1丁目6-12",
+      "phone": "078-911-3153",
+      "source": "https://www.yokoso-akashi.jp/facility/2433",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "神和",
+      "municipality": "明石市",
+      "address": "明石市本町1-1-20",
+      "phone": "078-914-7155",
+      "source": "https://www.yokoso-akashi.jp/facility/2483",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "GF Kitchen",
+      "municipality": "明石市",
+      "address": "明石市上ノ丸3-10-10",
+      "phone": "078-917-9610",
+      "source": "https://www.yokoso-akashi.jp/facility/471",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.gfkitchenakashi.com/"
+      ]
+    },
+    {
+      "name": "水仙",
+      "municipality": "明石市",
+      "address": "明石市本町1丁目5-5",
+      "phone": "078-913-1850",
+      "source": "https://www.yokoso-akashi.jp/facility/2442",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鮨 匠",
+      "municipality": "明石市",
+      "address": "明石市樽屋町3-3 梅田ビル2階",
+      "phone": "078-919-2486",
+      "source": "https://www.yokoso-akashi.jp/facility/453",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鮨 和",
+      "municipality": "明石市",
+      "address": "明石市小久保2丁目1-1 YSビル1階",
+      "phone": "078-923-4470",
+      "source": "https://www.yokoso-akashi.jp/facility/2418",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "すし左衛門",
+      "municipality": "明石市",
+      "address": "明石市本町1丁目5-18",
+      "phone": "078-939-5486",
+      "source": "https://www.yokoso-akashi.jp/facility/3204",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鮨丹甫(たんぽ)",
+      "municipality": "明石市",
+      "address": "明石市本町1-12-18",
+      "phone": "078-913-2066",
+      "source": "https://www.yokoso-akashi.jp/facility/2480",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鮓廣嶋",
+      "municipality": "明石市",
+      "address": "明石市大久保町駅前1-8-7",
+      "phone": "078-936-0303",
+      "source": "https://www.yokoso-akashi.jp/facility/2475",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ステーキハウス 葵",
+      "municipality": "明石市",
+      "address": "〒6730016 明石市松の内2-2 ホテルキャッスルプラザ2F",
+      "phone": "078-924-5444",
+      "source": "https://www.yokoso-akashi.jp/facility/2973",
+      "decision": "明石市外の所在地",
+      "websiteLinks": [
+        "https://kdac600.gorp.jp/"
+      ]
+    },
+    {
+      "name": "炭火焼き 今日や",
+      "municipality": "明石市",
+      "address": "明石市大明石町1-7-22",
+      "phone": "",
+      "source": "https://www.yokoso-akashi.jp/facility/3079",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kyouya.info/"
+      ]
+    },
+    {
+      "name": "タコあしCAFE",
+      "municipality": "明石市",
+      "address": "明石市鍛治屋町4-22",
+      "phone": "078-920-8722",
+      "source": "https://www.yokoso-akashi.jp/facility/3048",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://takoashicafe.com/"
+      ]
+    },
+    {
+      "name": "たこ磯",
+      "municipality": "明石市",
+      "address": "明石市本町1丁目1-11",
+      "phone": "078-914-5103",
+      "source": "https://www.yokoso-akashi.jp/facility/2492",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "たこ磯(別館)",
+      "municipality": "明石市",
+      "address": "明石市本町1丁目7-14",
+      "phone": "078-913-5656",
+      "source": "https://www.yokoso-akashi.jp/facility/2680",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://takoiso.jp/"
+      ]
+    },
+    {
+      "name": "たこ左衛門",
+      "municipality": "明石市",
+      "address": "明石市本町1-1-17",
+      "phone": "050-7132-6787",
+      "source": "https://www.yokoso-akashi.jp/facility/3011",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "たこ焼と明石焼 ぼん蔵BON-KURA",
+      "municipality": "明石市",
+      "address": "青森県弘前市駅前町17-10",
+      "phone": "0172-34-1975",
+      "source": "https://www.yokoso-akashi.jp/facility/2493",
+      "decision": "明石市外の所在地",
+      "websiteLinks": []
+    },
+    {
+      "name": "明石玉子焼 今中",
+      "municipality": "明石市",
+      "address": "明石市岬町26-5",
+      "phone": "078-913-6455",
+      "source": "https://www.yokoso-akashi.jp/facility/3100",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "玉子焼専門店 松竹",
+      "municipality": "明石市",
+      "address": "明石市大明石町1-6-1パピオスあかし1階",
+      "phone": "078-912-0091",
+      "source": "https://www.yokoso-akashi.jp/facility/450",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "田村玉子焼店",
+      "municipality": "明石市",
+      "address": "明石市二見町東二見417",
+      "phone": "078-943-5579",
+      "source": "https://www.yokoso-akashi.jp/facility/2410",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "貞楽",
+      "municipality": "明石市",
+      "address": "明石市本町1丁目1-5",
+      "phone": "078-911-8051",
+      "source": "https://www.yokoso-akashi.jp/facility/2474",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "てんしん",
+      "municipality": "明石市",
+      "address": "明石市二見町東二見409-15",
+      "phone": "078-942-3109",
+      "source": "https://www.yokoso-akashi.jp/facility/2484",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "デリカ",
+      "municipality": "明石市",
+      "address": "明石市桜町14-21",
+      "phone": "078-912-3600",
+      "source": "https://www.yokoso-akashi.jp/facility/2452",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.meishokudo.com/index.html"
+      ]
+    },
+    {
+      "name": "とど",
+      "municipality": "明石市",
+      "address": "",
+      "phone": "",
+      "source": "https://www.yokoso-akashi.jp/facility/3054",
+      "decision": "明石市外の所在地",
+      "websiteLinks": []
+    },
+    {
+      "name": "とり居",
+      "municipality": "明石市",
+      "address": "明石市本町1-3-20",
+      "phone": "078-912-4043",
+      "source": "https://www.yokoso-akashi.jp/facility/2496",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鶏とりお明石店",
+      "municipality": "明石市",
+      "address": "明石市二見町西二見1727-1",
+      "phone": "078-941-1333",
+      "source": "https://www.yokoso-akashi.jp/facility/3068",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.hotpepper.jp/strJ004403641/"
+      ]
+    },
+    {
+      "name": "N°123",
+      "municipality": "明石市",
+      "address": "明石市本町1-4-15",
+      "phone": "078-911-3361",
+      "source": "https://www.yokoso-akashi.jp/facility/2468",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ameblo.jp/muffinandmore/"
+      ]
+    },
+    {
+      "name": "日本料理赤石",
+      "municipality": "明石市",
+      "address": "明石市松の内2-2 ホテルキャッスルプラザ地下1階",
+      "phone": "078-924-9188",
+      "source": "https://www.yokoso-akashi.jp/facility/2443",
+      "decision": "施設内・独立経営の確認待ち",
+      "websiteLinks": [
+        "https://www.castlehotel.co.jp/restaurant/stores/6/"
+      ]
+    },
+    {
+      "name": "Pie saQ。 (パイサク)",
+      "municipality": "明石市",
+      "address": "明石市本町1-13-9",
+      "phone": "078-939-6300",
+      "source": "https://www.yokoso-akashi.jp/facility/2470",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://piesaq.com/"
+      ]
+    },
+    {
+      "name": "パティスリー マリアージュ",
+      "municipality": "明石市",
+      "address": "明石市朝霧南町3丁目1-23",
+      "phone": "078-917-2600",
+      "source": "https://www.yokoso-akashi.jp/facility/3019",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.patisserie-mariage.jp/"
+      ]
+    },
+    {
+      "name": "宅配弁当館ひのき",
+      "municipality": "明石市",
+      "address": "明石市魚住町清水151-4",
+      "phone": "078-965-8806",
+      "source": "https://www.yokoso-akashi.jp/facility/2679",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.takuhaibento-hinoki.com/takuhaibento"
+      ]
+    },
+    {
+      "name": "昼網和膳 穂の花",
+      "municipality": "明石市",
+      "address": "明石市本町1-2-7",
+      "phone": "078-918-3949",
+      "source": "https://www.yokoso-akashi.jp/facility/459",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.hiruamiwazen-honoka.com/"
+      ]
+    },
+    {
+      "name": "ふなまち",
+      "municipality": "明石市",
+      "address": "明石市材木町5-12",
+      "phone": "078-912-3508",
+      "source": "https://www.yokoso-akashi.jp/facility/2414",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://funamachi.jp/"
+      ]
+    },
+    {
+      "name": "本家 きむらや",
+      "municipality": "明石市",
+      "address": "明石市鍛治屋町5-23",
+      "phone": "078-911-8320",
+      "source": "https://www.yokoso-akashi.jp/facility/2486",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://honke-kimuraya.com/"
+      ]
+    },
+    {
+      "name": "みどり食堂",
+      "municipality": "明石市",
+      "address": "明石市本町1丁目12-11",
+      "phone": "078-911-3579",
+      "source": "https://www.yokoso-akashi.jp/facility/463",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.akashi-midorisyokudo.com/"
+      ]
+    },
+    {
+      "name": "都きしめん 明石西店",
+      "municipality": "明石市",
+      "address": "明石市大明石町1丁目13-20",
+      "phone": "078-911-0385",
+      "source": "https://www.yokoso-akashi.jp/facility/3219",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.miyauchi-ichi.co.jp/index.html"
+      ]
+    },
+    {
+      "name": "めし処 釣ヤ",
+      "municipality": "明石市",
+      "address": "明石市鍛治屋町5-26",
+      "phone": "070-3204-6441",
+      "source": "https://www.yokoso-akashi.jp/facility/2466",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉のむらや 明石店",
+      "municipality": "明石市",
+      "address": "明石市二見町東二見375-2",
+      "phone": "078-941-1888",
+      "source": "https://www.yokoso-akashi.jp/facility/2678",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://yakiniku-nomuraya.com/"
+      ]
+    },
+    {
+      "name": "らーめん処 山神山人",
+      "municipality": "明石市",
+      "address": "明石市松の内2丁目2‐10西明石ビル1階",
+      "phone": "078-927-1008",
+      "source": "https://www.yokoso-akashi.jp/facility/469",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://sanjinnishiakashi.therestaurant.jp/"
+      ]
+    },
+    {
+      "name": "漁師寿司 海蓮丸 明石店",
+      "municipality": "明石市",
+      "address": "明石市大明石町1-13-5 槌屋ビル1階",
+      "phone": "078-918-0141",
+      "source": "https://www.yokoso-akashi.jp/facility/454",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://akashi-fish.com/",
+        "http://akashi-fish.com/freshkitchen/"
+      ]
+    },
+    {
+      "name": "料亭旅館人丸花壇",
+      "municipality": "明石市",
+      "address": "明石市大蔵天神町21-22",
+      "phone": "078-912-1717",
+      "source": "https://www.yokoso-akashi.jp/facility/2580",
+      "decision": "施設内・独立経営の確認待ち",
+      "websiteLinks": [
+        "https://www.hitomarukadan.com/"
+      ]
+    },
+    {
+      "name": "レストランバー オオタニ",
+      "municipality": "明石市",
+      "address": "明石市本町1-1-13",
+      "phone": "078-911-5181",
+      "source": "https://www.yokoso-akashi.jp/facility/2454",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "玉子焼・たこ焼の店 まるまる",
+      "municipality": "明石市",
+      "address": "明石市大明石町1-6-1パピオスあかし1F",
+      "phone": "078-918-6038",
+      "source": "https://www.yokoso-akashi.jp/facility/2415",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "今出せせらぎ園",
+      "municipality": "丹波市",
+      "address": "丹波市青垣町遠阪1625",
+      "phone": "0795-88-0558",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_seseragien/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://tanba.or.jp/member/seseragien/"
+      ]
+    },
+    {
+      "name": "手打ちそば 三津屋妹尾",
+      "municipality": "丹波市",
+      "address": "丹波市青垣町田井縄640",
+      "phone": "0795-87-2550",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_mitsuyasenoo/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://blog.livedoor.jp/mituyasenoo/"
+      ]
+    },
+    {
+      "name": "あまご村",
+      "municipality": "丹波市",
+      "address": "丹波市青垣町大名草898",
+      "phone": "0795-87-5556",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_amagomura/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://amago.aogaki.jp"
+      ]
+    },
+    {
+      "name": "そば処 大名草庵",
+      "municipality": "丹波市",
+      "address": "丹波市青垣町大名草1003",
+      "phone": "0795-87-5205",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_onazaan/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://onazaan.wixsite.com/soba-onazaan"
+      ]
+    },
+    {
+      "name": "黒井屋",
+      "municipality": "丹波市",
+      "address": "丹波市青垣町佐治597",
+      "phone": "0795-87-0013",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_kuroiya/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉いっちゃん",
+      "municipality": "丹波市",
+      "address": "丹波市青垣町佐治105-1",
+      "phone": "0795-87-1605",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_yakinikuicchan/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "御食事処 夫婦橋(割烹・御食事)",
+      "municipality": "丹波市",
+      "address": "丹波市氷上町朝阪274-1",
+      "phone": "0795-82-4313",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_20/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喫茶 リスボン",
+      "municipality": "丹波市",
+      "address": "丹波市氷上町朝阪103-1",
+      "phone": "0795-82-1542",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_19/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "レストラン昭和",
+      "municipality": "丹波市",
+      "address": "丹波市氷上町成松520",
+      "phone": "0795-82-3606",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_10/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ステーキハウス 松葉",
+      "municipality": "丹波市",
+      "address": "丹波市氷上町市辺589-3",
+      "phone": "0795-82-3755",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_11/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://home.tsuku2.jp/storeDetail.php?scd=0000051646"
+      ]
+    },
+    {
+      "name": "蕎麦処 いづも庵",
+      "municipality": "丹波市",
+      "address": "丹波市氷上町市辺361-1",
+      "phone": "0795-82-4073",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_13/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.soba-idumoan.com/"
+      ]
+    },
+    {
+      "name": "若駒 白雲閣",
+      "municipality": "丹波市",
+      "address": "丹波市氷上町市辺202-5",
+      "phone": "0795-82-4545",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_14/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://wakakoma.tanba.info/"
+      ]
+    },
+    {
+      "name": "かどのの郷",
+      "municipality": "丹波市",
+      "address": "丹波市氷上町上新庄445-4",
+      "phone": "0795-82-4224",
+      "source": "https://www.tambacity-kankou.jp/shop/shop-983/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.tambakadono.jp/"
+      ]
+    },
+    {
+      "name": "中国料理 大連飯店",
+      "municipality": "丹波市",
+      "address": "丹波市柏原町見長5",
+      "phone": "0795-72-1306",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_30/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://dairenhanten.jp"
+      ]
+    },
+    {
+      "name": "四季膳 飛鳥",
+      "municipality": "丹波市",
+      "address": "丹波市柏原町田路むくなし114-1",
+      "phone": "0795-73-0820",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_43/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://sikizenasuka0820.business.site/"
+      ]
+    },
+    {
+      "name": "焙煎所 豆 labo",
+      "municipality": "丹波市",
+      "address": "丹波市柏原町田路27-5",
+      "phone": "0795-72-8707",
+      "source": "https://www.tambacity-kankou.jp/shop/mame_labo/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://isao-labo.com/tenkuu/"
+      ]
+    },
+    {
+      "name": "和の焼肉と割烹 喜作",
+      "municipality": "丹波市",
+      "address": "丹波市柏原町柏原77-1",
+      "phone": "0795-72-1044",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_31/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.tanba-kisaku.com/"
+      ]
+    },
+    {
+      "name": "蕎麦と料理 和さび",
+      "municipality": "丹波市",
+      "address": "丹波市柏原町柏原574-2",
+      "phone": "0795-72-0028",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_37/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "中島大祥堂 丹波本店",
+      "municipality": "丹波市",
+      "address": "丹波市柏原町柏原448",
+      "phone": "0795-73-0160",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_39/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ntdshop.jp"
+      ]
+    },
+    {
+      "name": "パティスリーカフェ カタシマ 丹波店",
+      "municipality": "丹波市",
+      "address": "丹波市柏原町柏原3083",
+      "phone": "0795-73-0851",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_41/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.katashima.co.jp"
+      ]
+    },
+    {
+      "name": "料亭 三友楼 /和食レストラン 四季彩",
+      "municipality": "丹波市",
+      "address": "丹波市柏原町柏原20",
+      "phone": "0795-72-1111",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_35/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.tamba.co.jp/"
+      ]
+    },
+    {
+      "name": "丹波旬菜 田舎家",
+      "municipality": "丹波市",
+      "address": "丹波市柏原町柏原198",
+      "phone": "0795-72-0311",
+      "source": "https://www.tambacity-kankou.jp/shop/shop-2854/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tanbasyunsai-inakaya.owst.jp/"
+      ]
+    },
+    {
+      "name": "イタリア料理 オルモ",
+      "municipality": "丹波市",
+      "address": "丹波市柏原町柏原119",
+      "phone": "0795-73-3500",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_32/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.olmo-tamba.com/"
+      ]
+    },
+    {
+      "name": "レストラン山の駅",
+      "municipality": "丹波市",
+      "address": "丹波市柏原町柏原1146-1  ( JR柏原駅構内 )",
+      "phone": "0795-72-4402",
+      "source": "https://www.tambacity-kankou.jp/shop/tamba_yamanoeki/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.butameshi.com/"
+      ]
+    },
+    {
+      "name": "旬華創作 安 -AN-",
+      "municipality": "丹波市",
+      "address": "丹波市春日町黒井157",
+      "phone": "0795-70-3337",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_48/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ゆめの樹",
+      "municipality": "丹波市",
+      "address": "丹波市春日町野上野1026-3",
+      "phone": "0795-74-3030",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_56/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://yumenoki-nokono.jp/"
+      ]
+    },
+    {
+      "name": "あずき工房 やなぎた",
+      "municipality": "丹波市",
+      "address": "丹波市春日町東中1425",
+      "phone": "0795-75-1249",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_51/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://azukikoubou.jp/"
+      ]
+    },
+    {
+      "name": "Wan Cafe Tamba ワンカフェ丹波",
+      "municipality": "丹波市",
+      "address": "丹波市春日町小多利358",
+      "phone": "0795-74-0622",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_2202/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.wancafetamba.com/"
+      ]
+    },
+    {
+      "name": "うなぎ 辻判",
+      "municipality": "丹波市",
+      "address": "丹波市春日町国領1131",
+      "phone": "0795-75-0029",
+      "source": "https://www.tambacity-kankou.jp/shop/shop-1307/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tsuji-han.com/"
+      ]
+    },
+    {
+      "name": "キッチン たわや",
+      "municipality": "丹波市",
+      "address": "丹波市春日町古河301",
+      "phone": "0795-78-9354",
+      "source": "https://www.tambacity-kankou.jp/shop/shop-1294/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kitchen-tawaya.com/"
+      ]
+    },
+    {
+      "name": "丹波の野菜と鹿肉料理 『無鹿リゾート』",
+      "municipality": "丹波市",
+      "address": "丹波市春日町下三井庄1017-1",
+      "phone": "0795-88-5252",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_53/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://hayama.main.jp/musica/"
+      ]
+    },
+    {
+      "name": "そばんち",
+      "municipality": "丹波市",
+      "address": "丹波市市島町梶原125",
+      "phone": "0795-86-7446",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_58/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.sobanchi.com/original.html"
+      ]
+    },
+    {
+      "name": "丹波 穂の Wonne (ヴォンネ)",
+      "municipality": "丹波市",
+      "address": "丹波市市島町与戸725-1",
+      "phone": "0795-86-8156",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_59/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "グルメリア但馬 市島店",
+      "municipality": "丹波市",
+      "address": "丹波市市島町上田46",
+      "phone": "0120-89-4029",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_63/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://takamibeef.com/"
+      ]
+    },
+    {
+      "name": "ら・ぱん工房 来古里 ( きこり )",
+      "municipality": "丹波市",
+      "address": "丹波市市島町上牧703",
+      "phone": "0795-86-8177",
+      "source": "https://www.tambacity-kankou.jp/shop/shop-1336/",
+      "decision": "福祉事業所の運営形態と独立飲食個店の条件を確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "古民家カフェ 恐竜楽楽舎",
+      "municipality": "丹波市",
+      "address": "〒6693151兵庫県丹波市山南町草部185-2",
+      "phone": "0795-76-1535",
+      "source": "https://www.tambacity-kankou.jp/shop/kyoryurakurakusya/",
+      "decision": "丹波市外の所在地",
+      "websiteLinks": []
+    },
+    {
+      "name": "ゑにちうどん",
+      "municipality": "丹波市",
+      "address": "丹波市山南町太田281",
+      "phone": "090-9059-1082",
+      "source": "https://www.tambacity-kankou.jp/shop/enichiudon/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "みき寿司",
+      "municipality": "丹波市",
+      "address": "丹波市山南町和田204",
+      "phone": "0795-76-0140",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_25/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ゆりの花庵",
+      "municipality": "丹波市",
+      "address": "丹波市山南町和田168-4",
+      "phone": "",
+      "source": "https://www.tambacity-kankou.jp/shop/yurinohanaan/",
+      "decision": "菓子販売主体で飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "茶寮 ひさご",
+      "municipality": "丹波市",
+      "address": "丹波市山南町和田132-1",
+      "phone": "0795-76-0089",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_26/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.saryo-hisago.com/"
+      ]
+    },
+    {
+      "name": "お菓子の夢工房 ときわ堂",
+      "municipality": "丹波市",
+      "address": "[ ゆめタウン店 ] 丹波市氷上町本郷300 ゆめタウン1F  //  [ 本店 ] 丹波市氷上町常楽572-2",
+      "phone": "0795-82-8145",
+      "source": "https://www.tambacity-kankou.jp/shop/magokoro_16/",
+      "decision": "丹波市外の所在地",
+      "websiteLinks": [
+        "https://tokiwado-tanba.jp/"
+      ]
+    }
+  ]
+}

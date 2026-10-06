@@ -1,0 +1,10 @@
+{
+  "ピオレ姫路おみやげ館 播州うまいもん処": {"exclude":"商業施設内の集合売場で独立飲食個店ではない"},
+  "キュエル姫路": {"exclude":"複数店舗が入る商業施設で飲食個店ではない"},
+  "宴ん屋一代": {"exclude":"運営会社の店舗公式ページを確認", "website":"https://kanoko-co.jp/branch_office/enya_himeji/"},
+  "シェアリガ": {"exclude":"店舗公式HPを確認", "website":"https://chezariga.sakura.ne.jp/"},
+  "菊水鮓": {"exclude":"店舗公式HPを確認", "website":"https://kikusui-sushi.net/"},
+  "魚処さかづき": {"exclude":"店舗公式HPを確認", "website":"https://akashi-ayumi.jp/"},
+  "ら・ぱん工房 来古里 ( きこり )": {"exclude":"福祉事業所の運営形態と独立飲食個店の条件を確認待ち"},
+  "ゆりの花庵": {"exclude":"菓子販売主体で飲食個店の確認待ち"}
+}

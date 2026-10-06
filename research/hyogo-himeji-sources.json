@@ -1,0 +1,14 @@
+{
+  "authority": "姫路観光ナビ・飲食店一覧",
+  "pages": [
+    "https://www.himeji-kanko.jp/gourmet/",
+    "https://www.himeji-kanko.jp/gourmet/page/2",
+    "https://www.himeji-kanko.jp/gourmet/page/3",
+    "https://www.himeji-kanko.jp/gourmet/page/4",
+    "https://www.himeji-kanko.jp/gourmet/page/5",
+    "https://www.himeji-kanko.jp/gourmet/page/6"
+  ],
+  "profiles": 67,
+  "collectedAt": "2026-10-06",
+  "limitation": "飲食店一覧の個別紹介。現営業・独立経営・独自サイト不存在を保証しない。"
+}

@@ -3,13 +3,13 @@ const assert=require('node:assert/strict');
 
 (async()=>{
   const browser=await chromium.launch({headless:true,channel:'chrome'});
-  for(const [route,total,withHours] of [['/',1306,630],['/kyoto.html',807,266]]){
+  for(const [route,total,withHours] of [['/',1306,630],['/kyoto.html',807,266],['/hyogo.html',49,38]]){
     const page=await browser.newPage({viewport:{width:1280,height:900}});
     const errors=[];
     page.on('pageerror',e=>errors.push(e.message));
     await page.goto('http://127.0.0.1:8765'+route,{waitUntil:'networkidle'});
     assert.match(await page.locator('#hours-count').textContent(),new RegExp(`${withHours.toLocaleString('ja-JP')} / ${total.toLocaleString('ja-JP')}店`));
-    assert.equal(await page.locator('.hours').count(),50);
+    assert.equal(await page.locator('.hours').count(),Math.min(total,50));
     assert.ok((await page.locator('.hours').first().textContent()).includes('営業時間'));
     for(const sort of ['open-early','open-late','close-late']){
       await page.locator('#sort-order').selectOption(sort);
@@ -36,13 +36,15 @@ const assert=require('node:assert/strict');
     assert.ok((await page.locator('#items .item').evaluateAll(items=>items.map(x=>x.dataset.rank))).every(x=>x==='B'));
     await page.setViewportSize({width:390,height:844});
     assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
-    await page.locator('[data-view="registry"]').click();
-    assert.equal(await page.locator('#sort-tools').isVisible(),false);
-    await page.locator('[data-view="coverage"]').click();
-    assert.equal(await page.locator('#sort-tools').isVisible(),false);
+    if(route!=='/hyogo.html'){
+      await page.locator('[data-view="registry"]').click();
+      assert.equal(await page.locator('#sort-tools').isVisible(),false);
+      await page.locator('[data-view="coverage"]').click();
+      assert.equal(await page.locator('#sort-tools').isVisible(),false);
+    }
     assert.deepEqual(errors,[]);
     await page.close();
   }
   await browser.close();
-  console.log('PASS opening hours: source-backed values, unknown states, S/A/B grouping, time sorting, mobile and both prefectures');
+  console.log('PASS opening hours: source-backed values, unknown states, S/A/B grouping, time sorting, mobile and all three prefectures');
 })().catch(error=>{console.error(error);process.exit(1)});
