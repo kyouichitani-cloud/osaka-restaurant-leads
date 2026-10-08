@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light">
   <title>兵庫県の飲食店候補・先行調査｜地域別調査台帳</title>
-  <meta name="description" content="兵庫県16市の一部掲載元から調べた飲食店候補。地域・連絡手段・営業時間で探せます。">
+  <meta name="description" content="兵庫県23市の一部掲載元から調べた飲食店候補。地域・連絡手段・営業時間で探せます。">
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23182538'/%3E%3Cpath d='M16 42h32M20 33h24M25 24h14' stroke='%23f2f6fa' stroke-width='5' stroke-linecap='round'/%3E%3C/svg%3E">
   <style>
     :root{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;color:#182538;background:#f3f6f8;font-size:16px}
@@ -24,12 +24,12 @@
   <!-- THESIS: Geographic browsing puts a prospect's place and evidence before ornament. OWN-WORLD: cool slate surface, crisp white rows, navy selection, blue source links. STORY: choose a prefecture and area, review ranked candidates, open evidence. FIRST VIEWPORT: compact title above region navigation and immediately visible lead rows. FORM: practical regional register. FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance. -->
   <header class="top"><div class="shell top-inner"><div class="brand">関西の飲食店候補</div><nav class="prefectures" aria-label="府県を切り替え"><a href="./">大阪府</a><a href="./kyoto.html">京都府</a><a href="./hyogo.html" aria-current="page">兵庫県（調査中）</a></nav></div></header>
   <main class="shell">
-    <div class="intro"><h1>兵庫県の候補を、地域から。</h1><p>神戸・阪神・播磨・北播磨・但馬・丹波・淡路の16市で先行調査。掲載元と未確認事項を各店で確認できます。</p></div>
+    <div class="intro"><h1>兵庫県の候補を、地域から。</h1><p>神戸・阪神・播磨・西播磨・北播磨・但馬・丹波・淡路の23市で先行調査。掲載元と未確認事項を各店で確認できます。</p></div>
     <div class="summary"><span id="total-count">候補を集計中</span><span id="contact-count">連絡先を集計中</span><span id="hours-count">営業時間を集計中</span><span id="email-count">メールを集計中</span><span id="phone-count">電話番号を集計中</span><span id="research-count" hidden>公開名簿は未掲載</span><span>件数上限なし · 最終追加 2026年10月9日</span></div>
-    <p class="notice"><strong>兵庫県は先行調査中。</strong> 16市の地域団体などの掲載831件を調べ、暫定候補204店を15市で掲載。県全域・全店舗の調査はまだです。</p>
+    <p class="notice"><strong>兵庫県は先行調査中。</strong> 23市の地域団体などの掲載1166件を調べ、暫定候補360店を22市で掲載。県全域・全店舗の調査はまだです。</p>
     <div class="views" role="group" aria-label="表示する一覧"><button type="button" data-view="leads" aria-pressed="true">S・A・B候補</button></div>
     <div class="layout">
-      <nav class="nav" aria-label="地域"><h2>地域</h2><button type="button" aria-current="true" data-region="all">兵庫県・先行調査</button><button type="button" aria-current="false" data-region="kobe">神戸</button><button type="button" aria-current="false" data-region="hanshin">阪神・三田</button><button type="button" aria-current="false" data-region="harima">播磨</button><button type="button" aria-current="false" data-region="kitaharima">北播磨</button><button type="button" aria-current="false" data-region="tajima">但馬</button><button type="button" aria-current="false" data-region="tamba">丹波</button><button type="button" aria-current="false" data-region="awaji">淡路</button></nav>
+      <nav class="nav" aria-label="地域"><h2>地域</h2><button type="button" aria-current="true" data-region="all">兵庫県・先行調査</button><button type="button" aria-current="false" data-region="kobe">神戸</button><button type="button" aria-current="false" data-region="hanshin">阪神・三田</button><button type="button" aria-current="false" data-region="harima">播磨</button><button type="button" aria-current="false" data-region="nishiharima">西播磨</button><button type="button" aria-current="false" data-region="kitaharima">北播磨</button><button type="button" aria-current="false" data-region="tajima">但馬</button><button type="button" aria-current="false" data-region="tamba">丹波</button><button type="button" aria-current="false" data-region="awaji">淡路</button></nav>
       <section class="panel" aria-label="店舗一覧">
         <button type="button" id="filter-toggle" class="filter-toggle" aria-expanded="false" aria-controls="filters">連絡手段・地域・判定で絞る ＋</button>
         <div class="filters" id="filters"><label class="search-label">店舗名・住所<input id="search" type="search" placeholder="店名・区名・地名で検索" autocomplete="off"></label><label>市町村<select id="municipality"><option value="all">すべての市町村</option></select></label><label id="contact-label">連絡手段<select id="contact-filter"><option value="all">すべて</option><option value="any">連絡先あり</option><option value="text">文章の連絡先・SNSあり</option><option value="instagram">Instagramあり</option><option value="email">メールあり</option><option value="line">LINEあり</option><option value="form">フォームあり</option><option value="facebook">Facebookあり</option><option value="phone">電話あり</option><option value="missing">すべて未確認</option></select></label>

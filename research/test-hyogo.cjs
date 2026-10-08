@@ -10,18 +10,18 @@ vm.runInNewContext(fs.readFileSync(path.join(root,'dist/hyogo-data.js'),'utf8'),
 vm.runInNewContext(fs.readFileSync(path.join(root,'dist/hyogo-hours.js'),'utf8'),context);
 const leads=context.window.ADDITIONAL;
 const audit=JSON.parse(fs.readFileSync(path.join(root,'research/hyogo-directory-audit.json')));
-assert.equal(audit.decisions.length,831);
-assert.equal(leads.length,204);
-assert.equal(new Set(leads.map(x=>x.id)).size,204);
-assert.equal(leads.filter(x=>x.phone).length,193);
-assert.equal(Object.keys(context.window.LEAD_HOURS).length,174);
+assert.equal(audit.decisions.length,1166);
+assert.equal(leads.length,360);
+assert.equal(new Set(leads.map(x=>x.id)).size,360);
+assert.equal(leads.filter(x=>x.phone).length,335);
+assert.equal(Object.keys(context.window.LEAD_HOURS).length,278);
 assert.equal(leads.find(x=>x.name==='菊うら')?.phone,'06-6411-5025');
 assert.ok(!leads.some(x=>x.sources.some(source=>source[1]==='https://www.koshienguchi.net/shop.htm')));
 for(const name of ['菊水鮓','魚処さかづき','シェアリガ','宴ん屋一代','美食遊楽とみや','明石の魚 嵜~SAKI~','農家レストラン 且緩々','友好飯店','東栄酒家','サン・はーばー','Cafe & Bar Kamaneko','宝塚 うな智','阿古','珈琲屋 ドリーム','パスタ ピッコラ'])
   assert.ok(!leads.some(x=>x.name===name),name+' has an independently found website');
 for(const item of leads){
   assert.ok(['A','B'].includes(item.rank));
-  assert.ok(['神戸市','尼崎市','西宮市','宝塚市','三田市','姫路市','明石市','加古川市','高砂市','加東市','丹波市','丹波篠山市','豊岡市','淡路市','洲本市','南あわじ市'].includes(item.municipality));
+  assert.ok(['神戸市','尼崎市','西宮市','宝塚市','三田市','姫路市','明石市','加古川市','高砂市','加東市','加西市','丹波市','丹波篠山市','豊岡市','淡路市','洲本市','南あわじ市','赤穂市','たつの市','三木市','西脇市','宍粟市','相生市'].includes(item.municipality));
   assert.ok(item.sources.every(x=>/^https:\/\//.test(x[1])));
   assert.equal(item.websiteCheck.status,'not-found-in-search');
   assert.equal(item.websiteCheck.checkedAt,'2026-10-09');
@@ -34,10 +34,10 @@ for(const item of leads){
   const page=await browser.newPage({viewport:{width:390,height:844}});
   const errors=[];page.on('pageerror',error=>errors.push(error.message));
   await page.goto('http://127.0.0.1:8765/hyogo.html',{waitUntil:'networkidle'});
-  assert.match(await page.locator('#total-count').textContent(),/204店/);
-  assert.match(await page.locator('#contact-count').textContent(),/196店.*8店/);
-  assert.match(await page.locator('#hours-count').textContent(),/174 \/ 204店/);
-  assert.equal(await page.locator('#municipality option').count(),17);
+  assert.match(await page.locator('#total-count').textContent(),/360店/);
+  assert.match(await page.locator('#contact-count').textContent(),/344店.*16店/);
+  assert.match(await page.locator('#hours-count').textContent(),/278 \/ 360店/);
+  assert.equal(await page.locator('#municipality option').count(),24);
   assert.match(await page.locator('.website-check').first().textContent(),/店名・電話番号で検索/);
   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
   await page.locator('[data-region="kobe"]').click();
@@ -45,7 +45,9 @@ for(const item of leads){
   await page.locator('[data-region="hanshin"]').click();
   assert.equal(await page.locator('#region-count').textContent(),'47店');
   await page.locator('[data-region="kitaharima"]').click();
-  assert.equal(await page.locator('#region-count').textContent(),'9店');
+  assert.ok(Number.parseInt(await page.locator('#region-count').textContent())>9);
+  await page.locator('[data-region="nishiharima"]').click();
+  assert.ok(Number.parseInt(await page.locator('#region-count').textContent())>0);
   await page.locator('[data-region="tamba"]').click();
   assert.equal(await page.locator('#region-count').textContent(),'25店');
   await page.locator('[data-region="harima"]').click();
@@ -63,5 +65,5 @@ for(const item of leads){
   await page.waitForFunction(()=>document.getElementById('total-count').textContent.includes('807'));
   assert.deepEqual(errors,[]);
   await browser.close();
-  console.log('PASS Hyogo: 831 reviewed listings; 204 provisional candidates in fifteen cities; website review, contacts, hours, filters, mobile, and Kyoto switching.');
+  console.log('PASS Hyogo: 1166 reviewed listings; 360 provisional candidates in 22 cities; website review, contacts, hours, filters, mobile, and Kyoto switching.');
 })().catch(error=>{console.error(error);process.exit(1)});

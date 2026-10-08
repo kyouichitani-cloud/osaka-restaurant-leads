@@ -25,6 +25,13 @@ SOURCES = [
     ('hyogo-koshien', 'JR甲子園口ほんわか商店街', 'https://www.koshienguchi.net/shop.htm', '西宮市の2023年最終更新名簿・候補化保留'),
     ('hyogo-sanwa', '尼崎三和本通商店街', 'https://sanwahondori.com/shop/', '尼崎市の飲食店個別紹介'),
     ('hyogo-yashiro', 'やしろ商店街', 'https://www.yashiro-shotengai.jp/shop_list.html', '加東市の飲食店紹介'),
+    ('hyogo-ako', '赤穂観光協会', 'https://ako-kankou.jp/dining/', '赤穂市のグルメ個別紹介'),
+    ('hyogo-tatsuno', 'たつの市観光協会', 'https://tatsuno-tourism.jp/gourmet-1/', 'たつの市のグルメ個別紹介'),
+    ('hyogo-miki', '三木市観光協会', 'https://www.mikishi-kankou.com/member/', '三木市の飲食店会員個別紹介'),
+    ('hyogo-nishiwaki', '西脇市観光物産協会', 'https://www.nishiwaki-kanko.jp/guide/member/', '西脇市の飲食店会員個別紹介'),
+    ('hyogo-shiso', 'しそう森林王国観光協会', 'https://shiso.or.jp/highlights_cat/gourmet', '宍粟市のグルメ個別紹介'),
+    ('hyogo-aioi', '相生市観光協会', 'https://aioi.in/member/', '相生市の飲食店会員名簿'),
+    ('hyogo-kasai', '加西市観光協会', 'https://kanko-kasai.com/kanko_member/', '加西市の飲食店会員名簿・個別紹介照合'),
 ]
 RANGE = re.compile(r'(?<!\d)([01]?\d|2[0-3])\s*[:：時]\s*([0-5]\d)?\s*(?:分)?\s*[～〜~\-－–―]\s*([01]?\d|2[0-3])\s*[:：時]\s*([0-5]\d)?')
 
@@ -84,7 +91,9 @@ def main():
                           phone=lead['phone'], source=row['url'], decision=decision or '暫定候補',
                           websiteLinks=websites))
     leads.sort(key=lambda x:({'S':0,'A':1,'B':2}[x['rank']], x['municipality'], x['name']))
-    stats = dict(profiles=len(rows), candidates=len(leads), phone=sum(bool(x['phone']) for x in leads),
+    stats = dict(profiles=len(rows), candidates=len(leads), researchCities=23,
+                 candidateCities=len(set(x['municipality'] for x in leads)),
+                 phone=sum(bool(x['phone']) for x in leads),
                  instagram=sum(any(r['kind']=='instagram' for r in x['contact']['routes']) for x in leads),
                  facebook=sum(any(r['kind']=='facebook' for r in x['contact']['routes']) for x in leads),
                  hours=len(evidence))
@@ -92,7 +101,8 @@ def main():
     config = dict(name='兵庫県', key='hyogo', allLabel='兵庫県・先行調査',
                   geography=dict(kobe=['神戸市'], hanshin=['尼崎市','西宮市','宝塚市','三田市'],
                                  harima=['姫路市','明石市','加古川市','高砂市'],
-                                 kitaharima=['加東市'], tajima=['豊岡市'],
+                                 nishiharima=['赤穂市','たつの市','相生市','宍粟市'],
+                                 kitaharima=['加東市','三木市','西脇市','加西市'], tajima=['豊岡市'],
                                  tamba=['丹波市','丹波篠山市'], awaji=['淡路市','洲本市','南あわじ市']),
                   registryPrefix='hyogo-registry-', metaURL='./hyogo-meta.json', directoryStats=stats,
                   sources=[dict(title=title,url=url,scope=scope) for _,title,url,scope in SOURCES])
@@ -100,6 +110,7 @@ def main():
     payload += 'window.REGIONS='+json.dumps(dict(kobe=dict(title='神戸',items=[]),
                                                  hanshin=dict(title='阪神・三田',items=[]),
                                                  harima=dict(title='播磨',items=[]),
+                                                 nishiharima=dict(title='西播磨',items=[]),
                                                  kitaharima=dict(title='北播磨',items=[]),
                                                  tajima=dict(title='但馬',items=[]),
                                                  tamba=dict(title='丹波',items=[]),
@@ -108,8 +119,9 @@ def main():
     (ROOT/'dist/hyogo-data.js').write_text(payload)
     (ROOT/'dist/hyogo-hours.js').write_text('window.LEAD_HOURS='+json.dumps(evidence,ensure_ascii=False,separators=(',',':'))+';\n')
     meta = dict(stats=dict(rawRows=0,researchRecords=0,phoneRecords=0),sources=[],coverage=[],
-                limitations=['兵庫県内の16市の一部掲載元を調査。県内全市町村・全店舗の調査は未完了。',
+                limitations=['兵庫県内の23市の一部掲載元を調査。県内全市町村・全店舗の調査は未完了。',
                              '甲子園口の名簿は最終更新が2023年のため、現況確認できるまで候補から保留。',
+                             '加西ふーど記の個別紹介は2022年刊行の資料を含むため、会員名簿との照合に使い、現況は未確定。',
                              '地域団体の掲載時点の情報であり、現営業・独立経営・独自サイト不存在は未確定。'])
     (ROOT/'dist/hyogo-meta.json').write_text(json.dumps(meta,ensure_ascii=False)+'\n')
     print(json.dumps(stats,ensure_ascii=False),Counter(x['decision'] for x in audit))

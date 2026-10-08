@@ -1,12 +1,14 @@
 {
   "checkedAt": "2026-10-09",
   "stats": {
-    "profiles": 831,
-    "candidates": 204,
-    "phone": 193,
-    "instagram": 46,
-    "facebook": 18,
-    "hours": 174
+    "profiles": 1166,
+    "candidates": 360,
+    "researchCities": 23,
+    "candidateCities": 22,
+    "phone": 335,
+    "instagram": 92,
+    "facebook": 31,
+    "hours": 278
   },
   "decisions": [
     {
@@ -8492,6 +8494,3305 @@
       "address": "加東市社533-8",
       "phone": "0795-27-8338",
       "source": "https://www.yashiro-shotengai.jp/shop_list.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "AMAMI TERRACE",
+      "municipality": "赤穂市",
+      "address": "赤穂市御崎2-1",
+      "phone": "0791-42-4140",
+      "source": "https://ako-kankou.jp/dining/%e3%82%a2%e3%83%9e%e3%83%9f%e3%83%86%e3%83%a9%e3%82%b9.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://web.ako-kasei.co.jp/amamiterrace/"
+      ]
+    },
+    {
+      "name": "壱枚乃絵~海辺のテラスカフェ~",
+      "municipality": "赤穂市",
+      "address": "赤穂市尾崎丸山2300-3",
+      "phone": "0791-56-6028",
+      "source": "https://ako-kankou.jp/dining/%e5%a3%b1%e6%9e%9a%e4%b9%83%e7%b5%b5%ef%bd%9e%e6%b5%b7%e8%be%ba%e3%81%ae%e3%83%86%e3%83%a9%e3%82%b9%e3%82%ab%e3%83%95%e3%82%a7%ef%bd%9e.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.fiac.co.jp/seaichimai/index.html"
+      ]
+    },
+    {
+      "name": "焼肉ホルモンぴっころ亭",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋駅前町65-12",
+      "phone": "",
+      "source": "https://ako-kankou.jp/dining/%e7%84%bc%e8%82%89%e3%83%9b%e3%83%ab%e3%83%a2%e3%83%b3%e3%80%80%e3%81%b4%e3%81%a3%e3%81%93%e3%82%8d%e4%ba%ad.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉 味楽",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋駅前町68-23",
+      "phone": "0791-42-3484",
+      "source": "https://ako-kankou.jp/dining/ajiraku.html",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://miraku369.com/"
+      ]
+    },
+    {
+      "name": "赤穂ハイツ",
+      "municipality": "赤穂市",
+      "address": "赤穂市尾崎向山2470-64",
+      "phone": "0791-48-8935",
+      "source": "https://ako-kankou.jp/dining/akohaitu.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.ako-haitu.jp/",
+        "http://www.ako-haitu.jp/access.php"
+      ]
+    },
+    {
+      "name": "中華料理 赤穂飯店",
+      "municipality": "赤穂市",
+      "address": "赤穂市黒崎町148",
+      "phone": "0791-42-1700",
+      "source": "https://ako-kankou.jp/dining/akohan.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "赤穂ロイヤルホテル",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋中洲3250",
+      "phone": "0791-42-1001",
+      "source": "https://ako-kankou.jp/dining/akoroyal.html",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.ako-royal.com/",
+        "http://www.ako-royal.com/access.html"
+      ]
+    },
+    {
+      "name": "赤穂野菜と地魚の店 五月(メイ)",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋40-6 赤穂プラザハイツ101",
+      "phone": "0791-56-6221",
+      "source": "https://ako-kankou.jp/dining/akouyasaitojizakananomise-mei.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "馬刺し屋 ごほうび酒場",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋40-6 赤穂プラザハイツ103",
+      "phone": "0791-43-4845",
+      "source": "https://ako-kankou.jp/dining/basashiya-gohoubisakaba.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Cadou(カドー)",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋55-11",
+      "phone": "090-5153-8273",
+      "source": "https://ako-kankou.jp/dining/cadou.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "創作Dining杏",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋63-3",
+      "phone": "0791-42-2000",
+      "source": "https://ako-kankou.jp/dining/diningan.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "呑海楼",
+      "municipality": "赤穂市",
+      "address": "赤穂市御崎131",
+      "phone": "0791-42-6601",
+      "source": "https://ako-kankou.jp/dining/donkairo-3.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://akoudonkairo.jp/",
+        "http://akoudonkairo.jp/access/"
+      ]
+    },
+    {
+      "name": "Gelate Shop TETE",
+      "municipality": "赤穂市",
+      "address": "赤穂市中広字東沖1992",
+      "phone": "0791-56-6860",
+      "source": "https://ako-kankou.jp/dining/gelato-shop-tete.html",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "絶景露天風呂の宿 銀波荘",
+      "municipality": "赤穂市",
+      "address": "赤穂市御崎2-8",
+      "phone": "050-2018-0878",
+      "source": "https://ako-kankou.jp/dining/ginpaso-3.html",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://www.ginpaso.co.jp/",
+        "https://www.ginpaso.co.jp/access/"
+      ]
+    },
+    {
+      "name": "民宿・レストラン  初音",
+      "municipality": "赤穂市",
+      "address": "赤穂市新田599-1",
+      "phone": "0791-42-1331",
+      "source": "https://ako-kankou.jp/dining/hatsune-2.html",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.ako-hatsune.com/",
+        "http://www.ako-hatsune.com/access/"
+      ]
+    },
+    {
+      "name": "お食事処 一粋",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋南2-8",
+      "phone": "0791-45-2488",
+      "source": "https://ako-kankou.jp/dining/issui.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.ako-issui.jp/index.php?data=./data/l8/"
+      ]
+    },
+    {
+      "name": "赤穂ロイヤルホテル 和食レストラン寿らく亭",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋中洲3250",
+      "phone": "0791-42-1001",
+      "source": "https://ako-kankou.jp/dining/jyurakutei.html",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.ako-royal.com/",
+        "http://www.ako-royal.com/access.html"
+      ]
+    },
+    {
+      "name": "鹿久居荘赤穂",
+      "municipality": "赤穂市",
+      "address": "赤穂市さつき町35-5",
+      "phone": "0791-42-1130",
+      "source": "https://ako-kankou.jp/dining/kakuisou.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kakuisou.com/01_bimisyunmi.html",
+        "https://kakuisou.com/access/"
+      ]
+    },
+    {
+      "name": "かましま",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋89-5 Kビル",
+      "phone": "0791-56-5050",
+      "source": "https://ako-kankou.jp/dining/kamasima-2.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kamasima.com/"
+      ]
+    },
+    {
+      "name": "元祖かもめ屋 赤穂本店",
+      "municipality": "赤穂市",
+      "address": "赤穂市尾崎3189-47",
+      "phone": "0791-45-2330",
+      "source": "https://ako-kankou.jp/dining/kamomeya.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ako-kamomeya.com/",
+        "https://www.ako-kamomeya.com/店舗案内/"
+      ]
+    },
+    {
+      "name": "亀の井ホテル赤穂",
+      "municipality": "赤穂市",
+      "address": "赤穂市御崎883-1",
+      "phone": "0791-43-7501",
+      "source": "https://ako-kankou.jp/dining/kanponoyado-3.html",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://kamenoi-hotels.com/ako/"
+      ]
+    },
+    {
+      "name": "あこう蕎麦 衣笠",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋56-4",
+      "phone": "0791-42-0194",
+      "source": "https://ako-kankou.jp/dining/kinugasa.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kinugasa-soba.sakura.ne.jp/",
+        "http://kinugasa-soba.sakura.ne.jp/access.html"
+      ]
+    },
+    {
+      "name": "くいどうらく",
+      "municipality": "赤穂市",
+      "address": "赤穂市坂越290-7",
+      "phone": "0791-46-8800",
+      "source": "https://ako-kankou.jp/dining/kuidouraku.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kuidouraku.com/",
+        "https://www.kuidouraku.com/アクセス-営業時間/"
+      ]
+    },
+    {
+      "name": "瀬戸内割烹 くいしん坊",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋88-6",
+      "phone": "0791-42-5059",
+      "source": "https://ako-kankou.jp/dining/kuisinbou.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喰い処 まるはち",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋2103-14",
+      "phone": "0791-45-1091",
+      "source": "https://ako-kankou.jp/dining/maruhachi.html",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://akoumaruhachi.foodre.jp/"
+      ]
+    },
+    {
+      "name": "お食事処 万るやま",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋74-13",
+      "phone": "0791-43-8832",
+      "source": "https://ako-kankou.jp/dining/maruyama.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.web-maruyama.sakura.ne.jp/",
+        "http://www.web-maruyama.sakura.ne.jp/access.html"
+      ]
+    },
+    {
+      "name": "赤穂らーめん麺坊",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋290-10プラット赤穂2F",
+      "phone": "0791-45-7410",
+      "source": "https://ako-kankou.jp/dining/menbou.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "割烹 美鶴",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋駅前町53-6",
+      "phone": "0791-42-5187",
+      "source": "https://ako-kankou.jp/dining/mikaku.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kappou-mikaku.owst.jp/"
+      ]
+    },
+    {
+      "name": "みなと屋",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋38-3",
+      "phone": "0791-42-9939",
+      "source": "https://ako-kankou.jp/dining/minatoya.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "MISAKI CAFE",
+      "municipality": "赤穂市",
+      "address": "赤穂市御崎2-2",
+      "phone": "080-3866-4969",
+      "source": "https://ako-kankou.jp/dining/misaki-cafe.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "パティスリー ノア",
+      "municipality": "赤穂市",
+      "address": "赤穂市惣門町55-13",
+      "phone": "0791-43-2031",
+      "source": "https://ako-kankou.jp/dining/noa.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.noe-cake.jp/"
+      ]
+    },
+    {
+      "name": "おさきかもめ屋 城西館",
+      "municipality": "赤穂市",
+      "address": "赤穂市六百目町27-2(旧チャイナハウス香港)",
+      "phone": "0791-42-2890",
+      "source": "https://ako-kankou.jp/dining/osakikamomeya-jyousaikann.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://osakikamomeya.owst.jp"
+      ]
+    },
+    {
+      "name": "SAKURAGUMI",
+      "municipality": "赤穂市",
+      "address": "赤穂市御崎御崎2-1",
+      "phone": "0791-42-3545",
+      "source": "https://ako-kankou.jp/dining/sakuragumi.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.vera-pizza-sakuragumi.co.jp/",
+        "http://www.vera-pizza-sakuragumi.co.jp/access"
+      ]
+    },
+    {
+      "name": "坂利太(さりーた)",
+      "municipality": "赤穂市",
+      "address": "赤穂市坂越2083",
+      "phone": "0791-48-8658",
+      "source": "https://ako-kankou.jp/dining/salita.html",
+      "decision": "菓子・テイクアウト販売が主体で飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "赤穂パークホテル「日本料理せせらぎ」",
+      "municipality": "赤穂市",
+      "address": "赤穂市さつき町36-12",
+      "phone": "0791-43-8000",
+      "source": "https://ako-kankou.jp/dining/seseragi.html",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://www.akoparkhotel.com/",
+        "https://www.akoparkhotel.com/access/"
+      ]
+    },
+    {
+      "name": "海の駅 しおさい市場",
+      "municipality": "赤穂市",
+      "address": "赤穂市坂越290-7",
+      "phone": "0791-46-8600",
+      "source": "https://ako-kankou.jp/dining/shiosai.html",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://uminoeki.com/",
+        "http://uminoeki.com/access/shiosai/"
+      ]
+    },
+    {
+      "name": "焼肉家 しょくどうえん",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋 44-13",
+      "phone": "0791-45-1920",
+      "source": "https://ako-kankou.jp/dining/shokudouen.html",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://yakinikuya-shokudouen.owst.jp/"
+      ]
+    },
+    {
+      "name": "海と坂と",
+      "municipality": "赤穂市",
+      "address": "赤穂市御崎2-1",
+      "phone": "",
+      "source": "https://ako-kankou.jp/dining/sonohoka.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "すし萬",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋駅前町54-3",
+      "phone": "0791-43-8182",
+      "source": "https://ako-kankou.jp/dining/sushiman.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://sushiman.jp/",
+        "http://sushiman.jp/akusesu.html"
+      ]
+    },
+    {
+      "name": "潮彩 きらら祥吉",
+      "municipality": "赤穂市",
+      "address": "赤穂市御崎2-8",
+      "phone": "0791-43-7600",
+      "source": "https://ako-kankou.jp/dining/syokichi-3.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.ako-syokichi.com/index.html",
+        "http://www.ako-syokichi.com/co_navi/article/KQg20140913214226-14.html"
+      ]
+    },
+    {
+      "name": "食彩 どんぐり",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋2197",
+      "phone": "0791-45-3123",
+      "source": "https://ako-kankou.jp/dining/syokusaidonguri.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "美食処 主税",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋69-1",
+      "phone": "0791-43-9000",
+      "source": "https://ako-kankou.jp/dining/syuzei.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "天馬らぁめん",
+      "municipality": "赤穂市",
+      "address": "赤穂市尾崎3158-69",
+      "phone": "0791-42-9447",
+      "source": "https://ako-kankou.jp/dining/tenma.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ten-ma.com/",
+        "http://ten-ma.com/about.html"
+      ]
+    },
+    {
+      "name": "レストラン 鳥安",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋2188-15",
+      "phone": "0791-42-2663",
+      "source": "https://ako-kankou.jp/dining/toriyasu.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "割烹 魚正",
+      "municipality": "赤穂市",
+      "address": "赤穂市寿町7-5",
+      "phone": "0791-42-2629",
+      "source": "https://ako-kankou.jp/dining/uoshou.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喰処 よしとよ",
+      "municipality": "赤穂市",
+      "address": "赤穂市加里屋55-4",
+      "phone": "0791-42-3151",
+      "source": "https://ako-kankou.jp/dining/yoshitoyo.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "廻鮮寿したいの鯛 龍野本店",
+      "municipality": "たつの市",
+      "address": "たつの市誉田町広山24-1",
+      "phone": "0791-63-1488",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/%e5%bb%bb%e9%ae%ae%e5%af%bf%e3%81%97%e3%81%9f%e3%81%84%e3%81%ae%e9%af%9b%e3%80%80%e9%be%8d%e9%87%8e%e6%9c%ac%e5%ba%97/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://twitter.com/tainotai631488/",
+        "https://tainotai.link//"
+      ]
+    },
+    {
+      "name": "道の駅「みつ」",
+      "municipality": "たつの市",
+      "address": "たつの市御津町室津896-23",
+      "phone": "",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/%e9%81%93%e3%81%ae%e9%a7%85%e3%80%8c%e3%81%bf%e3%81%a4%e3%80%8d/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.totonaya.com/"
+      ]
+    },
+    {
+      "name": "大阪屋(おおさかや)",
+      "municipality": "たつの市",
+      "address": "たつの市御津町黒崎1657-24",
+      "phone": "079-322-0124",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/2236/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "赤とんぼプラザ",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町中村301-2 本竜野駅1F",
+      "phone": "0791-63-9966",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/akatomboplaza/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ANZNORI (アンツノーリ)",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町富永357-6",
+      "phone": "0791-63-3289",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/anznori/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "カフェ・コテージ",
+      "municipality": "たつの市",
+      "address": "たつの市新宮町平野292",
+      "phone": "0791-75-2333",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/cafe-cottage/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "cafe pery pery(ペリペリ)",
+      "municipality": "たつの市",
+      "address": "たつの市御津町黒崎1412",
+      "phone": "079-227-4889",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/cafe-pery-pery/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://pery-pery.com/"
+      ]
+    },
+    {
+      "name": "珈琲紫園 -Cafe Shien-",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町富永988-1",
+      "phone": "0791-62-3905",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/coffeeshien/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://cafeshien1959.com/"
+      ]
+    },
+    {
+      "name": "イタリアンダイニング DON★9 cafe",
+      "municipality": "たつの市",
+      "address": "たつの市揖西町南山1丁目92",
+      "phone": "0791-66-2876",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/don9-cafe/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "エデンの東",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町上川原52",
+      "phone": "0791-63-1273",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/edennohigashi/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "フランス堂",
+      "municipality": "たつの市",
+      "address": "たつの市揖西町土師475-14",
+      "phone": "0791-68-9041",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/francedo/",
+      "decision": "パン製造販売が主体で飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ガレリア アーツ&ティー",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町富永1439",
+      "phone": "0791-63-3555",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/galleria-arts/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://galleria-arts.wixsite.com/galleria-arts"
+      ]
+    },
+    {
+      "name": "居酒屋ごん",
+      "municipality": "たつの市",
+      "address": "たつの市揖保川町山津屋132-1",
+      "phone": "0791-72-7551",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/gon/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://snack-bar-4600.business.site/"
+      ]
+    },
+    {
+      "name": "揖保乃糸資料館 そうめんの里",
+      "municipality": "たつの市",
+      "address": "たつの市神岡町奥村56",
+      "phone": "0791-65-9000",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/ibonoito_somennosato/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.ibonoito.or.jp/soumennosato/"
+      ]
+    },
+    {
+      "name": "鉄板焼・一品 悠(ゆう)",
+      "municipality": "たつの市",
+      "address": "たつの市新宮町新宮605-4",
+      "phone": "0791-75-5400",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/ippin-you/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "海鮮酒房りょう 本店",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町富永456-1",
+      "phone": "0791-63-4646",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/kaisensyubou-ryo_honten/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "自然食+雑貨 Kanuka Cafe with Akino Isamu Gallery",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町旭町26",
+      "phone": "0791-78-9680",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/kanukacafe/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "そうめん処 霞亭",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町上霞城4",
+      "phone": "0791-62-2040",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/kasumitei/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "クラテラスたつの",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町上霞城126 醤油の郷 大正ロマン館内",
+      "phone": "0791-72-9291",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/kuraterrace-tatsuno/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "舞子館",
+      "municipality": "たつの市",
+      "address": "たつの市御津町黒崎1657-1",
+      "phone": "",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/maikokan/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.maikokan.com/"
+      ]
+    },
+    {
+      "name": "御食事処 まるよし",
+      "municipality": "たつの市",
+      "address": "たつの市御津町室津301",
+      "phone": "079-324-0015",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/maruyoshi/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://maruyoshi-m.net/about/"
+      ]
+    },
+    {
+      "name": "桃栗さんねん柿はちねん",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町富永1440-15",
+      "phone": "0791-62-0580",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/momokurisannen-kakihachinen/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み焼き 大ちゃん 本店",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町川原町258",
+      "phone": "0791-62-4440",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/okonomiyaki_daichan_honten/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.okonomiyaki-daichan.jp/honten.php"
+      ]
+    },
+    {
+      "name": "レストラン庵(揖保乃糸資料館そうめんの里)",
+      "municipality": "たつの市",
+      "address": "たつの市神岡町奥村56",
+      "phone": "0791-65-9000",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/restaurant-iori/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.ibonoito.or.jp/soumennosato/"
+      ]
+    },
+    {
+      "name": "酒粕うどん たぐち",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町上霞城3",
+      "phone": "0791-62-3988",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/sakekasuudon-taguchi/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "菓子と珈琲 朔 (かしとこーひーさく)",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町川原町106",
+      "phone": "0791-72-8239",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/saku_kashitocoffee/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.tatsuno-saku.com/"
+      ]
+    },
+    {
+      "name": "SATURDAY SUN(サタディサン)",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町富永 赤とんぼ文化ホール内",
+      "phone": "0791-63-1999",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/saturday-sun/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://s-s.jp/"
+      ]
+    },
+    {
+      "name": "シーサイドみゆき",
+      "municipality": "たつの市",
+      "address": "たつの市御津町黒崎1843-10",
+      "phone": "",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/seasidemiyuki/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.seasidemiyuki.com/"
+      ]
+    },
+    {
+      "name": "志んぐ荘レストラン(ランチバイキング)",
+      "municipality": "たつの市",
+      "address": "たつの市新宮町新宮1093",
+      "phone": "0791-75-0401",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/shingusou_restaurant/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.shinguso.com/"
+      ]
+    },
+    {
+      "name": "懐石宿 潮里(しおり)",
+      "municipality": "たつの市",
+      "address": "たつの市御津町黒崎1404",
+      "phone": "",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/shiori/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://www.kaisekiyado-shiori.com/"
+      ]
+    },
+    {
+      "name": "町家カフェ そら(まちやかふぇ そら)",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町上川原25-1",
+      "phone": "0791-63-0775",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/sora_machiyacafe/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://soramachiyacafe.web.fc2.com/"
+      ]
+    },
+    {
+      "name": "住栄丸",
+      "municipality": "たつの市",
+      "address": "たつの市御津町室津1328-10",
+      "phone": "",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/sumieimaru/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.sumieimaru.net/"
+      ]
+    },
+    {
+      "name": "すし官太 龍野店",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町堂本371-3",
+      "phone": "0791-62-4129",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/sushikanta-tatsunoten/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.sushi-kanta.com/"
+      ]
+    },
+    {
+      "name": "龍野クラシック アネックス",
+      "municipality": "たつの市",
+      "address": "たつの市神岡町田中字内山62-2",
+      "phone": "0791-65-2552",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/tatsunoclassic-annex/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.tatsunoclassic-annex.jp/"
+      ]
+    },
+    {
+      "name": "得得 龍野店(とくとく たつのてん)",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町四箇52-6",
+      "phone": "0791-64-3758",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/tokutoku_tatsuno/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://kazokutei.co.jp/index.html"
+      ]
+    },
+    {
+      "name": "片しぼ竹の宿 梅玉",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町本町1",
+      "phone": "",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/umetama/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "和ごころ 福久(ふく)",
+      "municipality": "たつの市",
+      "address": "たつの市新宮町井野原699",
+      "phone": "0791-76-0365",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/wagokoro_fuku/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.xn--28jb6o404iqtgn21d.jp/web/"
+      ]
+    },
+    {
+      "name": "焼肉富士",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町富永753",
+      "phone": "0791-63-0027",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/yakinikufuji/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "やまや本舗",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町富永1005-26",
+      "phone": "0791-62-0170",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/yamayahonpo/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://yamaya-honpo.com/"
+      ]
+    },
+    {
+      "name": "割烹仕出し料理 よこた本店",
+      "municipality": "たつの市",
+      "address": "たつの市龍野町旭町153",
+      "phone": "0791-62-0038",
+      "source": "https://tatsuno-tourism.jp/groumet_contents/yokotahonten/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "アイスクリーム工房 BOSS & MOM",
+      "municipality": "三木市",
+      "address": "三木市吉川町豊岡427",
+      "phone": "",
+      "source": "https://www.mikishi-kankou.com/member/1001/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.bossandmom.com/"
+      ]
+    },
+    {
+      "name": "あまぐり・ジェラート 万寿庵",
+      "municipality": "三木市",
+      "address": "三木市本町1-3-10",
+      "phone": "0794-83-2923",
+      "source": "https://www.mikishi-kankou.com/member/1002/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://www.rakuten.ne.jp/gold/manjyuan/"
+      ]
+    },
+    {
+      "name": "割烹 荒川",
+      "municipality": "三木市",
+      "address": "三木市末広2丁目8-25",
+      "phone": "",
+      "source": "https://www.mikishi-kankou.com/member/1003/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "株式会社アンデルセンスエヒロ",
+      "municipality": "三木市",
+      "address": "三木市緑が丘町中1丁目8-12",
+      "phone": "",
+      "source": "https://www.mikishi-kankou.com/member/1005/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "馳走庵 一献",
+      "municipality": "三木市",
+      "address": "三木市福井3-15-10",
+      "phone": "",
+      "source": "https://www.mikishi-kankou.com/member/1008/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://chisoanikkon.com/"
+      ]
+    },
+    {
+      "name": "卯月家",
+      "municipality": "三木市",
+      "address": "三木市志染町東自由が丘2丁目353",
+      "phone": "",
+      "source": "https://www.mikishi-kankou.com/member/1010/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "カフェ碧",
+      "municipality": "三木市",
+      "address": "三木市上の丸町1-7",
+      "phone": "0794-69-9138",
+      "source": "https://www.mikishi-kankou.com/member/1016/",
+      "decision": "店舗名義のWebショップを別途確認",
+      "websiteLinks": [
+        "https://cafeao.base.shop/"
+      ]
+    },
+    {
+      "name": "佳豊",
+      "municipality": "三木市",
+      "address": "三木市吉川町有安310",
+      "phone": "",
+      "source": "https://www.mikishi-kankou.com/member/1022/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "古民家カフェ玉置",
+      "municipality": "三木市",
+      "address": "三木市本町2丁目2-17 旧玉置家住宅内",
+      "phone": "",
+      "source": "https://www.mikishi-kankou.com/member/1025/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "茶小屋",
+      "municipality": "三木市",
+      "address": "三木市宿原116-1",
+      "phone": "",
+      "source": "https://www.mikishi-kankou.com/member/1040/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ナガサワ食品株式会社",
+      "municipality": "三木市",
+      "address": "加古川市平岡町高畑490-1",
+      "phone": "079-425-2200",
+      "source": "https://www.mikishi-kankou.com/member/1045/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://nagasawafoods.com/"
+      ]
+    },
+    {
+      "name": "ニューむさし",
+      "municipality": "三木市",
+      "address": "三木市本町2丁目7-18",
+      "phone": "",
+      "source": "https://www.mikishi-kankou.com/member/1049/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.new-musashi.com/"
+      ]
+    },
+    {
+      "name": "京料理モダンスタイル 楽菜",
+      "municipality": "三木市",
+      "address": "三木市本町3丁目2-1",
+      "phone": "",
+      "source": "https://www.mikishi-kankou.com/member/1111/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "和食 川久",
+      "municipality": "三木市",
+      "address": "三木市本町3丁目3-17",
+      "phone": "0794-82-1079",
+      "source": "https://www.mikishi-kankou.com/member/1112/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.b-mall.ne.jp/t/2810/600007/"
+      ]
+    },
+    {
+      "name": "株式会社MAQ sweet factory",
+      "municipality": "三木市",
+      "address": "三木市別所町小林147-8",
+      "phone": "080-3129-0183",
+      "source": "https://www.mikishi-kankou.com/member/1115/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "お食事処・居酒屋 ひなた",
+      "municipality": "三木市",
+      "address": "三木市大塚213-3",
+      "phone": "0794-86-2050",
+      "source": "https://www.mikishi-kankou.com/member/1118/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "新木魂(アラモッコン)",
+      "municipality": "三木市",
+      "address": "三木市府内町5-4",
+      "phone": "",
+      "source": "https://www.mikishi-kankou.com/member/1121/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "CINEMA COFFEE FIELD",
+      "municipality": "三木市",
+      "address": "三木市末広2丁目4-16",
+      "phone": "0794-88-6241",
+      "source": "https://www.mikishi-kankou.com/member/1122/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://cinemacoffee.jp/"
+      ]
+    },
+    {
+      "name": "ぴんくの兎",
+      "municipality": "三木市",
+      "address": "三木市末広2丁目1-65",
+      "phone": "0794-83-6667",
+      "source": "https://www.mikishi-kankou.com/member/1123/",
+      "decision": "スナック業態で飲食個店の対象条件を確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "おうちごはんcafeそらまめ",
+      "municipality": "三木市",
+      "address": "三木市宿原1263-199",
+      "phone": "0794-60-9300",
+      "source": "https://www.mikishi-kankou.com/member/1125/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://soramame-miki.com/"
+      ]
+    },
+    {
+      "name": "39Café",
+      "municipality": "西脇市",
+      "address": "西脇市野村町392-7",
+      "phone": "0795-27-9792",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/39cafe.html",
+      "decision": "移動販売・キッチンカーが主体で固定飲食個店ではない",
+      "websiteLinks": []
+    },
+    {
+      "name": "黒田庄交流拠点施設 あつまっ亭",
+      "municipality": "西脇市",
+      "address": "西脇市黒田庄町岡643",
+      "phone": "0795-28-5880",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/atsumattei.html",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "播州ラーメンひすい",
+      "municipality": "西脇市",
+      "address": "西脇市高田井町341-1",
+      "phone": "0795-38-7365",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/banshuramen-hisui.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "播州ラーメン凰",
+      "municipality": "西脇市",
+      "address": "西脇市寺内446-1",
+      "phone": "0795-27-7133",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/banshuramen-o.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "be-inby",
+      "municipality": "西脇市",
+      "address": "西脇市野村町1796-48",
+      "phone": "090-3876-8632",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/be-inby.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Cafe 58",
+      "municipality": "西脇市",
+      "address": "西脇市野村町27-1",
+      "phone": "0795-39-0098",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/cafe-58.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "cafe Little",
+      "municipality": "西脇市",
+      "address": "西脇市高田井町1089",
+      "phone": "0795-38-8814",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/cafe-little.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://cafelittle.com/"
+      ]
+    },
+    {
+      "name": "café merry days",
+      "municipality": "西脇市",
+      "address": "西脇市黒田庄町黒田1351-2",
+      "phone": "070-9020-6628",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/cafemerrydays.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "CINEMA COFFEE ROASTERS",
+      "municipality": "西脇市",
+      "address": "西脇市上野428-2",
+      "phone": "0795-27-7049",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/cinema-coffee-roasters.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://cinemacoffee.jp/"
+      ]
+    },
+    {
+      "name": "清味自家焙煎 森ノ本珈琲",
+      "municipality": "西脇市",
+      "address": "西脇市黒田庄町前坂1383−2",
+      "phone": "080-3135-5369",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/content.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://morinomotocoffee.com/"
+      ]
+    },
+    {
+      "name": "珈琲店 EQUATOR",
+      "municipality": "西脇市",
+      "address": "西脇市嶋447",
+      "phone": "070-8985-7216",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/exellence.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://lattehapi711.thebase.in"
+      ]
+    },
+    {
+      "name": "HINODE scones!",
+      "municipality": "西脇市",
+      "address": "西脇市野村町1795-241",
+      "phone": "070-8998-7008",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/hinode-scones.html",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "kissa dot",
+      "municipality": "西脇市",
+      "address": "西脇市落方町47-1",
+      "phone": "0795-20-5763",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/kissadot.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "和味深心 空弥介",
+      "municipality": "西脇市",
+      "address": "西脇市和布町188-4",
+      "phone": "0795-22-4817",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/ku-yasuke.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "labo.verde nishiwaki kitchen",
+      "municipality": "西脇市",
+      "address": "西脇市野村町800-1",
+      "phone": "090-9860-6181",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/laboverde-nishiwaki-kitchen.html",
+      "decision": "直売所内のテイクアウト店舗で独立経営・固定飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "MICADO CAFE",
+      "municipality": "西脇市",
+      "address": "西脇市西田町187-1",
+      "phone": "070-3968-3895",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/micado-cafe.html",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://micadocafe.amebaownd.com/"
+      ]
+    },
+    {
+      "name": "ネーブルバーガースターズ",
+      "municipality": "西脇市",
+      "address": "西脇市寺内517-1(道の駅・北はりまエコミュージアム)",
+      "phone": "070-5343-7051",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/navel-burger-stars.html",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "王 焼き肉まん",
+      "municipality": "西脇市",
+      "address": "西脇市上野296‐2",
+      "phone": "090-3966-7269",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/o-yakinikuman.html",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "西脇大橋ラーメン",
+      "municipality": "西脇市",
+      "address": "西脇市上野432-7",
+      "phone": "0795-22-4886",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/ohashiramen.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "古民家pizza shima305",
+      "municipality": "西脇市",
+      "address": "西脇市嶋305",
+      "phone": "0795-23-0305",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/pizza-shima305.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.shima305.com/"
+      ]
+    },
+    {
+      "name": "ゆあせ",
+      "municipality": "西脇市",
+      "address": "西脇市西田町181-1",
+      "phone": "0795-23-5117",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/post-1.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "わくわくの杜",
+      "municipality": "西脇市",
+      "address": "西脇市上比延町330-2",
+      "phone": "0795-27-7750",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/post-10.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://wakuwaku-no-mori.hp.peraichi.com/"
+      ]
+    },
+    {
+      "name": "アパチのセイロンカレー",
+      "municipality": "西脇市",
+      "address": "西脇市野村町800-1",
+      "phone": "090-2113-3373",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/post-13.html",
+      "decision": "店舗名義のWebショップを別途確認",
+      "websiteLinks": [
+        "https://appachi08.base.shop/about"
+      ]
+    },
+    {
+      "name": "中華そば一番",
+      "municipality": "西脇市",
+      "address": "西脇市和布町190-33",
+      "phone": "0795-22-5753",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/post-15.html",
+      "decision": "店舗Webサイトを別途確認",
+      "websiteLinks": [
+        "https://ramen-ichiban.netlify.app/"
+      ]
+    },
+    {
+      "name": "シェルブールのお嬢さん",
+      "municipality": "西脇市",
+      "address": "西脇市小坂町138-1",
+      "phone": "0795-38-7181",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/post-2.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "酒肴旬菜 心",
+      "municipality": "西脇市",
+      "address": "西脇市野村町351",
+      "phone": "080-8322-9556",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/post-3.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.syukou-syunsai-shin.com/#jump2"
+      ]
+    },
+    {
+      "name": "酒華 悠",
+      "municipality": "西脇市",
+      "address": "西脇市西脇939",
+      "phone": "0795-39-9108",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/post-4.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "かもめ食堂",
+      "municipality": "西脇市",
+      "address": "西脇市黒田1590-37",
+      "phone": "0795-20-1679",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/post-7.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kamomeshokudo.com/"
+      ]
+    },
+    {
+      "name": "カレーとアジア料理 アララギ",
+      "municipality": "西脇市",
+      "address": "西脇市253-5",
+      "phone": "",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/post-8.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "カレーナンハウス(寺内店)",
+      "municipality": "西脇市",
+      "address": "西脇市寺内515-15",
+      "phone": "0795-29-0048",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/post-9.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "つむぎ菓子店",
+      "municipality": "西脇市",
+      "address": "西脇市住吉町1315",
+      "phone": "0795-39-7561",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/post.html",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "千笑",
+      "municipality": "西脇市",
+      "address": "西脇市富田町71-15",
+      "phone": "0795-23-2176",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/sensho.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "spicecurry moco",
+      "municipality": "西脇市",
+      "address": "西脇市和田町736-11",
+      "phone": "",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/spicecurry-moco.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "TAKAMI COFFEE",
+      "municipality": "西脇市",
+      "address": "〒677‐0043\n兵庫県西脇市下戸田128-1",
+      "phone": "",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/takami-coffee.html",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "肉料理 樹",
+      "municipality": "西脇市",
+      "address": "西脇市高田井町322-1",
+      "phone": "0795-22-2959",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/tatsuki.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "炭火焼ダイニング 和灯",
+      "municipality": "西脇市",
+      "address": "西脇市高田井町105-2",
+      "phone": "0795-24-4567",
+      "source": "https://www.nishiwaki-kanko.jp/guide/gourmet/wato.html",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://watou-dining.com/"
+      ]
+    },
+    {
+      "name": "お食事処 ささゆり",
+      "municipality": "宍粟市",
+      "address": "宍粟市一宮町三方町624-1(一宮温泉まほろばの湯内)",
+      "phone": "0790-74-1000",
+      "source": "https://shiso.or.jp/highlights/%e3%81%8a%e9%a3%9f%e4%ba%8b%e5%87%a6%e3%80%80%e3%81%95%e3%81%95%e3%82%86%e3%82%8a",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://mahoroba-onsen.jp/restaurant/"
+      ]
+    },
+    {
+      "name": "たこ焼き酒場 だんだか",
+      "municipality": "宍粟市",
+      "address": "宍粟市波賀町上野243−1",
+      "phone": "070-9066-1890",
+      "source": "https://shiso.or.jp/highlights/%e3%81%9f%e3%81%93%e7%84%bc%e3%81%8d%e9%85%92%e5%a0%b4-%e3%81%a0%e3%82%93%e3%81%a0%e3%81%8b",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "たまちゃん豆腐 平瀬豆腐店",
+      "municipality": "宍粟市",
+      "address": "宍粟市千種町岩野辺1357",
+      "phone": "0790-76-2439",
+      "source": "https://shiso.or.jp/highlights/%e3%81%9f%e3%81%be%e3%81%a1%e3%82%83%e3%82%93%e8%b1%86%e8%85%90%e3%80%80%e5%b9%b3%e7%80%ac%e8%b1%86%e8%85%90%e5%ba%97",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "はじまり工房けんさん",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町杉ケ瀬369-2",
+      "phone": "0790-73-9574",
+      "source": "https://shiso.or.jp/highlights/%e3%81%af%e3%81%98%e3%81%be%e3%82%8a%e5%b7%a5%e6%88%bf%e3%81%91%e3%82%93%e3%81%95%e3%82%93",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "イチゴベース",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町五十波43",
+      "phone": "080-1097-1515",
+      "source": "https://shiso.or.jp/highlights/%e3%82%a4%e3%83%81%e3%82%b4%e3%83%99%e3%83%bc%e3%82%b9",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://ichigo-base.com/"
+      ]
+    },
+    {
+      "name": "ウッドデザインパーク与位",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町与位66-3",
+      "phone": "0790-64-0170",
+      "source": "https://shiso.or.jp/highlights/%e3%82%a6%e3%83%83%e3%83%89%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%83%91%e3%83%bc%e3%82%af%e4%b8%8e%e4%bd%8d",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://wood-designpark.jp/yoi/"
+      ]
+    },
+    {
+      "name": "エーガイヤちくさ ふれあいサロン",
+      "municipality": "宍粟市",
+      "address": "宍粟市千種町室1060-1",
+      "phone": "0790-76-8200",
+      "source": "https://shiso.or.jp/highlights/%e3%82%a8%e3%83%bc%e3%82%ac%e3%82%a4%e3%83%a4%e3%81%a1%e3%81%8f%e3%81%95%e3%80%80%e3%81%b5%e3%82%8c%e3%81%82%e3%81%84%e3%82%b5%e3%83%ad%e3%83%b3",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "トッポ・ジージヨ",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町春安32",
+      "phone": "0790-62-1889",
+      "source": "https://shiso.or.jp/highlights/%e3%83%88%e3%83%83%e3%83%9d%e3%83%bb%e3%82%b8%e3%83%bc%e3%82%b8%e3%83%a8",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.tajimabeef.com/"
+      ]
+    },
+    {
+      "name": "ドライブインながさわ山崎店",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町木ノ谷5-1",
+      "phone": "0790-62-8777",
+      "source": "https://shiso.or.jp/highlights/%e3%83%89%e3%83%a9%e3%82%a4%e3%83%96%e3%82%a4%e3%83%b3%e3%81%aa%e3%81%8c%e3%81%95%e3%82%8f%e5%b1%b1%e5%b4%8e%e5%ba%97",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ニュートラル",
+      "municipality": "宍粟市",
+      "address": "宍粟市一宮町安積78",
+      "phone": "080-2441-0983",
+      "source": "https://shiso.or.jp/highlights/%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%88%e3%83%a9%e3%83%ab",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "バケーションホーム",
+      "municipality": "宍粟市",
+      "address": "宍粟市波賀町原519-1",
+      "phone": "090-8205-7800",
+      "source": "https://shiso.or.jp/highlights/%e3%83%90%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%9b%e3%83%bc%e3%83%a0",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ワンネス食堂",
+      "municipality": "宍粟市",
+      "address": "宍粟市千種町下河野232",
+      "phone": "0790-71-0561",
+      "source": "https://shiso.or.jp/highlights/%e3%83%af%e3%83%b3%e3%83%8d%e3%82%b9%e9%a3%9f%e5%a0%82",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "伊沢の里",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町生谷214-1",
+      "phone": "0790-63-1380",
+      "source": "https://shiso.or.jp/highlights/%e4%bc%8a%e6%b2%a2%e3%81%ae%e9%87%8c",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.isawanosato.com/"
+      ]
+    },
+    {
+      "name": "原観光りんご園",
+      "municipality": "宍粟市",
+      "address": "宍粟市波賀町原560-1",
+      "phone": "0790-75-3600",
+      "source": "https://shiso.or.jp/highlights/%e5%8e%9f%e8%a6%b3%e5%85%89%e3%82%8a%e3%82%93%e3%81%94%e5%9c%92",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.hara-apple-garden.org/"
+      ]
+    },
+    {
+      "name": "四季旬菜 和",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町庄能392",
+      "phone": "0790-62-1120",
+      "source": "https://shiso.or.jp/highlights/%e5%9b%9b%e5%ad%a3%e6%97%ac%e8%8f%9c%e3%80%80%e5%92%8c",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kikusui-yawaragi.jp/yawaragi/"
+      ]
+    },
+    {
+      "name": "大阪屋",
+      "municipality": "宍粟市",
+      "address": "宍粟市一宮町安積1350-1",
+      "phone": "0790-72-0070",
+      "source": "https://shiso.or.jp/highlights/%e5%a4%a7%e9%98%aa%e5%b1%8b",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.oosaka-ya.com/"
+      ]
+    },
+    {
+      "name": "居食屋 もりちゃん",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町三津318-1",
+      "phone": "0790-63-1717",
+      "source": "https://shiso.or.jp/highlights/%e5%b1%85%e9%a3%9f%e5%b1%8b%e3%80%80%e3%82%82%e3%82%8a%e3%81%a1%e3%82%83%e3%82%93",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "山水",
+      "municipality": "宍粟市",
+      "address": "宍粟市波賀町日見谷12-1",
+      "phone": "0790-75-3588",
+      "source": "https://shiso.or.jp/highlights/%e5%b1%b1%e6%b0%b4",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "忠佳(ただよし)",
+      "municipality": "宍粟市",
+      "address": "宍粟市一宮町東市場1090-57",
+      "phone": "0790-72-1677",
+      "source": "https://shiso.or.jp/highlights/%e5%bf%a0%e4%bd%b3%ef%bc%88%e3%81%9f%e3%81%a0%e3%82%88%e3%81%97%ef%bc%89",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "旅館 瀧長",
+      "municipality": "宍粟市",
+      "address": "宍粟市千種町黒土134-5",
+      "phone": "0790-76-2300",
+      "source": "https://shiso.or.jp/highlights/%e6%97%85%e9%a4%a8%e3%80%80%e7%80%a7%e9%95%b7",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "東山温泉メイプルプラザ",
+      "municipality": "宍粟市",
+      "address": "宍粟市波賀町上野1799-6",
+      "phone": "0790-75-2717",
+      "source": "https://shiso.or.jp/highlights/%e6%9d%b1%e5%b1%b1%e6%b8%a9%e6%b3%89%e3%83%a1%e3%82%a4%e3%83%97%e3%83%ab%e3%83%97%e3%83%a9%e3%82%b6",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://foreststation-haga.jp/"
+      ]
+    },
+    {
+      "name": "楽水フィッシングセンター",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町上ノ1502",
+      "phone": "0790-65-0811",
+      "source": "https://shiso.or.jp/highlights/%e6%a5%bd%e6%b0%b4%e3%83%95%e3%82%a3%e3%83%83%e3%82%b7%e3%83%b3%e3%82%b0%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc%e9%81%8a%e3%83%95%e3%82%a1%e3%83%bc%e3%83%a0",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://rakusui1116.com/"
+      ]
+    },
+    {
+      "name": "浪漫亭",
+      "municipality": "宍粟市",
+      "address": "宍粟市千種町千草158",
+      "phone": "0790-76-2822",
+      "source": "https://shiso.or.jp/highlights/%e6%b5%aa%e6%bc%ab%e4%ba%ad",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "町家 cafe & ギャラリー さんしょう",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町山崎50",
+      "phone": "0790-62-0039",
+      "source": "https://shiso.or.jp/highlights/%e7%94%ba%e5%ae%b6%e3%82%ab%e3%83%95%e3%82%a7%e3%80%80%e3%81%95%e3%82%93%e3%81%97%e3%82%87%e3%81%86",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://cafesansyo.exblog.jp/"
+      ]
+    },
+    {
+      "name": "福知渓谷 いろりの宿 木の助",
+      "municipality": "宍粟市",
+      "address": "宍粟市一宮町福知1536",
+      "phone": "0790-74-1441",
+      "source": "https://shiso.or.jp/highlights/%e7%a6%8f%e7%9f%a5%e6%b8%93%e8%b0%b7%e3%80%80%e3%81%84%e3%82%8d%e3%82%8a%e3%81%ae%e5%ae%bf%e3%80%80%e6%9c%a8%e3%81%ae%e5%8a%a9%e3%80%80",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.kinosuke.info/"
+      ]
+    },
+    {
+      "name": "老松ダイニング",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町山崎12",
+      "phone": "0790-62-2345",
+      "source": "https://shiso.or.jp/highlights/%e8%80%81%e6%9d%be%e3%83%80%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://s-oimatsu.com/dining"
+      ]
+    },
+    {
+      "name": "道の駅 ちくさ",
+      "municipality": "宍粟市",
+      "address": "宍粟市千種町下河野745-5",
+      "phone": "0790-76-3636",
+      "source": "https://shiso.or.jp/highlights/%e9%81%93%e3%81%ae%e9%a7%85%e3%80%80%e3%81%a1%e3%81%8f%e3%81%95",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://mitinoekichikusa.wixsite.com/home"
+      ]
+    },
+    {
+      "name": "道の駅 はが",
+      "municipality": "宍粟市",
+      "address": "宍粟市波賀町原149",
+      "phone": "0790-75-3711",
+      "source": "https://shiso.or.jp/highlights/%e9%81%93%e3%81%ae%e9%a7%85%e3%80%80%e3%81%af%e3%81%8c",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://www.haga-net.co.jp/haga.php"
+      ]
+    },
+    {
+      "name": "道の駅 みなみ波賀",
+      "municipality": "宍粟市",
+      "address": "宍粟市波賀町安賀8-1",
+      "phone": "0790-75-3999",
+      "source": "https://shiso.or.jp/highlights/%e9%81%93%e3%81%ae%e9%a7%85%e3%80%80%e3%81%bf%e3%81%aa%e3%81%bf%e6%b3%a2%e8%b3%80",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://www.haga-net.co.jp/minamihaga.php"
+      ]
+    },
+    {
+      "name": "道の駅播磨いちのみや",
+      "municipality": "宍粟市",
+      "address": "宍粟市一宮町須行名510-1",
+      "phone": "0790-72-8666",
+      "source": "https://shiso.or.jp/highlights/%e9%81%93%e3%81%ae%e9%a7%85%e3%80%8c%e6%92%ad%e7%a3%a8%e3%81%84%e3%81%a1%e3%81%ae%e3%81%bf%e3%82%84%e3%80%8d",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://www.michinoeki-ichinomiya.com/"
+      ]
+    },
+    {
+      "name": "醸す宿 菊亭",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町山崎287",
+      "phone": "0790-67-9900",
+      "source": "https://shiso.or.jp/highlights/%e9%86%b8%e3%81%99%e5%ae%bf-%e8%8f%8a%e4%ba%ad",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kamosu-kikutei.com/"
+      ]
+    },
+    {
+      "name": "餃子屋 福籠",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町春安3-1",
+      "phone": "0790-73-9820",
+      "source": "https://shiso.or.jp/highlights/%e9%a4%83%e5%ad%90%e5%b1%8b%e3%80%80%e7%a6%8f%e7%b1%a0",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鮎茶屋 正起",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町御名354-1",
+      "phone": "0790-62-3838",
+      "source": "https://shiso.or.jp/highlights/%e9%ae%8e%e8%8c%b6%e5%b1%8b%e3%80%80%e6%ad%a3%e8%b5%b7",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://www.eonet.ne.jp/~ibogawashoki/"
+      ]
+    },
+    {
+      "name": "Birdman",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町山崎211-2",
+      "phone": "0790-73-9888",
+      "source": "https://shiso.or.jp/highlights/birdman",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://birdman-torisoba.com/"
+      ]
+    },
+    {
+      "name": "cafe慶慶",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町山﨑102-2",
+      "phone": "",
+      "source": "https://shiso.or.jp/highlights/cafe%e6%85%b6%e6%85%b6",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://cafekeikei.com/"
+      ]
+    },
+    {
+      "name": "MONJUNO FUKUCHI",
+      "municipality": "宍粟市",
+      "address": "宍粟市一宮町福知1804",
+      "phone": "0790-71-2464",
+      "source": "https://shiso.or.jp/highlights/monjuno-fukuchi",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.nap-camp.com/hyogo/12928"
+      ]
+    },
+    {
+      "name": "pasta pizza cafe 遊山",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町山崎403",
+      "phone": "0790-60-5768",
+      "source": "https://shiso.or.jp/highlights/pasta-pizza-cafe-%e9%81%8a%e5%b1%b1",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "popcorn ヘレン・ケラー",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町山田194",
+      "phone": "0790-62-0458",
+      "source": "https://shiso.or.jp/highlights/popcorn-%e3%83%98%e3%83%ac%e3%83%b3%e3%83%bb%e3%82%b1%e3%83%a9%e3%83%bc",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ROZI CAFFEE",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町鹿沢106−1",
+      "phone": "",
+      "source": "https://shiso.or.jp/highlights/rozi-caffee",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "SELECTSHOP&BAR JOURNEY",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町鹿沢133-8",
+      "phone": "090-4454-5935",
+      "source": "https://shiso.or.jp/highlights/selectshopbar-journey",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.journey-bespa.com/"
+      ]
+    },
+    {
+      "name": "Star Resort(スターリゾート)",
+      "municipality": "宍粟市",
+      "address": "宍粟市一宮町東河内638 366",
+      "phone": "090-7943-9868",
+      "source": "https://shiso.or.jp/highlights/star-resort%ef%bc%88%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%aa%e3%82%be%e3%83%bc%e3%83%88%ef%bc%89",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://lit.link/starresort"
+      ]
+    },
+    {
+      "name": "YAMA SAND",
+      "municipality": "宍粟市",
+      "address": "宍粟市山崎町上比地302-1",
+      "phone": "090-9546-6981",
+      "source": "https://shiso.or.jp/highlights/yamasand",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "相生飯店",
+      "municipality": "相生市",
+      "address": "相生市旭一丁目8-6",
+      "phone": "0791-22-4345",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "中華料理 あさひ",
+      "municipality": "相生市",
+      "address": "相生市旭三丁目3-25",
+      "phone": "0791-22-3881",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "うおいちフーズ(株)",
+      "municipality": "相生市",
+      "address": "相生市旭二丁目20-15",
+      "phone": "0791-25-4463",
+      "source": "https://aioi.in/member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "(株)魚稚",
+      "municipality": "相生市",
+      "address": "相生市相生六丁目",
+      "phone": "0791-23-1501",
+      "source": "https://aioi.in/member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.uowaka.com/"
+      ]
+    },
+    {
+      "name": "美味いもんや",
+      "municipality": "相生市",
+      "address": "相生市旭1丁目15-6",
+      "phone": "090-4283-0400",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "(有)江戸屋",
+      "municipality": "相生市",
+      "address": "相生市本郷町6-24",
+      "phone": "0791-22-0678",
+      "source": "https://aioi.in/member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "縁粋",
+      "municipality": "相生市",
+      "address": "相生市栄町2-21",
+      "phone": "0791-23-7274",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "おにぎり屋さん あまゆ",
+      "municipality": "相生市",
+      "address": "相生市旭一丁目5-16",
+      "phone": "0791-56-6716",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "韓国家庭料理 オモニ",
+      "municipality": "相生市",
+      "address": "相生市陸本町5-1",
+      "phone": "0791-23-5566",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "神戸唐唐亭 相生店",
+      "municipality": "相生市",
+      "address": "相生市向陽台5-2",
+      "phone": "0791-22-8829",
+      "source": "https://aioi.in/member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.kobe-karakara.com/"
+      ]
+    },
+    {
+      "name": "珈琲の観世",
+      "municipality": "相生市",
+      "address": "相生市大島町2-28",
+      "phone": "0791-23-5152",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "クレッセンド",
+      "municipality": "相生市",
+      "address": "相生市垣内町8-20",
+      "phone": "0791-23-0297",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒ヤ げんげん",
+      "municipality": "相生市",
+      "address": "相生市那波大浜町22-37",
+      "phone": "0791-23-7006",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喜久八",
+      "municipality": "相生市",
+      "address": "相生市佐方1丁目453-1",
+      "phone": "0791-23-0238",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "KITCHEN にこにこ",
+      "municipality": "相生市",
+      "address": "相生市旭四丁目11-18",
+      "phone": "0791-23-7890",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "自家焙煎珈琲 くりの木",
+      "municipality": "相生市",
+      "address": "相生市那波東本町6-47",
+      "phone": "0791-22-2341",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "元気焼",
+      "municipality": "相生市",
+      "address": "相生市那波南本町8-55",
+      "phone": "0791-22-8881",
+      "source": "https://aioi.in/member/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.genkiyaki.co.jp/"
+      ]
+    },
+    {
+      "name": "居酒屋食堂 げんき",
+      "municipality": "相生市",
+      "address": "相生市大石町9-17",
+      "phone": "0791-22-3589",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "金剛山",
+      "municipality": "相生市",
+      "address": "相生市那波大浜町20-2",
+      "phone": "0791-22-5564",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "SAKURA base.",
+      "municipality": "相生市",
+      "address": "相生市本郷町6-22",
+      "phone": "0791-23-1505",
+      "source": "https://aioi.in/member/",
+      "decision": "パン製造販売が主体で飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "炭火やきとりの店 しまたろう",
+      "municipality": "相生市",
+      "address": "相生市本郷町4-17AIOI壱番館103号",
+      "phone": "0791-23-4560",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "中華キッチンの店 朱",
+      "municipality": "相生市",
+      "address": "相生市旭5丁目14-7",
+      "phone": "0791-22-8000",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "パン工房 笑顔(すまいる)",
+      "municipality": "相生市",
+      "address": "相生市矢野町小河213",
+      "phone": "0791-25-7687",
+      "source": "https://aioi.in/member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "プチラウンジCELEB",
+      "municipality": "相生市",
+      "address": "相生市旭1丁目9-6",
+      "phone": "0791-22-1201",
+      "source": "https://aioi.in/member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉レストラン 大門",
+      "municipality": "相生市",
+      "address": "相生市旭一丁目8-13",
+      "phone": "0791-23-2073",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "だるく亭",
+      "municipality": "相生市",
+      "address": "相生市陸本町4-33",
+      "phone": "0791-22-1219",
+      "source": "https://aioi.in/member/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://daruku.on.omisenomikata.jp/"
+      ]
+    },
+    {
+      "name": "自家焙煎の店 だるま珈琲",
+      "municipality": "相生市",
+      "address": "相生市大石町19-10 西本ビル1F",
+      "phone": "0791-22-7880",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼鳥居酒屋 美ん美ん",
+      "municipality": "相生市",
+      "address": "相生市本郷町6-3",
+      "phone": "0791-22-1222",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "COFFEE 紬",
+      "municipality": "相生市",
+      "address": "相生市若狭野町若狭野427-1",
+      "phone": "0791-24-8533",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "煮売り屋 一",
+      "municipality": "相生市",
+      "address": "相生市陸本町7-32 サンヴェール21南1F",
+      "phone": "0791-22-1700",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "スナック ノア",
+      "municipality": "相生市",
+      "address": "相生市旭一丁目8-14 青山ビル1F",
+      "phone": "0791-22-6370",
+      "source": "https://aioi.in/member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "和食 華屋",
+      "municipality": "相生市",
+      "address": "相生市旭一丁目7-22",
+      "phone": "0791-23-0787",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "おばんざいの店はる",
+      "municipality": "相生市",
+      "address": "相生市本郷町6-24",
+      "phone": "0791-22-0724",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Bar.BECK524",
+      "municipality": "相生市",
+      "address": "相生市旭一丁目7-5",
+      "phone": "080-3032-7769",
+      "source": "https://aioi.in/member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "播匠",
+      "municipality": "相生市",
+      "address": "相生市旭一丁目13-14",
+      "phone": "090-7092-7249",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "スナック 氷雨",
+      "municipality": "相生市",
+      "address": "相生市旭一丁目10-12",
+      "phone": "0791-23-5199",
+      "source": "https://aioi.in/member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "自家焙煎珈琲 ぶどうの木",
+      "municipality": "相生市",
+      "address": "相生市山手二丁目291",
+      "phone": "0791-23-3518",
+      "source": "https://aioi.in/member/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://budounokihp.web.fc2.com/"
+      ]
+    },
+    {
+      "name": "Bon-Mark",
+      "municipality": "相生市",
+      "address": "相生市相生3丁目6-17",
+      "phone": "",
+      "source": "https://aioi.in/member/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://bon-mark.wixsite.com/2015"
+      ]
+    },
+    {
+      "name": "和ダイニングまねき白龍城店",
+      "municipality": "相生市",
+      "address": "相生市那波南本町8-55",
+      "phone": "0791-23-3360",
+      "source": "https://aioi.in/member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "海鮮料理 みやざき",
+      "municipality": "相生市",
+      "address": "相生市相生5323",
+      "phone": "0791-23-7075",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "手打ち蕎麦処 森下",
+      "municipality": "相生市",
+      "address": "相生市若狭野町西後明173-4",
+      "phone": "0791-28-1612",
+      "source": "https://aioi.in/member/",
+      "decision": "店舗名義の運営ブログを別途確認",
+      "websiteLinks": [
+        "https://ameblo.jp/teuchi-soba/"
+      ]
+    },
+    {
+      "name": "夢咲喜食堂",
+      "municipality": "相生市",
+      "address": "相生市本郷町4-17",
+      "phone": "090-8467-6469",
+      "source": "https://aioi.in/member/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.yumesakiweb.net/"
+      ]
+    },
+    {
+      "name": "羅漢の里 茶屋羅漢・里の店",
+      "municipality": "相生市",
+      "address": "相生市矢野町瓜生字羅漢口28",
+      "phone": "0791-29-0900",
+      "source": "https://aioi.in/member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "らーめん八角 相生店",
+      "municipality": "相生市",
+      "address": "相生市相生市山手一丁目222",
+      "phone": "0791-22-1521",
+      "source": "https://aioi.in/member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://hakkaku88.co.jp/shop/hakkaku_aioi/"
+      ]
+    },
+    {
+      "name": "らんぶる",
+      "municipality": "相生市",
+      "address": "相生市旭一丁目17-5",
+      "phone": "0791-23-0115",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "らんちはうすマーガレット",
+      "municipality": "相生市",
+      "address": "相生市赤坂一丁目6-23",
+      "phone": "090-8058-5127",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "味処 和楽",
+      "municipality": "相生市",
+      "address": "相生市本郷町6-24",
+      "phone": "0791-24-7011",
+      "source": "https://aioi.in/member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "428(YOTSUBA)",
+      "municipality": "加西市",
+      "address": "加西市北条町北条43-3 北条テナント1階",
+      "phone": "080-2569-9316",
+      "source": "https://kanko-kasai.com/foodki/yotsuba",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ange",
+      "municipality": "加西市",
+      "address": "加西市北条町北条371-10",
+      "phone": "090-6602-5353",
+      "source": "https://kanko-kasai.com/foodki/ange",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "BIKERS&CARS CAFE 山猫家",
+      "municipality": "加西市",
+      "address": "加西市東笠原町332-3",
+      "phone": "070-8314-7678",
+      "source": "https://kanko-kasai.com/foodki/yamaneko",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Bowl cafe Rotta+",
+      "municipality": "加西市",
+      "address": "加西市北条町古坂6丁目134",
+      "phone": "0790-43-9008",
+      "source": "https://kanko-kasai.com/foodki/bowl-cafe-rotta",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "cafe&diner  West",
+      "municipality": "加西市",
+      "address": "加西市桑原田町158-1",
+      "phone": "0790-49-0639",
+      "source": "https://kanko-kasai.com/foodki/cafediner-west",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kasai-west.com",
+        "https://www.kasai-west.com/"
+      ]
+    },
+    {
+      "name": "CAFE&REST カフェ・えん",
+      "municipality": "加西市",
+      "address": "加西市北条町北条28-1 アスティアかさい 1F",
+      "phone": "0790-43-0601",
+      "source": "https://kanko-kasai.com/foodki/cafe-rest-en",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "cafe FLAT",
+      "municipality": "加西市",
+      "address": "加西市中西町114-1",
+      "phone": "0790-48-2114",
+      "source": "https://kanko-kasai.com/foodki/cafe-flat",
+      "decision": "店舗名義の運営ブログを別途確認",
+      "websiteLinks": [
+        "https://ameblo.jp/flat-chyoppii/"
+      ]
+    },
+    {
+      "name": "cafe lodge エデン",
+      "municipality": "加西市",
+      "address": "加西市笹倉町632-1",
+      "phone": "0790-44-2323",
+      "source": "https://kanko-kasai.com/foodki/cafe-lodge-eden",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "CASPIAN(カスピアン)",
+      "municipality": "加西市",
+      "address": "加西市北条町北条137-27",
+      "phone": "090-8885-7662",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "CODATE293",
+      "municipality": "加西市",
+      "address": "加西市倉谷町293",
+      "phone": "0790-20-1171",
+      "source": "https://kanko-kasai.com/foodki/codate293-cafe",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://since2011codate293.com/shopinfo/"
+      ]
+    },
+    {
+      "name": "dining BUS STOP",
+      "municipality": "加西市",
+      "address": "加西市殿原町662-4",
+      "phone": "0790-44-3020",
+      "source": "https://kanko-kasai.com/foodki/dining-bus-stop",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "IL BINARIO DI ORO",
+      "municipality": "加西市",
+      "address": "加西市西横田町545-1",
+      "phone": "0790-46-8100",
+      "source": "https://kanko-kasai.com/foodki/il-binario-di-oro",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Meglu café",
+      "municipality": "加西市",
+      "address": "加西市北条町北条958",
+      "phone": "080-4561-0409",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "zuppa",
+      "municipality": "加西市",
+      "address": "加西市北条町北条402-7",
+      "phone": "090-6977-3766",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "アジアンキッチン TanTra iiMori店",
+      "municipality": "加西市",
+      "address": "加西市鶉野町1085-7",
+      "phone": "080-3814-3390",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "アンプリエ mishima",
+      "municipality": "加西市",
+      "address": "加西市北条町横尾1022-2",
+      "phone": "0790-43-8510",
+      "source": "https://kanko-kasai.com/foodki/anprier-mishima",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://unprier1999.jp"
+      ]
+    },
+    {
+      "name": "居酒屋 喰太郎",
+      "municipality": "加西市",
+      "address": "加西市西笠原町509-7",
+      "phone": "0790-48-3970",
+      "source": "https://kanko-kasai.com/foodki/tabetarou",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋とき",
+      "municipality": "加西市",
+      "address": "加西市北条町北条43-3 北条テナント1階",
+      "phone": "0790-27-8988",
+      "source": "https://kanko-kasai.com/foodki/toki",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋のんき",
+      "municipality": "加西市",
+      "address": "加西市鶉野町2185-1",
+      "phone": "0790-49-2761",
+      "source": "https://kanko-kasai.com/foodki/nonki",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "imo.dot",
+      "municipality": "加西市",
+      "address": "加西市段下町60-1",
+      "phone": "080-9606-0202",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://www.imodot.com/"
+      ]
+    },
+    {
+      "name": "インド・ネパールダイニングカフェ ムナール",
+      "municipality": "加西市",
+      "address": "加西市北条町北条28-1 アスティアかさい 1F",
+      "phone": "0790-42-6706",
+      "source": "https://kanko-kasai.com/foodki/munaru",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "うずら食堂",
+      "municipality": "加西市",
+      "address": "加西市西笠原町513?4",
+      "phone": "",
+      "source": "https://kanko-kasai.com/foodki/zuppa",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "うどん処 こはる蔵",
+      "municipality": "加西市",
+      "address": "加西市殿原町154-1",
+      "phone": "0790-44-2780",
+      "source": "https://kanko-kasai.com/foodki/koharu",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "エル・ファーロ",
+      "municipality": "加西市",
+      "address": "加西市北条町北条913",
+      "phone": "0790-43-3334",
+      "source": "https://kanko-kasai.com/foodki/elfaro",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://sakura-no-ie.com",
+        "https://sakura-no-ie.com/"
+      ]
+    },
+    {
+      "name": "おうちカフェ 小鳥文庫",
+      "municipality": "加西市",
+      "address": "加西市下宮木町350-1",
+      "phone": "0790-49-2029",
+      "source": "https://kanko-kasai.com/foodki/kotoribunko",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み えっちゃん",
+      "municipality": "加西市",
+      "address": "加西市両月町248",
+      "phone": "0790-20-4241",
+      "source": "https://kanko-kasai.com/foodki/okonimiecchan",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み焼・鉄板焼 じゅうじゅう",
+      "municipality": "加西市",
+      "address": "加西市北条町古坂7-27",
+      "phone": "0790-43-0305",
+      "source": "https://kanko-kasai.com/foodki/jyujyu",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み焼 とよだ",
+      "municipality": "加西市",
+      "address": "加西市北条町北条330",
+      "phone": "0790-42-2217",
+      "source": "https://kanko-kasai.com/foodki/toyoda",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.eonet.ne.jp/~okonomi-toyoda/"
+      ]
+    },
+    {
+      "name": "お食事処 いづみ",
+      "municipality": "加西市",
+      "address": "加西市殿原町494",
+      "phone": "0790-44-0594",
+      "source": "https://kanko-kasai.com/foodki/izumi-2",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://izumi-kasai-idumi.com",
+        "https://izumi-kasai-idumi.com/"
+      ]
+    },
+    {
+      "name": "お食事の店 ぐいぐい",
+      "municipality": "加西市",
+      "address": "加西市北条町北条728",
+      "phone": "0790-42-3200",
+      "source": "https://kanko-kasai.com/foodki/guigui",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "おにぎり工房 かさい",
+      "municipality": "加西市",
+      "address": "加西市豊倉町1261-81",
+      "phone": "080-6163-6049",
+      "source": "https://kanko-kasai.com/foodki/onigiri-koubo",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "おやつ工房ブレイクタイム",
+      "municipality": "加西市",
+      "address": "加西市北条町横尾1092 グリーンコーポラスIII",
+      "phone": "090-1675-1630",
+      "source": "https://kanko-kasai.com/foodki/breaktime",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "オリエンティ-マキ",
+      "municipality": "加西市",
+      "address": "加西市東笠原町514-5",
+      "phone": "0790-48-2898",
+      "source": "https://kanko-kasai.com/foodki/orianthi-maki",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.eonet.ne.jp/~orienty/restaurant/new/",
+        "http://www.eonet.ne.jp/~orienty/restaurant/new/"
+      ]
+    },
+    {
+      "name": "がいな製麺所",
+      "municipality": "加西市",
+      "address": "加西市和泉町25-3",
+      "phone": "0790-45-0848",
+      "source": "https://kanko-kasai.com/foodki/gaina-seimen",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://www.gaina-japan.com",
+        "http://www.gaina-japan.com/"
+      ]
+    },
+    {
+      "name": "加西創作イタリアン gottuo",
+      "municipality": "加西市",
+      "address": "加西市北条町横尾307-2 西門ビル1F",
+      "phone": "0790-42-5210",
+      "source": "https://kanko-kasai.com/foodki/gottuo",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "割烹 四ツ目",
+      "municipality": "加西市",
+      "address": "加西市北条町北条906",
+      "phone": "0790-42-0004",
+      "source": "https://kanko-kasai.com/foodki/yotsume",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://yotsumeryokan.com",
+        "http://yotsumeryokan.com/"
+      ]
+    },
+    {
+      "name": "Café Mimosa",
+      "municipality": "加西市",
+      "address": "加西市北条町北条958-1",
+      "phone": "090-6665-6897",
+      "source": "https://kanko-kasai.com/foodki/cafemimosa",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "カフェ・ハウス アッピア",
+      "municipality": "加西市",
+      "address": "加西市中富町697-1",
+      "phone": "0790-44-0808",
+      "source": "https://kanko-kasai.com/foodki/house-appia",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "手打ち駅前そば あびき((株)一考庵)",
+      "municipality": "加西市",
+      "address": "加西市網引町560-1",
+      "phone": "0790-20-4300",
+      "source": "https://kanko-kasai.com/foodki/soba-abiki",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "株式会社カネミツ食品",
+      "municipality": "加西市",
+      "address": "加西市北条町横尾393-1",
+      "phone": "0790-42-1189",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "株式会社コタニ",
+      "municipality": "加西市",
+      "address": "加西市鎮岩町281",
+      "phone": "0790-46-0672",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "株式会社葉名菱",
+      "municipality": "加西市",
+      "address": "加西市鶉野町1168-67",
+      "phone": "080-8395-8575",
+      "source": "https://kanko-kasai.com/foodki/kajuka",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "菓遊館",
+      "municipality": "加西市",
+      "address": "加西市北条町北条367-1",
+      "phone": "0790-43-0725",
+      "source": "https://kanko-kasai.com/foodki/kayuukan",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "画廊・喫茶洋食亭 さんふらわー",
+      "municipality": "加西市",
+      "address": "加西市豊倉町1283-34",
+      "phone": "0790-47-1215",
+      "source": "https://kanko-kasai.com/foodki/sunflower",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喫茶 グランド",
+      "municipality": "加西市",
+      "address": "加西市玉野町227-4",
+      "phone": "0790-47-1390",
+      "source": "https://kanko-kasai.com/foodki/ground",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喫茶・食事 花みずき",
+      "municipality": "加西市",
+      "address": "加西市北条町横尾1021",
+      "phone": "0790-43-1250",
+      "source": "https://kanko-kasai.com/foodki/hanamizuki",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喫茶 鈴",
+      "municipality": "加西市",
+      "address": "加西市河内町634-1",
+      "phone": "0790-45-1488",
+      "source": "https://kanko-kasai.com/foodki/suzu",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "原始人会 土一七日屋台",
+      "municipality": "加西市",
+      "address": "加西市上万願寺町120",
+      "phone": "0790-44-0150",
+      "source": "https://kanko-kasai.com/foodki/doichinanoka",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.genshijin-kai.com/doinakayatai.html",
+        "http://www.genshijin-kai.com/doinakayatai.html"
+      ]
+    },
+    {
+      "name": "ごはん家カフェ AOI",
+      "municipality": "加西市",
+      "address": "加西市北条町北条128-1",
+      "phone": "0790-35-8358",
+      "source": "https://kanko-kasai.com/foodki/aoi",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "狛犬ジェラート",
+      "municipality": "加西市",
+      "address": "加西市田谷町1265",
+      "phone": "",
+      "source": "https://kanko-kasai.com/foodki/zuppa",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ザ・パーラー",
+      "municipality": "加西市",
+      "address": "加西市殿原町438-1",
+      "phone": "0790-21-9095",
+      "source": "https://kanko-kasai.com/foodki/the-parlour",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "彩食呑処 松風",
+      "municipality": "加西市",
+      "address": "加西市北条町栗田1",
+      "phone": "0790-43-7676",
+      "source": "https://kanko-kasai.com/foodki/matsukaze",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "魚・彩・庵 あづま屋",
+      "municipality": "加西市",
+      "address": "加西市西笠原町172-65",
+      "phone": "0790-48-2952",
+      "source": "https://kanko-kasai.com/foodki/azumaya",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.azumaya-kasai.com/",
+        "http://www.azumaya-kasai.com/"
+      ]
+    },
+    {
+      "name": "さたに食道",
+      "municipality": "加西市",
+      "address": "加西市佐谷町209",
+      "phone": "0790-44-1571",
+      "source": "https://kanko-kasai.com/foodki/satani",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "サンモーリス",
+      "municipality": "加西市",
+      "address": "加西市坂元町84",
+      "phone": "0790-42-6557",
+      "source": "https://kanko-kasai.com/foodki/sunmorris",
+      "decision": "洋菓子販売が主体で飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "志方牛すじカレー専門店だいちゃん",
+      "municipality": "加西市",
+      "address": "加西市段下町171-3",
+      "phone": "070-4477-0720",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "シフォンケーキ専門店 こっこ",
+      "municipality": "加西市",
+      "address": "加西市坂元町329-1",
+      "phone": "090-4904-7137",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "酒楽",
+      "municipality": "加西市",
+      "address": "加西市北条町古坂1320",
+      "phone": "0790-43-1742",
+      "source": "https://kanko-kasai.com/foodki/kappo-syuraku",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "シンエーフーヅ株式会社",
+      "municipality": "加西市",
+      "address": "神戸市中央区中町通2-3-2 三共神戸ツインビル2階",
+      "phone": "078-341-7117",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://shin-ei-foods.co.jp/"
+      ]
+    },
+    {
+      "name": "ステーキ&とんかつ ろまんす亭",
+      "municipality": "加西市",
+      "address": "加西市北条町古坂7-152",
+      "phone": "0790-42-0234",
+      "source": "https://kanko-kasai.com/foodki/romance",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "すなっく Ryu",
+      "municipality": "加西市",
+      "address": "加西市北条町古坂1320",
+      "phone": "090-5669-1238",
+      "source": "https://kanko-kasai.com/foodki/ryu",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "スナック Story",
+      "municipality": "加西市",
+      "address": "加西市玉丘町36-1",
+      "phone": "0790-42-5515",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "スナック ZEN -禅-",
+      "municipality": "加西市",
+      "address": "加西市北条町北条146-17",
+      "phone": "090-3629-4530",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "スナック 華恋",
+      "municipality": "加西市",
+      "address": "加西市北条町古坂313 来光ビル",
+      "phone": "0790-42-4624",
+      "source": "https://kanko-kasai.com/foodki/karen",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "スナック 月の道",
+      "municipality": "加西市",
+      "address": "加西市北条町古坂1320",
+      "phone": "0790-43-8070",
+      "source": "https://kanko-kasai.com/foodki/tsukinomichi",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://snack-bar-2715.business.site",
+        "https://snack-bar-2715.business.site/"
+      ]
+    },
+    {
+      "name": "スナック 剣",
+      "municipality": "加西市",
+      "address": "加西市北条町栗田1 ラ・メゾンタカセ105",
+      "phone": "0790-35-9808",
+      "source": "https://kanko-kasai.com/foodki/tsurugi",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "すぱ屋 でんばー",
+      "municipality": "加西市",
+      "address": "加西市北条町横尾1268",
+      "phone": "0790-42-8905",
+      "source": "https://kanko-kasai.com/foodki/denver",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "創作おばんざい 酒菜 九番",
+      "municipality": "加西市",
+      "address": "加西市北条町栗田2-2",
+      "phone": "0790-43-0009",
+      "source": "https://kanko-kasai.com/foodki/kyuban",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://obanzai9ban.hp.peraichi.com/top/"
+      ]
+    },
+    {
+      "name": "創作キッチン紡",
+      "municipality": "加西市",
+      "address": "加西市北条町北条128-1",
+      "phone": "0790-35-8999",
+      "source": "https://kanko-kasai.com/foodki/tsumugu",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "地どり家 由輝鳥",
+      "municipality": "加西市",
+      "address": "加西市北条町北条1097-1",
+      "phone": "080-4706-2810",
+      "source": "https://kanko-kasai.com/foodki/yukidori",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://yukidori0615.com/"
+      ]
+    },
+    {
+      "name": "中国自動車道加西SA 下り線 シンエーフーヅ(株)",
+      "municipality": "加西市",
+      "address": "加西市畑町字松尾谷2276-7",
+      "phone": "0790-42-4003",
+      "source": "https://kanko-kasai.com/foodki/shinei",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://r.gnavi.co.jp/chuxh1t90000/"
+      ]
+    },
+    {
+      "name": "中国自動車道加西SA 上り線 加西神姫レストラン とんかつ・うどん 官兵衛",
+      "municipality": "加西市",
+      "address": "加西市畑町字松尾谷2772-6",
+      "phone": "0790-42-4001",
+      "source": "https://kanko-kasai.com/foodki/kanbe",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.shinki-fs.co.jp/category/business/sa_kasai.html"
+      ]
+    },
+    {
+      "name": "ちょびっとKASAI",
+      "municipality": "加西市",
+      "address": "加西市北条町北条142-3",
+      "phone": "090-9870-8511",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "つくし",
+      "municipality": "加西市",
+      "address": "加西市三口町876-1",
+      "phone": "0790-48-4194",
+      "source": "https://kanko-kasai.com/foodki/tsukushi",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "唐から牛旨",
+      "municipality": "加西市",
+      "address": "加西市北条町東南247-12",
+      "phone": "0790-20-7666",
+      "source": "https://kanko-kasai.com/foodki/toukara",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://gyu-ma.com/"
+      ]
+    },
+    {
+      "name": "トリノスケ",
+      "municipality": "加西市",
+      "address": "加西市鶉野町2193",
+      "phone": "0790-21-9049",
+      "source": "https://kanko-kasai.com/foodki/torinosuke",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "花こよみ",
+      "municipality": "加西市",
+      "address": "加西市鶉野町1168-58",
+      "phone": "0790-49-2535",
+      "source": "https://kanko-kasai.com/foodki/hanakoyomi",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "花ようび",
+      "municipality": "加西市",
+      "address": "加西市北条町西高室285-3",
+      "phone": "0790-42-3433",
+      "source": "https://kanko-kasai.com/foodki/hanayoubi",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "はりまのちっちゃな台所",
+      "municipality": "加西市",
+      "address": "加西市北条町北条1097-1",
+      "phone": "0790-33-9771",
+      "source": "https://kanko-kasai.com/foodki/harimano-daidokoro",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "パン処 森庵",
+      "municipality": "加西市",
+      "address": "加西市別府町甲1797-3",
+      "phone": "0790-47-1621",
+      "source": "https://kanko-kasai.com/foodki/morian",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "びーどろはうす",
+      "municipality": "加西市",
+      "address": "加西市北条町東高室78-1",
+      "phone": "0790-43-1445",
+      "source": "https://kanko-kasai.com/foodki/vidro_house",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://msha.ke/vidorohouse/"
+      ]
+    },
+    {
+      "name": "ふく蔵",
+      "municipality": "加西市",
+      "address": "加西市三口町1048",
+      "phone": "0790-48-2005",
+      "source": "https://kanko-kasai.com/foodki/fukukura",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.299.jp",
+        "http://www.299.jp/"
+      ]
+    },
+    {
+      "name": "ブランチカフェ古道ーkomichiー",
+      "municipality": "加西市",
+      "address": "加西市越水町200",
+      "phone": "0790-33-9588",
+      "source": "https://kanko-kasai.com/foodki/komichi",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "フレッシュベーカリー グリム",
+      "municipality": "加西市",
+      "address": "加西市北条町横尾463-1",
+      "phone": "0790-43-0811",
+      "source": "https://kanko-kasai.com/foodki/grimm",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ベーカリー播",
+      "municipality": "加西市",
+      "address": "加西市河内町416-4",
+      "phone": "0790-38-0090",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "北条鉄道応援隊 播磨下里駅の里 ぬくもり亭",
+      "municipality": "加西市",
+      "address": "加西市王子町154-4",
+      "phone": "080-1456-4853",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "本場札幌らーめん 味噌専門 七福",
+      "municipality": "加西市",
+      "address": "加西市北条町横尾1-15-1",
+      "phone": "0790-27-8111",
+      "source": "https://kanko-kasai.com/foodki/shichifuku",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "松葉",
+      "municipality": "加西市",
+      "address": "加西市三口町918",
+      "phone": "0790-48-3664",
+      "source": "https://kanko-kasai.com/foodki/matsuba",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "食彩酒楽かのあ",
+      "municipality": "加西市",
+      "address": "〒675-230 加西市北条町栗田4-5",
+      "phone": "0790-20-5775",
+      "source": "https://kanko-kasai.com/foodki/kanoa",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "豆茶房 紋や",
+      "municipality": "加西市",
+      "address": "加西市北条町横尾1216",
+      "phone": "0790-35-9078",
+      "source": "https://kanko-kasai.com/foodki/monya",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "まんま",
+      "municipality": "加西市",
+      "address": "加西市窪田町476-1",
+      "phone": "",
+      "source": "https://kanko-kasai.com/foodki/zuppa",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "むすび茶屋",
+      "municipality": "加西市",
+      "address": "加西市東笠原町159-1",
+      "phone": "090-9879-6092",
+      "source": "https://kanko-kasai.com/foodki/musubichaya",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉 あさひ",
+      "municipality": "加西市",
+      "address": "加西市笹倉町363-7",
+      "phone": "0790-44-0209",
+      "source": "https://kanko-kasai.com/foodki/asahi",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉 えびすや",
+      "municipality": "加西市",
+      "address": "加西市中西町644-8",
+      "phone": "0790-48-2941",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ebisuya29.com"
+      ]
+    },
+    {
+      "name": "焼肉 上海",
+      "municipality": "加西市",
+      "address": "加西市西谷町242-1",
+      "phone": "0790-42-3996",
+      "source": "https://kanko-kasai.com/foodki/shanhai",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉 味園",
+      "municipality": "加西市",
+      "address": "加西市野田町532-1",
+      "phone": "0790-48-3443",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ゆかいなダイニング ちゃかま~も",
+      "municipality": "加西市",
+      "address": "加西市倉谷町643",
+      "phone": "0790-48-2096",
+      "source": "https://kanko-kasai.com/foodki/tyakamamo",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "らーめん屋",
+      "municipality": "加西市",
+      "address": "加西市北条町古坂6?169",
+      "phone": "080-3861-6454",
+      "source": "https://kanko-kasai.com/foodki/ra-menya",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ラーメン 龍華",
+      "municipality": "加西市",
+      "address": "加西市山枝町480-102",
+      "phone": "0790-47-1240",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "らぁめん 麺屋秀",
+      "municipality": "加西市",
+      "address": "加西市北条町東高室895-1",
+      "phone": "0790-20-1684",
+      "source": "https://kanko-kasai.com/foodki/menya",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "らぴゅた",
+      "municipality": "加西市",
+      "address": "加西市北条町横尾1019-1",
+      "phone": "0790-42-5408",
+      "source": "https://kanko-kasai.com/foodki/laputa",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "りょうちゃんらーめん",
+      "municipality": "加西市",
+      "address": "加西市北条町北条503",
+      "phone": "090-1440-4769",
+      "source": "https://kanko-kasai.com/kanko_member/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "りんごの香",
+      "municipality": "加西市",
+      "address": "加西市桑原田町543-2",
+      "phone": "0790-49-1958",
+      "source": "https://kanko-kasai.com/foodki/ringonokaori",
+      "decision": "パン製造販売が主体で飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "和の遊び ひふみ",
+      "municipality": "加西市",
+      "address": "加西市青野町323-1",
+      "phone": "0790-20-5649",
+      "source": "https://kanko-kasai.com/foodki/hifumi",
       "decision": "暫定候補",
       "websiteLinks": []
     }
