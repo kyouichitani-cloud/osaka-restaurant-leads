@@ -53,5 +53,19 @@
   "もりもり寿し": {"exclude":"広域チェーン店舗"},
   "WIRED": {"exclude":"店舗公式HPを別途確認", "website":"https://dining-restaurant-wired.owst.jp/"},
   "松葉寿司": {"exclude":"店舗公式HPを別途確認", "website":"https://matsubasushi.jp/"},
-  "焼そばセンター 尼崎焼そばセンター店": {"exclude":"広域チェーン店舗で個別Web制作候補から除外"}
+  "焼そばセンター 尼崎焼そばセンター店": {"exclude":"広域チェーン店舗で個別Web制作候補から除外"},
+  "雅苑酒家 本店": {"exclude":"店舗サイトの公開履歴を確認・現況要再確認", "website":"http://www.h2.dion.ne.jp/~gaen"},
+  "友好飯店": {"exclude":"店舗公式サイトを別途確認", "website":"https://yuukouhanntenn.owst.jp/"},
+  "群愛茶餐廳 (グンアイツァツァンティン)": {"exclude":"店舗サイトの公開履歴を確認・現況要再確認", "website":"http://www.gunai-tea.com"},
+  "東栄酒家": {"exclude":"店舗公式サイトを別途確認", "website":"https://toeisyuke.owst.jp/"},
+  "スープカフェすうぷ": {"exclude":"店舗運営ブログの公開履歴を確認・現況要再確認", "website":"https://ameblo.jp/soupcafe-suupu/"},
+  "サン・はーばー": {"exclude":"店舗公式サイトを別途確認", "website":"https://3-harbor.com/"},
+  "Cafe & Bar Kamaneko": {"exclude":"店舗公式サイトを別途確認", "website":"https://kamaneko.net/"},
+  "宝塚 うな智": {"exclude":"運営会社の店舗公式ページを確認", "website":"https://man-ichi.com/store/"},
+  "五穀七福 西宮北口店": {"exclude":"運営会社の店舗公式ページを確認", "website":"https://www.cascade-kobe.co.jp/gokoku/"},
+  "阿古": {"exclude":"店舗公式サイトを別途確認", "website":"https://ako-nishinomiya.jp/sp/index.html"},
+  "珈琲屋 ドリーム": {"exclude":"店舗公式サイトを別途確認", "website":"https://www.cafedream.net/"},
+  "パスタ ピッコラ": {"exclude":"店舗公式サイトを別途確認", "website":"https://www.pastapiccola.com/"},
+  "まどんな": {"exclude":"飲食個店としての対象条件を確認待ち"},
+  "菊うら": {"phone":"06-6411-5025", "phoneSource":"https://r.gnavi.co.jp/cv8dfk5v0000/"}
 }

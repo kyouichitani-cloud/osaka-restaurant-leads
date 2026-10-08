@@ -43,7 +43,10 @@ def classify(links, source_url):
         host = urlparse(href).netloc.lower().removeprefix('www.')
         path = urlparse(href).path.lower()
         if not host or href in seen or host in ('kinosaki-spa.gr.jp', 'sasayama-inshoku.com', 'awajishima-kanko.jp',
-                                                 'sanda-kankou.jp', 'kobe-motomachi.or.jp', 'kansai-tourism-amagasaki.jp'):
+                                                 'sanda-kankou.jp', 'kobe-motomachi.or.jp', 'kansai-tourism-amagasaki.jp',
+                                                 'nankinmachi.or.jp', 'takasago-tavb.com', 'kanko-takarazuka.jp',
+                                                 'kako-navi.jp', 'nishikita.org', 'koshienguchi.net',
+                                                 'sanwahondori.com', 'yashiro-shotengai.jp'):
             continue
         seen.add(href)
         if any(s in host for s in SOCIAL):

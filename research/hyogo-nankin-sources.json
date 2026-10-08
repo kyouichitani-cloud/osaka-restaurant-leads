@@ -1,0 +1,13 @@
+{
+  "authority": "南京町商店街・店舗検索",
+  "url": "https://www.nankinmachi.or.jp/shopguide",
+  "pages": [
+    "https://www.nankinmachi.or.jp/shopguide",
+    "https://www.nankinmachi.or.jp/shopguide?page=2",
+    "https://www.nankinmachi.or.jp/shopguide?page=3",
+    "https://www.nankinmachi.or.jp/shopguide?page=4",
+    "https://www.nankinmachi.or.jp/shopguide?page=5"
+  ],
+  "profiles": 27,
+  "collectedAt": "2026-10-09"
+}

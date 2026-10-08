@@ -1,12 +1,12 @@
 {
   "checkedAt": "2026-10-09",
   "stats": {
-    "profiles": 606,
-    "candidates": 145,
-    "phone": 138,
-    "instagram": 38,
-    "facebook": 17,
-    "hours": 122
+    "profiles": 831,
+    "candidates": 204,
+    "phone": 193,
+    "instagram": 46,
+    "facebook": 18,
+    "hours": 174
   },
   "decisions": [
     {
@@ -6277,6 +6277,2223 @@
       "websiteLinks": [
         "https://matsubasushi.jp/"
       ]
+    },
+    {
+      "name": "龍郷",
+      "municipality": "神戸市",
+      "address": "神戸市中央区栄町通1-3-16チャイナコート2・3F",
+      "phone": "078-391-2937",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/1",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.ryukyo.com"
+      ]
+    },
+    {
+      "name": "堂記號",
+      "municipality": "神戸市",
+      "address": "神戸市中央区栄町通1-3-11",
+      "phone": "078-331-0664",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/11",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://doukigou.com/"
+      ]
+    },
+    {
+      "name": "雅苑酒家 本店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区栄町通2-8-7",
+      "phone": "078-331-8828",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/12",
+      "decision": "店舗サイトの公開履歴を確認・現況要再確認",
+      "websiteLinks": [
+        "http://www.h2.dion.ne.jp/~gaen"
+      ]
+    },
+    {
+      "name": "老祥記",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通1-3-7",
+      "phone": "078-331-7726",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/13",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://roushouki.com",
+        "https://twitter.com/roushoki"
+      ]
+    },
+    {
+      "name": "天獅堂",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通1-2-2",
+      "phone": "078-515-6636",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/15",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.tenshido-kobe.jp"
+      ]
+    },
+    {
+      "name": "上海飯店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通2-5-3",
+      "phone": "078-333-6929",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/18",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.gnavi.co.jp/n3z3vsn30000/?sc_lid=smp_top_01"
+      ]
+    },
+    {
+      "name": "大同行・台湾タンパオ 南京町店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区栄町通1-3-13(1F)",
+      "phone": "078-331-5356",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/19",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://daidoko.net/tanpao",
+        "https://twitter.com/taiwantanpao"
+      ]
+    },
+    {
+      "name": "劉家荘",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通1-4-8",
+      "phone": "078-391-7728",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/2",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ryukasou.com"
+      ]
+    },
+    {
+      "name": "元祖 ぎょうざ苑",
+      "municipality": "神戸市",
+      "address": "神戸市中央区栄町通2-8-11",
+      "phone": "078-331-4096",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/20",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://ganso-gyozaen.jp/",
+        "https://youtube.com/@user-hc6pc5ju1c?si=SP234sbEI9x_cWXk"
+      ]
+    },
+    {
+      "name": "友好飯店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通2-2-3",
+      "phone": "078-391-5365",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/21",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://yuukouhanntenn.owst.jp/"
+      ]
+    },
+    {
+      "name": "京鵬飯店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通2-1-11",
+      "phone": "078-380-2602",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/26",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "YUN YUN",
+      "municipality": "神戸市",
+      "address": "神戸市中央区栄町通1-3-17",
+      "phone": "078-392-2200",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/27",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.k-yunyun.jp/"
+      ]
+    },
+    {
+      "name": "伊藤グリル",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通1-6-6",
+      "phone": "078-331-2818",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/28",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.itogrill.com/"
+      ]
+    },
+    {
+      "name": "皇蘭南京町本店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区栄町2-10-6",
+      "phone": "078-331-6477",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/29",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kobe-kouran.com/"
+      ]
+    },
+    {
+      "name": "神戸牛 吉祥吉",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通2-4-14",
+      "phone": "078-332-1122",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/30",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.koubegyuu.com/",
+        "https://twitter.com/kissho_kichi/"
+      ]
+    },
+    {
+      "name": "香港料理 京華楼",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通1-1-11",
+      "phone": "078-391-7707",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/31",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.rakuten.co.jp/kobe-kaguyahime/",
+        "https://twitter.com/kinkarou7/"
+      ]
+    },
+    {
+      "name": "香港君悦飯店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区栄町通2-8-12",
+      "phone": "078-954-6061",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/33",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.rakuten.co.jp/kobe-kaguyahime/",
+        "https://twitter.com/kunetsuhanten/"
+      ]
+    },
+    {
+      "name": "広東海鮮酒家 鹿鳴荘",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通2-2-2",
+      "phone": "078-391-7625",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/34",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.rakuten.co.jp/kobe-kaguyahime/",
+        "https://twitter.com/rokumeisou7/"
+      ]
+    },
+    {
+      "name": "群愛茶餐廳 (グンアイツァツァンティン)",
+      "municipality": "神戸市",
+      "address": "神戸市中央区栄町通2-6-6",
+      "phone": "078-381-8675",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/35",
+      "decision": "店舗サイトの公開履歴を確認・現況要再確認",
+      "websiteLinks": [
+        "http://www.gunai-tea.com"
+      ]
+    },
+    {
+      "name": "中華旬菜 華鳳",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通2-4-3",
+      "phone": "078-327-0141",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/36",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kobe-kaho.com/"
+      ]
+    },
+    {
+      "name": "神戸コロッケ",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通2-4-1",
+      "phone": "078-321-7010",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/37",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.rockfield.co.jp/brand/kc/"
+      ]
+    },
+    {
+      "name": "昌園",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通1-3-7",
+      "phone": "078-392-3389",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/41",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kobe-shoen.com/"
+      ]
+    },
+    {
+      "name": "民生",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通1-3-3",
+      "phone": "078-331-5435",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/42",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.minsei.net/"
+      ]
+    },
+    {
+      "name": "荟華源 フィーファーヨン",
+      "municipality": "神戸市",
+      "address": "神戸市中央区栄町通1-3-17",
+      "phone": "078-392-3385",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/43",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "エスト・ローヤル",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通1-5-3",
+      "phone": "078-391-5063",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/44",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.estroyal.co.jp/",
+        "https://twitter.com/estroyal/"
+      ]
+    },
+    {
+      "name": "東栄酒家",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通1-3-6",
+      "phone": "078-322-2115",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/45",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://toeisyuke.owst.jp/"
+      ]
+    },
+    {
+      "name": "朋榮",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通2丁目3-1",
+      "phone": "078-391-1307",
+      "source": "https://www.nankinmachi.or.jp/shopguide/detail/9",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.houei-kobe.jp"
+      ]
+    },
+    {
+      "name": "むらたのカステラまんじゅう",
+      "municipality": "高砂市",
+      "address": "高砂市曽根町2299-1",
+      "phone": "090-1246-0063",
+      "source": "https://www.takasago-tavb.com/food/cafe/%e3%82%80%e3%82%89%e3%81%9f%e3%81%ae%e3%82%ab%e3%82%b9%e3%83%86%e3%83%a9%e3%81%be%e3%82%93%e3%81%98%e3%82%85%e3%81%86/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://peraichi.com/landing_pages/view/muratakasuman2/"
+      ]
+    },
+    {
+      "name": "カフェはま茶",
+      "municipality": "高砂市",
+      "address": "高砂市米田町275-27",
+      "phone": "080-9160-8603",
+      "source": "https://www.takasago-tavb.com/food/cafe/%e3%82%ab%e3%83%95%e3%82%a7%e3%81%af%e3%81%be%e8%8c%b6/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "キッサコンノヤ",
+      "municipality": "高砂市",
+      "address": "高砂市高砂町北本町1106-3",
+      "phone": "079-443-1588",
+      "source": "https://www.takasago-tavb.com/food/cafe/%e3%82%ad%e3%83%83%e3%82%b5%e3%80%80%e3%82%b3%e3%83%b3%e3%83%8e%e3%83%a4/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "スープカフェすうぷ",
+      "municipality": "高砂市",
+      "address": "高砂市高砂町細工町1335",
+      "phone": "080-4649-0070",
+      "source": "https://www.takasago-tavb.com/food/cafe/%e3%82%b9%e3%83%bc%e3%83%97%e3%82%ab%e3%83%95%e3%82%a7%e3%81%99%e3%81%86%e3%81%b7/",
+      "decision": "店舗運営ブログの公開履歴を確認・現況要再確認",
+      "websiteLinks": [
+        "https://ameblo.jp/soupcafe-suupu/"
+      ]
+    },
+    {
+      "name": "上田珈琲焙煎所",
+      "municipality": "高砂市",
+      "address": "高砂市高砂町猟師町850",
+      "phone": "080-1525-9774",
+      "source": "https://www.takasago-tavb.com/food/cafe/%e4%b8%8a%e7%94%b0%e7%8f%88%e7%90%b2%e7%84%99%e7%85%8e%e6%89%80/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "路地裏のカフェ KOTI",
+      "municipality": "高砂市",
+      "address": "高砂市高砂町田町465-1",
+      "phone": "080-9126-1712",
+      "source": "https://www.takasago-tavb.com/food/cafe/%e8%b7%af%e5%9c%b0%e8%a3%8f%e3%81%ae%e3%82%ab%e3%83%95%e3%82%a7%e3%80%80koti/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://cafe-koti.com/"
+      ]
+    },
+    {
+      "name": "敬神堂",
+      "municipality": "高砂市",
+      "address": "高砂市阿弥陀町地徳275-8",
+      "phone": "070-4110-3153",
+      "source": "https://www.takasago-tavb.com/food/cafe/%e9%b9%bf%e5%b3%b6%e7%a5%9e%e7%a4%be%e5%90%8d%e7%89%a9%e3%80%8c%e3%81%8b%e3%81%97%e3%82%8f%e3%82%82%e3%81%a1%e6%95%ac%e7%a5%9e%e5%a0%82%e3%80%8d/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "bird street +",
+      "municipality": "高砂市",
+      "address": "高砂市松陽1-9",
+      "phone": "090-9216-7693",
+      "source": "https://www.takasago-tavb.com/food/cafe/birdstreet/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ビジネスホテル有宏",
+      "municipality": "高砂市",
+      "address": "高砂市高砂町浜田町2-9-21(高砂ビジネスホテル有宏1 F)",
+      "phone": "079-443-6711",
+      "source": "https://www.takasago-tavb.com/food/cafe/hotel-yuko/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://hotel-yuko.jp/"
+      ]
+    },
+    {
+      "name": "コーヒー伊保崎",
+      "municipality": "高砂市",
+      "address": "高砂市伊保崎1-23-10",
+      "phone": "079-440-6909",
+      "source": "https://www.takasago-tavb.com/food/cafe/ihozaki/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "kitchen car luna.(ルーナ)",
+      "municipality": "高砂市",
+      "address": "高砂市春日野町2550-3",
+      "phone": "080-5315-3562",
+      "source": "https://www.takasago-tavb.com/food/cafe/kitchen-car-luna-%e3%83%ab%e3%83%bc%e3%83%8a/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "古陰",
+      "municipality": "高砂市",
+      "address": "高砂市高砂町今津町535-1",
+      "phone": "079-490-5311",
+      "source": "https://www.takasago-tavb.com/food/cafe/kokage/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "まどいせん",
+      "municipality": "高砂市",
+      "address": "高砂市高砂町魚町545",
+      "phone": "070-5654-2987",
+      "source": "https://www.takasago-tavb.com/food/cafe/madoisen/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://madoisen.jp/"
+      ]
+    },
+    {
+      "name": "菓茶みきや",
+      "municipality": "高砂市",
+      "address": "高砂市米田町米田872-52",
+      "phone": "079-431-3829",
+      "source": "https://www.takasago-tavb.com/food/cafe/mikiya/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://mikiya888.com/"
+      ]
+    },
+    {
+      "name": "シェ・M・ナガツマ/(有)ナガツマ洋菓子店",
+      "municipality": "高砂市",
+      "address": "高砂市荒井町蓮池3丁目5-5",
+      "phone": "079-442-4227",
+      "source": "https://www.takasago-tavb.com/food/cafe/nagatsuma/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.nagatsuma.jp/"
+      ]
+    },
+    {
+      "name": "Slow cafe toco-toco",
+      "municipality": "高砂市",
+      "address": "高砂市高砂町田町477",
+      "phone": "079-490-3565",
+      "source": "https://www.takasago-tavb.com/food/cafe/slow-cafe%e3%80%80%e3%80%80%e3%80%80%e3%80%80%e3%80%80%e3%80%80%e3%80%80%e3%80%80toco-toco/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        " http://ameblo.jp/toco-toco-sweets"
+      ]
+    },
+    {
+      "name": "季のしずく",
+      "municipality": "高砂市",
+      "address": "高砂市高砂町鍛冶屋町1386",
+      "phone": "080-3800-0429",
+      "source": "https://www.takasago-tavb.com/food/cafe/tokinoshizuku/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tokino-shizuku.com/"
+      ]
+    },
+    {
+      "name": "yellow/籠谷",
+      "municipality": "高砂市",
+      "address": "高砂市荒井町若宮町7-17",
+      "phone": "079-444-2410",
+      "source": "https://www.takasago-tavb.com/food/cafe/yellow/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kagonet.co.jp/yellowcafe/"
+      ]
+    },
+    {
+      "name": "チゴイネルワイゼン",
+      "municipality": "高砂市",
+      "address": "高砂市米田町米田110-1",
+      "phone": "079-432-4336",
+      "source": "https://www.takasago-tavb.com/food/cafe/zigeunerweisen/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "かき幸",
+      "municipality": "高砂市",
+      "address": "高砂市高砂町田町466",
+      "phone": "079-442-0830",
+      "source": "https://www.takasago-tavb.com/food/japanese_food/kakikou/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.restaurant-kakikoh.com/"
+      ]
+    },
+    {
+      "name": "茶そば・穴子 そらまめ",
+      "municipality": "高砂市",
+      "address": "高砂市高砂町鍛冶屋町1416-1(高砂や内)",
+      "phone": "079-443-1735",
+      "source": "https://www.takasago-tavb.com/food/japanese_food/soramame/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://peraichi.com/landing_pages/view/soramame"
+      ]
+    },
+    {
+      "name": "魚伸",
+      "municipality": "高砂市",
+      "address": "高砂市阿弥陀町南池317",
+      "phone": "079-447-2555",
+      "source": "https://www.takasago-tavb.com/food/japanese_food/uoshin/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://takasago-uoshin.owst.jp"
+      ]
+    },
+    {
+      "name": "お好み焼き ふじわら",
+      "municipality": "高砂市",
+      "address": "高砂市曽根町2240-12",
+      "phone": "079-447-7156",
+      "source": "https://www.takasago-tavb.com/food/local_gourmet/%e3%81%8a%e5%a5%bd%e3%81%bf%e7%84%bc%e3%81%8d%e3%80%80%e3%81%b5%e3%81%98%e3%82%8f%e3%82%89/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み焼き ミナミ",
+      "municipality": "高砂市",
+      "address": "高砂市荒井町中新町6-25",
+      "phone": "079-442-4846",
+      "source": "https://www.takasago-tavb.com/food/local_gourmet/%e3%81%8a%e5%a5%bd%e3%81%bf%e7%84%bc%e3%81%8d%e3%80%80%e3%83%9f%e3%83%8a%e3%83%9f/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み焼き 和楽",
+      "municipality": "高砂市",
+      "address": "高砂市松陽1-8-12",
+      "phone": "079-446-0048",
+      "source": "https://www.takasago-tavb.com/food/local_gourmet/%e3%81%8a%e5%a5%bd%e3%81%bf%e7%84%bc%e3%81%8d%e3%80%80%e5%92%8c%e6%a5%bd/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み焼き・たこ焼き クローバー",
+      "municipality": "高砂市",
+      "address": "高砂市緑丘2-1-40 アスパ高砂 1F",
+      "phone": "079-444-3003",
+      "source": "https://www.takasago-tavb.com/food/local_gourmet/%e3%81%8a%e5%a5%bd%e3%81%bf%e7%84%bc%e3%81%8d%e3%83%bb%e3%81%9f%e3%81%93%e7%84%bc%e3%81%8d%e3%80%80%e3%82%af%e3%83%ad%e3%83%bc%e3%83%90%e3%83%bc/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "くろさわお好み焼き店",
+      "municipality": "高砂市",
+      "address": "高砂市北浜町西浜1208-11",
+      "phone": "079-254-1956",
+      "source": "https://www.takasago-tavb.com/food/local_gourmet/%e3%81%8f%e3%82%8d%e3%81%95%e3%82%8f%e3%81%8a%e5%a5%bd%e3%81%bf%e7%84%bc%e3%81%8d%e5%ba%97/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "すし・かつめし一平",
+      "municipality": "高砂市",
+      "address": "高砂市伊保港町1-4-24",
+      "phone": "079-447-0650",
+      "source": "https://www.takasago-tavb.com/food/local_gourmet/%e3%81%99%e3%81%97%e3%83%bb%e3%81%8b%e3%81%a4%e3%82%81%e3%81%97%e4%b8%80%e5%b9%b3/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "本家串焼 忠助",
+      "municipality": "高砂市",
+      "address": "高砂市荒井町扇町11-18",
+      "phone": "079-442-0896",
+      "source": "https://www.takasago-tavb.com/food/local_gourmet/chusuke/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ボンファム",
+      "municipality": "高砂市",
+      "address": "高砂市米田町島60-17",
+      "phone": "079-432-9923",
+      "source": "https://www.takasago-tavb.com/food/western_food/bonfemme/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "クエルナバカ",
+      "municipality": "高砂市",
+      "address": "高砂市松陽4-644-2",
+      "phone": "079-447-2000",
+      "source": "https://www.takasago-tavb.com/food/western_food/cuernavaca/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ブラッスリー ポールロジェ",
+      "municipality": "高砂市",
+      "address": "高砂市高砂町鍛冶屋町1379",
+      "phone": "079-442-5128",
+      "source": "https://www.takasago-tavb.com/food/western_food/polroger/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.eonet.ne.jp/~polroger/brasseie.htm"
+      ]
+    },
+    {
+      "name": "サン・はーばー",
+      "municipality": "高砂市",
+      "address": "高砂市高砂町細工町1358",
+      "phone": "079-443-0007",
+      "source": "https://www.takasago-tavb.com/food/western_food/sunharbor/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://3-harbor.com/"
+      ]
+    },
+    {
+      "name": "アモーレ アベーラ",
+      "municipality": "宝塚市",
+      "address": "宝塚市南口1-9-31 経路表示",
+      "phone": "0797-71-3330",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=128",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://amoreabela.com"
+      ]
+    },
+    {
+      "name": "炭火焼鳥専門店 あみや 宝塚店",
+      "municipality": "宝塚市",
+      "address": "宝塚市栄町1-19-14",
+      "phone": "0797-83-0038",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=192",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.yakitori-amiya.co.jp"
+      ]
+    },
+    {
+      "name": "うろこ",
+      "municipality": "宝塚市",
+      "address": "宝塚市逆瀬川1-11-1 アピア2・1F",
+      "phone": "0797-72-4304",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=193",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "フランス料理 Aubergine",
+      "municipality": "宝塚市",
+      "address": "宝塚市伊孑志1-5-11",
+      "phone": "0797-77-3185",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=194",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み焼き 鉄板焼き 朋",
+      "municipality": "宝塚市",
+      "address": "宝塚市湯本町8-11",
+      "phone": "0797-86-6737",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=195",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://okonomiyaki-tomo.com"
+      ]
+    },
+    {
+      "name": "Cafe & Bar Kamaneko",
+      "municipality": "宝塚市",
+      "address": "宝塚市川面3-23-3 村上ビル1F",
+      "phone": "0797-81-1123",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=196",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://kamaneko.net/"
+      ]
+    },
+    {
+      "name": "Kanya COFFEE 宝塚劇場前店",
+      "municipality": "宝塚市",
+      "address": "宝塚市武庫川町7-14",
+      "phone": "0797-62-7817",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=197",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kanyacoffee.hirose-f.co.jp/"
+      ]
+    },
+    {
+      "name": "Bar domingo",
+      "municipality": "宝塚市",
+      "address": "宝塚市栄町1-1-9",
+      "phone": "0797-86-3905",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=202",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "らーめん もんつきかかか",
+      "municipality": "宝塚市",
+      "address": "宝塚市中筋3-2-10",
+      "phone": "0797-75-9360",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=204",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ラーメン工房「あ」宝塚店",
+      "municipality": "宝塚市",
+      "address": "宝塚市湯本町9-10 ヌーヴェルヴァーグ1F 経路表示",
+      "phone": "0797-84-3330",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=205",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.ramen-a.com"
+      ]
+    },
+    {
+      "name": "鶏処 ゆう",
+      "municipality": "宝塚市",
+      "address": "宝塚市湯本町1-36 1F",
+      "phone": "0797-87-0223",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=206",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.toridokoro-yuu.com"
+      ]
+    },
+    {
+      "name": "石豊亭",
+      "municipality": "宝塚市",
+      "address": "宝塚市南口2-6-22",
+      "phone": "0797-77-8300",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=208",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "創作 お好み焼き とんと",
+      "municipality": "宝塚市",
+      "address": "宝塚市小林3-10-10",
+      "phone": "0797-73-3313",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=209",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "宝塚 しば田",
+      "municipality": "宝塚市",
+      "address": "宝塚市南口2-14-5-201 サンビオラ5番館",
+      "phone": "0797-73-2337",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=212",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "麺や 運",
+      "municipality": "宝塚市",
+      "address": "宝塚市南口2-14-9 ザ・宝塚タワーリベラ1F",
+      "phone": "0797-20-6381",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=213",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Iori日和",
+      "municipality": "宝塚市",
+      "address": "宝塚市大原野北穴虫3-12",
+      "phone": "0797-91-1676",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=217",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ioribiyori.com"
+      ]
+    },
+    {
+      "name": "カトマンドゥカリー PUJA",
+      "municipality": "宝塚市",
+      "address": "宝塚市湯本町11-1 経路表示",
+      "phone": "0797-86-9900",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=218",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://puja.ne.jp"
+      ]
+    },
+    {
+      "name": "カフェテリア フルール",
+      "municipality": "宝塚市",
+      "address": "宝塚市栄町1-1-57 宝塚大劇場",
+      "phone": "0797-85-6260",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=219",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kageki.hankyu.co.jp/theater/takarazuka/fleur.html"
+      ]
+    },
+    {
+      "name": "Café de Voila",
+      "municipality": "宝塚市",
+      "address": "宝塚市武庫川町2-10  NTTビル1階 経路表示",
+      "phone": "0797-86-1111",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=23",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://voila-cafe.com/"
+      ]
+    },
+    {
+      "name": "haru*cafe",
+      "municipality": "宝塚市",
+      "address": "宝塚市南口2-4-12",
+      "phone": "0797-98-6041",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=24",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "サンドウイッチ ルマン 花のみちセルカ店",
+      "municipality": "宝塚市",
+      "address": "宝塚市栄町1-6-2 花のみちセルカ2番館2F",
+      "phone": "0797-85-1200",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=242",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.takarazuka-lemans.com"
+      ]
+    },
+    {
+      "name": "ラーメン魁力屋 宝塚店",
+      "municipality": "宝塚市",
+      "address": "宝塚市金井町21-1",
+      "phone": "0797-87-4777",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=246",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kairikiya.co.jp"
+      ]
+    },
+    {
+      "name": "甘味処 一休",
+      "municipality": "宝塚市",
+      "address": "宝塚市清荒神5-1-8",
+      "phone": "0797-84-0453",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=248",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "そば処 乃乃",
+      "municipality": "宝塚市",
+      "address": "宝塚市清荒神3-13-19",
+      "phone": "0797-87-9687",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=252",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "明月記",
+      "municipality": "宝塚市",
+      "address": "宝塚市雲雀丘山手2-10-11 経路表示",
+      "phone": "072-757-3411",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=261",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://meigetsuki.jp/meigetsuki/"
+      ]
+    },
+    {
+      "name": "日本料理「山茶花」",
+      "municipality": "宝塚市",
+      "address": "宝塚市湯本町9-25 経路表示",
+      "phone": "0797-86-0123",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=269",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.h-wakamizu-sazanka.com/"
+      ]
+    },
+    {
+      "name": "茶寮「心」",
+      "municipality": "宝塚市",
+      "address": "宝塚市玉瀬字イヅリハ1-47 武田尾温泉 紅葉舘 別庭 あざれ 経路表示",
+      "phone": "0797-91-0131",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=270",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.takedao-onsen.jp/"
+      ]
+    },
+    {
+      "name": "畑熊商店",
+      "municipality": "宝塚市",
+      "address": "宝塚市玉瀬字イヅリハ116 経路表示",
+      "phone": "0797-91-0239",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=287",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "宝塚 うな智",
+      "municipality": "宝塚市",
+      "address": "宝塚市南口2丁目14-3 ザ・宝塚タワー1階101",
+      "phone": "0797-73-1510",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=288",
+      "decision": "運営会社の店舗公式ページを確認",
+      "websiteLinks": [
+        "https://man-ichi.com/store/"
+      ]
+    },
+    {
+      "name": "ビュッフェ&カフェレストラン「アンサンブル」",
+      "municipality": "宝塚市",
+      "address": "宝塚市栄町1-1-33 宝塚ホテル2階 経路表示",
+      "phone": "0797-87-1152",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=291",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://www.hankyu-hotel.com/hotel/hh/takarazukahotel/contents/lensemble/"
+      ]
+    },
+    {
+      "name": "三田屋 宝塚店",
+      "municipality": "宝塚市",
+      "address": "宝塚市中筋3丁目135-1 経路表示",
+      "phone": "0797-89-5678",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=298",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kobesandaya.co.jp/restaurant/takarazuka.php"
+      ]
+    },
+    {
+      "name": "サンドウイッチ ルマン 宝塚南口店",
+      "municipality": "宝塚市",
+      "address": "宝塚市南口2丁目12-14 経路表示",
+      "phone": "0797-72-0916",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=300",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.takarazuka-lemans.com"
+      ]
+    },
+    {
+      "name": "サンドウイッチ ルマン 花のみちセルカ店",
+      "municipality": "宝塚市",
+      "address": "宝塚市栄町1-6 花のみちセルカ2番館 2階 経路表示",
+      "phone": "0797-72-0952",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=301",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.takarazuka-lemans.com"
+      ]
+    },
+    {
+      "name": "ひなたぼっこ",
+      "municipality": "宝塚市",
+      "address": "宝塚市玉瀬字イヅリハ104 経路表示",
+      "phone": "080-1143-7771",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=305",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "宝塚TERRACE",
+      "municipality": "宝塚市",
+      "address": "宝塚市切畑字長尾山19-22 経路表示",
+      "phone": "0797-91-1777",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=312",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://takarazukaterrace.com/"
+      ]
+    },
+    {
+      "name": "ラウンジ「ルネサンス」",
+      "municipality": "宝塚市",
+      "address": "宝塚市栄町1-1-33 宝塚ホテル1階 経路表示",
+      "phone": "0797-87-1155",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=73",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://www.hankyu-hotel.com/hotel/hh/takarazukahotel/restaurants/renaissance"
+      ]
+    },
+    {
+      "name": "日本料理「彩羽(いろは)」",
+      "municipality": "宝塚市",
+      "address": "宝塚市栄町1-1-33 宝塚ホテル2階 経路表示",
+      "phone": "0797-87-1153",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=77",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://www.hankyu-hotel.com/hotel/hh/takarazukahotel/contents/iroha/"
+      ]
+    },
+    {
+      "name": "鉄板焼 「風雅」",
+      "municipality": "宝塚市",
+      "address": "宝塚市栄町1-1-33 宝塚ホテル2階 経路表示",
+      "phone": "0797-87-1154",
+      "source": "https://kanko-takarazuka.jp/recommend/eat_detail.php?id=78",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://www.hankyu-hotel.com/hotel/hh/takarazukahotel/contents/fuga/"
+      ]
+    },
+    {
+      "name": "Charming Happy商事株式会社(cafe CHAPPY/民泊たんぽぽ荘)",
+      "municipality": "加古川市",
+      "address": "675-0041 加古川市西神吉町宮前821-43",
+      "phone": "079-432-7480",
+      "source": "https://kako-navi.jp/member/19870.html",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "http://www.cafe-chappy.com/"
+      ]
+    },
+    {
+      "name": "かごの屋 加古川駅前店",
+      "municipality": "加古川市",
+      "address": "675-0066 加古川市加古川町寺家町622",
+      "phone": "079-451-5212",
+      "source": "https://kako-navi.jp/member/20391.html",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "https://www.food-kr.com"
+      ]
+    },
+    {
+      "name": "お食事処 焼肉 牛義",
+      "municipality": "加古川市",
+      "address": "675-0041 加古川市西神吉町宮前863-33",
+      "phone": "079-432-7432",
+      "source": "https://kako-navi.jp/member/20406.html",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "有限会社かき庄",
+      "municipality": "加古川市",
+      "address": "675-0065 兵庫県加古川町篠原町77",
+      "phone": "079-422-2178",
+      "source": "https://kako-navi.jp/member/20453.html",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "http://www.kakisyou.com/"
+      ]
+    },
+    {
+      "name": "まねき加古川本店",
+      "municipality": "加古川市",
+      "address": "675-0031 兵庫県加古川市加古川町北在家2699",
+      "phone": "079-427-7788",
+      "source": "https://kako-navi.jp/member/20469.html",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "味季料理りんどう",
+      "municipality": "加古川市",
+      "address": "675-0038 兵庫県加古川市加古川町木村474-2",
+      "phone": "079-424-8100",
+      "source": "https://kako-navi.jp/member/20538.html",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "http://rindow.co.jp/"
+      ]
+    },
+    {
+      "name": "喫茶カトレア",
+      "municipality": "加古川市",
+      "address": "675-0066 兵庫県加古川市加古川町寺家町657",
+      "phone": "079-422-6807",
+      "source": "https://kako-navi.jp/member/20549.html",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "ナガサワ食品株式会社",
+      "municipality": "加古川市",
+      "address": "675-0103 兵庫県加古川市平岡町高畑490-1",
+      "phone": "078-943-1333",
+      "source": "https://kako-navi.jp/member/20551.html",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "http://www.nagasawa.gr.jp/"
+      ]
+    },
+    {
+      "name": "株式会社大西食品",
+      "municipality": "加古川市",
+      "address": "675-0019 兵庫県加古川市野口町水足130",
+      "phone": "079-426-0550",
+      "source": "https://kako-navi.jp/member/20561.html",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "http://www.oonishifoods.com/"
+      ]
+    },
+    {
+      "name": "かこがわ珈琲店",
+      "municipality": "加古川市",
+      "address": "675-0039 兵庫県加古川市加古川町粟津90-2",
+      "phone": "079-426-2622",
+      "source": "https://kako-navi.jp/member/20570.html",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "https://kakogawa-coffee.com/"
+      ]
+    },
+    {
+      "name": "株式会社ヤマトヤシキ",
+      "municipality": "加古川市",
+      "address": "675-0065 兵庫県加古川市加古川町篠原21-8",
+      "phone": "079-425-1221",
+      "source": "https://kako-navi.jp/member/20576.html",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "http://www.yamatoyashiki.co.jp/"
+      ]
+    },
+    {
+      "name": "西日本高速道路リテール株式会社(店舗:山陽道 白鳥PA 上り線)",
+      "municipality": "加古川市",
+      "address": "671-2246 兵庫県姫路市打越236-2",
+      "phone": "079-267-1458",
+      "source": "https://kako-navi.jp/member/24422.html",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "https://w-retail.co.jp/"
+      ]
+    },
+    {
+      "name": "有限会社きりしま産業(とんかつきりしま)",
+      "municipality": "加古川市",
+      "address": "675-0131 加古川市別府町新野辺1150番地の11",
+      "phone": "079-441-1510",
+      "source": "https://kako-navi.jp/member/24451.html",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "https://tonkatsu-kirishima.co.jp/"
+      ]
+    },
+    {
+      "name": "志方亭",
+      "municipality": "加古川市",
+      "address": "675-0121 兵庫県加古川市別府町新野辺北町6-43",
+      "phone": "079-430-2988",
+      "source": "https://kako-navi.jp/member/24515.html",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "http://shikatatei.com/"
+      ]
+    },
+    {
+      "name": "(有)大一食品",
+      "municipality": "加古川市",
+      "address": "670-0808 姫路市白国2-14-1",
+      "phone": "079-225-0999",
+      "source": "https://kako-navi.jp/member/26110.html",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "株式会社トリドールホールディングス",
+      "municipality": "加古川市",
+      "address": "150-0043 東京都渋谷区道玄坂1-21-1                                          渋谷ソラスタ 19階",
+      "phone": "03-4221-8900",
+      "source": "https://kako-navi.jp/member/27292.html",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://www.toridoll.com/"
+      ]
+    },
+    {
+      "name": "まどんな",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1-1-7 北口グロウスビル1F",
+      "phone": "0798-67-6333",
+      "source": "https://www.nishikita.org/shops/%e3%81%be%e3%81%a9%e3%82%93%e3%81%aa/",
+      "decision": "飲食個店としての対象条件を確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ゆらり屋 じん",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1丁目4−16 カームプラザ北口 B1",
+      "phone": "080-3866-0494",
+      "source": "https://www.nishikita.org/shops/%e3%82%86%e3%82%89%e3%82%8a%e5%b1%8b/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ケンタッキーフライドチキン 西宮北口店",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1-4-9",
+      "phone": "",
+      "source": "https://www.nishikita.org/shops/%e3%82%b1%e3%83%b3%e3%82%bf%e3%83%83%e3%82%ad%e3%83%bc%e3%83%95%e3%83%a9%e3%82%a4%e3%83%89%e3%83%81%e3%82%ad%e3%83%b3%e3%80%80%e8%a5%bf%e5%ae%ae%e5%8c%97%e5%8f%a3%e5%ba%97/",
+      "decision": "小売・広域チェーンの独立飲食個店確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "パティシエ・エイジ・ニッタ",
+      "municipality": "西宮市",
+      "address": "西宮市北口町8-15",
+      "phone": "0798-64-0808",
+      "source": "https://www.nishikita.org/shops/%e3%83%91%e3%83%86%e3%82%a3%e3%82%b7%e3%82%a8%e3%83%bb%e3%82%a8%e3%82%a4%e3%82%b8%e3%83%bb%e3%83%8b%e3%83%83%e3%82%bf/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://patissier-eijinitta.com/"
+      ]
+    },
+    {
+      "name": "串揚げ専門店 かつ源",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1-7-13-101",
+      "phone": "",
+      "source": "https://www.nishikita.org/shops/%e4%b8%b2%e6%8f%9a%e3%81%92%e5%b0%82%e9%96%80%e5%ba%97%e3%80%80%e3%81%8b%e3%81%a4%e6%ba%90/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.katsugen.net/"
+      ]
+    },
+    {
+      "name": "五穀七福 西宮北口店",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1-5-11",
+      "phone": "0798-64-6057",
+      "source": "https://www.nishikita.org/shops/%e4%ba%94%e7%a9%80%e4%b8%83%e7%a6%8f-%e8%a5%bf%e5%ae%ae%e5%8c%97%e5%8f%a3%e5%ba%97/",
+      "decision": "運営会社の店舗公式ページを確認",
+      "websiteLinks": [
+        "https://www.cascade-kobe.co.jp/gokoku/"
+      ]
+    },
+    {
+      "name": "安芸",
+      "municipality": "西宮市",
+      "address": "西宮市南昭和町3-13 安芸ビル",
+      "phone": "0798-67-0281",
+      "source": "https://www.nishikita.org/shops/%e5%ae%89%e8%8a%b8/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "番馬亭",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1-6-7",
+      "phone": "0798-66-0995",
+      "source": "https://www.nishikita.org/shops/%e7%95%aa%e9%a6%ac%e4%ba%ad/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "西北 肉バル 力石",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1-7-1 カサマドンナビル3F",
+      "phone": "050-5484-5676",
+      "source": "https://www.nishikita.org/shops/%e8%a5%bf%e5%8c%97%e3%80%80%e8%82%89%e3%83%90%e3%83%ab%e3%80%80%e5%8a%9b%e7%9f%b3/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://ka8j100.gorp.jp/"
+      ]
+    },
+    {
+      "name": "阿古",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1-6-5 エトレ甲風園1F",
+      "phone": "0798-67-7410",
+      "source": "https://www.nishikita.org/shops/%e9%98%bf%e5%8f%a4/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://ako-nishinomiya.jp/sp/index.html"
+      ]
+    },
+    {
+      "name": "Busy Bee Café",
+      "municipality": "西宮市",
+      "address": "西宮市南昭和町9-12",
+      "phone": "0798-68-1933",
+      "source": "https://www.nishikita.org/shops/busy-bee-cafe/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "アイリッシュPUB カプリシカ",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1-4-15 2F",
+      "phone": "0798-66-5399",
+      "source": "https://www.nishikita.org/shops/capalluisce/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.fujiyagroup.co.jp/capalluisce/"
+      ]
+    },
+    {
+      "name": "珈琲屋 ドリーム",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1-10-1",
+      "phone": "0798-65-9078",
+      "source": "https://www.nishikita.org/shops/coffee_dream/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://www.cafedream.net/"
+      ]
+    },
+    {
+      "name": "飯酒屋 えるえる",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1-9-9",
+      "phone": "0798-65-0571",
+      "source": "https://www.nishikita.org/shops/erueru/",
+      "decision": "小売・広域チェーンの独立飲食個店確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "発酵食 cafe fig plate",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1-12-16 それいゆ甲風園102",
+      "phone": "0798-78-6003",
+      "source": "https://www.nishikita.org/shops/fig-plate/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.fig-beautylab.com/"
+      ]
+    },
+    {
+      "name": "宮崎名物もも炭火焼鳥 ファイアーバード",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1-10-8 B1",
+      "phone": "0798-67-3030",
+      "source": "https://www.nishikita.org/shops/fire_bard/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋ふじや本店",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1-4-9",
+      "phone": "0798-64-5624",
+      "source": "https://www.nishikita.org/shops/fujiya_honten/",
+      "decision": "小売・広域チェーンの独立飲食個店確認待ち",
+      "websiteLinks": [
+        "http://www.fujiyagroup.co.jp/fujiya/"
+      ]
+    },
+    {
+      "name": "パスタ ピッコラ",
+      "municipality": "西宮市",
+      "address": "西宮市南昭和町9-8 パールビル1F",
+      "phone": "0798-66-4098",
+      "source": "https://www.nishikita.org/shops/pasta_piccola/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://www.pastapiccola.com/"
+      ]
+    },
+    {
+      "name": "炭火と酒 千本鶏",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1-4-15",
+      "phone": "0798-66-5355",
+      "source": "https://www.nishikita.org/shops/senbondori/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://senbondori.com/"
+      ]
+    },
+    {
+      "name": "たこまさ 本店",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1-6-9",
+      "phone": "0798-65-9555",
+      "source": "https://www.nishikita.org/shops/takomasa_honten/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "やきとり専門店 鳥半本店",
+      "municipality": "西宮市",
+      "address": "西宮市甲風園1-4-15 1F",
+      "phone": "0798-66-5323",
+      "source": "https://www.nishikita.org/shops/torihan_honten/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.fujiyagroup.co.jp/torihan/"
+      ]
+    },
+    {
+      "name": "アンクルジャム",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-15-9",
+      "phone": "0798-64-5405",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "エトランジェ",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-10-13",
+      "phone": "",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "笑びす",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-9-15",
+      "phone": "0798-31-0366",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "えびす丸",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-4-12",
+      "phone": "",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "縁ぐち",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-9-16",
+      "phone": "0798-63-5158",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "かつ萬",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-4-12",
+      "phone": "0798-65-3015",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "じゃんぼ総本店 甲子園口店",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口2-5-22",
+      "phone": "0798-61-5678",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "小売・広域チェーンの独立飲食個店確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "チキン バル",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-9-14",
+      "phone": "0798-66-1553",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "てんてこ",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-9-16",
+      "phone": "0798-66-0893",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "とり花",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-10-12",
+      "phone": "0798-64-8720",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "鳥芳",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-10-15",
+      "phone": "0798-67-5275",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "小売・広域チェーンの独立飲食個店確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "(有)十一屋",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口2-2-15",
+      "phone": "0798-67-1110",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "小売・広域チェーンの独立飲食個店確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "大阪寿司",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-15-8",
+      "phone": "0798-64-0728",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "NeNe STYLE",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口2-6-22",
+      "phone": "0798-67-8688",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ひじり庵",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-9-16",
+      "phone": "0798-64-3400",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "富士屋",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-9-15",
+      "phone": "0798-64-5888",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "まさやJR甲子園口店",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口2-5-21",
+      "phone": "0798-67-7488",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "小売・広域チェーンの独立飲食個店確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ミホ",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-10-13",
+      "phone": "0798-64-5971",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "麺イズムごえん 甲子園口店口",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口2-2-13",
+      "phone": "0798-61-2120",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "楽が来",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-15-8",
+      "phone": "0798-65-1187",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "町屋酒場「りとも」",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口2-6-23",
+      "phone": "0798-64-4720",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "味の華",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-25-12",
+      "phone": "0798-64-3373",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "カフェシーズ",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-16-8",
+      "phone": "0798-67-0505",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "サカナゴコロ",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口2-17-17",
+      "phone": "0798-66-2260",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ザクロ",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-21-4",
+      "phone": "",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "にしむらはちみつ",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-25-9",
+      "phone": "0798-67-0751",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ひのや",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-21-6",
+      "phone": "0798-65-6319",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "Bar 山谷",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-21-5",
+      "phone": "0798-64-2800",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉問屋 闇市 甲子園口店(FC)",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口2-15-33",
+      "phone": "0798-62-4929",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "カフェズハウス NICCO",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口2-25-39",
+      "phone": "0798-66-5750",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "餃子マルシェ",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-26-8",
+      "phone": "0798-31-7744",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "串カツ一番",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口2-24-22",
+      "phone": "0798-65-9003",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "KENPEI",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口2-24-25",
+      "phone": "0798-63-5322",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "佐藤米穀燃料氷店",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口2-24-22",
+      "phone": "0798-66-2734",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ターメリック",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口2-24-27",
+      "phone": "0798-56-7786",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ダイニングキッチン蝉丸",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口2-24-26",
+      "phone": "0798-78-2955",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ちから餅",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-26-7",
+      "phone": "0798-67-0457",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "Bar noche",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口2-24-23",
+      "phone": "0798-64-1141",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "味の克益(カツマス)",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-20-13",
+      "phone": "0798-67-2915",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み焼き豆狸",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-21-2",
+      "phone": "0798-66-7028",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "OMOM`S KITCHEN",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-17-11",
+      "phone": "0798-66-6800",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "鉄板バル 菜味季(なみき)",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-16-4",
+      "phone": "0798-61-1219",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "キッチン ふき助",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-16-5",
+      "phone": "0798-64-6618",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "呑み処 食べ処 ほたる",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-16-3",
+      "phone": "",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "地酒と炭焼き せいや",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-15-12",
+      "phone": "",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "蕎麦酒屋 ぜんぜん",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-17-18-1",
+      "phone": "0798-68-5855",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "小売・広域チェーンの独立飲食個店確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "立呑み処ちょっと一杯",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-16-1",
+      "phone": "",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "チキチキボンバー源店",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-22-10",
+      "phone": "0798-67-8923",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "和みらーめん",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-17-5",
+      "phone": "0798-63-7532",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ニコニコキッチン西宮中央店",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-20-7",
+      "phone": "0798-61-2915",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "BAR bruno(ブルーノ)",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-16-12",
+      "phone": "0798-55-4152",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "パティスリー彩(いろどり)",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-15-14",
+      "phone": "",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ファイブハーフ",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-17-13",
+      "phone": "0798-63-5170",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "マルショウ",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-17-13",
+      "phone": "0798-77-5868",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "味包(ミーホー)",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-16-16",
+      "phone": "0798-67-1558",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "山田青果店",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-21-15",
+      "phone": "0798-67-0019",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "(株)ライフコーポレーション 甲子園店",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-15-16",
+      "phone": "0798-66-1800",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "酒場 BigCountry(ビックカントリー)",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-16-2",
+      "phone": "0798-67-5007",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "BOBA男爵 de Tea Time",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-16-4",
+      "phone": "0798-81-3609",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "Bon cieL",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口3-17-5-102",
+      "phone": "0798-61-1710",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "名簿の最終更新が2023年のため現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "",
+      "municipality": "西宮市",
+      "address": "西宮市甲子園口三丁目16-16",
+      "phone": "0798-66-4626",
+      "source": "https://www.koshienguchi.net/shop.htm",
+      "decision": "小売・広域チェーンの独立飲食個店確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "連",
+      "municipality": "尼崎市",
+      "address": "尼崎市昭和南通7-178",
+      "phone": "",
+      "source": "https://sanwahondori.com/shop/1010/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋ぽんこつ",
+      "municipality": "尼崎市",
+      "address": "尼崎市昭和南通7-161-2 1階",
+      "phone": "",
+      "source": "https://sanwahondori.com/shop/1111/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "就労継続B型 ドリームBOX",
+      "municipality": "尼崎市",
+      "address": "",
+      "phone": "",
+      "source": "https://sanwahondori.com/shop/127/",
+      "decision": "小売・福祉施設として独立飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "李媽媽のお店",
+      "municipality": "尼崎市",
+      "address": "尼崎市昭和南通7-178-9",
+      "phone": "090-8234-0388",
+      "source": "https://sanwahondori.com/shop/135/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "てんぐ",
+      "municipality": "尼崎市",
+      "address": "尼崎市昭和通7丁目178",
+      "phone": "06-6411-3971",
+      "source": "https://sanwahondori.com/shop/137/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "菊うら",
+      "municipality": "尼崎市",
+      "address": "尼崎市昭和南通6-145",
+      "phone": "06-6411-5025",
+      "source": "https://sanwahondori.com/shop/143/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "MINNA QUAN",
+      "municipality": "尼崎市",
+      "address": "",
+      "phone": "080-6204-3940",
+      "source": "https://sanwahondori.com/shop/144/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "大手橋食堂",
+      "municipality": "尼崎市",
+      "address": "尼崎市昭和南通6-145",
+      "phone": "06-6411-2084",
+      "source": "https://sanwahondori.com/shop/145/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "じゅうす農園",
+      "municipality": "尼崎市",
+      "address": "尼崎市神田北通5-137-9",
+      "phone": "090-6746-6598",
+      "source": "https://sanwahondori.com/shop/146/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://x.com/juicenouen"
+      ]
+    },
+    {
+      "name": "三笠屋",
+      "municipality": "尼崎市",
+      "address": "尼崎市神田北通5-137",
+      "phone": "080-5700-0167",
+      "source": "https://sanwahondori.com/shop/148/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喫茶 国東",
+      "municipality": "尼崎市",
+      "address": "尼崎市昭和南通7-161-2",
+      "phone": "",
+      "source": "https://sanwahondori.com/shop/152/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "アッチャンノカラアゲ×カラアゲトリジュウ",
+      "municipality": "尼崎市",
+      "address": "尼崎市神田北通6-169",
+      "phone": "",
+      "source": "https://sanwahondori.com/shop/158/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鳥さか",
+      "municipality": "尼崎市",
+      "address": "尼崎市神田中通5-193",
+      "phone": "06-6413-1128",
+      "source": "https://sanwahondori.com/shop/160/",
+      "decision": "小売・福祉施設として独立飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ゆうなぎ",
+      "municipality": "尼崎市",
+      "address": "尼崎市神田南通2-45",
+      "phone": "06-6416-7770",
+      "source": "https://sanwahondori.com/shop/164/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "きくや",
+      "municipality": "尼崎市",
+      "address": "尼崎市建家町85",
+      "phone": "06-6411-8487",
+      "source": "https://sanwahondori.com/shop/178/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "日新てんぷら店",
+      "municipality": "尼崎市",
+      "address": "尼崎市建家町83",
+      "phone": "06-6413-2952",
+      "source": "https://sanwahondori.com/shop/185/",
+      "decision": "小売・福祉施設として独立飲食個店の確認待ち",
+      "websiteLinks": [
+        "https://sites.google.com/view/nissintempura/"
+      ]
+    },
+    {
+      "name": "コロンビア",
+      "municipality": "尼崎市",
+      "address": "尼崎市建家町117",
+      "phone": "06-6411-6752",
+      "source": "https://sanwahondori.com/shop/192/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://twitter.com/columbia6752"
+      ]
+    },
+    {
+      "name": "喫茶グリーン",
+      "municipality": "尼崎市",
+      "address": "尼崎市建家町114-3",
+      "phone": "06-6413-9863",
+      "source": "https://sanwahondori.com/shop/198/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "キャベツ焼き元樹",
+      "municipality": "尼崎市",
+      "address": "尼崎市昭和通7丁目234",
+      "phone": "06-6492-5413",
+      "source": "https://sanwahondori.com/shop/88/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鳴瀬工務店",
+      "municipality": "尼崎市",
+      "address": "〒 〒660-0871 尼崎市建家町39",
+      "phone": "",
+      "source": "https://sanwahondori.com/shop/968/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "つくばね亭",
+      "municipality": "加東市",
+      "address": "加東市社357-2",
+      "phone": "0795-42-0227",
+      "source": "https://www.yashiro-shotengai.jp/shop_list.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "有限会社末永商店・料理 末永",
+      "municipality": "加東市",
+      "address": "加東市社735-1",
+      "phone": "0795-42-0202",
+      "source": "https://www.yashiro-shotengai.jp/shop_list.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "いごこち屋 ごうまるさん",
+      "municipality": "加東市",
+      "address": "加東市社1509-1",
+      "phone": "0795-42-9503",
+      "source": "https://www.yashiro-shotengai.jp/shop_list.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋 膳",
+      "municipality": "加東市",
+      "address": "加東市社1140",
+      "phone": "080-8536-0831",
+      "source": "https://www.yashiro-shotengai.jp/shop_list.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋めし とりしげ",
+      "municipality": "加東市",
+      "address": "加東市出水28-2",
+      "phone": "0795-20-2348",
+      "source": "https://www.yashiro-shotengai.jp/shop_list.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ウィステリア",
+      "municipality": "加東市",
+      "address": "加東市家原813-4",
+      "phone": "0795-21-1424",
+      "source": "https://www.yashiro-shotengai.jp/shop_list.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Drink Stand Komati(こまち)",
+      "municipality": "加東市",
+      "address": "加東市社1142-2(小林石油店の店内)",
+      "phone": "0795-42-2025",
+      "source": "https://www.yashiro-shotengai.jp/shop_list.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "中国料理とらいあんぐる",
+      "municipality": "加東市",
+      "address": "加東市社533-12",
+      "phone": "0795-48-1255",
+      "source": "https://www.yashiro-shotengai.jp/shop_list.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "インドネパールダイニングカフェ ムナール社店",
+      "municipality": "加東市",
+      "address": "加東市社533-8",
+      "phone": "0795-27-8338",
+      "source": "https://www.yashiro-shotengai.jp/shop_list.html",
+      "decision": "暫定候補",
+      "websiteLinks": []
     }
   ]
 }
