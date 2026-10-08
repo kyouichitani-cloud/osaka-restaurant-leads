@@ -1,12 +1,12 @@
 {
   "checkedAt": "2026-10-09",
   "stats": {
-    "profiles": 475,
-    "candidates": 114,
-    "phone": 109,
-    "instagram": 29,
-    "facebook": 15,
-    "hours": 97
+    "profiles": 606,
+    "candidates": 145,
+    "phone": 138,
+    "instagram": 38,
+    "facebook": 17,
+    "hours": 122
   },
   "decisions": [
     {
@@ -4985,6 +4985,1297 @@
       "decision": "店舗公式通販HPを別途確認",
       "websiteLinks": [
         "https://ice-up.stores.jp/about"
+      ]
+    },
+    {
+      "name": "おいでや",
+      "municipality": "三田市",
+      "address": "三田市中央町4-24",
+      "phone": "079-564-6665",
+      "source": "https://sanda-kankou.jp/%e3%81%8a%e3%81%84%e3%81%a7%e3%82%84/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.oideya-doisyouten.com/"
+      ]
+    },
+    {
+      "name": "お食事処 よしだや",
+      "municipality": "三田市",
+      "address": "三田市下井沢412",
+      "phone": "079-567-1107",
+      "source": "https://sanda-kankou.jp/%e3%81%8a%e9%a3%9f%e4%ba%8b%e5%87%a6%e3%80%80%e3%82%88%e3%81%97%e3%81%a0%e3%82%84/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.sanda-yoshidaya.jp/"
+      ]
+    },
+    {
+      "name": "ごはん処 大戸屋",
+      "municipality": "三田市",
+      "address": "三田市南が丘1-50-13",
+      "phone": "079-564-0039",
+      "source": "https://sanda-kankou.jp/%e3%81%94%e3%81%af%e3%82%93%e5%87%a6%e3%80%80%e5%a4%a7%e6%88%b8%e5%b1%8b/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ootoya.com/sp/store/detail/002062.html"
+      ]
+    },
+    {
+      "name": "しい茸ランドかさや",
+      "municipality": "三田市",
+      "address": "三田市上相野373",
+      "phone": "079-568-1301",
+      "source": "https://sanda-kankou.jp/%e3%81%97%e3%81%84%e8%8c%b8%e3%83%a9%e3%83%b3%e3%83%89%e3%81%8b%e3%81%95%e3%82%84/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kasaya.net/"
+      ]
+    },
+    {
+      "name": "しい茸園有馬富士",
+      "municipality": "三田市",
+      "address": "三田市大原933",
+      "phone": "079-564-5599",
+      "source": "https://sanda-kankou.jp/%e3%81%97%e3%81%84%e8%8c%b8%e5%9c%92%e6%9c%89%e9%a6%ac%e5%af%8c%e5%a3%ab-2/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.arima-fuji.com/"
+      ]
+    },
+    {
+      "name": "は〜ぶしょっぷ香器",
+      "municipality": "三田市",
+      "address": "三田市木器1570−1",
+      "phone": "079-569-1782",
+      "source": "https://sanda-kankou.jp/%e3%81%af%e3%80%9c%e3%81%b6%e3%81%97%e3%82%87%e3%81%a3%e3%81%b7%e9%a6%99%e5%99%a8/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kouzuki.work"
+      ]
+    },
+    {
+      "name": "カトマンドゥカリー PUJA 三田",
+      "municipality": "三田市",
+      "address": "三田市南が丘2丁目3-27",
+      "phone": "079-565-6200",
+      "source": "https://sanda-kankou.jp/%e3%82%ab%e3%83%88%e3%83%9e%e3%83%b3%e3%83%89%e3%82%a5%e3%82%ab%e3%83%aa%e3%83%bc-%ef%bd%90%ef%bd%95%ef%bd%8a%ef%bd%81-%e4%b8%89%e7%94%b0/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://puja.ne.jp/shop/sanda/"
+      ]
+    },
+    {
+      "name": "ファミリーバル たまねぎあたま",
+      "municipality": "三田市",
+      "address": "三田市西山2-26-6",
+      "phone": "079-551-1220",
+      "source": "https://sanda-kankou.jp/%e3%83%95%e3%82%a1%e3%83%9f%e3%83%aa%e3%83%bc%e3%83%90%e3%83%ab-%e3%81%9f%e3%81%be%e3%81%ad%e3%81%8e%e3%81%82%e3%81%9f%e3%81%be/",
+      "decision": "店舗HPの公開履歴を確認・現況要再確認",
+      "websiteLinks": [
+        "http://www.tamanegi-atama.com/"
+      ]
+    },
+    {
+      "name": "三牛志藍屋",
+      "municipality": "三田市",
+      "address": "三田市中内神915-7",
+      "phone": "079-567-0051",
+      "source": "https://sanda-kankou.jp/%e4%b8%89%e7%89%9b%e5%bf%97%e8%97%8d%e5%b1%8b/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://sandamarusebeefaiya.owst.jp/"
+      ]
+    },
+    {
+      "name": "三田ポーク専門 かつ福",
+      "municipality": "三田市",
+      "address": "三田市福島412",
+      "phone": "079-567-0203",
+      "source": "https://sanda-kankou.jp/%e4%b8%89%e7%94%b0%e3%83%9d%e3%83%bc%e3%82%af%e5%b0%82%e9%96%80%e3%80%80%e3%81%8b%e3%81%a4%e7%a6%8f/",
+      "decision": "運営グループに公式サイトがある",
+      "websiteLinks": [
+        "https://fukusuke-group.com/company/index.html"
+      ]
+    },
+    {
+      "name": "三田屋本店 -やすらぎの郷ー",
+      "municipality": "三田市",
+      "address": "三田市武庫が丘7−5",
+      "phone": "079-564-4151",
+      "source": "https://sanda-kankou.jp/%e4%b8%89%e7%94%b0%e5%b1%8b%e6%9c%ac%e5%ba%97%e3%80%80%ef%bc%8d%e3%82%84%e3%81%99%e3%82%89%e3%81%8e%e3%81%ae%e9%83%b7%e3%83%bc/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://sandaya-honten.co.jp/"
+      ]
+    },
+    {
+      "name": "中国菜 暢叙園(ちゃんしゅうえん)",
+      "municipality": "三田市",
+      "address": "三田市横山町3-8",
+      "phone": "079-558-8181",
+      "source": "https://sanda-kankou.jp/%e4%b8%ad%e5%9b%bd%e8%8f%9c%e3%80%80%e6%9a%a2%e5%8f%99%e5%9c%92%ef%bc%88%e3%81%a1%e3%82%83%e3%82%93%e3%81%97%e3%82%85%e3%81%86%e3%81%88%e3%82%93%ef%bc%89/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "亥の子カフェ",
+      "municipality": "三田市",
+      "address": "",
+      "phone": "050-8889-0667",
+      "source": "https://sanda-kankou.jp/%e4%ba%a5%e3%81%ae%e5%ad%90%e3%82%ab%e3%83%95%e3%82%a7/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "今西松陽園",
+      "municipality": "三田市",
+      "address": "三田市波豆川1215",
+      "phone": "090-2047-1520",
+      "source": "https://sanda-kankou.jp/%e4%bb%8a%e8%a5%bf%e6%9d%be%e9%99%bd%e5%9c%92/",
+      "decision": "兼業農家と移動販売が主体で固定飲食個店ではない",
+      "websiteLinks": []
+    },
+    {
+      "name": "創作串揚 くしん",
+      "municipality": "三田市",
+      "address": " 三田市 駅前町 4-27-C",
+      "phone": "079-565-9488",
+      "source": "https://sanda-kankou.jp/%e5%89%b5%e4%bd%9c%e4%b8%b2%e6%8f%9a%e3%81%92%e3%80%80%e3%81%8f%e3%81%97%e3%82%93/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "https://kushin.owst.jp/"
+      ]
+    },
+    {
+      "name": "創作料理おんぼらぁと",
+      "municipality": "三田市",
+      "address": "三田市下里203",
+      "phone": "079-569-1671",
+      "source": "https://sanda-kankou.jp/%e5%89%b5%e4%bd%9c%e6%96%99%e7%90%86%e3%81%8a%e3%82%93%e3%81%bc%e3%82%89%e3%81%81%e3%81%a8/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.mars.dti.ne.jp/omborato/"
+      ]
+    },
+    {
+      "name": "和味の家 嬌菴",
+      "municipality": "三田市",
+      "address": "三田市高次2−13−9",
+      "phone": "079-563-7077",
+      "source": "https://sanda-kankou.jp/%e5%92%8c%e5%91%b3%e3%81%ae%e5%ae%b6%e3%80%80%e5%ac%8c%e8%8f%b4/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "土佐 こおちや",
+      "municipality": "三田市",
+      "address": "三田市中町2-12",
+      "phone": "079-563-1144",
+      "source": "https://sanda-kankou.jp/%e5%9c%9f%e4%bd%90-%e3%81%93%e3%81%8a%e3%81%a1%e3%82%84-2/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "大正庵",
+      "municipality": "三田市",
+      "address": "三田市福島470−1",
+      "phone": "079-567-0005",
+      "source": "https://sanda-kankou.jp/%e5%a4%a7%e6%ad%a3%e5%ba%b5/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://atcompany.jp/taishouan/"
+      ]
+    },
+    {
+      "name": "嬉らく人",
+      "municipality": "三田市",
+      "address": "三田市相生町1-40 相生スカイパーク1F",
+      "phone": "079-562-2951",
+      "source": "https://sanda-kankou.jp/%e5%ac%89%e3%82%89%e3%81%8f%e4%ba%ba%e3%80%80/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kirakubito.gorp.jp/"
+      ]
+    },
+    {
+      "name": "山獲",
+      "municipality": "三田市",
+      "address": "三田市下槻瀬50−1",
+      "phone": "090-3286-0511",
+      "source": "https://sanda-kankou.jp/%e5%b1%b1%e3%80%80%e7%8d%b2/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "山本カレー研究所",
+      "municipality": "三田市",
+      "address": "キッチンカーでの販売",
+      "phone": "090-5892-7810",
+      "source": "https://sanda-kankou.jp/%e5%b1%b1%e6%9c%ac%e3%82%ab%e3%83%ac%e3%83%bc%e7%a0%94%e7%a9%b6%e6%89%80/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "峠の茶屋 一軒家",
+      "municipality": "三田市",
+      "address": "三田市永沢寺208",
+      "phone": "079-566-0818",
+      "source": "https://sanda-kankou.jp/%e5%b3%a0%e3%81%ae%e8%8c%b6%e5%b1%8b-%e4%b8%80%e8%bb%92%e5%ae%b6/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "手作りピザ&居酒屋 のどか",
+      "municipality": "三田市",
+      "address": "三田市高次2−1−25親和ハイツ1F",
+      "phone": "079-559-0141",
+      "source": "https://sanda-kankou.jp/%e6%89%8b%e4%bd%9c%e3%82%8a%e3%83%94%e3%82%b6%ef%bc%86%e5%b1%85%e9%85%92%e5%b1%8b-%e3%81%ae%e3%81%a9%e3%81%8b/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://nodoka-sanda.com/"
+      ]
+    },
+    {
+      "name": "日本料理ひろ家",
+      "municipality": "三田市",
+      "address": "三田市中町9−6",
+      "phone": "079-562-5519",
+      "source": "https://sanda-kankou.jp/%e6%97%a5%e6%9c%ac%e6%96%99%e7%90%86%e3%81%b2%e3%82%8d%e5%ae%b6/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "日本料理 多恵",
+      "municipality": "三田市",
+      "address": "三田市下深田750−5",
+      "phone": "079-564-5105",
+      "source": "https://sanda-kankou.jp/%e6%97%ac%e5%91%b3%e5%bd%a9%e3%80%85%e3%80%80%e5%a4%9a%e6%81%b5/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ryouri-tae.jp/"
+      ]
+    },
+    {
+      "name": "木器亭",
+      "municipality": "三田市",
+      "address": "三田市木器289−1",
+      "phone": "079-569-0272",
+      "source": "https://sanda-kankou.jp/%e6%9c%a8%e5%99%a8%e4%ba%ad/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "松尾亭",
+      "municipality": "三田市",
+      "address": "三田市下相野357-3",
+      "phone": "079-568-1151",
+      "source": "https://sanda-kankou.jp/%e6%9d%be%e5%b0%be%e4%ba%ad/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "株式会社宝膳",
+      "municipality": "三田市",
+      "address": "宝塚市伊孑志3-15-3",
+      "phone": "090-3866-3018",
+      "source": "https://sanda-kankou.jp/%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e5%ae%9d%e8%86%b3/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "https://t-houzen.com"
+      ]
+    },
+    {
+      "name": "武内製麺(株)",
+      "municipality": "三田市",
+      "address": "三田市南が丘2丁目8",
+      "phone": "079-551-3059",
+      "source": "https://sanda-kankou.jp/%e6%ad%a6%e5%86%85%e8%a3%bd%e9%ba%ba%ef%bc%88%e6%a0%aa%ef%bc%89/",
+      "decision": "固定の独立飲食店としての確認待ち",
+      "websiteLinks": [
+        "https://takeuchiseimen.com/"
+      ]
+    },
+    {
+      "name": "水無月亭",
+      "municipality": "三田市",
+      "address": "三田市永沢寺76番地",
+      "phone": "079-566-0053",
+      "source": "https://sanda-kankou.jp/%e6%b0%b4%e7%84%a1%e6%9c%88%e4%ba%ad/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.shobu.co.jp/"
+      ]
+    },
+    {
+      "name": "炭火焼鳥 地酒 竹とり",
+      "municipality": "三田市",
+      "address": "三田市中央町4-15",
+      "phone": "079-564-1246",
+      "source": "https://sanda-kankou.jp/%e7%82%ad%e7%81%ab%e7%84%bc%e9%b3%a5-%e5%9c%b0%e9%85%92%e3%80%80%e7%ab%b9%e3%81%a8%e3%82%8a/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼き屋 季利呼",
+      "municipality": "三田市",
+      "address": "神戸市北区道場町日下部1830 マルヤマハイツ",
+      "phone": "078-951-1195",
+      "source": "https://sanda-kankou.jp/%e7%84%bc%e3%81%8d%e5%b1%8b%e3%80%80%e5%ad%a3%e5%88%a9%e5%91%bc/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉大門",
+      "municipality": "三田市",
+      "address": "三田市寺村4253−1",
+      "phone": "079-562-5007",
+      "source": "https://sanda-kankou.jp/%e7%84%bc%e8%82%89%e5%a4%a7%e9%96%80/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "カフェ燦々〜さんさん〜",
+      "municipality": "三田市",
+      "address": "神戸市北区長尾町宅原1937-10 1F",
+      "phone": "078-907-5800",
+      "source": "https://sanda-kankou.jp/%e7%94%ba%e5%ae%b6%e3%82%ab%e3%83%95%e3%82%a7%e3%80%80%e7%87%a6%e3%80%85/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "http://machiyacafe-sansan.com/"
+      ]
+    },
+    {
+      "name": "石窯 PIZZA 松本商店",
+      "municipality": "三田市",
+      "address": "",
+      "phone": "090-4288-9069",
+      "source": "https://sanda-kankou.jp/%e7%9f%b3%e7%aa%af-pizza-%e6%9d%be%e6%9c%ac%e5%95%86%e5%ba%97/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "結日和(むすびより)キッチンカー販売",
+      "municipality": "三田市",
+      "address": "",
+      "phone": "090-7479-9574",
+      "source": "https://sanda-kankou.jp/%e7%b5%90%e6%97%a5%e5%92%8c%ef%bc%88%e3%82%80%e3%81%99%e3%81%b3%e3%82%88%e3%82%8a%ef%bc%89%e3%82%ad%e3%83%83%e3%83%81%e3%83%b3%e3%82%ab%e3%83%bc%e8%b2%a9%e5%a3%b2/",
+      "decision": "固定の独立飲食店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "結(musubi)",
+      "municipality": "三田市",
+      "address": "三田市西山2丁目29-5",
+      "phone": "079-508-1884",
+      "source": "https://sanda-kankou.jp/%e7%b5%90%ef%bc%88musubi%ef%bc%89/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "蓴菜遊膳 ぬなわや",
+      "municipality": "三田市",
+      "address": "三田市加茂1093−4",
+      "phone": "079-567-1104",
+      "source": "https://sanda-kankou.jp/%e8%93%b4%e8%8f%9c%e9%81%8a%e8%86%b3-%e3%81%ac%e3%81%aa%e3%82%8f%e3%82%84/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鮨・季節料理 やわらぎ",
+      "municipality": "三田市",
+      "address": "三田市福島428−2",
+      "phone": "079-567-2245",
+      "source": "https://sanda-kankou.jp/%e9%ae%a8%e3%83%bb%e5%ad%a3%e7%af%80%e6%96%99%e7%90%86%e3%80%80%e3%82%84%e3%82%8f%e3%82%89%e3%81%8e/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.e-yawaragi.jp/"
+      ]
+    },
+    {
+      "name": "鶏あえず",
+      "municipality": "三田市",
+      "address": "三田市中央町11-11",
+      "phone": "079-559-2639",
+      "source": "https://sanda-kankou.jp/%e9%b6%8f%e3%81%82%e3%81%88%e3%81%9a/",
+      "decision": "店舗公式HPを別途確認",
+      "websiteLinks": [
+        "https://sanda-toriaezu.owst.jp/"
+      ]
+    },
+    {
+      "name": "鶏の炭火焼 shin",
+      "municipality": "三田市",
+      "address": "",
+      "phone": "090-3036-1226",
+      "source": "https://sanda-kankou.jp/%e9%b6%8f%e3%81%ae%e7%82%ad%e7%81%ab%e7%84%bc-shin/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "TORIKARA STAND",
+      "municipality": "三田市",
+      "address": "西宮市城ヶ堀町6-15",
+      "phone": "0798-22-5277",
+      "source": "https://sanda-kankou.jp/%ef%bd%94%ef%bd%8f%ef%bd%92%ef%bd%89%ef%bd%8b%ef%bd%81%ef%bd%92%ef%bd%81%e3%80%80%ef%bd%93%ef%bd%94%ef%bd%81%ef%bd%8e%ef%bd%84/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "AOZORAto (あおぞらと)キッチンカー販売",
+      "municipality": "三田市",
+      "address": "",
+      "phone": "",
+      "source": "https://sanda-kankou.jp/aozorato-%ef%bc%88%e3%81%82%e3%81%8a%e3%81%9e%e3%82%89%e3%81%a8%ef%bc%89%e3%82%ad%e3%83%83%e3%83%81%e3%83%b3%e3%82%ab%e3%83%bc%e8%b2%a9%e5%a3%b2/",
+      "decision": "固定の独立飲食店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "Bar & Diner Tres",
+      "municipality": "三田市",
+      "address": "三田市中央町10-13-3F",
+      "phone": "079-564-8039",
+      "source": "https://sanda-kankou.jp/bar-diner-tres/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kai-sanda.com/tres.html"
+      ]
+    },
+    {
+      "name": "BARBAR SHOP 8",
+      "municipality": "三田市",
+      "address": "三田市中央町12-7",
+      "phone": "079-562-9950",
+      "source": "https://sanda-kankou.jp/barbar-shop-8/",
+      "decision": "理美容店で飲食個店ではない",
+      "websiteLinks": []
+    },
+    {
+      "name": "Bear’s Cafe",
+      "municipality": "三田市",
+      "address": "",
+      "phone": "090-7096-4063",
+      "source": "https://sanda-kankou.jp/bears-cafe/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "I’ts A Beautiful Day Coffee",
+      "municipality": "三田市",
+      "address": "神戸市北区鹿の子台北町4-8-5 T-REX A5",
+      "phone": "",
+      "source": "https://sanda-kankou.jp/its-a-beautiful-day-coffee/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "kiki キッチン",
+      "municipality": "三田市",
+      "address": "川辺郡猪名川町若葉2-173-111",
+      "phone": "090-4034-8474",
+      "source": "https://sanda-kankou.jp/kiki-%e3%82%ad%e3%83%83%e3%83%81%e3%83%b3/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "LOCO CREPE",
+      "municipality": "三田市",
+      "address": "",
+      "phone": "090-9981-4198",
+      "source": "https://sanda-kankou.jp/loco-crepe/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "Loose",
+      "municipality": "三田市",
+      "address": "三田市中央町11-12",
+      "phone": "",
+      "source": "https://sanda-kankou.jp/loose/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Roast Coffee",
+      "municipality": "三田市",
+      "address": "神戸市北区上津台2-38-23",
+      "phone": "078-762-3823",
+      "source": "https://sanda-kankou.jp/roast%e3%80%80coffee/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "The Truck Cafe by tiny mama(キッチンカー)",
+      "municipality": "三田市",
+      "address": "",
+      "phone": "090-9613-7736",
+      "source": "https://sanda-kankou.jp/the-truck-cafe-by-tiny-mama/",
+      "decision": "固定の独立飲食店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "Eve Cafe(イヴカフェ)",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通3丁目10-4",
+      "phone": "078-333-5208",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/102",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www7a.biglobe.ne.jp/~ADAMandEVE/Evecafe.htm"
+      ]
+    },
+    {
+      "name": "喫茶あじさい〈2F〉",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通1丁目8-5 2F",
+      "phone": "078-392-2525",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/11",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ichibankan.co.jp/"
+      ]
+    },
+    {
+      "name": "神戸風月堂 元町本店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通3丁目3-10",
+      "phone": "078-321-5598",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/120",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kobe-fugetsudo.co.jp/"
+      ]
+    },
+    {
+      "name": "洋麺屋五右衛門 神戸元町店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通1丁目10-4 元町原田ビル1F",
+      "phone": "078-381-8870",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/17",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.yomenya-goemon.com/"
+      ]
+    },
+    {
+      "name": "KOBE BEEF RED ONE(コウベビーフレッドワン)〈2F〉",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通1丁目10-4 元町原田ビル2F",
+      "phone": "078-391-2944",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/18",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.koubegyuu.com/shop/redone/"
+      ]
+    },
+    {
+      "name": "そば処つるてん西店(にしみせ)",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通5丁目7-12",
+      "phone": "078-382-0315",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/187",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喫茶チェリー",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通5丁目8-5",
+      "phone": "078-341-1650",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/196",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "西湖園",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通5丁目8-6",
+      "phone": "090-7761-9952",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/199",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "手打ちうどん 京屋 元町店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通1丁目10-4",
+      "phone": "078-331-1529",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/20",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "カフェテラス ウインドワード",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通5丁目3-14",
+      "phone": "078-341-7380",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/208",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.ne.jp/asahi/windward/kobe/"
+      ]
+    },
+    {
+      "name": "グリル スターシップ",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通5丁目3-14",
+      "phone": "078-341-1548",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/209",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Cerceau de Caya(せしゅうど かや)",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通5丁目3-13",
+      "phone": "078-381-5033",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/211",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://cerceau-de-caya.com/"
+      ]
+    },
+    {
+      "name": "スープカレー専門店 こうき屋〈2F〉",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通5丁目3-8 2F",
+      "phone": "078-777-7786",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/215",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "元祖 豚饅頭 老祥紀",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通5丁目4-16",
+      "phone": "078-341-0434",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/217",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "クラシックサロン・アマデウス〈BF〉",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通5丁目4-8 三木ビル地下",
+      "phone": "078-599-9803",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/226",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.cafe-amadeus.net/"
+      ]
+    },
+    {
+      "name": "さぬきうどん専門店 讃也",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通5丁目5-14",
+      "phone": "078-362-2977",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/227",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "宮本むなし",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通6丁目7-10",
+      "phone": "078-351-0674",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/261",
+      "decision": "広域チェーン店舗で個別Web制作候補から除外",
+      "websiteLinks": []
+    },
+    {
+      "name": "元町ちから餅",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通6丁目3-14",
+      "phone": "078-341-2314",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/276",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "COFFEE Norari&Kurari(ノラリクラリ)",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通6丁目5-15 元町ビル1F",
+      "phone": "078-351-4799",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/277",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://norarikurari0.wixsite.com/coffee"
+      ]
+    },
+    {
+      "name": "純喫茶アルファ",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通6丁目5-12",
+      "phone": "078-341-2025",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/282",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "コーヒーロースト ワンズ",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通5丁目4-8 三木ビル1F",
+      "phone": "078-381-5581",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/308",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://coffeeroast.net/"
+      ]
+    },
+    {
+      "name": "和食・うどん ひろひろ",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通1丁目10-1 ひろひろビル 2F",
+      "phone": "078-333-7675",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/313",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://hirohiro.gorp.jp/"
+      ]
+    },
+    {
+      "name": "はなまるうどん",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通1丁目8-2 2F",
+      "phone": "078-945-8704",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/316",
+      "decision": "広域チェーン店舗で個別Web制作候補から除外",
+      "websiteLinks": [
+        "https://www.hanamaruudon.com/"
+      ]
+    },
+    {
+      "name": "KOBE Joan(コウベ ジョアン)〈2・3F〉",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通5丁目7-9",
+      "phone": "078-361-8998",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/324",
+      "decision": "店舗運営公式サイトを別途確認",
+      "websiteLinks": [
+        "https://www.kobejoan.com/"
+      ]
+    },
+    {
+      "name": "みつは",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通5丁目7-1",
+      "phone": "078-381-8588",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/325",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鶏soba座銀神戸本店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通3丁目10-1",
+      "phone": "078-381-8566",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/336",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.silver-grape.com/"
+      ]
+    },
+    {
+      "name": "神戸ステーキ メリカン",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通5丁目3-16",
+      "phone": "078-381-5790",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/339",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "コメダ珈琲店 神戸元町店〈2F〉",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通2丁目6-6",
+      "phone": "078-392-0511",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/345",
+      "decision": "広域チェーン店舗",
+      "websiteLinks": []
+    },
+    {
+      "name": "STAND GYOUTEN 立ち酒場 魚天",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通3丁目11-3",
+      "phone": "078-595-9389",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/362",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://gyouten-kobe.com/stand/"
+      ]
+    },
+    {
+      "name": "南アルプス八ヶ岳 天然氷のかき氷とふわふわパンケーキ ふわりひめ〈2F〉",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通4丁目6-4",
+      "phone": "078-585-5734",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/371",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ALNUN 神戸大人のCafe & Bar 元町店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通5丁目7-9 1F",
+      "phone": "078-361-8998",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/377",
+      "decision": "同住所の運営関係と独立Webの有無を要確認",
+      "websiteLinks": [
+        "https://www.kobejoan.com/"
+      ]
+    },
+    {
+      "name": "JILY CAFE(ジリーカフェ)",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通4丁目2-22-2",
+      "phone": "078-945-7746",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/395",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "バーガースタンド(仮)",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通4丁目6-7元町ニットルームビル1F",
+      "phone": "078-958-8298",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/401",
+      "decision": "休業・移転・閉店の現況確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "R.Marco(アールマルコ)",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通6丁目5-12",
+      "phone": "078-384-3710",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/402",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ゴールデンカップ神戸",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通3-4-7 神戸プラザホテルウエスト1階",
+      "phone": "078-331-7639",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/408",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://www.goldencupkobe.store/"
+      ]
+    },
+    {
+      "name": "伊藤グリル〈2F〉",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通1丁目6-6 2F",
+      "phone": "078-331-2818",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/41",
+      "decision": "店舗公式HPを別途確認",
+      "websiteLinks": [
+        "https://itogrill.com/"
+      ]
+    },
+    {
+      "name": "神戸芋屋 志のもと元町本店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通3丁目5-9",
+      "phone": "",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/412",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://imoya-shinomoto.com"
+      ]
+    },
+    {
+      "name": "楊國福マーラータン",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通 1-10-3",
+      "phone": "078-384-3828",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/418",
+      "decision": "広域チェーンの公式HPを確認",
+      "websiteLinks": [
+        "https://www.yangguofu-jp.com/"
+      ]
+    },
+    {
+      "name": "天天麻辣烫 神戸元町店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通2丁目6番1号",
+      "phone": "",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/427",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "COSTGO神戸元町店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通2-6-6",
+      "phone": "078-600-2137",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/429",
+      "decision": "食品小売主体で独立飲食個店ではない",
+      "websiteLinks": []
+    },
+    {
+      "name": "回転寿司力丸 神戸元町店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通3丁目5-8",
+      "phone": "078-939-6711",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/430",
+      "decision": "店舗公式HPを確認",
+      "websiteLinks": [
+        "https://www.kaiten-sushi.net/shop/motomachi/"
+      ]
+    },
+    {
+      "name": "toho coffee shop 神戸元町",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通2-2-8",
+      "phone": "078-600-9250",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/433",
+      "decision": "運営会社の公式HPを確認",
+      "websiteLinks": [
+        "https://www.to-ho.co.jp/"
+      ]
+    },
+    {
+      "name": "神戸にしむら珈琲店 元町店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通2丁目6-3",
+      "phone": "078-393-1480",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/48",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kobe-nishimura.jp/"
+      ]
+    },
+    {
+      "name": "カフェ・ド・クリエ 神戸元町店",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通2丁目7-7",
+      "phone": "078-334-7106",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/64",
+      "decision": "広域チェーン店舗",
+      "websiteLinks": []
+    },
+    {
+      "name": "萩原珈琲店 元町サントス",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通2丁目3-12",
+      "phone": "078-331-1079",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/74",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.hagihara-coffee.com/"
+      ]
+    },
+    {
+      "name": "ジェムビル",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通2丁目3-2",
+      "phone": "078-392-1234",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/76",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.gem-building.jp/"
+      ]
+    },
+    {
+      "name": "観音屋",
+      "municipality": "神戸市",
+      "address": "神戸市中央区元町通3丁目9-23",
+      "phone": "078-391-1710",
+      "source": "https://www.kobe-motomachi.or.jp/shop-search/88",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kannonya.co.jp/"
+      ]
+    },
+    {
+      "name": "大貫 本店",
+      "municipality": "尼崎市",
+      "address": "尼崎市神田中通3-29",
+      "phone": "06-6411-9583",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "店舗公式HPを別途確認",
+      "websiteLinks": [
+        "https://www.daikan-honten.com/"
+      ]
+    },
+    {
+      "name": "屋台居酒屋 大阪満マル 尼崎店",
+      "municipality": "尼崎市",
+      "address": "尼崎市神田中通1-2-1 AMASTAAMASEN 1階",
+      "phone": "06-6411-9583",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "広域チェーン店舗で個別Web制作候補から除外",
+      "websiteLinks": []
+    },
+    {
+      "name": "肉酒場にゃぶ",
+      "municipality": "尼崎市",
+      "address": "尼崎市神田中通3丁目58-2",
+      "phone": "06-6480-9678",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "店舗公式HPを別途確認",
+      "websiteLinks": [
+        "https://nikusakaba-nyabu.com/"
+      ]
+    },
+    {
+      "name": "磯丸水産 尼崎中央商店街店",
+      "municipality": "尼崎市",
+      "address": "尼崎市神田中通3-80 1階",
+      "phone": "06-6439-7160",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "広域チェーン店舗で個別Web制作候補から除外",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼そばセンター 尼崎焼そばセンター店",
+      "municipality": "尼崎市",
+      "address": "尼崎市神田中通3-57",
+      "phone": "06-6430-5150",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "広域チェーン店舗で個別Web制作候補から除外",
+      "websiteLinks": []
+    },
+    {
+      "name": "すし半",
+      "municipality": "尼崎市",
+      "address": "尼崎市神田北通2-20",
+      "phone": "06-6411-6839",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "運営会社の店舗公式ページを確認",
+      "websiteLinks": [
+        "https://www.sushihan.co.jp/store/"
+      ]
+    },
+    {
+      "name": "日本料理 つのくに",
+      "municipality": "尼崎市",
+      "address": "尼崎市昭和通2-7-1(都ホテル尼崎内)",
+      "phone": "050-3503-6791",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "鉄板焼 貴布祢",
+      "municipality": "尼崎市",
+      "address": "尼崎市昭和通2-7-1(都ホテル尼崎内)",
+      "phone": "050-3628-4961",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "どんぶり専門店 丼丼亭",
+      "municipality": "尼崎市",
+      "address": "尼崎市神田中通4-164",
+      "phone": "06-6416-3122",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "広域チェーン店舗で個別Web制作候補から除外",
+      "websiteLinks": []
+    },
+    {
+      "name": "RYURYU 阪神尼崎店",
+      "municipality": "尼崎市",
+      "address": "尼崎市神田中通3-29",
+      "phone": "06-6411-1898",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "店舗運営公式サイトを確認",
+      "websiteLinks": [
+        "http://www.ryuryu.co.jp/"
+      ]
+    },
+    {
+      "name": "レストラン アゼリア",
+      "municipality": "尼崎市",
+      "address": "尼崎市昭和通2-7-1(都ホテル尼崎内)",
+      "phone": "050-3628-4964",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "中国料理 四川",
+      "municipality": "尼崎市",
+      "address": "尼崎市昭和通2-7-1(都ホテル尼崎内)",
+      "phone": "050-3628-4976",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ロビーラウンジ ザ・ラウンジ&ケーキショップ",
+      "municipality": "尼崎市",
+      "address": "尼崎市昭和通2-7-1(都ホテル尼崎内)",
+      "phone": "06-6488-4961",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "スカイバー トップ・オブ・ザ・クリスタル",
+      "municipality": "尼崎市",
+      "address": "尼崎市昭和通2-7-1(都ホテル尼崎内)",
+      "phone": "050-3628-4978",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ビアガーデン (びあがーでん)※夏季限定",
+      "municipality": "尼崎市",
+      "address": "尼崎市昭和通2-7-1(都ホテル尼崎内)",
+      "phone": "06-6488-7777",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "希望軒",
+      "municipality": "尼崎市",
+      "address": "尼崎市潮江1-3-4 あまがさきキューズモール内",
+      "phone": "06-6415-6735",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "広域チェーン店舗で個別Web制作候補から除外",
+      "websiteLinks": []
+    },
+    {
+      "name": "とんかつ和幸",
+      "municipality": "尼崎市",
+      "address": "尼崎市潮江1-3-2 あまがさきキューズモール内",
+      "phone": "06-6470-3530",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "広域チェーン店舗で個別Web制作候補から除外",
+      "websiteLinks": []
+    },
+    {
+      "name": "もりもり寿し",
+      "municipality": "尼崎市",
+      "address": "尼崎市潮江1-3-2 あまがさきキューズモール内",
+      "phone": "06-4950-9732",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "広域チェーン店舗",
+      "websiteLinks": []
+    },
+    {
+      "name": "鶴橋風月 尼崎店",
+      "municipality": "尼崎市",
+      "address": "尼崎市潮江1-4-5 アミング潮江プラストいきいき館3階",
+      "phone": "06-6495-1235",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "広域チェーン店舗で個別Web制作候補から除外",
+      "websiteLinks": []
+    },
+    {
+      "name": "鳥貴族 JR尼崎店",
+      "municipality": "尼崎市",
+      "address": "尼崎市潮江1-4-5  アミング潮江プラストいきいき館 3階",
+      "phone": "06-6415-9559",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "広域チェーン店舗で個別Web制作候補から除外",
+      "websiteLinks": []
+    },
+    {
+      "name": "餃子食堂マルケン JR尼崎店",
+      "municipality": "尼崎市",
+      "address": "尼崎市潮江1-4-5 アミング潮江プラストいきいき館3階",
+      "phone": "06-6493-9923",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "広域チェーン店舗で個別Web制作候補から除外",
+      "websiteLinks": []
+    },
+    {
+      "name": "白木屋 JR尼崎北口駅前店",
+      "municipality": "尼崎市",
+      "address": "尼崎市潮江1-4-5  アミング潮江プラストいきいき 館2階",
+      "phone": "06-6492-6788",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "広域チェーン店舗で個別Web制作候補から除外",
+      "websiteLinks": []
+    },
+    {
+      "name": "肴菜や",
+      "municipality": "尼崎市",
+      "address": "尼崎市潮江1丁目4−2 アミング潮江プラスト 201",
+      "phone": "06-6423-7876",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "サイゼリヤ JR尼崎駅前店",
+      "municipality": "尼崎市",
+      "address": "尼崎市潮江1-4-5 アミング潮江プラストいきいき館3階",
+      "phone": "06-6496-5011",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "広域チェーン店舗で個別Web制作候補から除外",
+      "websiteLinks": []
+    },
+    {
+      "name": "Napoli Centrale",
+      "municipality": "尼崎市",
+      "address": "尼崎市潮江1-4-2 アミング潮江プラスト 1階",
+      "phone": "070-9015-4104",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "WIRED",
+      "municipality": "尼崎市",
+      "address": "尼崎市潮江1-4-2 アミング潮江プラスト2階",
+      "phone": "050-5486-2112",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "店舗公式HPを別途確認",
+      "websiteLinks": [
+        "https://dining-restaurant-wired.owst.jp/"
+      ]
+    },
+    {
+      "name": "カフェ & レストラン ウエストリバー",
+      "municipality": "尼崎市",
+      "address": "尼崎市潮江1-4-1(ホテルヴィスキオ尼崎内)",
+      "phone": "06-6491-0603",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "カプリチョーザ",
+      "municipality": "尼崎市",
+      "address": "尼崎市潮江1-3-1あまがさきキューズモール内",
+      "phone": "06-6495-2560",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "広域チェーン店舗で個別Web制作候補から除外",
+      "websiteLinks": []
+    },
+    {
+      "name": "CAFÉ de CRIÉ JR尼崎駅前店",
+      "municipality": "尼崎市",
+      "address": "尼崎市潮江1-4-5 アミング潮江プラストいきいき館1階",
+      "phone": "06-6415-8601",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "広域チェーン店舗で個別Web制作候補から除外",
+      "websiteLinks": []
+    },
+    {
+      "name": "サンマルクカフェ",
+      "municipality": "尼崎市",
+      "address": "尼崎市潮江1-3-1 あまがさきキューズモール内",
+      "phone": "06-6493-7309",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "広域チェーン店舗で個別Web制作候補から除外",
+      "websiteLinks": []
+    },
+    {
+      "name": "松葉寿司",
+      "municipality": "尼崎市",
+      "address": "尼崎市塚口町1丁目13−10",
+      "phone": "06-6422-1234",
+      "source": "https://kansai-tourism-amagasaki.jp/english-menu-available",
+      "decision": "店舗公式HPを別途確認",
+      "websiteLinks": [
+        "https://matsubasushi.jp/"
       ]
     }
   ]

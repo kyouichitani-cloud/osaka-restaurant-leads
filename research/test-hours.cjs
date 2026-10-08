@@ -3,7 +3,7 @@ const assert=require('node:assert/strict');
 
 (async()=>{
   const browser=await chromium.launch({headless:true,channel:'chrome'});
-  for(const [route,total,withHours] of [['/',1306,630],['/kyoto.html',807,266],['/hyogo.html',114,97]]){
+  for(const [route,total,withHours] of [['/',1306,630],['/kyoto.html',807,266],['/hyogo.html',145,122]]){
     const page=await browser.newPage({viewport:{width:1280,height:900}});
     const errors=[];
     page.on('pageerror',e=>errors.push(e.message));

@@ -1,0 +1,13 @@
+{
+  "authority": "神戸元町商店街・お店を探す",
+  "url": "https://www.kobe-motomachi.or.jp/shop-search/category/",
+  "pages": [
+    "https://www.kobe-motomachi.or.jp/shop-search/welcome/search?category=18",
+    "https://www.kobe-motomachi.or.jp/shop-search/welcome/search?category=19",
+    "https://www.kobe-motomachi.or.jp/shop-search/welcome/search?category=20",
+    "https://www.kobe-motomachi.or.jp/shop-search/welcome/search?category=21",
+    "https://www.kobe-motomachi.or.jp/shop-search/welcome/search?category=25"
+  ],
+  "profiles": 47,
+  "collectedAt": "2026-10-09"
+}
