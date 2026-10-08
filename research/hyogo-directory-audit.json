@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-10-06",
+  "checkedAt": "2026-10-09",
   "stats": {
-    "profiles": 198,
-    "candidates": 49,
-    "phone": 46,
-    "instagram": 6,
-    "facebook": 6,
-    "hours": 38
+    "profiles": 475,
+    "candidates": 114,
+    "phone": 109,
+    "instagram": 29,
+    "facebook": 15,
+    "hours": 97
   },
   "decisions": [
     {
@@ -514,8 +514,10 @@
       "address": "姫路市夢前町山之内乙120-1",
       "phone": "",
       "source": "https://www.himeji-kanko.jp/spot/247/",
-      "decision": "暫定候補",
-      "websiteLinks": []
+      "decision": "運営会社の店舗公式ページを確認",
+      "websiteLinks": [
+        "https://www.koudera-herb.jp/hpgen/HPB/shop/shopguide.html"
+      ]
     },
     {
       "name": "夢乃井ダイニング 康貴",
@@ -805,8 +807,10 @@
       "address": "明石市本町1-9-7",
       "phone": "078-945-6994",
       "source": "https://www.yokoso-akashi.jp/facility/460",
-      "decision": "暫定候補",
-      "websiteLinks": []
+      "decision": "店舗運営ブログの公開履歴を確認・現況要再確認",
+      "websiteLinks": [
+        "https://akashisaki.exblog.jp/"
+      ]
     },
     {
       "name": "明石みつぼし",
@@ -2075,6 +2079,2912 @@
       "decision": "丹波市外の所在地",
       "websiteLinks": [
         "https://tokiwado-tanba.jp/"
+      ]
+    },
+    {
+      "name": "三六九蕎麦",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島785",
+      "phone": "070-8513-2623",
+      "source": "https://kinosaki-spa.gr.jp/directory/369soba/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.369soba.com/"
+      ]
+    },
+    {
+      "name": "あきみかん-淳心寛-",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島408",
+      "phone": "0796-20-1439",
+      "source": "https://kinosaki-spa.gr.jp/directory/akimikan/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "海女茶屋",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島80-1",
+      "phone": "0796-32-2854",
+      "source": "https://kinosaki-spa.gr.jp/directory/amadyaya/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋 あまね",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島811",
+      "phone": "0796-32-3616",
+      "source": "https://kinosaki-spa.gr.jp/directory/amane/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "フォレスト(ブックストア・イチ)",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島605",
+      "phone": "090-1893-5621",
+      "source": "https://kinosaki-spa.gr.jp/directory/bookstore-ichi/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://twitter.com/KEha85PjrKgYOlr"
+      ]
+    },
+    {
+      "name": "Cafe & Bar 3RD",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島219",
+      "phone": "070-9292-5073",
+      "source": "https://kinosaki-spa.gr.jp/directory/cafe-bar-3rd/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://3rd.koyado.net/"
+      ]
+    },
+    {
+      "name": "cafeエルベ",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島113",
+      "phone": "0796-32-2818",
+      "source": "https://kinosaki-spa.gr.jp/directory/cafe-erube/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "力餅",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島398",
+      "phone": "0796-32-2206",
+      "source": "https://kinosaki-spa.gr.jp/directory/chikaramochi/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "チャイナ",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島783",
+      "phone": "0796-32-4122",
+      "source": "https://kinosaki-spa.gr.jp/directory/china/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "CREEZAN(クリーザン)城崎本店",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島675-1",
+      "phone": "0796-32-0345",
+      "source": "https://kinosaki-spa.gr.jp/directory/creezan/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.creezan.com/kinosaki/",
+        "http://www.creezan.com/kinosaki/blog"
+      ]
+    },
+    {
+      "name": "かに寿司 大黒屋",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島87",
+      "phone": "0796-32-2728",
+      "source": "https://kinosaki-spa.gr.jp/directory/daikokuya/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "大幸商店",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島130",
+      "phone": "0796-32-3684",
+      "source": "https://kinosaki-spa.gr.jp/directory/daikoshoten/",
+      "decision": "海産物販売が主体で独立飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "但馬デリカ茶屋",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島231",
+      "phone": "0796-32-2655",
+      "source": "https://kinosaki-spa.gr.jp/directory/delicachaya/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kinosaki-chaya.com/"
+      ]
+    },
+    {
+      "name": "ふくとみ",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島367",
+      "phone": "0796-32-3043",
+      "source": "https://kinosaki-spa.gr.jp/directory/fukutomi/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "JAPANESE TEA CAF’E FULUCK (フラック)",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島222",
+      "phone": "0796-32-2705",
+      "source": "https://kinosaki-spa.gr.jp/directory/fuluck/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ふるや物産店",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島429",
+      "phone": "0796-32-2649",
+      "source": "https://kinosaki-spa.gr.jp/directory/furuya/",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "GINAピザ酒場",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島462",
+      "phone": "080-5311-5626",
+      "source": "https://kinosaki-spa.gr.jp/directory/gina%e3%83%94%e3%82%b6%e9%85%92%e5%a0%b4/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "グビガブ",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島646",
+      "phone": "0796-32-4545",
+      "source": "https://kinosaki-spa.gr.jp/directory/gubigabu/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.gubigabu.com/"
+      ]
+    },
+    {
+      "name": "長谷川豆腐店",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島168",
+      "phone": "0796-32-2769",
+      "source": "https://kinosaki-spa.gr.jp/directory/hasegawa-tofu/",
+      "decision": "豆腐・食品販売が主体で独立飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ほしそば",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島122",
+      "phone": "0796-32-3337",
+      "source": "https://kinosaki-spa.gr.jp/directory/hoshisoba/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "かにのやかた いなば鮮魚",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島224",
+      "phone": "0796-32-2253",
+      "source": "https://kinosaki-spa.gr.jp/directory/inaba/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://inabasengyo.wixsite.com/index"
+      ]
+    },
+    {
+      "name": "但馬牛 いろりダイニング 三國",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町 湯島219 2階",
+      "phone": "0796-32-4870",
+      "source": "https://kinosaki-spa.gr.jp/directory/irori-dining-mikuni/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://mikuni.koyado.net/"
+      ]
+    },
+    {
+      "name": "一六八",
+      "municipality": "豊岡市",
+      "address": "豊岡市湯島248",
+      "phone": "0796-32-0106",
+      "source": "https://kinosaki-spa.gr.jp/directory/japanculture/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://japanculture-experience.com/ "
+      ]
+    },
+    {
+      "name": "居酒屋 樹々",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島684",
+      "phone": "0796-32-3239",
+      "source": "https://kinosaki-spa.gr.jp/directory/juju/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ju-ju.seesaa.net/"
+      ]
+    },
+    {
+      "name": "お土産 休憩処 花兆庵",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島411",
+      "phone": "0796-32-3811",
+      "source": "https://kinosaki-spa.gr.jp/directory/kachoan/",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "かど家",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島744-2",
+      "phone": "0796-32-2126",
+      "source": "https://kinosaki-spa.gr.jp/directory/kadoya/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kinosaki-kadoya.com/"
+      ]
+    },
+    {
+      "name": "おけしょう鮮魚の海中苑【駅前店】",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島89",
+      "phone": "0796-29-4832",
+      "source": "https://kinosaki-spa.gr.jp/directory/kaichuen-ekimae/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.okesyo.com/02kaichu/index.html",
+        "http://www.okesyo.com/"
+      ]
+    },
+    {
+      "name": "おけしょう鮮魚の海中苑【本店】",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島132",
+      "phone": "0796-29-4832",
+      "source": "https://kinosaki-spa.gr.jp/directory/kaichuen-honten/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.okesyo.com/02kaichu/index.html",
+        "http://www.okesyo.com/"
+      ]
+    },
+    {
+      "name": "かにやき丸福",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島391(城崎温泉木屋町小路内)",
+      "phone": "090-1595-2467",
+      "source": "https://kinosaki-spa.gr.jp/directory/kaniyaki-marufuku/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "珈琲処きくや",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島93",
+      "phone": "0796-32-4114",
+      "source": "https://kinosaki-spa.gr.jp/directory/kikuya/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Kiman",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島267",
+      "phone": "0796-32-2241",
+      "source": "https://kinosaki-spa.gr.jp/directory/kiman/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kiman.jp/",
+        "https://twitter.com/kiman326110"
+      ]
+    },
+    {
+      "name": "KINOSAKI BURGER",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島83",
+      "phone": "0796-32-2054",
+      "source": "https://kinosaki-spa.gr.jp/directory/kinosaki-burger/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "BURGER&CAFE【城崎ロコ】",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島114",
+      "phone": "0796-32-2349",
+      "source": "https://kinosaki-spa.gr.jp/directory/kinosaki-coffeeclub/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "城崎ジェラートカフェ Chaya",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島857",
+      "phone": "0796-29-4858",
+      "source": "https://kinosaki-spa.gr.jp/directory/kinosakigelatocafechaya/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kinosaki-motoyu.com/spotlist/enjoy/251/"
+      ]
+    },
+    {
+      "name": "城崎スイーツ 本店",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島527",
+      "phone": "0796-32-4040",
+      "source": "https://kinosaki-spa.gr.jp/directory/kinosakisweets/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kinosakisweets.com/"
+      ]
+    },
+    {
+      "name": "響(きょう)",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島79",
+      "phone": "0796-32-3398",
+      "source": "https://kinosaki-spa.gr.jp/directory/kyou/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://twitter.com/wxtrewcruooyscf"
+      ]
+    },
+    {
+      "name": "万作 第二楽章",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島655",
+      "phone": "090-8792-1039",
+      "source": "https://kinosaki-spa.gr.jp/directory/mansaku/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "但馬生蕎麦 ますや",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島654",
+      "phone": "0796-32-2642",
+      "source": "https://kinosaki-spa.gr.jp/directory/masuya/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "城崎珈琲 みはらしテラスカフェ",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島806−1(城崎温泉ロープウェイ山頂)",
+      "phone": "0796-32-3365",
+      "source": "https://kinosaki-spa.gr.jp/directory/miharashi-terrace-cafe/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kinosakicoffee.com/"
+      ]
+    },
+    {
+      "name": "御好み鉄板 萌阿",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島832-1",
+      "phone": "0796-32-4888",
+      "source": "https://kinosaki-spa.gr.jp/directory/moa/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "M’s style なごみ",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島795",
+      "phone": "0796-32-4305",
+      "source": "https://kinosaki-spa.gr.jp/directory/ms-style-nagomi/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kinosaki-nagomi.com/",
+        "http://msstylenagomi.blog71.fc2.com/"
+      ]
+    },
+    {
+      "name": "なごみ家 木長",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島241",
+      "phone": "0796-32-2210",
+      "source": "https://kinosaki-spa.gr.jp/directory/nagomiya-kinaga/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "なな",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島200",
+      "phone": "0796-32-0019",
+      "source": "https://kinosaki-spa.gr.jp/directory/nana/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "コーヒーショップ ノバ",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島121",
+      "phone": "0796-32-2540",
+      "source": "https://kinosaki-spa.gr.jp/directory/nova/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "OFF",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島536",
+      "phone": "0796-21-9083",
+      "source": "https://kinosaki-spa.gr.jp/directory/off/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "おみやげ百選 城崎",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島123",
+      "phone": "0796-29-4881",
+      "source": "https://kinosaki-spa.gr.jp/directory/omiyagehyakusen-kinosaki/",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "をり鶴",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島396",
+      "phone": "0796-32-2203",
+      "source": "https://kinosaki-spa.gr.jp/directory/orizuru/",
+      "decision": "店舗公式HPを別途確認",
+      "websiteLinks": [
+        "https://www.ori-zuru.com/"
+      ]
+    },
+    {
+      "name": "きのさきジュース菜果",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島644",
+      "phone": "",
+      "source": "https://kinosaki-spa.gr.jp/directory/saika/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "桜スタンド",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島601",
+      "phone": "0796-32-2256",
+      "source": "https://kinosaki-spa.gr.jp/directory/sakurastand/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kasugaya.net/"
+      ]
+    },
+    {
+      "name": "さんぽう西村屋本店",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島463-2",
+      "phone": "0796-32-4680",
+      "source": "https://kinosaki-spa.gr.jp/directory/sanpou-nishimuraya/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.sanpou-nishimuraya.com/"
+      ]
+    },
+    {
+      "name": "SNACK Chie",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島200",
+      "phone": "070-8982-3360",
+      "source": "https://kinosaki-spa.gr.jp/directory/snack-chie/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ソフトクリーム専門店 そふと工房",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島397",
+      "phone": "0796-32-2260",
+      "source": "https://kinosaki-spa.gr.jp/directory/softkoubou/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "杉養蜂園 城崎温泉店",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島443",
+      "phone": "0796-32-3938",
+      "source": "https://kinosaki-spa.gr.jp/directory/sugi-bee/",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.0038.co.jp/",
+        "https://twitter.com/sugibeegarden2"
+      ]
+    },
+    {
+      "name": "すけ六",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島660-4",
+      "phone": "0796-32-2487",
+      "source": "https://kinosaki-spa.gr.jp/directory/sukeroku/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.sukeroku.jp/"
+      ]
+    },
+    {
+      "name": "炭火串焼 ふじ",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島524",
+      "phone": "0796-32-2380",
+      "source": "https://kinosaki-spa.gr.jp/directory/sumibi-fuji/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "炭味火処 和る",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島667-1",
+      "phone": "0796-32-3030",
+      "source": "https://kinosaki-spa.gr.jp/directory/sumibi-naru/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "たけなわ",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島203",
+      "phone": "090-9336-2525",
+      "source": "https://kinosaki-spa.gr.jp/directory/takenawa/",
+      "decision": "店舗公式HPを別途確認",
+      "websiteLinks": [
+        "https://kinosaki-takenawa.jp/"
+      ]
+    },
+    {
+      "name": "竹内魚店",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島117",
+      "phone": "0796-32-2350",
+      "source": "https://kinosaki-spa.gr.jp/directory/takeuchi/",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://www.takeuchisakana.shop/",
+        "https://mobile.twitter.com/takeuchi_sakana"
+      ]
+    },
+    {
+      "name": "たまごむし場 まつがみ",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島251",
+      "phone": "090-5158-3724",
+      "source": "https://kinosaki-spa.gr.jp/directory/tamagomushiba/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ときわガーデン",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島788",
+      "phone": "0796-21-9126",
+      "source": "https://kinosaki-spa.gr.jp/directory/tokiwagarden/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tokiwagarden.com/"
+      ]
+    },
+    {
+      "name": "美食遊楽とみや",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島441",
+      "phone": "0796-32-2703",
+      "source": "https://kinosaki-spa.gr.jp/directory/tomiya/",
+      "decision": "店舗公式HPを別途確認",
+      "websiteLinks": [
+        "https://tomiya-1038.com/"
+      ]
+    },
+    {
+      "name": "牛匠上田",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島232",
+      "phone": "0796-32-4129",
+      "source": "https://kinosaki-spa.gr.jp/directory/ueda/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://gyusho-ueda.co.jp/shop/html/"
+      ]
+    },
+    {
+      "name": "うえむら",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島88",
+      "phone": "0796-32-3886",
+      "source": "https://kinosaki-spa.gr.jp/directory/uemura/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "旨いもん亭 こ夢(こゆめ)",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島691",
+      "phone": "0796-32-2695",
+      "source": "https://kinosaki-spa.gr.jp/directory/umaimon-koyume/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋 海猫",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町桃島1261-2",
+      "phone": "0796-32-3702",
+      "source": "https://kinosaki-spa.gr.jp/directory/umineko/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "うな京 / 笑福",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島763",
+      "phone": "0796-37-8431",
+      "source": "https://kinosaki-spa.gr.jp/directory/unakyou-ehu/",
+      "decision": "店舗公式HPを別途確認",
+      "websiteLinks": [
+        "https://kinosaki-unakyo.com/"
+      ]
+    },
+    {
+      "name": "UTSUROI TSUCHIYA ANNEX",
+      "municipality": "豊岡市",
+      "address": " 豊岡市城崎町湯島584-1",
+      "phone": "0796-32-2045",
+      "source": "https://kinosaki-spa.gr.jp/directory/utsuroi-tsuchiya-annex/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "https://utsuroi.co.jp/"
+      ]
+    },
+    {
+      "name": "お食事処 山よし",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島96",
+      "phone": "0796-32-3841",
+      "source": "https://kinosaki-spa.gr.jp/directory/yamayoshi/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://yamayoshi-oyado.com/restaurant/"
+      ]
+    },
+    {
+      "name": "遊庵 城崎",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島203-2",
+      "phone": "090-8886-0886",
+      "source": "https://kinosaki-spa.gr.jp/directory/yuan/",
+      "decision": "店舗公式HPを別途確認",
+      "websiteLinks": [
+        "https://yuan-kinosaki.happytry.org/"
+      ]
+    },
+    {
+      "name": "茶房夢屋",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島90",
+      "phone": "0796-29-4015",
+      "source": "https://kinosaki-spa.gr.jp/directory/yumeya/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ゆしま",
+      "municipality": "豊岡市",
+      "address": "豊岡市城崎町湯島109",
+      "phone": "0796-32-2116",
+      "source": "https://kinosaki-spa.gr.jp/directory/yushima/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "うおけんまえだ",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市大沢新131−5",
+      "phone": "079-594-0111",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e3%81%86%e3%81%8a%e3%81%91%e3%82%93%e3%81%be%e3%81%88%e3%81%a0/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.uoken-maeda.com"
+      ]
+    },
+    {
+      "name": "こんだ薬師温泉ぬくもりの郷",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市今田町今田新田21−10",
+      "phone": "079-590-3377",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e3%81%93%e3%82%93%e3%81%a0%e8%96%ac%e5%b8%ab%e6%b8%a9%e6%b3%89%e3%81%ac%e3%81%8f%e3%82%82%e3%82%8a%e3%81%ae%e9%83%b7/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://yume-konda.com/"
+      ]
+    },
+    {
+      "name": "ささやまホロンピアホテル",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市中野76−4",
+      "phone": "079-594-2611",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e3%81%95%e3%81%95%e3%82%84%e3%81%be%e3%83%9b%e3%83%ad%e3%83%b3%e3%83%94%e3%82%a2%e3%83%9b%e3%83%86%e3%83%ab/",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.holonpia.com/"
+      ]
+    },
+    {
+      "name": "ささ福",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市北新町95−2",
+      "phone": "079-506-3495",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e3%81%95%e3%81%95%e7%a6%8f/",
+      "decision": "店舗HPの公開履歴を確認・現況要再確認",
+      "websiteLinks": [
+        "http://sasafuku.tanbasasayama.info/"
+      ]
+    },
+    {
+      "name": "ひわの蔵",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市丸山42",
+      "phone": "079-552-5560",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e3%81%b2%e3%82%8f%e3%81%ae%e8%94%b5/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://hiwanokura.com/"
+      ]
+    },
+    {
+      "name": "カラオケ歌里坊",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市東岡屋277-4",
+      "phone": "079-552-2223",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1%e6%ad%8c%e9%87%8c%e5%9d%8a/",
+      "decision": "カラオケ施設で独立飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "クラブ観音",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市東吹1142-1",
+      "phone": "079-594-4024",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e3%82%af%e3%83%a9%e3%83%96%e8%a6%b3%e9%9f%b3/",
+      "decision": "クラブ業態で独立飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "クリエイティブ・カフェ",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市黒岡191 丹波篠山市民センタ 1階",
+      "phone": "079-552-7373",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%83%86%e3%82%a3%e3%83%96%e3%83%bb%e3%82%ab%e3%83%95%e3%82%a7/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.withsasayama.jp/cafe/"
+      ]
+    },
+    {
+      "name": "サランバン",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市池上51",
+      "phone": "079-554-3200",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e3%82%b5%e3%83%a9%e3%83%b3%e3%83%90%e3%83%b3/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ドライブイン民宿後川",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市後川上358",
+      "phone": "079-556-2558",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e3%83%89%e3%83%a9%e3%82%a4%e3%83%96%e3%82%a4%e3%83%b3%e5%be%8c%e5%b7%9d/",
+      "decision": "民宿の飲食提供で独立飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "マントラ",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市乾新町181−1",
+      "phone": "079-556-5366",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e3%83%9e%e3%83%b3%e3%83%88%e3%83%a9/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ミモザカフェ",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市黒岡17−7",
+      "phone": "",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e3%83%9f%e3%83%a2%e3%82%b6%e3%82%ab%e3%83%95%e3%82%a7/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ユニトピアささやま",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市矢代231−1",
+      "phone": "079-552-5222",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e3%83%a6%e3%83%8b%e3%83%88%e3%83%94%e3%82%a2%e3%81%95%e3%81%95%e3%82%84%e3%81%be/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://unitopia-sasayama.pgu.or.jp/"
+      ]
+    },
+    {
+      "name": "万為楼",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市日置150",
+      "phone": "079-556-2021",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e4%b8%87%e7%82%ba%e6%a5%bc/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "丹南茶寮",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市味間新92−4",
+      "phone": "079-590-1020",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e4%b8%b9%e5%8d%97%e8%8c%b6%e5%af%ae/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tannansaryou.com/"
+      ]
+    },
+    {
+      "name": "丹波篠山味処 みたけ",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市黒岡683",
+      "phone": "079-552-1385",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e4%b8%b9%e6%b3%a2%e7%af%a0%e5%b1%b1%e5%91%b3%e5%87%a6-%e3%81%bf%e3%81%9f%e3%81%91/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://mitake-sushi.com/"
+      ]
+    },
+    {
+      "name": "丹波篠山囲炉裏料理 いわや",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市火打岩495−1",
+      "phone": "079-552-0702",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e4%b8%b9%e6%b3%a2%e7%af%a0%e5%b1%b1%e5%9b%b2%e7%82%89%e8%a3%8f%e6%96%99%e7%90%86-%e3%81%84%e3%82%8f%e3%82%84/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.iwaya-yosaku.com/"
+      ]
+    },
+    {
+      "name": "丹波篠山郷土料理 懐",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市二階町58",
+      "phone": "079-552-7773",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e4%b8%b9%e6%b3%a2%e7%af%a0%e5%b1%b1%e9%83%b7%e5%9c%9f%e6%96%99%e7%90%86-%e6%87%90/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.tanba-sasayama-kai.com"
+      ]
+    },
+    {
+      "name": "雪岡市郎兵衛洋菓子舗",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市魚屋町13−1",
+      "phone": "079-558-7686",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e4%b8%b9%e6%b3%a2%e7%af%a0%e5%b1%b1-%e9%9b%aa%e5%b2%a1%e5%b8%82%e9%83%8e%e5%85%b5%e8%a1%9b%e6%b4%8b%e8%8f%93%e5%ad%90%e8%88%97/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://la-neige-ashiya.ocnk.net"
+      ]
+    },
+    {
+      "name": "光明工業(株)西紀サービスエリア下り線",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市東木之部1 西紀SA内",
+      "phone": "079-593-1133",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e5%85%89%e6%98%8e%e5%b7%a5%e6%a5%ad%e6%a0%aa%e8%a5%bf%e7%b4%80%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%82%a8%e3%83%aa%e3%82%a2%e4%b8%8b%e3%82%8a%e7%b7%9a/",
+      "decision": "サービスエリア運営で独立飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "割烹うお清",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市日置56-1",
+      "phone": "079-556-2052",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e5%89%b2%e7%83%b9%e3%81%86%e3%81%8a%e6%b8%85/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "創作料理 和(なごみ)",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市東新町106−5",
+      "phone": "079-552-1258",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e5%92%8c%e3%81%aa%e3%81%94%e3%81%bf/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喫茶・スナックメルヘン",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市二階町55-2",
+      "phone": "079-552-0543",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e5%96%ab%e8%8c%b6%e3%83%bb%e3%82%b9%e3%83%8a%e3%83%83%e3%82%af%e3%83%a1%e3%83%ab%e3%83%98%e3%83%b3/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "夛左ヱ門",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市西岡屋209−3",
+      "phone": "079-552-3989",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e5%a4%9b%e5%b7%a6%e3%83%b1%e9%96%80/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "大正ロマン館",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市北新町97",
+      "phone": "",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e5%a4%a7%e6%ad%a3%e3%83%ad%e3%83%9e%e3%83%b3%e9%a4%a8/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://tanbasasayama.hyogo.jp/"
+      ]
+    },
+    {
+      "name": "丹波茶処 安泰庵",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市味間奥162",
+      "phone": "",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e5%ae%89%e6%b3%b0%e5%ba%b5/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://rekishi-kukan.com/index.php?%E5%AE%89%E6%B3%B0%E5%BA%B5%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC"
+      ]
+    },
+    {
+      "name": "牛屋 たなか",
+      "municipality": "丹波篠山市",
+      "address": "丹波兵庫県篠山市東吹1818-9",
+      "phone": "079-590-1133",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e7%89%9b%e5%b1%8b-%e3%81%9f%e3%81%aa%e3%81%8b/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "http://www.tanba-t.co.jp/restaurant/index.html"
+      ]
+    },
+    {
+      "name": "特産館ささやま",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市黒岡70−1",
+      "phone": "079-552-3386",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e7%89%b9%e7%94%a3%e9%a4%a8%e3%81%95%e3%81%95%e3%82%84%e3%81%be/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.tokusankansasayama.com"
+      ]
+    },
+    {
+      "name": "獅子銀",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市今田町下立杭3",
+      "phone": "079-597-2173",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e7%8d%85%e5%ad%90%e9%8a%80/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://shishigin.co.jp/shishigin/"
+      ]
+    },
+    {
+      "name": "箱鮨澤藤",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市東新町15−1",
+      "phone": "079-552-0188",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e7%ae%b1%e9%ae%a8%e6%be%a4%e8%97%a4/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "自然薯庵",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市真南条上947−8",
+      "phone": "079-550-0727",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e8%87%aa%e7%84%b6%e8%96%af%e5%ba%b5/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.eonet.ne.jp/~jinenjyoan/"
+      ]
+    },
+    {
+      "name": "角清",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市二階町52",
+      "phone": "079-552-0279",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e8%a7%92%e6%b8%85/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tourism.sasayama.jp/kadose/"
+      ]
+    },
+    {
+      "name": "青山台ゴルフ倶楽部",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市和田東勝山32−1",
+      "phone": "079-552-4980",
+      "source": "https://sasayama-inshoku.com/2020/04/18/%e9%9d%92%e5%b1%b1%e5%8f%b0%e3%82%b4%e3%83%ab%e3%83%95%e5%80%b6%e6%a5%bd%e9%83%a8/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.aoyamadai.co.jp/"
+      ]
+    },
+    {
+      "name": "cafe inizio",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市東吹513",
+      "phone": "079-594-3366",
+      "source": "https://sasayama-inshoku.com/2020/04/18/cafe-inizio/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "せんぬき家",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市東岡屋80−1",
+      "phone": "079-552-7177",
+      "source": "https://sasayama-inshoku.com/2020/04/25/%e3%81%9b%e3%82%93%e3%81%ac%e3%81%8d%e5%ae%b6/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ひとはな亭",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市西古佐410",
+      "phone": "",
+      "source": "https://sasayama-inshoku.com/2020/04/25/%e3%81%b2%e3%81%a8%e3%81%af%e3%81%aa%e4%ba%ad/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "山里料理 まえ川",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市立町93",
+      "phone": "090-2065-4595",
+      "source": "https://sasayama-inshoku.com/2020/04/25/%e3%81%be%e3%81%88%e5%b7%9d/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://maekawa-sasayama.com/"
+      ]
+    },
+    {
+      "name": "ルナパルパドス",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市今田町上立杭5-18",
+      "phone": "079-550-5009",
+      "source": "https://sasayama-inshoku.com/2020/04/25/%e3%83%ab%e3%83%8a%e3%83%91%e3%83%ab%e3%83%91%e3%83%89%e3%82%b9-2/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "食事処 和多作",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市杉271−3",
+      "phone": "079-509-0355",
+      "source": "https://sasayama-inshoku.com/2020/04/25/%e5%92%8c%e5%a4%9a%e4%bd%9c/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "食事処 山門",
+      "municipality": "丹波篠山市",
+      "address": "篠山市東河地116",
+      "phone": "079-596-0820",
+      "source": "https://sasayama-inshoku.com/2020/04/25/%e5%b1%b1%e9%96%80/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "http://www.4429.jp"
+      ]
+    },
+    {
+      "name": "ねじきそば・時夢館",
+      "municipality": "丹波篠山市",
+      "address": "669-2162 兵庫県丹波篠山市今田町黒石96−8",
+      "phone": "079-597-3364",
+      "source": "https://sasayama-inshoku.com/2020/04/25/%e6%99%82%e5%a4%a2%e9%a4%a8/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "https://timehouse.jp/"
+      ]
+    },
+    {
+      "name": "CASA DEL’AMICI",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市二階町10-2",
+      "phone": "079-558-7950",
+      "source": "https://sasayama-inshoku.com/2020/06/14/casa-delamici/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://casa-del-amici.com/"
+      ]
+    },
+    {
+      "name": "丹波篠山串焼き八兵衛",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市二階町82",
+      "phone": "079-552-0501",
+      "source": "https://sasayama-inshoku.com/2023/06/30/%e4%b8%b9%e6%b3%a2%e7%af%a0%e5%b1%b1%e4%b8%b2%e7%84%bc%e3%81%8d%e5%85%ab%e5%85%b5%e8%a1%9b/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "洋食レストランあんず",
+      "municipality": "丹波篠山市",
+      "address": "丹波篠山市魚屋町15−1",
+      "phone": "079-552-0501",
+      "source": "https://sasayama-inshoku.com/2023/06/30/%e6%b4%8b%e9%a3%9f%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3%e3%81%82%e3%82%93%e3%81%9a/",
+      "decision": "店舗公式通販HPを別途確認",
+      "websiteLinks": [
+        "https://restaurant-anzu.stores.jp/"
+      ]
+    },
+    {
+      "name": "淡路シェフガーデン by PASONA",
+      "municipality": "淡路市",
+      "address": "淡路市野島大川57-3",
+      "phone": "080-8177-4501",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1003",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.pasonagroup.co.jp/chefgarden/"
+      ]
+    },
+    {
+      "name": "オーベルジュ フレンチの森",
+      "municipality": "淡路市",
+      "address": "〒 淡路市楠本字場中2593番地8",
+      "phone": "0799-70-9062",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1004",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "https://www.pasonagroup.co.jp/auberge/"
+      ]
+    },
+    {
+      "name": "VERDE TENERO",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市志知鈩1-10",
+      "phone": "0799-36-0648",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1005",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://verde-tenero.com/"
+      ]
+    },
+    {
+      "name": "サンライズ淡路",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市広田広田1466-1",
+      "phone": "0799-45-1411",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=101",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.sunrise-awaji.com/index.html",
+        "http://www.city.minamiawaji.hyogo.jp/soshiki/shoukou/sanraizuawaji.html"
+      ]
+    },
+    {
+      "name": "TAIYO  COFFEE",
+      "municipality": "淡路市",
+      "address": "淡路市志筑3111-32",
+      "phone": "0799-60-0266",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1012",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.taiyocafe.com/"
+      ]
+    },
+    {
+      "name": "淡路島サクラマスプロモーション実行委員会",
+      "municipality": "",
+      "address": "〒",
+      "phone": "0799-43-5224",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1015",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.awajikoku.com/sakuramasu"
+      ]
+    },
+    {
+      "name": "休暇村南淡路",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良丙870-1",
+      "phone": "0799-52-0291",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=102",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.qkamura.or.jp/awaji/"
+      ]
+    },
+    {
+      "name": "Plants Cafe コハルビヨリ",
+      "municipality": "淡路市",
+      "address": "淡路市久留麻3-1",
+      "phone": "0799-70-1913",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1020",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.koharubiyori2017.com/"
+      ]
+    },
+    {
+      "name": "KUSAKA HOUSE",
+      "municipality": "淡路市",
+      "address": "淡路市深草949-3",
+      "phone": "0799-70-4563",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1021",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://nadenouen.com"
+      ]
+    },
+    {
+      "name": "海鮮料理 きとら(洲本店)",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市山添308-3",
+      "phone": "0799-44-3030",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1023",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kaisenkitora.com/contents/home.html"
+      ]
+    },
+    {
+      "name": "海鮮料理 きとら(津名店)",
+      "municipality": "淡路市",
+      "address": "淡路市中田4139-4 「赤い屋根」産直淡路島内",
+      "phone": "0799-62-1103",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1024",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kaisenkitora.com/contents/home.html"
+      ]
+    },
+    {
+      "name": "海鮮料理 きとら(淡路夢舞台店)",
+      "municipality": "淡路市",
+      "address": "淡路市夢舞台2番地",
+      "phone": "0799-74-5650",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1025",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kaisenkitora.com/contents/home.html"
+      ]
+    },
+    {
+      "name": "渚のリトリート ロキデアワジシマ",
+      "municipality": "淡路市",
+      "address": "淡路市久留麻54-3",
+      "phone": "0799-70-7290",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1028",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://lorchidee-awajishima.com/"
+      ]
+    },
+    {
+      "name": "禅坊 靖寧",
+      "municipality": "淡路市",
+      "address": "淡路市楠本字場中2594-5",
+      "phone": "0799-70-9087",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1034",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://www.zenbo-seinei.com/"
+      ]
+    },
+    {
+      "name": "海神人(アマン)の食卓",
+      "municipality": "淡路市",
+      "address": "淡路市野島常盤1042",
+      "phone": "0799-70-9089",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1035",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://amannoshokutaku.jp/"
+      ]
+    },
+    {
+      "name": "農家レストラン 陽・燦燦",
+      "municipality": "淡路市",
+      "address": "淡路市野島常盤字源八1510-4",
+      "phone": "0799-70-9082",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1036",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://www.awaji-nlr.com/"
+      ]
+    },
+    {
+      "name": "アクアイグニス淡路島",
+      "municipality": "淡路市",
+      "address": "淡路市夢舞台2-28",
+      "phone": "0799-73-6602",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1041",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.aquaignis-awaji.jp/"
+      ]
+    },
+    {
+      "name": "さかな食堂フレッシュきたの",
+      "municipality": "南あわじ市",
+      "address": "兵庫南あわじ市志知佐礼尾256-1",
+      "phone": "0799-38-6757",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1043",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "株式会社Terrace あわじ島アイスクリーム",
+      "municipality": "洲本市",
+      "address": "洲本市本町1丁目1番地40",
+      "phone": "080-2558-6299",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1046",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://awajishima-icecream.com/"
+      ]
+    },
+    {
+      "name": "石窯ピザ丸",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市榎列小榎列409-7",
+      "phone": "0799-20-4092",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1047",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://pizzamaru.jp/"
+      ]
+    },
+    {
+      "name": "Dinig & Bar 彩翔 iroto",
+      "municipality": "洲本市",
+      "address": "洲本市本町1丁目7-19",
+      "phone": "090-3270-1610",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1048",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "土のミュージアムSHIDO(シド)",
+      "municipality": "淡路市",
+      "address": "淡路市多賀2150(近畿壁材工業構内)",
+      "phone": "0799-85-1147",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1051",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://shido.kinkikabezai.com/"
+      ]
+    },
+    {
+      "name": "鮨夢",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市山添262",
+      "phone": "0799-20-4942",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1057",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "waSTEP AWAJISHIMA",
+      "municipality": "淡路市",
+      "address": "淡路市大磯7-2",
+      "phone": "",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1064",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.wastepawajishima.com/shop.html"
+      ]
+    },
+    {
+      "name": "オアシスドッグカフェ",
+      "municipality": "淡路市",
+      "address": "淡路市岩屋2674-3",
+      "phone": "0799-72-0220",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1065",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.awajishimahighwayoasis.com"
+      ]
+    },
+    {
+      "name": "海鮮丼 海坊主",
+      "municipality": "淡路市",
+      "address": "淡路市志筑93-6",
+      "phone": "090-1488-2104",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1068",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "たけのくち食堂",
+      "municipality": "洲本市",
+      "address": "洲本市炬口1丁目1-1",
+      "phone": "090-1488-0063",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1069",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://takenokuchi.com/"
+      ]
+    },
+    {
+      "name": "FrogsFARM(フロッグスファーム)",
+      "municipality": "淡路市",
+      "address": "淡路市郡家1028-1",
+      "phone": "0799-85-0316",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1074",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://frogsfarm.jp/",
+        "https://frogsfarm.jp/eat/picnic-garden/",
+        "https://hotel-the-compact.jp/",
+        "https://frogsfarm.jp/eat/irregular-garage/",
+        "https://sakia.jp/"
+      ]
+    },
+    {
+      "name": "MUKU Marche",
+      "municipality": "淡路市",
+      "address": "淡路市岩屋2951-5",
+      "phone": "0799-73-6229",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1084",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://muku.or.jp/"
+      ]
+    },
+    {
+      "name": "BROQUEL(ブロッケル)",
+      "municipality": "淡路市",
+      "address": "淡路市岩屋925-27 岩屋ポートビル2階",
+      "phone": "050-8881-8108",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1088",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://broquel.jp"
+      ]
+    },
+    {
+      "name": "さの小テラス",
+      "municipality": "淡路市",
+      "address": "淡路市佐野900",
+      "phone": "0799-70-9113",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1089",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://sanosyo.com/"
+      ]
+    },
+    {
+      "name": "AWAJI EARTH MUSEUM",
+      "municipality": "淡路市",
+      "address": "淡路市小倉173 北淡震災記念公園内",
+      "phone": "0799-64-7088",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1094",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://awaji-earth-museum.com/"
+      ]
+    },
+    {
+      "name": "あわじ札の辻ベース",
+      "municipality": "洲本市",
+      "address": "洲本市五色町広石下1459-1",
+      "phone": "090-4907-4755",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1095",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ライダーズ&ドライバーズカフェ なっちゃんキッチン",
+      "municipality": "淡路市",
+      "address": "淡路市楠本1688-5",
+      "phone": "080-3855-2877",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1097",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "海鮮回転寿司 金太郎 東浦店",
+      "municipality": "淡路市",
+      "address": "淡路市浦726-1",
+      "phone": "0799-75-2117",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1098",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://c981902.gorp.jp/"
+      ]
+    },
+    {
+      "name": "淡路島鼓や",
+      "municipality": "淡路市",
+      "address": "淡路市多賀1119-53",
+      "phone": "0799-85-0167",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1101",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://tudumiya.jp",
+        "https://awaji-ecrin.com/"
+      ]
+    },
+    {
+      "name": "焼肉 犇心(うしごころ)",
+      "municipality": "洲本市",
+      "address": "洲本市本町4丁目3-13",
+      "phone": "070-2642-0001",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=1106",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://awajishima-ushigokoro.com/"
+      ]
+    },
+    {
+      "name": "伊毘うずしお村海水浴場 / キャンプ場",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市阿那賀",
+      "phone": "0799-37-9040",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=201",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.city.minamiawaji.hyogo.jp/soshiki/suisan/ibiuzushiomura.html"
+      ]
+    },
+    {
+      "name": "SHIMAUMABURGER  manmen 国衙店",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市神代國衙1087-1",
+      "phone": "0799-42-7700",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=220",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.good-people.co.jp/"
+      ]
+    },
+    {
+      "name": "ウェルネスパーク五色・高田屋嘉兵衛公園",
+      "municipality": "洲本市",
+      "address": "洲本市五色町都志1087",
+      "phone": "0799-33-1600",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=221",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.takataya.jp/"
+      ]
+    },
+    {
+      "name": "淡路ごちそう館「御食国」",
+      "municipality": "洲本市",
+      "address": "洲本市塩屋1-1-8",
+      "phone": "0799-26-1133",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=238",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.miketsu.jp/",
+        "http://www.awa-gyu.net/",
+        "http://www.miketsu.jp/mikesmart/"
+      ]
+    },
+    {
+      "name": "割烹寿司 福一",
+      "municipality": "洲本市",
+      "address": "洲本市本町1-4-18",
+      "phone": "0799-22-0515",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=255",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://localplace.jp/t100329323/"
+      ]
+    },
+    {
+      "name": "グッドピープル株式会社",
+      "municipality": "洲本市",
+      "address": "洲本市宇山",
+      "phone": "0799-23-3000",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=259",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.good-people.co.jp/"
+      ]
+    },
+    {
+      "name": "あわじ花山水",
+      "municipality": "洲本市",
+      "address": "洲本市千草戊60 竹原貯水池上流",
+      "phone": "080-2367-0536",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=269",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.awajihanasansui.com/"
+      ]
+    },
+    {
+      "name": "ウェルネスパーク五色 浜千鳥",
+      "municipality": "洲本市",
+      "address": "洲本市五色町都志1087",
+      "phone": "0799-33-1600",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=270",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.takataya.jp/"
+      ]
+    },
+    {
+      "name": "民宿 厚浜",
+      "municipality": "洲本市",
+      "address": "洲本市中川原町厚浜1117-1",
+      "phone": "0799-28-0150",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=293",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.mjnet.ne.jp/atsuhama/"
+      ]
+    },
+    {
+      "name": "淡路島 料理旅館 日月館",
+      "municipality": "洲本市",
+      "address": "洲本市由良3丁目8-9",
+      "phone": "0799-27-0105",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=303",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://nichigetsukan.com/"
+      ]
+    },
+    {
+      "name": "ホテルニューアワジ",
+      "municipality": "洲本市",
+      "address": "洲本市小路谷20",
+      "phone": "",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=304",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.newawaji.com/"
+      ]
+    },
+    {
+      "name": "うずの丘 大鳴門橋記念館・うずしお科学館",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良丙936-3",
+      "phone": "0799-52-2888",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=32",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kinen.uzunokuni.com/"
+      ]
+    },
+    {
+      "name": "洲本温泉 エトワール生石",
+      "municipality": "洲本市",
+      "address": "洲本市由良町由良2605-1",
+      "phone": "0799-25-7033",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=328",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://etoile-oishi.com/",
+        "http://etoile-oishi.com/bbq.html"
+      ]
+    },
+    {
+      "name": "株式会社 新島水産",
+      "municipality": "洲本市",
+      "address": "洲本市由良町由良2581",
+      "phone": "0799-27-1786",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=334",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.awajisima.jp/"
+      ]
+    },
+    {
+      "name": "道の駅福良・うずしおドームなないろ館",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良甲1528-4地先",
+      "phone": "0799-52-2336",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=34",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "淡路ハイウェイオアシス",
+      "municipality": "淡路市",
+      "address": "淡路市岩屋大林2674-3",
+      "phone": "0799-72-0220",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=365",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.awajishimahighwayoasis.com/"
+      ]
+    },
+    {
+      "name": "淡路島国営明石海峡公園",
+      "municipality": "淡路市",
+      "address": "淡路市夢舞台8-10",
+      "phone": "0799-72-2000",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=370",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://awaji-kaikyopark.kkr.mlit.go.jp/"
+      ]
+    },
+    {
+      "name": "淡路大磯アート山 大石可久也美術館",
+      "municipality": "淡路市",
+      "address": "淡路市楠本2159",
+      "phone": "0799-74-5565",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=371",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.eonet.ne.jp/~artyama/index.htm"
+      ]
+    },
+    {
+      "name": "あわじ花さじき",
+      "municipality": "淡路市",
+      "address": "淡路市楠本2805-7",
+      "phone": "0799-74-6426",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=377",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://awajihanasajiki.jp/"
+      ]
+    },
+    {
+      "name": "県立淡路景観園芸学校",
+      "municipality": "淡路市",
+      "address": "淡路市野島常盤954-2",
+      "phone": "0799-82-3131",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=379",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.awaji.ac.jp/"
+      ]
+    },
+    {
+      "name": "あわ路飯店 真心 (マミー)",
+      "municipality": "淡路市",
+      "address": "淡路市富島1660",
+      "phone": "0799-82-0219",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=405",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "活魚料理 いちじろう",
+      "municipality": "淡路市",
+      "address": "淡路市富島998",
+      "phone": "0799-82-2382",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=406",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "麺乃匠 いづも庵",
+      "municipality": "淡路市",
+      "address": "淡路市志筑3522-1",
+      "phone": "0799-62-6002",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=407",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.izumoan.info/index.html"
+      ]
+    },
+    {
+      "name": "旬香 魚佐太",
+      "municipality": "淡路市",
+      "address": "淡路市志筑1554-1",
+      "phone": "0799-62-3100",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=408",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "明石焼 志田",
+      "municipality": "淡路市",
+      "address": "淡路市富島1993",
+      "phone": "0799-82-0402",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=412",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "食房NICE(ニース)",
+      "municipality": "淡路市",
+      "address": "淡路市野島蟇浦157-1",
+      "phone": "0799-82-2880",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=413",
+      "decision": "店舗公式HPを別途確認",
+      "websiteLinks": [
+        "https://r.goope.jp/syokubounice/"
+      ]
+    },
+    {
+      "name": "寿司一",
+      "municipality": "淡路市",
+      "address": "淡路市志筑1193-1",
+      "phone": "0799-62-3312",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=414",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.susiichi.com/"
+      ]
+    },
+    {
+      "name": "創作 うどん家 ぜん丸",
+      "municipality": "淡路市",
+      "address": "淡路市志筑1170-1",
+      "phone": "0799-62-4834",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=415",
+      "decision": "店舗HPの公開履歴を確認・現況要再確認",
+      "websiteLinks": [
+        "https://www.eonet.ne.jp/~zenmaru/topr.htm"
+      ]
+    },
+    {
+      "name": "寿司 活魚料理 鳴門ト",
+      "municipality": "淡路市",
+      "address": "淡路市浅野南282-1",
+      "phone": "0799-82-2710",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=416",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "レストラン大公",
+      "municipality": "淡路市",
+      "address": "淡路市志筑2821-1",
+      "phone": "0799-62-0639",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=419",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.taico.sakura.ne.jp/"
+      ]
+    },
+    {
+      "name": "淡路カントリーガーデン",
+      "municipality": "淡路市",
+      "address": "淡路市野島常盤1463-6",
+      "phone": "0799-82-2953",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=423",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://awaji-garden.jp/"
+      ]
+    },
+    {
+      "name": "道の駅あわじ/松帆アンカレイジパーク",
+      "municipality": "淡路市",
+      "address": "淡路市岩屋1873-1",
+      "phone": "0799-72-0001",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=424",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://michi-awaji.co.jp/"
+      ]
+    },
+    {
+      "name": "パルシェ香りの館/香りの湯",
+      "municipality": "淡路市",
+      "address": "淡路市尾崎3025-1",
+      "phone": "0799-85-1162",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=425",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.parchez.co.jp/"
+      ]
+    },
+    {
+      "name": "あわじ花の歳時記園",
+      "municipality": "淡路市",
+      "address": "淡路市長沢247-1",
+      "phone": "0799-64-0847",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=427",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ajisaien.net/"
+      ]
+    },
+    {
+      "name": "淡路ワールドパークONOKORO",
+      "municipality": "淡路市",
+      "address": "淡路市塩田新島8-5",
+      "phone": "0799-62-1192",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=428",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.onokoro.jp/",
+        "https://www.onokoro.jp/restaurant/market/"
+      ]
+    },
+    {
+      "name": "美湯 松帆の郷",
+      "municipality": "淡路市",
+      "address": "淡路市岩屋3570-77",
+      "phone": "0799-73-2333",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=430",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://matsuho.com/"
+      ]
+    },
+    {
+      "name": "北淡震災記念公園",
+      "municipality": "淡路市",
+      "address": "淡路市小倉177",
+      "phone": "0799-82-3020",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=432",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.nojima-danso.co.jp/"
+      ]
+    },
+    {
+      "name": "亀の井ホテル淡路島",
+      "municipality": "淡路市",
+      "address": "淡路市富島824",
+      "phone": "0799-82-1073",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=442",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://kamenoi-hotels.com/awajishima/"
+      ]
+    },
+    {
+      "name": "津名ハイツ",
+      "municipality": "淡路市",
+      "address": "淡路市志筑162",
+      "phone": "0799-62-1561",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=443",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.tuna-haitu.jp/"
+      ]
+    },
+    {
+      "name": "赤い屋根 産直淡路島",
+      "municipality": "淡路市",
+      "address": "淡路市中田4139-4",
+      "phone": "0799-62-7245",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=446",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.goope.jp/sr-28-2868111029"
+      ]
+    },
+    {
+      "name": "炭焼きあなご あさじ",
+      "municipality": "淡路市",
+      "address": "淡路市浅野南101-6",
+      "phone": "0799-82-0757",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=457",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://asaji1287.com/"
+      ]
+    },
+    {
+      "name": "国際観光ホテル 淡海荘",
+      "municipality": "淡路市",
+      "address": "淡路市岩屋3559-4",
+      "phone": "0799-72-4111",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=510",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.tankaiso.co.jp/"
+      ]
+    },
+    {
+      "name": "カフェ&レストランizana",
+      "municipality": "淡路市",
+      "address": "淡路市多賀470-1",
+      "phone": "0799-85-0648",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=543",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.izana.jp/"
+      ]
+    },
+    {
+      "name": "えぇとこどり 大谷店(グッドピープル株式会社)",
+      "municipality": "淡路市",
+      "address": "淡路市大谷891-1",
+      "phone": "0799-64-0038",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=544",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.good-people.co.jp/"
+      ]
+    },
+    {
+      "name": "グランドニッコー淡路",
+      "municipality": "淡路市",
+      "address": "淡路市夢舞台2",
+      "phone": "0799-74-1111",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=546",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://awaji.grandnikko.com/"
+      ]
+    },
+    {
+      "name": "ホテルアナガ",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市阿那賀1109",
+      "phone": "0799-39-1111",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=58",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://www.hotelanaga.com/"
+      ]
+    },
+    {
+      "name": "民宿 大倉荘/くら家/お食事処やん",
+      "municipality": "淡路市",
+      "address": "淡路市仮屋108番地",
+      "phone": "0799-74-3131",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=586",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.mjnet.ne.jp/ookuraso/"
+      ]
+    },
+    {
+      "name": "Grand Mercure Awaji Island Resort & Spa (グランドメルキュール淡路島リゾート&スパ)",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良丙317",
+      "phone": "0799-52-3011",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=60",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://grand-mercure-awajiisland-resortandspa.jp/"
+      ]
+    },
+    {
+      "name": "G.ELM",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良甲1530-2",
+      "phone": "0799-50-2332",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=61",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://gelm.amebaownd.com/"
+      ]
+    },
+    {
+      "name": "あわぢ阿呍 (あうん)",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良甲1528-25",
+      "phone": "0799-52-1514",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=63",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://awajiaun.com"
+      ]
+    },
+    {
+      "name": "一品季節料理まえ川",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良甲512-138",
+      "phone": "0799-50-3357",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=64",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://maekawa.syoutikubai.com/"
+      ]
+    },
+    {
+      "name": "いろり亭",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市湊1004-19",
+      "phone": "0799-36-4818",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=65",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "淡路夢舞台",
+      "municipality": "淡路市",
+      "address": "淡路市夢舞台2",
+      "phone": "0799-74-1000",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=675",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.yumebutai.co.jp/"
+      ]
+    },
+    {
+      "name": "鮮魚割烹 かまたに",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市湊564-13",
+      "phone": "0799-36-2416",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=68",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://localplace.jp/t200329244/"
+      ]
+    },
+    {
+      "name": "島スイーツ",
+      "municipality": "",
+      "address": "〒656 兵庫県",
+      "phone": "0799-22-0742",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=686",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://miketsukuni-awaji.jp/"
+      ]
+    },
+    {
+      "name": "淡路島ぬーどる",
+      "municipality": "",
+      "address": "〒656 兵庫県",
+      "phone": "0799-22-0742",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=687",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://miketsukuni-awaji.jp/"
+      ]
+    },
+    {
+      "name": "長手長栄堂",
+      "municipality": "洲本市",
+      "address": "洲本市本町5-3-26",
+      "phone": "0799-24-1050",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=689",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.nagate.com/"
+      ]
+    },
+    {
+      "name": "味処 三富",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市賀集八幡189-1",
+      "phone": "0799-50-3375",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=690",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.santomi-awj.com/"
+      ]
+    },
+    {
+      "name": "淡路島 さと味",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市湊284番地",
+      "phone": "0799-36-2603",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=70",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.satomi-awajishima.com/"
+      ]
+    },
+    {
+      "name": "とっくり",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良甲512-91",
+      "phone": "0799-52-1388",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=71",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "海のホテル 島花",
+      "municipality": "洲本市",
+      "address": "洲本市小路谷1277番5",
+      "phone": "",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=718",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.shimahana.com/"
+      ]
+    },
+    {
+      "name": "焼肉平松",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市湊里159",
+      "phone": "0799-36-3015",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=73",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "(一社)淡路島レジャー振興協会・シームーンリゾート",
+      "municipality": "洲本市",
+      "address": "洲本市安乎町平安浦1970-6",
+      "phone": "0799-24-4455",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=739",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://seamoonresort.jp"
+      ]
+    },
+    {
+      "name": "山武水産",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良甲512-84",
+      "phone": "0799-52-2417",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=74",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://yamatakesuisan.com/"
+      ]
+    },
+    {
+      "name": "レストラン慶野",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市松帆慶野409-2",
+      "phone": "0799-36-2465",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=75",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.restaurantkeino.com/"
+      ]
+    },
+    {
+      "name": "淡路ビーフ入潮 下加茂店 「グルメプラザ いりしお」",
+      "municipality": "洲本市",
+      "address": "洲本市下加茂1-1-57",
+      "phone": "0799-23-0707",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=754",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.ab-irishio.com/"
+      ]
+    },
+    {
+      "name": "和牛焼肉 牛楽",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市志知鈩120",
+      "phone": "0799-38-0289",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=76",
+      "decision": "店舗公式HPを別途確認",
+      "websiteLinks": [
+        "https://wagyusenmonten-gyuraku.com/"
+      ]
+    },
+    {
+      "name": "一作",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良乙1652-2",
+      "phone": "0799-52-2690",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=77",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "季節料理 松本",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市津井2277-21",
+      "phone": "0799-36-5324",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=79",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kisetsuryouri-matsumoto.info/"
+      ]
+    },
+    {
+      "name": "ぐりるエイト",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良甲1291-5",
+      "phone": "0799-52-3609",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=80",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "淡路島の生しらす",
+      "municipality": "淡路市",
+      "address": "淡路市岩屋",
+      "phone": "0799-72-3420",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=812",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.awajishima-namashirasu.com/"
+      ]
+    },
+    {
+      "name": "炭火ステーキたむら",
+      "municipality": "洲本市",
+      "address": "洲本市海岸通1-3-11海月館1F",
+      "phone": "0799-22-1100",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=813",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kaigetsu.jp/meal/ikuri/index.html"
+      ]
+    },
+    {
+      "name": "のじまスコーラ",
+      "municipality": "淡路市",
+      "address": "淡路市野島蟇浦843",
+      "phone": "",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=815",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.nojima-scuola.com/"
+      ]
+    },
+    {
+      "name": "淡路翁",
+      "municipality": "淡路市",
+      "address": "淡路市小田1157",
+      "phone": "0799-70-4201",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=819",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://awajiokina.com/shop/"
+      ]
+    },
+    {
+      "name": "福良マルシェ",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良港",
+      "phone": "0799-52-1244",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=825",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "手打ちうどん 鼓亭",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良甲512-22",
+      "phone": "0799-52-2639",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=83",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.tsuzumitei.com"
+      ]
+    },
+    {
+      "name": "「やま高」たこ姿焼",
+      "municipality": "淡路市",
+      "address": "淡路市浦657",
+      "phone": "0799-74-2707",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=831",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://yamataka.shop/"
+      ]
+    },
+    {
+      "name": "海物焼 新島水産 東浦店",
+      "municipality": "淡路市",
+      "address": "淡路市仮屋63-2",
+      "phone": "0799-75-2222",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=832",
+      "decision": "運営会社の公式HPを別途確認",
+      "websiteLinks": [
+        "https://www.awajisima.jp/"
+      ]
+    },
+    {
+      "name": "Giro d' Awaji ジロ・デ・アワジ",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良甲1529-3",
+      "phone": "0799-50-2411",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=835",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://giro-di-awaji.com/"
+      ]
+    },
+    {
+      "name": "淡路島の生サワラ丼",
+      "municipality": "",
+      "address": "〒656 兵庫県",
+      "phone": "0799-30-4066",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=845",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://awajishima-namasawara.com/"
+      ]
+    },
+    {
+      "name": "そばカフェ生田村",
+      "municipality": "淡路市",
+      "address": "淡路市生田畑152",
+      "phone": "0799-70-1478",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=848",
+      "decision": "店舗運営ブログの公開履歴を確認・現況要再確認",
+      "websiteLinks": [
+        "https://ikutamura.blog.fc2.com/"
+      ]
+    },
+    {
+      "name": "ヴィラ オルティージャ",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市松帆慶野409-5",
+      "phone": "0799-37-3337",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=849",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://villa-ortigia.jp"
+      ]
+    },
+    {
+      "name": "浜寿し",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市阿那賀1470",
+      "phone": "0799-39-0169",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=87",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "国登録有形文化財 春陽荘",
+      "municipality": "洲本市",
+      "address": "洲本市宇山2丁目5番4号",
+      "phone": "0799-20-1729",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=881",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://shunyoso.jp/"
+      ]
+    },
+    {
+      "name": "IKOI Japanese Cuisine",
+      "municipality": "淡路市",
+      "address": "淡路市育波569-3",
+      "phone": "0799-84-0475",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=882",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.ikoi-sugamura.com/"
+      ]
+    },
+    {
+      "name": "海鮮金太郎 シーパ店",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市湊110",
+      "phone": "0799-36-0156",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=884",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://r.gnavi.co.jp/c981900/"
+      ]
+    },
+    {
+      "name": "海鮮金太郎 津名店",
+      "municipality": "淡路市",
+      "address": "淡路市志筑3016",
+      "phone": "0799-62-5750",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=886",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://r.gnavi.co.jp/c981901/"
+      ]
+    },
+    {
+      "name": "万代",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良甲291-5",
+      "phone": "0799-52-1140",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=89",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.awaji-mandai.jp/"
+      ]
+    },
+    {
+      "name": "ニジゲンノモリ",
+      "municipality": "淡路市",
+      "address": "淡路市楠本2425番2号",
+      "phone": "",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=891",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://nijigennomori.com/",
+        "https://nijigennomori.com/"
+      ]
+    },
+    {
+      "name": "一般社団法人 北淡路ブランド推進協議会",
+      "municipality": "",
+      "address": "〒",
+      "phone": "0799-72-0001",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=894",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.awajishima-namashirasu.com/"
+      ]
+    },
+    {
+      "name": "シーサイドペンション プラージュ",
+      "municipality": "淡路市",
+      "address": "淡路市釜口1973-2",
+      "phone": "0799-70-4764",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=898",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://pensionplage.com"
+      ]
+    },
+    {
+      "name": "有限会社 松葉寿司",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市広田広田528-1",
+      "phone": "0799-45-1019",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=90",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.matsuba-sushi.com/"
+      ]
+    },
+    {
+      "name": "バーエトワール",
+      "municipality": "洲本市",
+      "address": "洲本市本町5丁目1-16",
+      "phone": "0799-23-1855",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=904",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "中原水産",
+      "municipality": "洲本市",
+      "address": "洲本市炬口1-1-41",
+      "phone": "0799-22-1406",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=906",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.jacoya.com/"
+      ]
+    },
+    {
+      "name": "カフェレストラン海",
+      "municipality": "淡路市",
+      "address": "淡路市佐野634-1",
+      "phone": "0799-70-1353",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=909",
+      "decision": "店舗運営の公式HPを別途確認",
+      "websiteLinks": [
+        "https://kominka.awaji-umi.com/"
+      ]
+    },
+    {
+      "name": "淡路島しふぉんの店 fortune",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良甲1530-2",
+      "phone": "0799-52-3607",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=92",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://fortune.ocnk.net/"
+      ]
+    },
+    {
+      "name": "GARB COSTA ORENGE ガーブ コスタオレンジ",
+      "municipality": "淡路市",
+      "address": "淡路市郡家1033-1",
+      "phone": "0799-85-1000",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=921",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://garbcostaorange.jp/"
+      ]
+    },
+    {
+      "name": "まるみ食堂",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市阿那賀1473-1",
+      "phone": "0799-39-0485",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=924",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://pizzamarumi.com/"
+      ]
+    },
+    {
+      "name": "幸せのパンケーキ 淡路島リゾート",
+      "municipality": "淡路市",
+      "address": "淡路市尾崎42-1",
+      "phone": "0799-85-1111",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=925",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://magia.tokyo/"
+      ]
+    },
+    {
+      "name": "ロシアンキッチン イリーナ  Russian Kitchen IRINA",
+      "municipality": "洲本市",
+      "address": "〒 洲本市海岸通2-7-13辺り",
+      "phone": "",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=927",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "https://russian-kitchen-irina.webnode.jp"
+      ]
+    },
+    {
+      "name": "淡路島牧場",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市八木養宜上1",
+      "phone": "0799-42-2066",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=93",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.awajishima.or.jp/"
+      ]
+    },
+    {
+      "name": "HAMBURG&STEAK  WORKS  AWAJISHIMA",
+      "municipality": "洲本市",
+      "address": "洲本市塩屋1-1-17 アルチザンスクエア1F",
+      "phone": "0799-26-3660",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=932",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://toujisumoto.gorp.jp/"
+      ]
+    },
+    {
+      "name": "手延べそうめん処金山 ら福",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良甲1529-3",
+      "phone": "080-8348-8954",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=934",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "チャレンジモール 福良CAP",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良甲1526-2",
+      "phone": "",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=936",
+      "decision": "複数店舗の商業施設で飲食個店ではない",
+      "websiteLinks": []
+    },
+    {
+      "name": "れすとらん なないろ",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市福良甲1528-4 道の駅福良",
+      "phone": "0799-50-2535",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=937",
+      "decision": "道の駅内店舗で独立経営の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "淡路じゃのひれ オートキャンプ場・フィッシングパーク",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市阿万塩屋町字じゃのひれ",
+      "phone": "0799-52-1487",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=94",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.janohire.co.jp/"
+      ]
+    },
+    {
+      "name": "和モダン・イタリアンレストラン BUCHI(ブチ)",
+      "municipality": "淡路市",
+      "address": "淡路市岩屋1871",
+      "phone": "0799-72-0034",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=943",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://buchi-awaji.jp"
+      ]
+    },
+    {
+      "name": "GREENHOUSE 淡路ガーデン",
+      "municipality": "淡路市",
+      "address": "淡路市野島江崎599",
+      "phone": "090-9449-6069",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=944",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://www.awaji-greenhouse.com/"
+      ]
+    },
+    {
+      "name": "淡路サービスエリア(上り)売店",
+      "municipality": "淡路市",
+      "address": "淡路市岩屋3118",
+      "phone": "0799-72-5528",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=945",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.awaji-rs.co.jp/"
+      ]
+    },
+    {
+      "name": "淡路サービスエリア(下り)売店",
+      "municipality": "淡路市",
+      "address": "淡路市岩屋2568",
+      "phone": "0799-72-5589",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=946",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.awaji-rs.co.jp/"
+      ]
+    },
+    {
+      "name": "miele -ミエレ-",
+      "municipality": "淡路市",
+      "address": "淡路市野島蟇浦785-9",
+      "phone": "0799-80-2600",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=950",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.miele-da-scuola.com",
+        "https://mielethegarden.com/",
+        "https://eetokodori-ootani.owst.jp/",
+        "https://miele-the-diner.com/"
+      ]
+    },
+    {
+      "name": "オーシャンテラス",
+      "municipality": "淡路市",
+      "address": "淡路市野島蟇浦816",
+      "phone": "0799-82-1907",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=956",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://ocean-terrace-awaji.jp/"
+      ]
+    },
+    {
+      "name": "クラフトサーカス淡路島",
+      "municipality": "淡路市",
+      "address": "淡路市野島平林2-2",
+      "phone": "0799-82-1855",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=957",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://awajicraftcircus.com/"
+      ]
+    },
+    {
+      "name": "ハローキティスマイル",
+      "municipality": "淡路市",
+      "address": "淡路市野島蟇浦985-1",
+      "phone": "0799-70-9037",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=958",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://awaji-resort.com/hellokittysmile/"
+      ]
+    },
+    {
+      "name": "ハローキティショーボックス",
+      "municipality": "淡路市",
+      "address": "淡路市野島平林177-5",
+      "phone": "0799-70-9022",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=959",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://awaji-resort.com/hellokittyshowbox/"
+      ]
+    },
+    {
+      "name": "青海波 -seikaiha-",
+      "municipality": "淡路市",
+      "address": "淡路市野島大川70",
+      "phone": "0799-70-9020",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=960",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://awaji-seikaiha.com/"
+      ]
+    },
+    {
+      "name": "西淡まちつくり株式会社/ショッピングセンターシーパ",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市湊110",
+      "phone": "0799-36-0150",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=963",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://seapa.shop/"
+      ]
+    },
+    {
+      "name": "慶野松原海水浴場",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市松帆古津路",
+      "phone": "0799-43-5221",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=98",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www.city.minamiawaji.hyogo.jp/soshiki/shoukou/kaisuiyokyujyou.html"
+      ]
+    },
+    {
+      "name": "淡路島タコステ",
+      "municipality": "淡路市",
+      "address": "淡路市岩屋1414-27",
+      "phone": "0799-64-7551",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=983",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tacosute.com/"
+      ]
+    },
+    {
+      "name": "民宿・割烹しらさき",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市沼島824",
+      "phone": "0799-57-0443",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=984",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "http://www17.plala.or.jp/shirasaki/"
+      ]
+    },
+    {
+      "name": "CHEESE & PIZZA WORKS AWAJISHIMA",
+      "municipality": "洲本市",
+      "address": "洲本市塩屋1-1-8",
+      "phone": "0799-25-1500",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=985",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://sumoto-brick.jp/"
+      ]
+    },
+    {
+      "name": "Shimano Kaze",
+      "municipality": "洲本市",
+      "address": "洲本市本町2-2-2",
+      "phone": "0799-38-4231",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=986",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://www.alceppo.jp/"
+      ]
+    },
+    {
+      "name": "淡路ファームパーク イングランドの丘",
+      "municipality": "南あわじ市",
+      "address": "南あわじ市八木養宜上1401",
+      "phone": "0799-43-2626",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=99",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.england-hill.com/"
+      ]
+    },
+    {
+      "name": "味心 晶",
+      "municipality": "淡路市",
+      "address": "淡路市佐野1951",
+      "phone": "0799-65-0740",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=990",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "CANDY SHOP ICE-UP(淡路島氷菓)",
+      "municipality": "淡路市",
+      "address": "淡路市志筑3423",
+      "phone": "",
+      "source": "https://www.awajishima-kanko.jp/manual/detail.html?bid=992",
+      "decision": "店舗公式通販HPを別途確認",
+      "websiteLinks": [
+        "https://ice-up.stores.jp/about"
       ]
     }
   ]
