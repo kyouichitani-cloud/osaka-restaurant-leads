@@ -49,7 +49,10 @@ def classify(links, source_url):
                                                  'sanwahondori.com', 'yashiro-shotengai.jp',
                                                  'ako-kankou.jp', 'tatsuno-tourism.jp',
                                                  'mikishi-kankou.com', 'nishiwaki-kanko.jp',
-                                                 'shiso.or.jp', 'aioi.in', 'kanko-kasai.com'):
+                                                 'shiso.or.jp', 'aioi.in', 'kanko-kasai.com',
+                                                 'ono-navi.jp', 'asago-kanko.com', 'yabu-kankou.jp',
+                                                 'e-kawanishi.org', 'itami-city.jp', 'dx-mice.jp',
+                                                 'itamibar.com'):
             continue
         seen.add(href)
         if any(s in host for s in SOCIAL):

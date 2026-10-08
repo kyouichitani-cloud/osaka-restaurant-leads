@@ -1,14 +1,14 @@
 {
   "checkedAt": "2026-10-09",
   "stats": {
-    "profiles": 1166,
-    "candidates": 360,
-    "researchCities": 23,
-    "candidateCities": 22,
-    "phone": 335,
-    "instagram": 92,
-    "facebook": 31,
-    "hours": 278
+    "profiles": 1740,
+    "candidates": 536,
+    "researchCities": 28,
+    "candidateCities": 27,
+    "phone": 499,
+    "instagram": 124,
+    "facebook": 34,
+    "hours": 350
   },
   "decisions": [
     {
@@ -11793,6 +11793,5576 @@
       "address": "加西市青野町323-1",
       "phone": "0790-20-5649",
       "source": "https://kanko-kasai.com/foodki/hifumi",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "田園カフェ nonna",
+      "municipality": "小野市",
+      "address": "小野市昭和町923-1",
+      "phone": "0794-66-0566",
+      "source": "https://ono-navi.jp/gourmet/cafe/1235/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://caffe-nonna.com/"
+      ]
+    },
+    {
+      "name": "CAFÉ  DE  ARCHE",
+      "municipality": "小野市",
+      "address": "小野市中島町72 (うるおい交流館エクラ内)",
+      "phone": "0794-62-5080",
+      "source": "https://ono-navi.jp/gourmet/cafe/1247/",
+      "decision": "公共施設内の店舗で独立飲食個店の確認待ち",
+      "websiteLinks": [
+        "https://www.eclat-hall.com/facility/cafe.html"
+      ]
+    },
+    {
+      "name": "自家焙煎 クレオール珈琲店",
+      "municipality": "小野市",
+      "address": "小野市本町598-8",
+      "phone": "0794-63-7445",
+      "source": "https://ono-navi.jp/gourmet/cafe/1252/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "prato cafe(プラートカフェ)",
+      "municipality": "小野市",
+      "address": "小野市来住町1230-1",
+      "phone": "0794-62-2219",
+      "source": "https://ono-navi.jp/gourmet/cafe/2874/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://pratocafe.blog.fc2.com/"
+      ]
+    },
+    {
+      "name": "こころみcafe",
+      "municipality": "小野市",
+      "address": "小野市来住町78",
+      "phone": "090-8794-7565",
+      "source": "https://ono-navi.jp/gourmet/cafe/2877/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "スイーツ工房Sammy♪(旧ガーデンタコパ)",
+      "municipality": "小野市",
+      "address": "小野市王子町719",
+      "phone": "080-3855-2539",
+      "source": "https://ono-navi.jp/gourmet/cafe/3486/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://cake.jp/shops/sae.com/",
+        "https://giftmall.co.jp/shop/sammy/"
+      ]
+    },
+    {
+      "name": "ふるさとカフェお茶〇ん",
+      "municipality": "小野市",
+      "address": "675-1374 小野市本町1丁目434",
+      "phone": "0794-63-5736",
+      "source": "https://ono-navi.jp/gourmet/cafe/4866/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "なずな食堂",
+      "municipality": "小野市",
+      "address": "675-1332 小野市中町344-7",
+      "phone": "0794-70-8550",
+      "source": "https://ono-navi.jp/gourmet/cafe/5488/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "GRIZZLY COFFEE & SUPPLY",
+      "municipality": "小野市",
+      "address": "小野市中町431-1",
+      "phone": "0794-73-8315",
+      "source": "https://ono-navi.jp/gourmet/cafe/5558/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://doubledynolatte.com/"
+      ]
+    },
+    {
+      "name": "ふれあいマート",
+      "municipality": "小野市",
+      "address": "小野市小田町1673-1",
+      "phone": "0794-60-3285",
+      "source": "https://ono-navi.jp/gourmet/cafe/5737/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://fureaima-to.jimdofree.com/"
+      ]
+    },
+    {
+      "name": "GH SALAD",
+      "municipality": "小野市",
+      "address": "小野市神明町184-8",
+      "phone": "070-8558-7834",
+      "source": "https://ono-navi.jp/gourmet/cafe/5829/",
+      "decision": "惣菜販売主体で店内飲食の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "けやき焙煎所",
+      "municipality": "小野市",
+      "address": "小野市粟生町1816-2",
+      "phone": "0794-68-9069",
+      "source": "https://ono-navi.jp/gourmet/cafe/5834/",
+      "decision": "店舗名義のWebショップを別途確認",
+      "websiteLinks": [
+        "https://keyaki-roastery.stores.jp/"
+      ]
+    },
+    {
+      "name": "自家焙煎コーヒー Ucafe",
+      "municipality": "小野市",
+      "address": "小野市黍田町761-5",
+      "phone": "090-3970-2307",
+      "source": "https://ono-navi.jp/gourmet/cafe/5949/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://ono-ucafe.com/"
+      ]
+    },
+    {
+      "name": "クローバーハウス",
+      "municipality": "小野市",
+      "address": "小野市王子町291-2",
+      "phone": "0794-63-3760",
+      "source": "https://ono-navi.jp/gourmet/cafe/6154/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Ambra   coffee & free space",
+      "municipality": "小野市",
+      "address": "小野市黒川町2081",
+      "phone": "070-7794-0188",
+      "source": "https://ono-navi.jp/gourmet/cafe/6584/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "OUJI CAFE",
+      "municipality": "小野市",
+      "address": "小野市王子町13 プリンスガーデンビル1階",
+      "phone": "0794-70-8607",
+      "source": "https://ono-navi.jp/gourmet/cafe/7099/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お食事処 たこ焼  かおるちゃん",
+      "municipality": "小野市",
+      "address": "小野市下来住町1276-1",
+      "phone": "0794-62-5407",
+      "source": "https://ono-navi.jp/gourmet/horumon/1161/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "食事処 五人囃",
+      "municipality": "小野市",
+      "address": "小野市神明町417-56",
+      "phone": "0794-62-5778",
+      "source": "https://ono-navi.jp/gourmet/horumon/1209/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み焼き ほのか",
+      "municipality": "小野市",
+      "address": "小野市山田町974",
+      "phone": "0794-62-3773",
+      "source": "https://ono-navi.jp/gourmet/horumon/728/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み焼き 広島焼 花きゃべつ",
+      "municipality": "小野市",
+      "address": "小野市市場町1523",
+      "phone": "0794-63-2638",
+      "source": "https://ono-navi.jp/gourmet/horumon/732/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み焼き 小町",
+      "municipality": "小野市",
+      "address": "小野市上本町22-6",
+      "phone": "0794-63-3696",
+      "source": "https://ono-navi.jp/gourmet/horumon/737/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み家庭料理 かんぱゐ",
+      "municipality": "小野市",
+      "address": "小野市樫山町555-8",
+      "phone": "0794-62-1890",
+      "source": "https://ono-navi.jp/gourmet/horumon/749/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉 たけだ",
+      "municipality": "小野市",
+      "address": "小野市粟生町791-1",
+      "phone": "0794-66-2232",
+      "source": "https://ono-navi.jp/gourmet/horumon/839/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉 入舟",
+      "municipality": "小野市",
+      "address": "小野市河合西町1252-1",
+      "phone": "0794-66-5150",
+      "source": "https://ono-navi.jp/gourmet/horumon/843/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.yakiniku-irifune.com/"
+      ]
+    },
+    {
+      "name": "くるま焼肉店",
+      "municipality": "小野市",
+      "address": "小野市上本町76-1",
+      "phone": "0794-62-5838",
+      "source": "https://ono-navi.jp/gourmet/horumon/862/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼鳥専門店 さくら屋",
+      "municipality": "小野市",
+      "address": "小野市上本町80-8 1F",
+      "phone": "0794-63-7681",
+      "source": "https://ono-navi.jp/gourmet/izakaya/2157/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://hitosara.com/0006023135/"
+      ]
+    },
+    {
+      "name": "酒彩縁 うたげ",
+      "municipality": "小野市",
+      "address": "小野市新部町1084-5",
+      "phone": "0794-60-4544",
+      "source": "https://ono-navi.jp/gourmet/izakaya/4682/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "松義 『地鶏屋小野店』",
+      "municipality": "小野市",
+      "address": "小野市中島町547-1",
+      "phone": "0794-64-8080",
+      "source": "https://ono-navi.jp/gourmet/izakaya/4734/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鶏屋だいちゃん",
+      "municipality": "小野市",
+      "address": "小野市復井町564-4",
+      "phone": "0794-66-5240",
+      "source": "https://ono-navi.jp/gourmet/izakaya/5169/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋 蔵",
+      "municipality": "小野市",
+      "address": "小野市中町273-17",
+      "phone": "0794-63-7883",
+      "source": "https://ono-navi.jp/gourmet/izakaya/808/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "串揚げ居酒屋 からっと亭",
+      "municipality": "小野市",
+      "address": "小野市中町344-3",
+      "phone": "0794-63-8482",
+      "source": "https://ono-navi.jp/gourmet/izakaya/812/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://karattotei.com/"
+      ]
+    },
+    {
+      "name": "鳥ちゅう",
+      "municipality": "小野市",
+      "address": "小野市西脇町359-2",
+      "phone": "0794-62-7770",
+      "source": "https://ono-navi.jp/gourmet/izakaya/816/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "やきとり 暫(しばらく)",
+      "municipality": "小野市",
+      "address": "小野市片山町1021-1",
+      "phone": "0794-62-4802",
+      "source": "https://ono-navi.jp/gourmet/izakaya/819/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://gourmet.yahoo.co.jp/0002570145/"
+      ]
+    },
+    {
+      "name": "炭火やきとり 誠友",
+      "municipality": "小野市",
+      "address": "小野市本町644-1",
+      "phone": "0794-63-6586",
+      "source": "https://ono-navi.jp/gourmet/izakaya/828/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ぷらっときすみの(本店)",
+      "municipality": "小野市",
+      "address": "小野市下来住町484-2 (JR小野町駅構内)",
+      "phone": "0794-62-5116",
+      "source": "https://ono-navi.jp/gourmet/menrui/877/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "うどん職人えびす庵",
+      "municipality": "小野市",
+      "address": "小野市市場町57-1",
+      "phone": "0794-63-1144",
+      "source": "https://ono-navi.jp/gourmet/menrui/882/",
+      "decision": "店舗運営サイトを別途確認",
+      "websiteLinks": [
+        "https://ebisuan.yomihana.shop/about/"
+      ]
+    },
+    {
+      "name": "天下一品 小野店",
+      "municipality": "小野市",
+      "address": "小野市浄谷町2945-1",
+      "phone": "0794-62-8561",
+      "source": "https://ono-navi.jp/gourmet/menrui/886/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://tenkaippin.co.jp/"
+      ]
+    },
+    {
+      "name": "らんめん",
+      "municipality": "小野市",
+      "address": "小野市黒川町1802",
+      "phone": "0794-63-4195",
+      "source": "https://ono-navi.jp/gourmet/menrui/890/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://atcompany.jp/ranmen/"
+      ]
+    },
+    {
+      "name": "中華そば 好きやめん",
+      "municipality": "小野市",
+      "address": "小野市垂井町647-1",
+      "phone": "0794-63-6909",
+      "source": "https://ono-navi.jp/gourmet/menrui/898/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "小野向日葵ホテル 食事処ひまわり",
+      "municipality": "小野市",
+      "address": "小野市匠台7番地(匠台テクノプラザ「小野向日葵ホテル」内)",
+      "phone": "0794-64-2020",
+      "source": "https://ono-navi.jp/gourmet/washoku/1061/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.hotel-himawari.com/"
+      ]
+    },
+    {
+      "name": "山水荘",
+      "municipality": "小野市",
+      "address": "小野市阿形町487-2",
+      "phone": "0794-62-2129",
+      "source": "https://ono-navi.jp/gourmet/washoku/1109/",
+      "decision": "宿泊施設の飲食提供で独立飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ごはんや うの花",
+      "municipality": "小野市",
+      "address": "小野市市場町1237-3",
+      "phone": "0794-62-6777",
+      "source": "https://ono-navi.jp/gourmet/washoku/1164/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "天ぷら割烹 ひろ乃",
+      "municipality": "小野市",
+      "address": "小野市黒川町232-2",
+      "phone": "0794-62-0118",
+      "source": "https://ono-navi.jp/gourmet/washoku/1168/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お食事・仕出し おがわ",
+      "municipality": "小野市",
+      "address": "小野市王子町874-6",
+      "phone": "0794-63-5141",
+      "source": "https://ono-navi.jp/gourmet/washoku/1172/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "きらら",
+      "municipality": "小野市",
+      "address": "小野市浄谷町2003-3",
+      "phone": "0794-62-7362",
+      "source": "https://ono-navi.jp/gourmet/washoku/1176/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "日本料理 萬福",
+      "municipality": "小野市",
+      "address": "小野市王子町937-20",
+      "phone": "0794-62-2655",
+      "source": "https://ono-navi.jp/gourmet/washoku/1189/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "割烹孫市/おにぎり屋まごいち",
+      "municipality": "小野市",
+      "address": "小野市神明町213-15",
+      "phone": "070-1830-4237",
+      "source": "https://ono-navi.jp/gourmet/washoku/1194/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お食事処 すえひろ",
+      "municipality": "小野市",
+      "address": "小野市本町664",
+      "phone": "0794-62-2572",
+      "source": "https://ono-navi.jp/gourmet/washoku/1205/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "川福",
+      "municipality": "小野市",
+      "address": "小野市上本町23",
+      "phone": "0794-62-2068",
+      "source": "https://ono-navi.jp/gourmet/washoku/1213/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://kawafuku-ono.jp/index.html"
+      ]
+    },
+    {
+      "name": "うし若",
+      "municipality": "小野市",
+      "address": "小野市垂井町615-2 松栄荘10号室 /〒 675-1361 小野市住吉町720",
+      "phone": "0794-63-8963",
+      "source": "https://ono-navi.jp/gourmet/washoku/1220/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "あけぼの寿司",
+      "municipality": "小野市",
+      "address": "小野市上本町20",
+      "phone": "0794-62-2481",
+      "source": "https://ono-navi.jp/gourmet/washoku/1223/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "誉田の館いろどり",
+      "municipality": "小野市",
+      "address": "小野市福住町247の5",
+      "phone": "0794-60-4717",
+      "source": "https://ono-navi.jp/gourmet/washoku/1227/",
+      "decision": "農産物直売施設で独立飲食個店ではない",
+      "websiteLinks": []
+    },
+    {
+      "name": "京風料理 魚司",
+      "municipality": "小野市",
+      "address": "小野市上本町237",
+      "phone": "0794-63-2396",
+      "source": "https://ono-navi.jp/gourmet/washoku/2164/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "獅子銀 ゆぴか店",
+      "municipality": "小野市",
+      "address": "小野市黍田町1000-1 白雲谷温泉ゆぴか内",
+      "phone": "0794-88-8888",
+      "source": "https://ono-navi.jp/gourmet/washoku/5218/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://shishigin.co.jp/shishigin/"
+      ]
+    },
+    {
+      "name": "とみさん",
+      "municipality": "小野市",
+      "address": "小野市片山町1542",
+      "phone": "0794-62-2335",
+      "source": "https://ono-navi.jp/gourmet/washoku/7022/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉の和民 小野店",
+      "municipality": "小野市",
+      "address": "小野市敷地町ナカヲ1502番地10号",
+      "phone": "0794-64-6811",
+      "source": "https://ono-navi.jp/gourmet/yakiniku/6405/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://yakiniku-watami.com/ono/"
+      ]
+    },
+    {
+      "name": "炭火焼肉 いっきゅう",
+      "municipality": "小野市",
+      "address": "小野市黒川町58-2",
+      "phone": "0794-63-0189",
+      "source": "https://ono-navi.jp/gourmet/yakiniku/851/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "炭火焼肉 呼友",
+      "municipality": "小野市",
+      "address": "小野市大島町1637",
+      "phone": "0794-70-8511",
+      "source": "https://ono-navi.jp/gourmet/yakiniku/857/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "イタリア食堂 バンビーノ",
+      "municipality": "小野市",
+      "address": "小野市上本町195-10",
+      "phone": "0794-63-8030",
+      "source": "https://ono-navi.jp/gourmet/yoshoku/902/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "共進牧場 レストランミルカ―ズ",
+      "municipality": "小野市",
+      "address": "小野市浄谷町1544",
+      "phone": "0794-63-7497",
+      "source": "https://ono-navi.jp/gourmet/yoshoku/913/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.kyoshin-milk.jp"
+      ]
+    },
+    {
+      "name": "蔓牛焼肉太田家 (つるうしやきにくおおたや)",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町玉置890-1",
+      "phone": "079-670-1129",
+      "source": "https://asago-kanko.com/spot/10605",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://yakiniku.ohtagyu-ohtaya.com/wadayama"
+      ]
+    },
+    {
+      "name": "ロクログ(VI LOG) (ろくろぐ)",
+      "municipality": "朝来市",
+      "address": "朝来市生野町口銀谷2269",
+      "phone": "079-679-3162",
+      "source": "https://asago-kanko.com/spot/10827",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "tea room kotori (てぃーるーむ ことり)",
+      "municipality": "朝来市",
+      "address": "朝来市生野町奥銀谷1513",
+      "phone": "090-6378-5282",
+      "source": "https://asago-kanko.com/spot/10835",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tearoomkotori.wixsite.com/kotori"
+      ]
+    },
+    {
+      "name": "居酒屋 喜綱",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町久世田179-3",
+      "phone": "079-674-0399",
+      "source": "https://asago-kanko.com/spot/10839",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "あいす工房 らいらっく",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町白井486",
+      "phone": "079-670-1766",
+      "source": "https://asago-kanko.com/spot/10845",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://lilac-ice.com/"
+      ]
+    },
+    {
+      "name": "和心。(なごみ) (なごみ。)",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町桑原25-1",
+      "phone": "079-672-0753",
+      "source": "https://asago-kanko.com/spot/10850",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "うどん処・但州庵",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町市御堂19-1",
+      "phone": "079-670-1900",
+      "source": "https://asago-kanko.com/spot/10856",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "一心 和田山店",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町高田18",
+      "phone": "079-672-4916",
+      "source": "https://asago-kanko.com/spot/10860",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://www.issin-udon.com/"
+      ]
+    },
+    {
+      "name": "一心 竹田店",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町竹田1523-1",
+      "phone": "079-674-0086",
+      "source": "https://asago-kanko.com/spot/10869",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://www.issin-udon.com/"
+      ]
+    },
+    {
+      "name": "台湾Cafe 福苗",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町竹田203-2",
+      "phone": "080-5337-1433",
+      "source": "https://asago-kanko.com/spot/10871",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "あったかプラザ",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町竹田208-2",
+      "phone": "079-674-2606",
+      "source": "https://asago-kanko.com/spot/10876",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kobeseirei.or.jp/publics/index/74"
+      ]
+    },
+    {
+      "name": "パンケーキ&コーヒぽわん",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町竹田370",
+      "phone": "079-660-8231",
+      "source": "https://asago-kanko.com/spot/10884",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "そば処・伊とう",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町竹田517-1",
+      "phone": "079-670-6770",
+      "source": "https://asago-kanko.com/spot/10888",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.sobadokoro-ito.jp/"
+      ]
+    },
+    {
+      "name": "台湾料理 味源",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町桑原26-1",
+      "phone": "079-670-3786",
+      "source": "https://asago-kanko.com/spot/10893",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "山城の郷",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町殿13ー1",
+      "phone": "079-670-6518",
+      "source": "https://asago-kanko.com/spot/10898",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.zentanbus.co.jp/yamajiro"
+      ]
+    },
+    {
+      "name": "すてーしょん但馬 旬楽",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町平野98",
+      "phone": "079-672-0218",
+      "source": "https://asago-kanko.com/spot/10907",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.st-tajima.biz"
+      ]
+    },
+    {
+      "name": "福廼家",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町東谷204",
+      "phone": "079-672-2018",
+      "source": "https://asago-kanko.com/spot/10918",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www4.hp-ez.com/hp/fukunoyajp/page2"
+      ]
+    },
+    {
+      "name": "かに館 喰太郎 (かにやかた くうたろう)",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町柳原142",
+      "phone": "079-672-3264",
+      "source": "https://asago-kanko.com/spot/10927",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://kutaro.jp/"
+      ]
+    },
+    {
+      "name": "nook & coffee",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町平野160-1",
+      "phone": "090-9695-0617",
+      "source": "https://asago-kanko.com/spot/10931",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "町家Café 伍右衛門",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町和田山239",
+      "phone": "090-1689-2183",
+      "source": "https://asago-kanko.com/spot/10936",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "FUDABA Kitchen",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町法興寺51-1",
+      "phone": "079-672-6830",
+      "source": "https://asago-kanko.com/spot/10940",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Mr.MasaCOFFEE",
+      "municipality": "朝来市",
+      "address": "朝来市山東町矢名瀬町917-1",
+      "phone": "079-670-7166",
+      "source": "https://asago-kanko.com/spot/11543",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://mrmasacoffee.net/"
+      ]
+    },
+    {
+      "name": "生野高原カントリークラブ",
+      "municipality": "朝来市",
+      "address": "生野町栃原1784-29",
+      "phone": "079-679-2335",
+      "source": "https://asago-kanko.com/spot/11679",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://www.ikuno-cc.com"
+      ]
+    },
+    {
+      "name": "生野高原オーベルジュ KASSEL",
+      "municipality": "朝来市",
+      "address": "朝来市生野町栃原1784-302",
+      "phone": "079-679-4288",
+      "source": "https://asago-kanko.com/spot/13405",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://kassel.jp/"
+      ]
+    },
+    {
+      "name": "CAFE&BAR dk",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町平野162-1",
+      "phone": "079-666-8501",
+      "source": "https://asago-kanko.com/spot/13435",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "菓子屋 菜ノ花",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町竹田160",
+      "phone": "079-601-000",
+      "source": "https://asago-kanko.com/spot/13580",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "有斐軒 (ゆうひけん)",
+      "municipality": "朝来市",
+      "address": "朝来郡和田山町和田山31",
+      "phone": "079-672-2059",
+      "source": "https://asago-kanko.com/spot/4835",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "http://www.yuuhiken.com"
+      ]
+    },
+    {
+      "name": "グランドシェフ (ぐらんどしぇふ)",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町枚田岡330-3",
+      "phone": "079-670-3117",
+      "source": "https://asago-kanko.com/spot/4838",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "竹田屋 (たけだや)",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町久世田22-1",
+      "phone": "079-674-0464",
+      "source": "https://asago-kanko.com/spot/5085",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.takedaya.com"
+      ]
+    },
+    {
+      "name": "いずみ旅館 (いずみりょかん)",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町寺谷712-10",
+      "phone": "079-672-2412",
+      "source": "https://asago-kanko.com/spot/5103",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "レストランたんと (れすとらんたんと)",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町寺谷714-4",
+      "phone": "079-672-2276",
+      "source": "https://asago-kanko.com/spot/5108",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "コーヒーショップ Maki (こーひーしょっぷ まき)",
+      "municipality": "朝来市",
+      "address": "朝来市和田山町土田611-2",
+      "phone": "079-672-4923",
+      "source": "https://asago-kanko.com/spot/5227",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "芒種 (ぼうしゅ)",
+      "municipality": "朝来市",
+      "address": "朝来市生野町口銀谷600",
+      "phone": "079-679-2299",
+      "source": "https://asago-kanko.com/spot/9689",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "生野高原カッセル (いくのこうげんかっせる)",
+      "municipality": "朝来市",
+      "address": "朝来市生野町栃原1784",
+      "phone": "079-679-4288",
+      "source": "https://asago-kanko.com/spot/9691",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kassel.jp"
+      ]
+    },
+    {
+      "name": "生野高原カントリークラブ (いくのこうげんかんとりーくらぶ)",
+      "municipality": "朝来市",
+      "address": "朝来市生野町栃原1784-29",
+      "phone": "079-679-2335",
+      "source": "https://asago-kanko.com/spot/9711",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.ikuno-cc.com/"
+      ]
+    },
+    {
+      "name": "黒川温泉 美人の湯 (くろかわおんせん)",
+      "municipality": "朝来市",
+      "address": "朝来市生野町黒川457-1",
+      "phone": "079-679-2067",
+      "source": "https://asago-kanko.com/spot/9714",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://hyogo-kurokawaonsen.com"
+      ]
+    },
+    {
+      "name": "道の駅 但馬のまほろば「レストラン茶すり庵」 (みちのえきたじまのまほろば「れすとらんちゃすりあん」)",
+      "municipality": "朝来市",
+      "address": "朝来市山東町大月92-6",
+      "phone": "079-676-5121",
+      "source": "https://asago-kanko.com/spot/9716",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.green-wind.co.jp"
+      ]
+    },
+    {
+      "name": "ホッとHOTcafe花音 (ほっとほっとかふぇかのん)",
+      "municipality": "朝来市",
+      "address": "朝来市山東町粟鹿859-3",
+      "phone": "079-666-8007",
+      "source": "https://asago-kanko.com/spot/9729",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kanon-cafe.jimdo.com/"
+      ]
+    },
+    {
+      "name": "馬乱 (じゃらん)",
+      "municipality": "朝来市",
+      "address": "朝来市山東町一品172-4",
+      "phone": "079-676-5350",
+      "source": "https://asago-kanko.com/spot/9731",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Casual Café NUTS (かじゅあるかふぇなっつ)",
+      "municipality": "朝来市",
+      "address": "朝来市山東町大垣13-1",
+      "phone": "079-660-2498",
+      "source": "https://asago-kanko.com/spot/9733",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://fujiseki-gp.com/cafe.php"
+      ]
+    },
+    {
+      "name": "喜古里 (きこり)",
+      "municipality": "朝来市",
+      "address": "朝来市山東町喜多垣294",
+      "phone": "079-676-2790",
+      "source": "https://asago-kanko.com/spot/9735",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "右衛門五郎 (うえもんごろう)",
+      "municipality": "朝来市",
+      "address": "朝来市山東町迫間825-1",
+      "phone": "079-670-7888",
+      "source": "https://asago-kanko.com/spot/9737",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.uemongoro.com"
+      ]
+    },
+    {
+      "name": "UP☆STAR CAFÉ (あっぷすたーかふぇ)",
+      "municipality": "朝来市",
+      "address": "朝来市山東町早田382",
+      "phone": "079-668-9380",
+      "source": "https://asago-kanko.com/spot/9739",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://up-star-cafe.com/"
+      ]
+    },
+    {
+      "name": "ことぶき (ことぶき)",
+      "municipality": "朝来市",
+      "address": "朝来市山東町楽音寺154",
+      "phone": "079-676-2192",
+      "source": "https://asago-kanko.com/spot/9741",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "よふど温泉 (よふどおんせん)",
+      "municipality": "朝来市",
+      "address": "朝来市山東町森108",
+      "phone": "079-670-7070",
+      "source": "https://asago-kanko.com/spot/9743",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://yofudo-onsen.jp/"
+      ]
+    },
+    {
+      "name": "道の駅フレッシュあさご (みちのえきふれっしゅあさご)",
+      "municipality": "朝来市",
+      "address": "朝来市岩津96",
+      "phone": "079-670-4120",
+      "source": "https://asago-kanko.com/spot/9745",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://fresh-asago.co.jp"
+      ]
+    },
+    {
+      "name": "道の駅あさご「食事処 ささゆり」 (みちのえきあさご「しょくじどころささゆり」)",
+      "municipality": "朝来市",
+      "address": "朝来市多々良木213-1",
+      "phone": "079-678-0808",
+      "source": "https://asago-kanko.com/spot/9747",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "OAKYARD (おーくやーど)",
+      "municipality": "朝来市",
+      "address": "朝来市佐嚢998",
+      "phone": "079-677-2333",
+      "source": "https://asago-kanko.com/spot/9749",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "来夢 (らいむ)",
+      "municipality": "朝来市",
+      "address": "朝来市立野694",
+      "phone": "079-677-1515",
+      "source": "https://asago-kanko.com/spot/9754",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "美食遊楽 和樂",
+      "municipality": "朝来市",
+      "address": "朝来市立野151-6",
+      "phone": "079-677-1349",
+      "source": "https://asago-kanko.com/spot/9756",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "寺カフェ・一休",
+      "municipality": "朝来市",
+      "address": "朝来市田路981",
+      "phone": "079-677-2990",
+      "source": "https://asago-kanko.com/spot/9758",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://teracafe-ikkyuu.jimdofree.com"
+      ]
+    },
+    {
+      "name": "Link",
+      "municipality": "養父市",
+      "address": "養父市八鹿町下網場393-9",
+      "phone": "",
+      "source": "https://www.yabu-kankou.jp/sightseeing/%e5%85%ab%e9%b9%bf%e5%9c%b0%e5%8c%ba%ef%bc%9alink",
+      "decision": "店舗所在地と連絡手段の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "soya",
+      "municipality": "養父市",
+      "address": "養父市八鹿町八鹿1847-2",
+      "phone": "070-9243-5322",
+      "source": "https://www.yabu-kankou.jp/sightseeing/%e5%85%ab%e9%b9%bf%e5%9c%b0%e5%9f%9f%ef%bc%9asoya",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://soya-hacco.com/"
+      ]
+    },
+    {
+      "name": "PEAKScafe",
+      "municipality": "養父市",
+      "address": "養父市関宮266",
+      "phone": "079-667-3464",
+      "source": "https://www.yabu-kankou.jp/sightseeing/%e9%96%a2%e5%ae%ae%e5%9c%b0%e5%9f%9f%ef%bc%9apeakscafe",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "但馬牛レストラン ブーケ",
+      "municipality": "養父市",
+      "address": "養父市八鹿町小山258-8",
+      "phone": "079-662-3718",
+      "source": "https://www.yabu-kankou.jp/sightseeing/bouquet",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.e-bouquet.jp/"
+      ]
+    },
+    {
+      "name": "cafe & sweets  Buzz",
+      "municipality": "養父市",
+      "address": "養父市八鹿町八木2479-3",
+      "phone": "070-8539-8282",
+      "source": "https://www.yabu-kankou.jp/sightseeing/cafe-sweets-buzz",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "関宮地域(ハチ高原):山のレストラン  シーズ C ́s",
+      "municipality": "養父市",
+      "address": "養父市丹戸899-1  ハチ高原ファミリーゲレンデ横",
+      "phone": "079-667-7101",
+      "source": "https://www.yabu-kankou.jp/sightseeing/cs",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.yamanami.info/pizza.html"
+      ]
+    },
+    {
+      "name": "寿司 ふなき",
+      "municipality": "養父市",
+      "address": "養父市八鹿町九鹿65-2",
+      "phone": "079-662-6989",
+      "source": "https://www.yabu-kankou.jp/sightseeing/funaki",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://susi.hunaki.net/"
+      ]
+    },
+    {
+      "name": "Gohanya(ごはんや)",
+      "municipality": "養父市",
+      "address": "養父市八鹿町国木594-10",
+      "phone": "079-662-8186",
+      "source": "https://www.yabu-kankou.jp/sightseeing/gohanya",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.chouju-gohanya.com/"
+      ]
+    },
+    {
+      "name": "食堂 はつひ",
+      "municipality": "養父市",
+      "address": "養父市奈良尾144-1",
+      "phone": "079-667-8324",
+      "source": "https://www.yabu-kankou.jp/sightseeing/hatsuhi",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "パティスリーカフェ  カタシマ",
+      "municipality": "養父市",
+      "address": "養父市上野1156-1",
+      "phone": "079-664-0351",
+      "source": "https://www.yabu-kankou.jp/sightseeing/katashima",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.katashima.co.jp/"
+      ]
+    },
+    {
+      "name": "高中(こうなか)そば",
+      "municipality": "養父市",
+      "address": "養父市奥米地604-2",
+      "phone": "079-665-0364",
+      "source": "https://www.yabu-kankou.jp/sightseeing/kounakasoba",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://kounakasoba.jimdo.com/"
+      ]
+    },
+    {
+      "name": "割烹 こざくら",
+      "municipality": "養父市",
+      "address": "養父市八鹿町八鹿715",
+      "phone": "079-662-4185",
+      "source": "https://www.yabu-kankou.jp/sightseeing/kozakura",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "くる味",
+      "municipality": "養父市",
+      "address": "養父市八鹿町八鹿1304",
+      "phone": "079-662-0488",
+      "source": "https://www.yabu-kankou.jp/sightseeing/kurumi",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "麺屋 天下無敵 八木総本店",
+      "municipality": "養父市",
+      "address": "養父市八鹿町八木537-1",
+      "phone": "090-8197-0576",
+      "source": "https://www.yabu-kankou.jp/sightseeing/menya-tenkamuteki-yagi",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://menya-tenkamuteki.com/event/"
+      ]
+    },
+    {
+      "name": "フェニックス",
+      "municipality": "養父市",
+      "address": "養父市八鹿町九鹿3-2",
+      "phone": "079-662-4898",
+      "source": "https://www.yabu-kankou.jp/sightseeing/phenix",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "レストランみずばしょう",
+      "municipality": "養父市",
+      "address": "養父市大屋町加保637-1",
+      "phone": "079-669-1588",
+      "source": "https://www.yabu-kankou.jp/sightseeing/restaurant-mizubasho",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.mizubasho-tendaki.com/about_mizubasyo/"
+      ]
+    },
+    {
+      "name": "レストラン ラ・リビエール",
+      "municipality": "養父市",
+      "address": "養父市大塚22-1",
+      "phone": "050-3184-0801",
+      "source": "https://www.yabu-kankou.jp/sightseeing/riviere",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://riviere1992.com/"
+      ]
+    },
+    {
+      "name": "関宮地域(東鉢伏):シルバーホルン",
+      "municipality": "養父市",
+      "address": "養父市別宮",
+      "phone": "079-667-7910",
+      "source": "https://www.yabu-kankou.jp/sightseeing/siruba-horun",
+      "decision": "宿泊施設の飲食提供で独立飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "菓心(かしん) 谷常 (菓子販売・喫茶スペース)",
+      "municipality": "養父市",
+      "address": "養父市八鹿町八鹿1500番地",
+      "phone": "079-662-2261",
+      "source": "https://www.yabu-kankou.jp/sightseeing/tanitsune",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.tanitsune.jp/"
+      ]
+    },
+    {
+      "name": "イタリアン&ケーキ ヴェルデピアット",
+      "municipality": "養父市",
+      "address": "養父市上箇153-1",
+      "phone": "079-664-1239",
+      "source": "https://www.yabu-kankou.jp/sightseeing/verdepiatto",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.verdepiatto.com/"
+      ]
+    },
+    {
+      "name": "道の駅但馬楽座 レストラン「やぶ牧場」",
+      "municipality": "養父市",
+      "address": "養父市上野299",
+      "phone": "079-664-1000",
+      "source": "https://www.yabu-kankou.jp/sightseeing/yabubokujyo",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://www.tajima-rakuza.com/"
+      ]
+    },
+    {
+      "name": "道の駅やぶ COINOBA VILLAGE",
+      "municipality": "養父市",
+      "address": "養父市場1294-77",
+      "phone": "079-661-9034",
+      "source": "https://www.yabu-kankou.jp/sightseeing/yabugreenvillage",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "道の駅ようか但馬蔵(たじまのくら)「お食事処」",
+      "municipality": "養父市",
+      "address": "養父市八鹿町高柳241-1",
+      "phone": "079-662-3200",
+      "source": "https://www.yabu-kankou.jp/sightseeing/yoka-tajimanokura",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.michinoekiyouka.co.jp/index.php"
+      ]
+    },
+    {
+      "name": "農家レストラン 村ん中",
+      "municipality": "養父市",
+      "address": "養父市八鹿町米里851-2",
+      "phone": "090-3350-7972",
+      "source": "https://www.yabu-kankou.jp/sightseeing/yubaryouri-nakamuraya",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://murannaka.com/"
+      ]
+    },
+    {
+      "name": "くら寿司株式会社(くら寿司)",
+      "municipality": "川西市",
+      "address": "川西市栄町11-1 ラソラ川西B1階",
+      "phone": "072-757-6055",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "阿洲波商店",
+      "municipality": "川西市",
+      "address": "川西市栄町1-5",
+      "phone": "072-759-9590",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "あんちすてーき とろろ麦めし 豚丸",
+      "municipality": "川西市",
+      "address": "川西市栄町11-1 ラソラ川西地下1階",
+      "phone": "072-744-1006",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.butamaru.jp/"
+      ]
+    },
+    {
+      "name": "居酒屋 桂",
+      "municipality": "川西市",
+      "address": "川西市平野2-12-10 玉川ビル",
+      "phone": "090-4497-6115",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋 潤",
+      "municipality": "川西市",
+      "address": "川西市小戸1-3-2",
+      "phone": "072-757-4117",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋 ちょくちょく",
+      "municipality": "川西市",
+      "address": "川西市多田桜木2-10-37 来田ビル1F",
+      "phone": "072-776-5959",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋ひろちゃん",
+      "municipality": "川西市",
+      "address": "川西市東畦野2-4-14",
+      "phone": "080-4480-2216",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居食屋わいるどふぁーむ",
+      "municipality": "川西市",
+      "address": "川西市平野3-2-11 平野駅前ビル1階",
+      "phone": "072-793-2236",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://www.wild-farm.net/"
+      ]
+    },
+    {
+      "name": "(株)イデア (鶴橋風月)",
+      "municipality": "川西市",
+      "address": "川西市栄町11-1 ラソラ川西B1階",
+      "phone": "072-740-2522",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "いろどり",
+      "municipality": "川西市",
+      "address": "川西市多田桜木1-3-21",
+      "phone": "072-793-7772",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鰻の成瀬(pafit株式会社)",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西3階",
+      "phone": "",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "株式会社エイアンドエムサービス(居酒屋けんた)",
+      "municipality": "川西市",
+      "address": "川西市丸の内町/萩原台西3-1-2",
+      "phone": "072-744-5146",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "小川珈琲 川西店",
+      "municipality": "川西市",
+      "address": "川西市多田桜木1-8-3 イズミヤ内1F",
+      "phone": "072-792-0890",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "小川食堂",
+      "municipality": "川西市",
+      "address": "川西市小戸1-4-11",
+      "phone": "",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み焼 夢",
+      "municipality": "川西市",
+      "address": "川西市鼓が滝1-28-29",
+      "phone": "072-793-5030",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "音羽鮨 多田出前センター",
+      "municipality": "川西市",
+      "address": "豊中市庄内宝町2-1-1",
+      "phone": "072-793-3037",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "おはしダイニング SHELL",
+      "municipality": "川西市",
+      "address": "川西市小戸1-3-9",
+      "phone": "072-767-7607",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.ohashi-dining-shell.com"
+      ]
+    },
+    {
+      "name": "(株)wrap",
+      "municipality": "川西市",
+      "address": "川西市大和西2-14-20",
+      "phone": "080-9711-8088",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://365crepe.jimdofree.com"
+      ]
+    },
+    {
+      "name": "海鮮樓",
+      "municipality": "川西市",
+      "address": "川西市出在家町1-8 商工会館1階",
+      "phone": "072-759-5718",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "回転江戸前すし とれとれ屋 多田店",
+      "municipality": "川西市",
+      "address": "豊中市庄内宝町2-1-1",
+      "phone": "072-793-6600",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "かき小屋 よもだ",
+      "municipality": "川西市",
+      "address": "川西市小花1-9-11",
+      "phone": "072-714-4592",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://yomoda.owst.jp"
+      ]
+    },
+    {
+      "name": "(株)カグラザカ",
+      "municipality": "川西市",
+      "address": "川西市平野2-2-16",
+      "phone": "072-793-2511",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "隠れ庵",
+      "municipality": "川西市",
+      "address": "川西市多田桜木1-8-32",
+      "phone": "072-793-0730",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Casa LIBRE",
+      "municipality": "川西市",
+      "address": "川西市緑台2-1-80",
+      "phone": "",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "割鮮 Nampu もとき",
+      "municipality": "川西市",
+      "address": "川西市栄根1-7-5 サンメゾン戸田1階",
+      "phone": "072-764-7155",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "かつの店  花",
+      "municipality": "川西市",
+      "address": "川西市栄町10-5-119",
+      "phone": "072-759-5404",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "割烹 幸寿司",
+      "municipality": "川西市",
+      "address": "川西市鼓が滝1-28-23",
+      "phone": "072-793-7829",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "家庭料理 こころ家",
+      "municipality": "川西市",
+      "address": "川西市大和西1-47-8",
+      "phone": "072-795-0160",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "カフェ スリール ヴィ",
+      "municipality": "川西市",
+      "address": "川西市東畦野2-3-13",
+      "phone": "072-795-1741",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "cafe’ de narion",
+      "municipality": "川西市",
+      "address": "川西市小戸1-3-5 ONLY ONE101",
+      "phone": "",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "カフェ レガーロ",
+      "municipality": "川西市",
+      "address": "川西市湯山台2-1-2",
+      "phone": "072-702-8651",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Cafe&Live Space露依楼囲-Roy Roy-",
+      "municipality": "川西市",
+      "address": "川西市中央町3-3 川西中央ビル 2EF",
+      "phone": "072-758-1732",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://caferoiroi.jp/sp/"
+      ]
+    },
+    {
+      "name": "カラオケ かふぇ ティンク",
+      "municipality": "川西市",
+      "address": "川西市栄町2-19 2F",
+      "phone": "072-764-6776",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "Karaoke club & bar Reve",
+      "municipality": "川西市",
+      "address": "川西市栄根2-1-10",
+      "phone": "",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "カラオケ スナック 華",
+      "municipality": "川西市",
+      "address": "川西市小戸2-4-4",
+      "phone": "072-758-9098",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "カラオケ喫茶ブーケ",
+      "municipality": "川西市",
+      "address": "川西市栄根2丁目1-10 パークプラザビル3F",
+      "phone": "090-8534-3894",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "カラオケスナック Neo aiai",
+      "municipality": "川西市",
+      "address": "川西市小戸2-4-3-101",
+      "phone": "072-758-6272",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "川西立呑",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西2F 203",
+      "phone": "072-758-4588",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "韓国料理居酒屋 金ちゃん",
+      "municipality": "川西市",
+      "address": "川西市東多田1-1-10 みのり屋ビル1F",
+      "phone": "072-792-7238",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "KITSUNE BAKE HOUSE",
+      "municipality": "川西市",
+      "address": "川西市霞ヶ丘2-1-18",
+      "phone": "",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kitsunebakehouse.com"
+      ]
+    },
+    {
+      "name": "絹延橋うどん研究所",
+      "municipality": "川西市",
+      "address": "川西市小戸3-23-6",
+      "phone": "072-767-7639",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.goope.jp/kinuuken"
+      ]
+    },
+    {
+      "name": "喜楽丸",
+      "municipality": "川西市",
+      "address": "川西市栄町3-2",
+      "phone": "072-759-3007",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "club Y",
+      "municipality": "川西市",
+      "address": "川西市平野2-12-10 玉川ビル2F",
+      "phone": "072-792-5057",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "グリルALTO",
+      "municipality": "川西市",
+      "address": "川西市栄町10-5-117",
+      "phone": "072-757-0555",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ケンタッキーフライドチキン アステ川西店",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1アステ川西1F",
+      "phone": "072-755-2120",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "合同会社Coffee And Talk(MIX CAFE)",
+      "municipality": "川西市",
+      "address": "川西市西畦野2-24-14",
+      "phone": "072-795-4535",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "小麦とお米(株式会社松branch)",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西3階",
+      "phone": "072-769-6777",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "コメダ珈琲店 株式会社チェーズNEXT",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西3階",
+      "phone": "072-767-1266",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "THE ROASTERY OKIOKI",
+      "municipality": "川西市",
+      "address": "川西市中央町7-3",
+      "phone": "072-764-6800",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "サーティワン アイスクリーム アステ川西店",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西B1階",
+      "phone": "072-755-1032",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.31ice.co.jp/"
+      ]
+    },
+    {
+      "name": "(株)サイゼリヤ",
+      "municipality": "川西市",
+      "address": "川西市栄町11-1ラソラ川西B1階",
+      "phone": "072-756-7621",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "さかなと純米",
+      "municipality": "川西市",
+      "address": "川西市小戸1--1-8",
+      "phone": "072-764-5610",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://sakana-to-jyunmai.owst.jp/"
+      ]
+    },
+    {
+      "name": "さかなの大将",
+      "municipality": "川西市",
+      "address": "川西市中央町11-5 ONLYONE川西中央1-101",
+      "phone": "072-759-0135",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.sakana108.com"
+      ]
+    },
+    {
+      "name": "さくら",
+      "municipality": "川西市",
+      "address": "川西市小戸2丁目4-4",
+      "phone": "",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Saffron合同会社(NEW LITTLE INDIA)",
+      "municipality": "川西市",
+      "address": "川西市萩原台東1-275-1",
+      "phone": "090-6660-9841",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "(株)Cinq Stella",
+      "municipality": "川西市",
+      "address": "川西市鼓が滝1-28-4",
+      "phone": "072-764-7388",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "自家製麺 杵屋 川西アステ店",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西3階",
+      "phone": "072-755-2039",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "広域チェーン店舗",
+      "websiteLinks": []
+    },
+    {
+      "name": "しきしき",
+      "municipality": "川西市",
+      "address": "川西市萩原台西2-260",
+      "phone": "072-758-6516",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "(有)志ぎや",
+      "municipality": "川西市",
+      "address": "川西市小花1-5-6",
+      "phone": "072-759-6863",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "(株)SHISEI 三田屋本店 川西萩原台",
+      "municipality": "川西市",
+      "address": "川西市萩原台西3-1-2",
+      "phone": "072-757-1448",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "旬 和食 六花",
+      "municipality": "川西市",
+      "address": "川西市小戸1-4-12",
+      "phone": "072-759-5060",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "食酒こころ",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西3階",
+      "phone": "072-755-2032",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "食no道 Haku",
+      "municipality": "川西市",
+      "address": "川西市花屋敷2-7-7-D",
+      "phone": "072-744-5391",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鮨・酒・肴・杉玉(株)FOOD & LIFE INNOVATIONS",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西1階",
+      "phone": "072-767-1566",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "snack  Ohana",
+      "municipality": "川西市",
+      "address": "川西市東畦野2-4-15",
+      "phone": "072-794-0181",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "スナックlove",
+      "municipality": "川西市",
+      "address": "川西市多田桜木1-8-24",
+      "phone": "",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "スナック貴美",
+      "municipality": "川西市",
+      "address": "川西市中央町3-3 中央ビル2階",
+      "phone": "072-758-5006",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "スナック集い",
+      "municipality": "川西市",
+      "address": "川西市多田桜木2-6-18 新和コーポ103",
+      "phone": "072-793-9891",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "スパイスカレー ミルズ",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西B1",
+      "phone": "090-6733-2392",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗名義のWebショップを別途確認",
+      "websiteLinks": [
+        "https://spicemills.theshop.jp/"
+      ]
+    },
+    {
+      "name": "炭火焼居酒屋 勝",
+      "municipality": "川西市",
+      "address": "川西市栄町4-9",
+      "phone": "072-702-7337",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "炭火焼肉 炭小屋",
+      "municipality": "川西市",
+      "address": "川西市笹部1-3-14",
+      "phone": "072-795-0770",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "炭火焼肉ニクジュウハチ",
+      "municipality": "川西市",
+      "address": "川西市平野2-11-12",
+      "phone": "072-792-4298",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "せいろ屋",
+      "municipality": "川西市",
+      "address": "川西市小花1-1-10 ベルフローラかわにしE-119",
+      "phone": "072-759-2110",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://www.seiroya.com/"
+      ]
+    },
+    {
+      "name": "創作和食&CAFE 想月",
+      "municipality": "川西市",
+      "address": "川辺郡猪名川町広根西ヲコダ-14",
+      "phone": "072-746-3179",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "Sora dining",
+      "municipality": "川西市",
+      "address": "川西市丸山台1丁目1-13",
+      "phone": "090-8825-6428",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ダイニング晃",
+      "municipality": "川西市",
+      "address": "川西市鼓が滝1丁目28-22",
+      "phone": "",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Dining森のくまさん",
+      "municipality": "川西市",
+      "address": "川西市栄根2-6-7 SKビル1階",
+      "phone": "072-758-4500",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://morinokumasan.owst.jp/map"
+      ]
+    },
+    {
+      "name": "たいやき あんこ日和",
+      "municipality": "川西市",
+      "address": "川西市見野",
+      "phone": "080-9831-3406",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://anko-biyori.studio.site/"
+      ]
+    },
+    {
+      "name": "(株)大漁",
+      "municipality": "川西市",
+      "address": "川西市下加茂1-24-8",
+      "phone": "072-759-3988",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "台湾ラーメン 雲照",
+      "municipality": "川西市",
+      "address": "川西市小花1-2-3",
+      "phone": "072-759-8800",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "たかのつめ",
+      "municipality": "川西市",
+      "address": "川西市多田桜木2-1-21",
+      "phone": "072-793-8885",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "宝塚ダイナーズカフェ ここ",
+      "municipality": "川西市",
+      "address": "宝塚市伊子志3-15-3",
+      "phone": "090-3866-3018",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "https://t-houzen.com"
+      ]
+    },
+    {
+      "name": "たからや",
+      "municipality": "川西市",
+      "address": "川西市小花1-2-4",
+      "phone": "072-759-7323",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "(株)チェサピーク",
+      "municipality": "川西市",
+      "address": "川西市緑台5-1-2",
+      "phone": "072-793-2244",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ちから餅(株式会社KOF)",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西1階",
+      "phone": "072-755-2106",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "china dining 彩花",
+      "municipality": "川西市",
+      "address": "川西市向陽台3-3-144",
+      "phone": "072-703-9133",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "中華料理「大王」",
+      "municipality": "川西市",
+      "address": "川西市小戸2-4-4",
+      "phone": "072-758-4603",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "中華料理 龍ちゃん",
+      "municipality": "川西市",
+      "address": "川西市西畦野2-25-18",
+      "phone": "072-794-3739",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "中国料理TENGAI",
+      "municipality": "川西市",
+      "address": "川西市栄町10-5-116",
+      "phone": "072-757-5088",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "株式会社長禄(一鷹食堂)",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西3F",
+      "phone": "072-767-1777",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ツノダシクタン (プルバンフードサービス株式会社)",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西3階",
+      "phone": "072-744-6650",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "津の田ミート(プルバンフードサービス(株))",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西3階",
+      "phone": "072-758-1029",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "TEACE Teasalon & Interior",
+      "municipality": "川西市",
+      "address": "川西市火打1-21-13",
+      "phone": "072-703-3683",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://www.teace.site/about"
+      ]
+    },
+    {
+      "name": "Taste of India Few",
+      "municipality": "川西市",
+      "address": "川西市平野3-3-24 1F",
+      "phone": "072-793-2772",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "手しごと讃岐うどん讃々",
+      "municipality": "川西市",
+      "address": "川西市緑台2-2-121",
+      "phone": "072-792-8887",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鉄板焼  明里",
+      "municipality": "川西市",
+      "address": "川西市萩原台東1-275-4",
+      "phone": "072-757-6532",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "(有)てん川",
+      "municipality": "川西市",
+      "address": "川西市加茂3-3-35",
+      "phone": "072-759-7117",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "鳥十",
+      "municipality": "川西市",
+      "address": "川西市出在家町13-30",
+      "phone": "072-757-6153",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.tori10.net"
+      ]
+    },
+    {
+      "name": "鶏と米diningライズ",
+      "municipality": "川西市",
+      "address": "川西市平野3丁目1-18 増田建設平野ビル1階",
+      "phone": "072-764-8880",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "とり家 はやかわ",
+      "municipality": "川西市",
+      "address": "川西市多田桜木1-3-21",
+      "phone": "072-793-1618",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "とんかつ一番2deux",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西3階",
+      "phone": "072-710-5809",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://tonkatsuichiban-deux.com/kawanishi/"
+      ]
+    },
+    {
+      "name": "(株)ナッツベリー",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西2階",
+      "phone": "072-755-2254",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "(有)なりかわ",
+      "municipality": "川西市",
+      "address": "川西市花屋敷1-18-9",
+      "phone": "072-757-3373",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "(株)ノジュール",
+      "municipality": "川西市",
+      "address": "川西市東畦野6-15-1",
+      "phone": "072-795-0151",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "呑ん",
+      "municipality": "川西市",
+      "address": "川西市鼓が滝1丁目28-3",
+      "phone": "",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Bar BAQXS",
+      "municipality": "川西市",
+      "address": "川西市東多田1-1-10",
+      "phone": "080-2414-6693",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Bar&Diner whippers nappers",
+      "municipality": "川西市",
+      "address": "川西市小花1-2-3 2階",
+      "phone": "072-744-3555",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "HAKATA RAMEN ADACHI",
+      "municipality": "川西市",
+      "address": "川西市小戸1-4-12 1F",
+      "phone": "072-758-2858",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "八福",
+      "municipality": "川西市",
+      "address": "川西市",
+      "phone": "",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ハレバレ",
+      "municipality": "川西市",
+      "address": "川西市一庫2丁目2-9",
+      "phone": "090-1125-8080",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://harebare1125.com/"
+      ]
+    },
+    {
+      "name": "(株)PIZZA PORT",
+      "municipality": "川西市",
+      "address": "川西市栄町1-1",
+      "phone": "080-8047-5076",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ピザーラ川西店 (株)OTA",
+      "municipality": "川西市",
+      "address": "川西市湯山台2-1-3",
+      "phone": "072-792-8900",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "Bistro Cafe Tetsuya+Mia madre",
+      "municipality": "川西市",
+      "address": "川西市小戸2-4-2 IBK HOUSEII",
+      "phone": "072-744-1466",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://bistrocafetetsuya-miamadre.owst.jp/"
+      ]
+    },
+    {
+      "name": "Pizza Groove",
+      "municipality": "川西市",
+      "address": "川西市小戸1-10-14",
+      "phone": "072-575-0155",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鳥処 福笑",
+      "municipality": "川西市",
+      "address": "川西市小花1-1-10ベルフローラかわにしイースト1階",
+      "phone": "072-758-2358",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://fukuwarai.holy.jp/"
+      ]
+    },
+    {
+      "name": "(株)NORI(大戸屋)",
+      "municipality": "川西市",
+      "address": "川西市栄町11-1ラソラ川西B1F",
+      "phone": "072-757-7539",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "Petite Saison",
+      "municipality": "川西市",
+      "address": "川西市清和台4-3-27",
+      "phone": "",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "プロムナードカフェB1店((株)ブレーントラスト)",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西B1階",
+      "phone": "072-767-6655",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "プロムナードカフェ((株)ブレーントラスト)",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西2階",
+      "phone": "072-755-2255",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ふわとろキッチン",
+      "municipality": "川西市",
+      "address": "-",
+      "phone": "090-9161-1834",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "https://ふわとろキッチン.com"
+      ]
+    },
+    {
+      "name": "ベーカリーシナノ",
+      "municipality": "川西市",
+      "address": "川西市小花1丁目5-14",
+      "phone": "070-8499-6886",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://cinnamonroll.jp/"
+      ]
+    },
+    {
+      "name": "北海道家庭料理 神威",
+      "municipality": "川西市",
+      "address": "川西市東畦野山手2-4-5 KMビル101",
+      "phone": "072-768-9249",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Bottega DAI",
+      "municipality": "川西市",
+      "address": "川西市中央町7-14",
+      "phone": "072-756-2588",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://bottegadai.com"
+      ]
+    },
+    {
+      "name": "HOLO HOLO KITCHEN",
+      "municipality": "川西市",
+      "address": "-",
+      "phone": "",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "祭",
+      "municipality": "川西市",
+      "address": "川西市小戸1-3-12",
+      "phone": "072-755-1333",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Mare Ju",
+      "municipality": "川西市",
+      "address": "川西市平野2丁目9-17",
+      "phone": "",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "萬てん家",
+      "municipality": "川西市",
+      "address": "川西市東畦野2-5-6",
+      "phone": "072-795-2198",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ミスタードーナツ アステ川西店",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西1階",
+      "phone": "072-755-2130",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.astekawanishi.com/shop/detail/?s_id=7"
+      ]
+    },
+    {
+      "name": "珉王",
+      "municipality": "川西市",
+      "address": "川西市多田桜木2-1-11",
+      "phone": "072-793-9735",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Mo-Lun-Di-Co",
+      "municipality": "川西市",
+      "address": "川西市清和台東3-1-8 トナリエ清和台",
+      "phone": "072-799-5566",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "桃八",
+      "municipality": "川西市",
+      "address": "川西市多田桜木2-3-28 岡田ビル1階",
+      "phone": "072-792-3163",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼鶏 和 KAZU",
+      "municipality": "川西市",
+      "address": "川西市多田桜木2-3-28 リバーサイド岡田ビル1階",
+      "phone": "072-792-1730",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉 牛兆((株)ニッショク)",
+      "municipality": "川西市",
+      "address": "川西市栄町25-1 アステ川西3階",
+      "phone": "072-758-2929",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉  大",
+      "municipality": "川西市",
+      "address": "川西市出在家町9-2",
+      "phone": "072-759-4863",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉すとろんぐ",
+      "municipality": "川西市",
+      "address": "川西市鼓が滝1丁目3-18",
+      "phone": "072-714-2170",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "山鳩",
+      "municipality": "川西市",
+      "address": "川西市鼓が滝1-28-3",
+      "phone": "072-792-2345",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ラウンジ マドンナ",
+      "municipality": "川西市",
+      "address": "川西市下加茂1-5-21 増田建設ビルB1",
+      "phone": "072-757-2334",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "レストラン シロ",
+      "municipality": "川西市",
+      "address": "川西市久代1-8-27",
+      "phone": "072-759-9172",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ROCKAWAY BUGGY",
+      "municipality": "川西市",
+      "address": "川西市小戸2-5-11",
+      "phone": "072-764-6005",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://rockawaybuggy.com/"
+      ]
+    },
+    {
+      "name": "ROCKAWAY BUGGY",
+      "municipality": "川西市",
+      "address": "川西市小戸2-5-11",
+      "phone": "072-764-6005",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://rockawaybuggy.com/",
+        "https://rockawaybuggy.com/"
+      ]
+    },
+    {
+      "name": "炉端 源八",
+      "municipality": "川西市",
+      "address": "川西市小戸1-4-9",
+      "phone": "072-758-6628",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ロンシャン",
+      "municipality": "川西市",
+      "address": "川西市緑台2-1-79",
+      "phone": "072-793-5255",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "和中華 影菜",
+      "municipality": "川西市",
+      "address": "川西市中央町3-3 2階",
+      "phone": "072-744-5698",
+      "source": "https://e-kawanishi.org/members/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://wachuka-kagesai.com/"
+      ]
+    },
+    {
+      "name": "すし善 SUSHIZEN",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央2-9-12",
+      "phone": "072-782-2344",
+      "source": "https://itami-city.jp/shop/00000064343/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "フランダース 昆陽店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 昆陽東3-1-5",
+      "phone": "072-777-4561",
+      "source": "https://itami-city.jp/shop/00000064421/",
+      "decision": "洋菓子販売主体で店内飲食の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "sourire(パティスリー スーリール)",
+      "municipality": "伊丹市",
+      "address": "伊丹市 東野6-6 エル・パラシオ1階",
+      "phone": "072-772-5218",
+      "source": "https://itami-city.jp/shop/00000065573/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.e-sourire.co.jp/"
+      ]
+    },
+    {
+      "name": "カフェハウス アマン",
+      "municipality": "伊丹市",
+      "address": "伊丹市 稲野町1-10-2",
+      "phone": "072-775-3602",
+      "source": "https://itami-city.jp/shop/00000065574/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉 いちりき",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-6-4",
+      "phone": "072-772-8529",
+      "source": "https://itami-city.jp/shop/00000071340/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "すっぽん料理 遠山",
+      "municipality": "伊丹市",
+      "address": "尼崎市 塚口本町1-2-8",
+      "phone": "06-6421-1127",
+      "source": "https://itami-city.jp/shop/00000071630/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "http://suppon-tohyama.com/",
+        "http://r.gnavi.co.jp/k140500/"
+      ]
+    },
+    {
+      "name": "お好み焼き ゆうか",
+      "municipality": "伊丹市",
+      "address": "尼崎市 南武庫之荘1-15-7",
+      "phone": "06-4962-1666",
+      "source": "https://itami-city.jp/shop/00000074096/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "http://www.hirosimayaki.com/"
+      ]
+    },
+    {
+      "name": "ベーカーショップ サンブレッド 塚口店",
+      "municipality": "伊丹市",
+      "address": "尼崎市 南塚口町6-4-12 ロイヤルハイツ",
+      "phone": "06-6426-7672",
+      "source": "https://itami-city.jp/shop/00000080309/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "味処 八代",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹2-5-17 アリオ2 1階",
+      "phone": "072-782-7215",
+      "source": "https://itami-city.jp/shop/00000300073/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ステーキハウス萩",
+      "municipality": "伊丹市",
+      "address": "尼崎市 武庫之荘本町2-22-5",
+      "phone": "06-6439-6611",
+      "source": "https://itami-city.jp/shop/00000300412/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉とも",
+      "municipality": "伊丹市",
+      "address": "伊丹市 緑ヶ丘1-310-102",
+      "phone": "072-784-8929",
+      "source": "https://itami-city.jp/shop/00000300562/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋 常喜和(ときわ)",
+      "municipality": "伊丹市",
+      "address": "伊丹市 山田4-6-64",
+      "phone": "072-785-9238",
+      "source": "https://itami-city.jp/shop/00000300986/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉・ホルモン ちんぐ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-6-1",
+      "phone": "072-775-1189",
+      "source": "https://itami-city.jp/shop/00000303927/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://r.gnavi.co.jp/c918600/",
+        "http://www.horumonchingu.com/"
+      ]
+    },
+    {
+      "name": "松葉寿司塚口本店",
+      "municipality": "伊丹市",
+      "address": "尼崎市 塚口町1-13-10",
+      "phone": "06-6422-1234",
+      "source": "https://itami-city.jp/shop/00000314861/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "https://www.youtube.com/channel/UC3bScziVKV1MFlA3ith3LFQ",
+        "https://www.tiktok.com/@matsuba.sushi"
+      ]
+    },
+    {
+      "name": "インディアンパレス",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台4-6-32",
+      "phone": "072-777-4478",
+      "source": "https://itami-city.jp/shop/00000315472/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.youtube.com/watch?v=-sgLceQB1XY"
+      ]
+    },
+    {
+      "name": "椅子のある立ち呑み処 つるつるいっぱい",
+      "municipality": "伊丹市",
+      "address": "伊丹市 東有岡1-18-13 サン伊丹駅前ハイツA棟H",
+      "phone": "090-3727-1721",
+      "source": "https://itami-city.jp/shop/00000315781/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://g.co/kgs/rKuQ55",
+        "https://s.ekiten.jp/shop_81860505.amp/",
+        "http://hccweb1.bai.ne.jp/~hcj52101/atkikaku.html"
+      ]
+    },
+    {
+      "name": "だんらん処 一 ichi",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央3-1-28 2階",
+      "phone": "072-784-8615",
+      "source": "https://itami-city.jp/shop/00000319387/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://danrandokoro-ichi.com/"
+      ]
+    },
+    {
+      "name": "肉のスター伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-6-1 尾仲ビル2階",
+      "phone": "072-770-0669",
+      "source": "https://itami-city.jp/shop/00000323157/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://r.gnavi.co.jp/c918601/"
+      ]
+    },
+    {
+      "name": "旬菜居酒屋 今日平",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1-6-22",
+      "phone": "072-777-1949",
+      "source": "https://itami-city.jp/shop/00000335121/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.kyo-hey.com/"
+      ]
+    },
+    {
+      "name": "和琉酒房 結",
+      "municipality": "伊丹市",
+      "address": "尼崎市 南塚口町1-12-8 サウサービル102",
+      "phone": "06-6429-3633",
+      "source": "https://itami-city.jp/shop/00000335508/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": [
+        "http://r.gnavi.co.jp/kbfs900/"
+      ]
+    },
+    {
+      "name": "レストラン ふらいぱん",
+      "municipality": "伊丹市",
+      "address": "尼崎市 南武庫之荘2-17-20 三和コーポラス103",
+      "phone": "06-6437-1156",
+      "source": "https://itami-city.jp/shop/00000338144/",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋 ひよっ子",
+      "municipality": "伊丹市",
+      "address": "伊丹市 千僧4-245 2階",
+      "phone": "072-785-5060",
+      "source": "https://itami-city.jp/shop/00000339679/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "浜焼き処 一 ichi",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央5-1-3",
+      "phone": "072-770-2063",
+      "source": "https://itami-city.jp/shop/00000340103/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://danrandokoro-ichi.com/"
+      ]
+    },
+    {
+      "name": "うどん処 ふっさん",
+      "municipality": "伊丹市",
+      "address": "伊丹市 千僧1-10-2",
+      "phone": "072-770-3909",
+      "source": "https://itami-city.jp/shop/00000340419/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ごはんと晩酌 紀屋 NORI-YA",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-7-13",
+      "phone": "090-9054-5817",
+      "source": "https://itami-city.jp/shop/00000343915/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Taverna Pecorino",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台3-1-1 川端ビル1階",
+      "phone": "072-777-3077",
+      "source": "https://itami-city.jp/shop/00000345584/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "MOGURA CAFE",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央4-5-10 GREENJAM BUILDING 2階",
+      "phone": "072-764-6532",
+      "source": "https://itami-city.jp/shop/00000351894/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.thepicta.com/user/k2c_hyottoko/1815618433"
+      ]
+    },
+    {
+      "name": "餃子酒家 金 GOLD",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台2-4-8 星和ビル1階",
+      "phone": "072-777-6372",
+      "source": "https://itami-city.jp/shop/00000354034/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "旬菜料理 心ち(ここち)",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央4-3-20",
+      "phone": "072-785-7767",
+      "source": "https://itami-city.jp/shop/00000355728/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "伊丹創作和食 まつもと食道",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1-5-10",
+      "phone": "090-8238-8550",
+      "source": "https://itami-city.jp/shop/00000361754/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "揚げたて天ぷら 豊",
+      "municipality": "伊丹市",
+      "address": "伊丹市 昆陽3-248-1",
+      "phone": "072-744-6662",
+      "source": "https://itami-city.jp/shop/00000377524/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "cafe Chaton",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹6-5-13",
+      "phone": "090-6917-8872",
+      "source": "https://itami-city.jp/shop/00000378890/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "炭火串焼き えびす",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台5-1-16 モアビル1階",
+      "phone": "072-775-0248",
+      "source": "https://itami-city.jp/shop/00000381291/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://sumibikushiyaki-ebisu.com/"
+      ]
+    },
+    {
+      "name": "おばんざいスナックあん",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-5-19 ピュア伊丹21 7階",
+      "phone": "080-9194-6665",
+      "source": "https://itami-city.jp/shop/00000386171/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "Live&Bar Tomorrow 2nd",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央3-2-6 ICB伊丹中央ビル地下1階",
+      "phone": "072-744-6451",
+      "source": "https://itami-city.jp/shop/00000386723/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "LIVE&BAR GAROclub",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1-7-2 小西ビル地下1階",
+      "phone": "072-764-8386",
+      "source": "https://itami-city.jp/shop/00000387163/",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "のらや 伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 瑞穂町1-9",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=1",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://noraya.com"
+      ]
+    },
+    {
+      "name": "伊丹ミートセンター",
+      "municipality": "伊丹市",
+      "address": "伊丹市 瑞穂町1-40",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=1",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://itami-mc@sumibiyakiniku.com"
+      ]
+    },
+    {
+      "name": "一汁三菜 咲菜",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹1-10 アリオ1 115号",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=1",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "カフェ・トーク",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹1丁目10-15 アリオ1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=2",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "味処 八代",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹2丁目5-17 アリオ2",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=2",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "やきとり大吉JR伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹2-5-8  アリオ2 107号",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=2",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "http://gourmet.suntory.co.jp/shop/0X00180050/"
+      ]
+    },
+    {
+      "name": "ぎょうざの尚ちゃん",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹1丁目10-15-112 アリオ1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=3",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "芦屋串の助kura伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央3-1-28 1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=3",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://r.gnavi.co.jp/k647206/"
+      ]
+    },
+    {
+      "name": "白雪ブルワリービレッジ長寿蔵レストラン",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央3-4-15",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=3",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://r.gnavi.co.jp/ka3t801/"
+      ]
+    },
+    {
+      "name": "地中海バルsakaguraBODEGA",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹2丁目2-18コンフォート中喜1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=3",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "料理家 六",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹2-1-17",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=3",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "カフェバー108",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹2丁目3-20-108",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=3",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "クロスロードカフェ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央3-2-4",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=4",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "串かつ やんなか",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹2-2-12-1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=4",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "カフェダイニングメロウ伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹2丁目3-20 和音103",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=4",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "鉄板DINING 十一",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹1-8-22-4",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=4",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "http://teppan-toichi.com/page/main_page/main1.htm"
+      ]
+    },
+    {
+      "name": "カレー専門店ナゴミヤ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹1-8-22-2",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=4",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "奥出雲そば処 一福伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹1-8-22-3",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=4",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://okuizumosoba-ippuku-itami.owst.jp/"
+      ]
+    },
+    {
+      "name": "タリーズコーヒー&TEA 伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央3-5-1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=4",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://shop.tullys.co.jp/detail/5100811"
+      ]
+    },
+    {
+      "name": "こまちん家",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹2-1-17",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=4",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "http://www.ravine.co.jp/komachi/index.html"
+      ]
+    },
+    {
+      "name": "西洋懐石アンシャンテ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央3-2-27",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=4",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://r.gnavi.co.jp/c889400"
+      ]
+    },
+    {
+      "name": "創作中華扇",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹1-8-25-1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=5",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "創作和食厨",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹1-8-22-1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=5",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "伊丹直球酒場 吉田",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1丁目9-22パールハイツ1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=5",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "韓国厨房 尚州本店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央2-9-29 1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=5",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "すし楽",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹1-8-24",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=6",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "きて屋 伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-6-4",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=6",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "Pasta&Pizzeria Creo",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央2-9-29 パセオ三軒寺通201",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=6",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://creo2013.com/"
+      ]
+    },
+    {
+      "name": "土鍋鯛めしと炙り淡路鶏 たいがええねん",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台3-1-1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=6",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://r.gnavi.co.jp/k173601/"
+      ]
+    },
+    {
+      "name": "日本料理 まつ井358",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台3-1-1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=6",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://r.gnavi.co.jp/e317p5800000/"
+      ]
+    },
+    {
+      "name": "大分中津からあげ たんでん",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台2-5-13",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=6",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "WINDWARD GRILL",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台2-5-9",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=6",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://windwardgrill.gorp.jp/"
+      ]
+    },
+    {
+      "name": "和風創作 拓味",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央4丁目6-3",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=7",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "もんじゃ焼き弓場",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央5-2-6 山脇ビル103号",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=7",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "ほこ~魚菜と地酒~",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央2-4-12",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=7",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "http://hoko-itami.com/"
+      ]
+    },
+    {
+      "name": "餃子酒家 金GOLD",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台2-4-8 星和ビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=7",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "http://gyozagold.com/"
+      ]
+    },
+    {
+      "name": "玄品 伊丹",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-8-17",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=7",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://www.tettiri.com/shop/guenpin-itami/"
+      ]
+    },
+    {
+      "name": "だんらん処 一",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央3-1-28",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=7",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://danrandokoroichi.gorp.jp/"
+      ]
+    },
+    {
+      "name": "団楽酒場あぐら",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央2-2-16",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=7",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://agura-itami.owst.jp/"
+      ]
+    },
+    {
+      "name": "cafe Mon",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-1-1 伊丹ショッピングデパート5F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=8",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "まつもと食道",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央4丁目3-20-202",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=8",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "飲茶カフェ ジャスミン",
+      "municipality": "伊丹市",
+      "address": "伊丹市 北野3-4 シャドー北野102",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=8",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://localplace.jp/t100317232/"
+      ]
+    },
+    {
+      "name": "MEN-YA KOTOHOGI",
+      "municipality": "伊丹市",
+      "address": "伊丹市 昆陽6-129 高島ビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=8",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "創作居酒屋 彩華",
+      "municipality": "伊丹市",
+      "address": "伊丹市 行基町2-58-1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=8",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "伊丹うまか家 山酎",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台3丁目8-3 伊丹グリーンハイツ1階D号室",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=8",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "お好み焼き工房 いさ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 北野5-3",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=9",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "お食事処・居酒屋 笑幸 笑幸",
+      "municipality": "伊丹市",
+      "address": "伊丹市 千僧4丁目245番地2F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=9",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://itami-nikoniko.com"
+      ]
+    },
+    {
+      "name": "おかず倶楽部",
+      "municipality": "伊丹市",
+      "address": "伊丹市 桑津2丁目1-10",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=9",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "創作料理 かんな月",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹4丁目1-20",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=10",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "http://kannazuki.jp/"
+      ]
+    },
+    {
+      "name": "居酒屋さくら",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台3丁目2-36",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=10",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://izakaya-sakura.jp"
+      ]
+    },
+    {
+      "name": "いっ時あん",
+      "municipality": "伊丹市",
+      "address": "伊丹市 荒牧5-8-2",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=10",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://www.ittokian.com"
+      ]
+    },
+    {
+      "name": "あじまる",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台2丁目5-13",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=11",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "PIZZERIA HIRO",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台5-7-22-102",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=11",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "http://www.pizzeriahiro.com/",
+        "https://www.pizzeriahiro.com/itami.html"
+      ]
+    },
+    {
+      "name": "カスウドン ガチンコ伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-5-18-103",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=11",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "惣菜漁品",
+      "municipality": "伊丹市",
+      "address": "伊丹市 野間北2-10-21",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=11",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://www.sozairyohin.com"
+      ]
+    },
+    {
+      "name": "炭焼 雄星",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-4-7 ワタナベビル102号",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=11",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://sumiyakiyusei.com/"
+      ]
+    },
+    {
+      "name": "鉱物&カフェ Mineral Muru",
+      "municipality": "伊丹市",
+      "address": "伊丹市 稲野町1-85-1 TMプラザ101",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=11",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://mineralmuru.com"
+      ]
+    },
+    {
+      "name": "HEAVEN’S KITCHEN ひがしのたまご",
+      "municipality": "伊丹市",
+      "address": "伊丹市 瑞穂町5丁目8番地",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=12",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://www.heavenskitchen-pasta.net/"
+      ]
+    },
+    {
+      "name": "マルミ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 行基町3-1 太田ビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=12",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "常喜和",
+      "municipality": "伊丹市",
+      "address": "伊丹市 山田4丁目6-64",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=12",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "中華こまめや",
+      "municipality": "伊丹市",
+      "address": "伊丹市 昆陽3丁目248-1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=12",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "濱鮓",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1丁目2-6 山本第二ビル2F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=12",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "ミツワ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-1-1 伊丹ショッピングデパート2F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=13",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "浜焼き処 一",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央5丁目1-3",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=14",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "http://danrandokoro-ichi.com/",
+        "https://hamayaki-ichi.com/"
+      ]
+    },
+    {
+      "name": "呑み処 一",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央6丁目1-2",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=14",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://nomidokoro-ichi.com/"
+      ]
+    },
+    {
+      "name": "あんず食堂 by my cafe 2015",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央6丁目1-6 伊丹ビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=15",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://localplace.jp/sp/t200545139/index.html"
+      ]
+    },
+    {
+      "name": "千成家",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央4丁目5-20",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=15",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "千舟屋",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央5丁目2-18",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=15",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "ガチャガチャ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央4丁目3-14 セリバテール伊丹1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=16",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "都そば サンロード伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央5丁目1-1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=16",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "日進食品",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央4丁目2-9",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=16",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "Dish&Bar Cheerz",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台3-1-3",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=16",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "Tandoori Delights",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1-6-10-1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=17",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "Cafe Champroo",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台2-3-5 的場ビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=17",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://www.cafechamproo.jp/"
+      ]
+    },
+    {
+      "name": "まるやすのお弁当",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台2-5-22-101",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=17",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "http://www.maruyasu-bento.com/"
+      ]
+    },
+    {
+      "name": "スタンドダイニング海豚",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1-7-4",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=17",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "割烹うしお",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台2-2-17",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=17",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "Indian palace",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台4-6-32",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=18",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒家 今日平",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1-6-22",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=18",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://www.kyo-hey.com/"
+      ]
+    },
+    {
+      "name": "鉄板バル まつだ屋",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台5-1-12",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=18",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "開華亭",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1-6-24",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=18",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "コリアンダイニング ちゅん亭",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台2丁目1-10 山村ビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=18",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "旨し酒 風丹",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台4-1-1 古東ビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=18",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://footang.owst.jp/"
+      ]
+    },
+    {
+      "name": "イタリアンレストランアントン",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台3丁目1-12",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=18",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://www.i-anton.com/"
+      ]
+    },
+    {
+      "name": "本家かまどや 伊丹西台店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1丁目5-10",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=18",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "炭火串焼き えびす",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台5丁目1-16 モアビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=19",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://sumibikushiyaki-ebisu.com/"
+      ]
+    },
+    {
+      "name": "炭火串焼き えびす with カラオケ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台5丁目1-16 モアビル2F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=19",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "丸美食堂",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1丁目8-3",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=19",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "Suu",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央2丁目1-1-201",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=19",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "ばっかやん食堂",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-5-5 吉野ビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=19",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://r.gnavi.co.jp/k173606/",
+        "https://bakkayan-syokudou.owst.jp/"
+      ]
+    },
+    {
+      "name": "てっぱん竹家",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央2-2-2",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=19",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "尚州2号店(焼肉と韓国料理)",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1丁目7-10",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=20",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "てっぱん松",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1丁目7-14 田中ビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=20",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "ごはんと晩酌 紀屋",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1丁目7-13",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=20",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉いちりき",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1丁目6-4",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=20",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "憩",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1丁目6-3 尾仲ビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=20",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "純白そば月山",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-7-18",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=20",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "http://itami-higashi.main.jp/shop/tsukiyama/"
+      ]
+    },
+    {
+      "name": "喫茶エリート",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1丁目6-4",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=21",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "おとめ食堂",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-7-13 田中ビル1F-3",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=21",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://otome-shokudo.com/"
+      ]
+    },
+    {
+      "name": "魚政しばせん",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1丁目5-5 オイコス??野ビル1階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=21",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://www.nofish-nolife.com/"
+      ]
+    },
+    {
+      "name": "焼肉・鍋・肉のスター",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-6-1 尾伸ビル2F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=21",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉ホルモンちんぐ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-6-1 尾伸ビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=21",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "ハンバーグ&ステーキ LOG's",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-6-1 尾伸ビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=21",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "じゃんぼ總本店 阪急伊丹駅前店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-4-1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=21",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "立呑み処 丸美",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1丁目8-5",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=22",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "すし処味彩",
+      "municipality": "伊丹市",
+      "address": "伊丹市 鴻池3-14-9",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=22",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "http://www.eonet.ne.jp/~sushi-ajisai/"
+      ]
+    },
+    {
+      "name": "かに道楽伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 鴻池5-9-41",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=23",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://douraku.co.jp/"
+      ]
+    },
+    {
+      "name": "炭火焼き鳥ほむら",
+      "municipality": "伊丹市",
+      "address": "伊丹市 鴻池6-16-45-105",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=23",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "ピザハウス フクロウ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 鴻池4-8-18",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=23",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://www.ekiten.jp/shop_5026372/　"
+      ]
+    },
+    {
+      "name": "大阪王将 西野バス停前店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中野西4丁目74番地",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=23",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉 大福",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西野2-10 工藤ビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=24",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "いこいの場 イヌイ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西野2丁目8番地",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=24",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "コーヒーとピザの店 茉茹莉茄",
+      "municipality": "伊丹市",
+      "address": "伊丹市 池尻1丁目30番地",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=24",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "鉄板TENMEI",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-5-5 ボントンビルB1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=24",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋 阿吽",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-5-5 ボントンビルB1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=25",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "ホルモン酒場ずぼら",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-5-5 ボントンビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=25",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "海鮮炉端 将",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-5-5 ボントンビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=25",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://itami-kaisenrobata-shou.gorp.jp/",
+        "https://kaisenrobatasyo.owst.jp/"
+      ]
+    },
+    {
+      "name": "三代目鳥メロ阪急伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-5-5 ボントンビルB1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=25",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://torimero.com/hankyuitamiekimae/"
+      ]
+    },
+    {
+      "name": "蒸musunん(ムスン)",
+      "municipality": "伊丹市",
+      "address": "伊丹市 宮ノ前2-1-2 伊丹みやのまち4号館1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=25",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://musun-2019.com"
+      ]
+    },
+    {
+      "name": "みどり園リータ店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1-1-1 阪急伊丹リータ1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=25",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "野菜とつぶつぶ アプサラカフェ伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1-1-1 阪急伊丹リータ4F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=27",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "出石皿そば 花水木",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1-1-1 阪急伊丹リータ4F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=27",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "MiLDA Cafe(ミルダカフェ)",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台3-5-21",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=28",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://milda-cafe.com"
+      ]
+    },
+    {
+      "name": "立ち飲み処「松」",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-9-2 パールハイツ1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=28",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "かまどのうた伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹1丁目2-8",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=28",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://kamadonouta.com/"
+      ]
+    },
+    {
+      "name": "得得うどん 伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 船原2丁目3-12",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=29",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "今宵たまり場",
+      "municipality": "伊丹市",
+      "address": "伊丹市 北本町1-155",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=29",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "Cafe Cuore",
+      "municipality": "伊丹市",
+      "address": "伊丹市 南野北5-3-24",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=29",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "http://www.cafetristan.jp/"
+      ]
+    },
+    {
+      "name": "お好み焼きはここやねん 伊丹山田店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 山田4-8-43",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=29",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://www.cocoyanen.jp/shop_detail?id=itami"
+      ]
+    },
+    {
+      "name": "犇屋 伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 瑞ケ丘1丁目41番地",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=29",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://hishimekiya.gorp.jp/"
+      ]
+    },
+    {
+      "name": "お好み焼き・鉄板焼き じゅんぺい",
+      "municipality": "伊丹市",
+      "address": "伊丹市 桜ケ丘2丁目1-14",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=30",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "ロンフーダイニング イオンモール伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 藤ノ木1-1-1 イオンモール伊丹3階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=32",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "鎌倉パスタ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 藤ノ木1-1-1 イオンモール伊丹3階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=32",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "龍神丸 イオンモール伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 藤ノ木1-1-1 イオンモール伊丹3階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=32",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "しゃぶしゃぶ美山",
+      "municipality": "伊丹市",
+      "address": "伊丹市 藤ノ木1-1-1 イオンモール伊丹3階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=32",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "nana's green tea イオンモール伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 藤ノ木1-1-1 イオンモール伊丹3階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=32",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.nanasgreentea.com"
+      ]
+    },
+    {
+      "name": "コメダ珈琲店 イオンモール伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 藤ノ木1-1-1 イオンモール伊丹2階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=32",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ぼてぢゅう屋台 イオンモール伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 藤ノ木1-1-1 イオンモール伊丹3階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=32",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ポムの樹Jr.",
+      "municipality": "伊丹市",
+      "address": "伊丹市 藤ノ木1-1-1 イオンモール伊丹3階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=33",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "笑たこ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 藤ノ木1-1-1 イオンモール伊丹3階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=33",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "サーティワンアイスクリーム イオンモール伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 藤ノ木1-1-1 イオンモール伊丹3階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=33",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "サーティワンアイスクリーム イオンモール伊丹昆陽店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 池尻4丁目1番地1 イオンモール伊丹昆陽3F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=35",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://www.31ice.co.jp/"
+      ]
+    },
+    {
+      "name": "肉まる商店 イオンモール伊丹昆陽店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 池尻4丁目1番地1 イオンモール伊丹昆陽3F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=35",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://nikumarushoten.com/"
+      ]
+    },
+    {
+      "name": "どんぶりミュージアム イオンモール伊丹昆陽",
+      "municipality": "伊丹市",
+      "address": "伊丹市 池尻4丁目1番地1 イオンモール伊丹昆陽3階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=36",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://os-kanaizumi.com/"
+      ]
+    },
+    {
+      "name": "BISHNU",
+      "municipality": "伊丹市",
+      "address": "伊丹市 池尻4丁目1番地1 イオンモール伊丹昆陽4階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=36",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://bishnu.co.jp/"
+      ]
+    },
+    {
+      "name": "ケンタッキーフライドチキン イオンモール伊丹昆陽店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 池尻4丁目1番地1 イオンモール伊丹昆陽3階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=36",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "コーヒーギャラリーヒロ イオンモール伊丹昆陽店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 池尻4丁目1番地1 イオンモール伊丹昆陽2階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=36",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://www.hirocoffee.co.jp/"
+      ]
+    },
+    {
+      "name": "清修庵",
+      "municipality": "伊丹市",
+      "address": "伊丹市 池尻4丁目1番地1 イオンモール伊丹昆陽4階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=36",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "http://www.seisyuan.co.jp/"
+      ]
+    },
+    {
+      "name": "Roast Coffee Padinton",
+      "municipality": "伊丹市",
+      "address": "伊丹市 大野3-3",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=36",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://www.j-kankyo.com"
+      ]
+    },
+    {
+      "name": "旬菜料理 心ち",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央4丁目3-20",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=36",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "野乃鳥備丹蔵",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1-2-6 山本不動産第二ビル1F-A",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=36",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "すし善",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央2-9-12",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=37",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "Taverna Pecorino(タベルナ ペコリーノ)",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台3-1-1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=37",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "海鮮居酒屋 王者",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台3-1-1-2F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=37",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "WADO",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-2-5 グランドハイツコーワ1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=37",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "木下商店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 昆陽南3-14-33",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=37",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "CASUAL BAR BEENS",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1-2-6 山本不動産第二ビル2F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=37",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "麺屋 巧",
+      "municipality": "伊丹市",
+      "address": "伊丹市 行基町3-16-9 花川ビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=37",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "うめ家",
+      "municipality": "伊丹市",
+      "address": "伊丹市 宮ノ前1-2-34",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=38",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "幸珈琲 SACHIcoffee",
+      "municipality": "伊丹市",
+      "address": "伊丹市 宮ノ前1-3-7",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=38",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "ビーフ飯店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 荻野8-48",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=38",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "KITCHENあっちゃん",
+      "municipality": "伊丹市",
+      "address": "伊丹市 昆陽東6-8-47-103",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=38",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "Dining Bar Garden",
+      "municipality": "伊丹市",
+      "address": "伊丹市 宮ノ前2-1-11 宮の町4号館107",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=38",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "CAFEもこ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 東有岡1-18-1 サン伊丹駅前ハイツG号室",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=38",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "古潭 イオンモール伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 藤ノ木1-1-1 イオンモール伊丹3F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=38",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "http://ramen-kotan.co.jp/　"
+      ]
+    },
+    {
+      "name": "Jammin",
+      "municipality": "伊丹市",
+      "address": "伊丹市 宮ノ前1丁目4-15",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=39",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "ミスタードーナツ 阪急伊丹駅ショップ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1-1-1 伊丹リータ201",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=39",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ダイニング 鳥心",
+      "municipality": "伊丹市",
+      "address": "伊丹市 宮ノ前2-1-6 みやのまち4号館",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=39",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://torishin-itami.owst.jp"
+      ]
+    },
+    {
+      "name": "一汁三菜cafe 縁の糸",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台2-5-13  2F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=39",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://cafe-japanese-restaurant.business.site/"
+      ]
+    },
+    {
+      "name": "焼肉 山田商店(旧:焼肉 山家)",
+      "municipality": "伊丹市",
+      "address": "伊丹市 緑が丘5丁目65-1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=40",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": [
+        "https://yakinikuyamaya1129.com/"
+      ]
+    },
+    {
+      "name": "中華バル らいじん",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-5-5 ボントンビル地下1階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=40",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "お弁当 惣菜 八彩",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央4丁目5-14",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=40",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "立喰餃子酒場 あじかん",
+      "municipality": "伊丹市",
+      "address": "伊丹市 宮ノ前2-1-23 伊丹みやのまち4号館108",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=40",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "鮨 千寿",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹1丁目13-56",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=40",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "きまぐれキッチン Hanako",
+      "municipality": "伊丹市",
+      "address": "伊丹市 南本町7-1-11",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=41",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "せんや",
+      "municipality": "伊丹市",
+      "address": "伊丹市 昆陽4丁目4-2-101",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=41",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "海鮮屋さん丼丸伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 北本町1丁目135-101",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=41",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "創作中華 Jasmine",
+      "municipality": "伊丹市",
+      "address": "伊丹市 御願塚6丁目2-40",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=41",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "ピッツェリアマリノ 伊丹昆陽店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 池尻4丁目1番1 イオンモール伊丹昆陽4階レストラン街",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=42",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://www.marino-net.co.jp"
+      ]
+    },
+    {
+      "name": "季節料理 湧 WAKU",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央4-3-8 タナベビル1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=42",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "立ち呑みおかん",
+      "municipality": "伊丹市",
+      "address": "伊丹市 千僧4丁目245番地",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=42",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "日本酒と串揚げ。ICHI",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-7-3-3",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=43",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://kusi-ichi.info"
+      ]
+    },
+    {
+      "name": "やきやき鉄板 はる田",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1丁目5-18 伊丹中央プラザ2階",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=43",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "KEY’S CAFE TSUTAYA阪急伊丹駅前店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-1-1 伊丹ショッピングデパートB1F",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=43",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "コリアンキッチン ヨシダ",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1丁目7-3-1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=43",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "てっぱんちゃばな伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1丁目7番16-1号",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=43",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://haconiwa-itami.com/shop/shop-detail1.php"
+      ]
+    },
+    {
+      "name": "BURGER JUNKIE",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-7",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=43",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "村さ来 阪急伊丹駅前店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1-3-5 伊丹駅前サンハイツ106",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=43",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "Cafe&Brunch Laugh Tale",
+      "municipality": "伊丹市",
+      "address": "伊丹市 伊丹2丁目3-20 和音102",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=43",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "大阪王将阪急伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 西台1-1-1 阪急リータ",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=43",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "Anuenue",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1丁目7-16-2",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=44",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋 華音",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央2丁目9-29 Paseo三軒寺通り102",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=45",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "イルグラッチェ伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 昆陽東5丁目4-2",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=45",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://www.heavenskitchen-pasta.net"
+      ]
+    },
+    {
+      "name": "あみや 伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1-5-18",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=45",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://www.yakitori-amiya.co.jp/"
+      ]
+    },
+    {
+      "name": "カフェきらめき",
+      "municipality": "伊丹市",
+      "address": "伊丹市 北野4-30",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=45",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://kirara-itami.com/"
+      ]
+    },
+    {
+      "name": "ビストロ36",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央2-1-1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=46",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "挽肉匠 ハンバーグの砦 伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 瑞ケ丘1-17",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=46",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": [
+        "https://k499209.gorp.jp"
+      ]
+    },
+    {
+      "name": "肉のスター 緑ヶ丘店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 緑ヶ丘5丁目67-1",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=47",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "うおひろ伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市 中央1丁目7番16-3",
+      "phone": "",
+      "source": "https://dx-mice.jp/itamiokaimono/ja/shop?page=47",
+      "decision": "過去の参加記録のみで現況・連絡先未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "PIZZERIA HIRO",
+      "municipality": "伊丹市",
+      "address": "伊丹市西台5-7-22-102",
+      "phone": "072-768-9615",
+      "source": "https://itamibar.com/barshop202610/bar1",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://www.pizzeriahiro.com/itami.html"
+      ]
+    },
+    {
+      "name": "イツモノトコロ",
+      "municipality": "伊丹市",
+      "address": "伊丹市西台1-7-1-1F",
+      "phone": "072-770-3131",
+      "source": "https://itamibar.com/barshop202610/bar10",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋 㟢",
+      "municipality": "伊丹市",
+      "address": "伊丹市西台1-2-6-1F",
+      "phone": "070-9077-2926",
+      "source": "https://itamibar.com/barshop202610/bar11",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "みどり園 リータ店",
+      "municipality": "伊丹市",
+      "address": "伊丹市西台1-1-1-1F",
+      "phone": "072-772-3562",
+      "source": "https://itamibar.com/barshop202610/bar12",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "海鮮居酒屋 王者",
+      "municipality": "伊丹市",
+      "address": "伊丹市西台3-1-1-2F",
+      "phone": "080-6185-5916",
+      "source": "https://itamibar.com/barshop202610/bar13",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "shot bar BARREL",
+      "municipality": "伊丹市",
+      "address": "伊丹市西台3-8-4-1F",
+      "phone": "",
+      "source": "https://itamibar.com/barshop202610/bar14",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "WADO",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-2-5-1F",
+      "phone": "072-775-2205",
+      "source": "https://itamibar.com/barshop202610/bar15",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "たこ焼きいち",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-2-5-1F",
+      "phone": "",
+      "source": "https://itamibar.com/barshop202610/bar16",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "十割手打そば専門店 いながわ風味",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-1-1-2F",
+      "phone": "090-3711-4539",
+      "source": "https://itamibar.com/barshop202610/bar17",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ミツワ",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-1-1-2F",
+      "phone": "",
+      "source": "https://itamibar.com/barshop202610/bar18",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "KEY’S CAFE TSUTAYA阪急伊丹駅前店",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-1-1-B1F",
+      "phone": "072-744-7195",
+      "source": "https://itamibar.com/barshop202610/bar19",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "炭火串焼きえびす",
+      "municipality": "伊丹市",
+      "address": "伊丹市西台5-1-16-1F",
+      "phone": "072-775-0248",
+      "source": "https://itamibar.com/barshop202610/bar2",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://sumibikushiyaki-ebisu.com/"
+      ]
+    },
+    {
+      "name": "海鮮炉端 将",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-5-5",
+      "phone": "072-778-7282",
+      "source": "https://itamibar.com/barshop202610/bar20",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://kaisenrobatasyo.owst.jp/"
+      ]
+    },
+    {
+      "name": "中華バル らいじん",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-5-5-B1F",
+      "phone": "072-767-1690",
+      "source": "https://itamibar.com/barshop202610/bar21",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鉄板 TENMEI",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-5-5-B1F",
+      "phone": "072-778-3107",
+      "source": "https://itamibar.com/barshop202610/bar22",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ばっかやん食堂",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-5-5-1F",
+      "phone": "072-784-2911",
+      "source": "https://itamibar.com/barshop202610/bar23",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://bakkayan-syokudou.owst.jp/"
+      ]
+    },
+    {
+      "name": "肉のスター",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-6-1-2F",
+      "phone": "072-770-0669",
+      "source": "https://itamibar.com/barshop202610/bar24",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "HAMBURG&STEAK ~LOG’s~",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-6-1-1F",
+      "phone": "072-770-0350",
+      "source": "https://itamibar.com/barshop202610/bar25",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://logsitami.owst.jp/"
+      ]
+    },
+    {
+      "name": "焼鳥のヒナタ 阪急伊丹駅前店",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-6-1-1F",
+      "phone": "072-710-7770",
+      "source": "https://itamibar.com/barshop202610/bar26",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "純白そば 月山",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-7-18",
+      "phone": "072-773-0935",
+      "source": "https://itamibar.com/barshop202610/bar27",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kary100.gorp.jp/"
+      ]
+    },
+    {
+      "name": "コリアンキッチン ヨシダ",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-7 haconiwa内",
+      "phone": "080-8540-5600",
+      "source": "https://itamibar.com/barshop202610/bar28",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Casual Bar Uohiro",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-7 haconiwa内",
+      "phone": "080-3137-1117",
+      "source": "https://itamibar.com/barshop202610/bar29",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "炭火串焼きえびす with カラオケ",
+      "municipality": "伊丹市",
+      "address": "伊丹市西台5-1-16-2F",
+      "phone": "072-768-7891",
+      "source": "https://itamibar.com/barshop202610/bar3",
+      "decision": "固定の独立飲食個店としての確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "海鮮浜焼きうおひろ伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-7 haconiwa内",
+      "phone": "070-1811-1117",
+      "source": "https://itamibar.com/barshop202610/bar30",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://uohiro-itami.owst.jp/"
+      ]
+    },
+    {
+      "name": "BURGER JUNKIE",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-7 haconiwa内",
+      "phone": "080-3116-5289",
+      "source": "https://itamibar.com/barshop202610/bar31",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鶏や たびたび",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-7 haconiwa内",
+      "phone": "080-2536-5507",
+      "source": "https://itamibar.com/barshop202610/bar32",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://tabitabi-itami.foodre.jp/"
+      ]
+    },
+    {
+      "name": "立呑み おとめ食堂",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-7-13-1F",
+      "phone": "072-777-5517",
+      "source": "https://itamibar.com/barshop202610/bar33",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ほこ ~魚菜と地酒~",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央2-4-12",
+      "phone": "072-775-2918",
+      "source": "https://itamibar.com/barshop202610/bar34",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://hoko.owst.jp/"
+      ]
+    },
+    {
+      "name": "伊丹直球酒場 吉田",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央1-9-22-1F",
+      "phone": "072-772-7339",
+      "source": "https://itamibar.com/barshop202610/bar35",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "韓国厨房 尚州",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央2-9-29",
+      "phone": "072-770-6020",
+      "source": "https://itamibar.com/barshop202610/bar36",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://itami-sangju.com/"
+      ]
+    },
+    {
+      "name": "だんらん処 一 (1階)",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央3-1-28-1F",
+      "phone": "072-784-8615",
+      "source": "https://itamibar.com/barshop202610/bar37",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "SWING BY CAFE",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央2-9-40-1F",
+      "phone": "080-9288-9400",
+      "source": "https://itamibar.com/barshop202610/bar38",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "インド料理 ガンディーパレス伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央6-1-6",
+      "phone": "072-775-7155",
+      "source": "https://itamibar.com/barshop202610/bar39",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "インド料理 インディアンパレス",
+      "municipality": "伊丹市",
+      "address": "伊丹市西台4-6-32",
+      "phone": "072-777-4478",
+      "source": "https://itamibar.com/barshop202610/bar4",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://indianpalace.owst.jp/"
+      ]
+    },
+    {
+      "name": "呑み処 一",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央6-1-2",
+      "phone": "072-764-7696",
+      "source": "https://itamibar.com/barshop202610/bar40",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://nomidokoro-ichi.com/"
+      ]
+    },
+    {
+      "name": "CRAFTALIER",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央6-1-1",
+      "phone": "080-5331-1048",
+      "source": "https://itamibar.com/barshop202610/bar41",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "浜焼き処 一",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央5-1-3",
+      "phone": "072-770-2063",
+      "source": "https://itamibar.com/barshop202610/bar42",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://hamayaki-ichi.com/"
+      ]
+    },
+    {
+      "name": "2コ38食堂",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央5-1-4",
+      "phone": "090-5468-6181",
+      "source": "https://itamibar.com/barshop202610/bar43",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "もんじゃ焼き弓場 伊丹本店",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央5-2-6-103",
+      "phone": "072-770-3776",
+      "source": "https://itamibar.com/barshop202610/bar44",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ぶどう屋",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央5-2-7",
+      "phone": "080-5345-2347",
+      "source": "https://itamibar.com/barshop202610/bar45",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "香島園 KASHIMAEN",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央5-3-40",
+      "phone": "072-770-3344",
+      "source": "https://itamibar.com/barshop202610/bar46",
+      "decision": "茶葉などの物販主体で独立飲食個店ではない",
+      "websiteLinks": [
+        "http://www.sado-kashimaen.com/"
+      ]
+    },
+    {
+      "name": "炭火焼肉じゃけぇ阪急伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市中央5-4-1-2F",
+      "phone": "072-779-9977",
+      "source": "https://itamibar.com/barshop202610/bar47",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://jakee.owst.jp/"
+      ]
+    },
+    {
+      "name": "焼肉ホルモン高木HANARE",
+      "municipality": "伊丹市",
+      "address": "伊丹市西台3-2-36",
+      "phone": "072-700-2869",
+      "source": "https://itamibar.com/barshop202610/bar48",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "日本酒と個室宴会の店  うめ家",
+      "municipality": "伊丹市",
+      "address": "伊丹市宮ノ前1-2-34",
+      "phone": "080-8308-6157",
+      "source": "https://itamibar.com/barshop202610/bar49",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鉄板炭火 Turtle Six",
+      "municipality": "伊丹市",
+      "address": "伊丹市西台1-6-9-101",
+      "phone": "080-2476-9277",
+      "source": "https://itamibar.com/barshop202610/bar5",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喫茶・軽食ファイン",
+      "municipality": "伊丹市",
+      "address": "伊丹市宮ノ前1-3-30-1F",
+      "phone": "072-783-7030",
+      "source": "https://itamibar.com/barshop202610/bar50",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "幸珈琲 SACHIcoffee",
+      "municipality": "伊丹市",
+      "address": "伊丹市宮ノ前1-3-7",
+      "phone": "072-773-5887",
+      "source": "https://itamibar.com/barshop202610/bar51",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ダイニング 鳥心",
+      "municipality": "伊丹市",
+      "address": "伊丹市宮ノ前2-1-6",
+      "phone": "072-773-1612",
+      "source": "https://itamibar.com/barshop202610/bar52",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://torishin-itami.jp/"
+      ]
+    },
+    {
+      "name": "TJ’s DINER",
+      "municipality": "伊丹市",
+      "address": "伊丹市宮ノ前1-4-18",
+      "phone": "072-774-5241",
+      "source": "https://itamibar.com/barshop202610/bar53",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "豚まん専門店 蒸蒸",
+      "municipality": "伊丹市",
+      "address": "伊丹市伊丹2-1-17",
+      "phone": "",
+      "source": "https://itamibar.com/barshop202610/bar54",
+      "decision": "持ち帰り販売主体で店内飲食の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "沖縄奄美料理居酒屋 奄んちゅ",
+      "municipality": "伊丹市",
+      "address": "伊丹市伊丹2-2-12-2",
+      "phone": "072-786-1611",
+      "source": "https://itamibar.com/barshop202610/bar55",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://amanchu.info/"
+      ]
+    },
+    {
+      "name": "創作中華 扇",
+      "municipality": "伊丹市",
+      "address": "伊丹市伊丹1-8-25-1",
+      "phone": "072-747-3338",
+      "source": "https://itamibar.com/barshop202610/bar56",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://sousakutyuka-sen.owst.jp/",
+        "https://sousakutyuka-sen.owst.jp/"
+      ]
+    },
+    {
+      "name": "奥出雲そば処 一福 伊丹店",
+      "municipality": "伊丹市",
+      "address": "伊丹市伊丹1-8-22-3",
+      "phone": "072-779-8050",
+      "source": "https://itamibar.com/barshop202610/bar57",
+      "decision": "広域チェーン店舗",
+      "websiteLinks": []
+    },
+    {
+      "name": "カレー専門店 ナゴミヤ",
+      "municipality": "伊丹市",
+      "address": "伊丹市伊丹1-8-22-2",
+      "phone": "072-767-6510",
+      "source": "https://itamibar.com/barshop202610/bar58",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Dos BODEGAs",
+      "municipality": "伊丹市",
+      "address": "伊丹市伊丹2-3-20-107",
+      "phone": "072-767-6282",
+      "source": "https://itamibar.com/barshop202610/bar59",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "GOBBL’IN BURGER&GRILL",
+      "municipality": "伊丹市",
+      "address": "伊丹市西台2-4-8",
+      "phone": "072-700-3079",
+      "source": "https://itamibar.com/barshop202610/bar6",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://gobblinburgerandgrill.owst.jp/"
+      ]
+    },
+    {
+      "name": "CAFE DINING MELLOW",
+      "municipality": "伊丹市",
+      "address": "伊丹市伊丹2-3-20-103",
+      "phone": "072-777-5200",
+      "source": "https://itamibar.com/barshop202610/bar60",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Cafe&Brunch/洋風酒場 LAUGH TALE",
+      "municipality": "伊丹市",
+      "address": "伊丹市伊丹2-3-20-102",
+      "phone": "072-744-6234",
+      "source": "https://itamibar.com/barshop202610/bar61",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "餃子酒家 金 GOLD",
+      "municipality": "伊丹市",
+      "address": "伊丹市西台2-4-8-1F",
+      "phone": "072-777-6372",
+      "source": "https://itamibar.com/barshop202610/bar7",
+      "decision": "店名・所在地が同一の掲載と重複",
+      "websiteLinks": []
+    },
+    {
+      "name": "大衆串カツ からす屋",
+      "municipality": "伊丹市",
+      "address": "伊丹市西台1-6-22",
+      "phone": "090-1966-2990",
+      "source": "https://itamibar.com/barshop202610/bar8",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "NIX -Bar&Diner-",
+      "municipality": "伊丹市",
+      "address": "伊丹市西台1-7-2-2F",
+      "phone": "080-1521-6647",
+      "source": "https://itamibar.com/barshop202610/bar9",
       "decision": "暫定候補",
       "websiteLinks": []
     }

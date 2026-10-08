@@ -32,6 +32,13 @@ SOURCES = [
     ('hyogo-shiso', 'しそう森林王国観光協会', 'https://shiso.or.jp/highlights_cat/gourmet', '宍粟市のグルメ個別紹介'),
     ('hyogo-aioi', '相生市観光協会', 'https://aioi.in/member/', '相生市の飲食店会員名簿'),
     ('hyogo-kasai', '加西市観光協会', 'https://kanko-kasai.com/kanko_member/', '加西市の飲食店会員名簿・個別紹介照合'),
+    ('hyogo-ono', '小野市観光協会', 'https://ono-navi.jp/gourmet/', '小野市のグルメ個別紹介'),
+    ('hyogo-asago', '朝来市観光協会', 'https://asago-kanko.com/?area%5B%5D=&category%5B%5D=gourmet&post_type=spot&s=', '朝来市の食べる・個別紹介'),
+    ('hyogo-yabu', '養父市観光協会', 'https://www.yabu-kankou.jp/sightseeingcategory/eat', '養父市の食べる・個別紹介'),
+    ('hyogo-kawanishi', '川西市商工会', 'https://e-kawanishi.org/members/', '川西市の飲食会員紹介'),
+    ('hyogo-itami', 'いたみん', 'https://itami-city.jp/shop/list?c=1', '伊丹市の飲食店個別紹介'),
+    ('hyogo-itami-voucher', '伊丹市商店街お買物券', 'https://dx-mice.jp/itamiokaimono/ja/shop', '過去の参加店名簿・現況と連絡先未確認のため候補化保留'),
+    ('hyogo-itami-bar', '伊丹まちなかバル', 'https://itamibar.com/barshop202610', '2026年10月参加店の個別紹介・バル時間は通常営業時間として不採用'),
 ]
 RANGE = re.compile(r'(?<!\d)([01]?\d|2[0-3])\s*[:：時]\s*([0-5]\d)?\s*(?:分)?\s*[～〜~\-－–―]\s*([01]?\d|2[0-3])\s*[:：時]\s*([0-5]\d)?')
 
@@ -63,6 +70,7 @@ def main():
     leads = []
     evidence = {}
     identities = set()
+    named_phones = set()
     for row in rows:
         lead = row['lead']
         decision = '' if row['decision']=='暫定候補' else row['decision']
@@ -74,10 +82,13 @@ def main():
             lead['phone'] = override['phone']
             lead['phoneSource'] = override.get('phoneSource', row['url'])
         if not decision:
-            if lead['id'] in identities:
+            same_phone = (lead['municipality'], re.sub(r'\s+', '', lead['name']), lead['phone'])
+            if lead['id'] in identities or (lead['phone'] and same_phone in named_phones):
                 decision = '店名・所在地が同一の掲載と重複'
             else:
                 identities.add(lead['id'])
+                if lead['phone']:
+                    named_phones.add(same_phone)
                 item = {key:value for key,value in lead.items() if key not in ('hours','hoursSource')}
                 if not lead['phone'] and not lead['contact']['routes']:
                     item['why'] = f'{lead["sources"][0][0]}で店名・所在地を確認。掲載元に連絡手段と独自サイトのリンクは見当たらないが、現在営業・独立経営・他サイトの有無は未確認。'
@@ -91,7 +102,7 @@ def main():
                           phone=lead['phone'], source=row['url'], decision=decision or '暫定候補',
                           websiteLinks=websites))
     leads.sort(key=lambda x:({'S':0,'A':1,'B':2}[x['rank']], x['municipality'], x['name']))
-    stats = dict(profiles=len(rows), candidates=len(leads), researchCities=23,
+    stats = dict(profiles=len(rows), candidates=len(leads), researchCities=28,
                  candidateCities=len(set(x['municipality'] for x in leads)),
                  phone=sum(bool(x['phone']) for x in leads),
                  instagram=sum(any(r['kind']=='instagram' for r in x['contact']['routes']) for x in leads),
@@ -99,10 +110,10 @@ def main():
                  hours=len(evidence))
     (ROOT/'research/hyogo-directory-audit.json').write_text(json.dumps(dict(checkedAt=TODAY, stats=stats, decisions=audit),ensure_ascii=False,indent=2)+'\n')
     config = dict(name='兵庫県', key='hyogo', allLabel='兵庫県・先行調査',
-                  geography=dict(kobe=['神戸市'], hanshin=['尼崎市','西宮市','宝塚市','三田市'],
+                  geography=dict(kobe=['神戸市'], hanshin=['尼崎市','西宮市','宝塚市','三田市','川西市','伊丹市'],
                                  harima=['姫路市','明石市','加古川市','高砂市'],
                                  nishiharima=['赤穂市','たつの市','相生市','宍粟市'],
-                                 kitaharima=['加東市','三木市','西脇市','加西市'], tajima=['豊岡市'],
+                                 kitaharima=['加東市','三木市','西脇市','加西市','小野市'], tajima=['豊岡市','朝来市','養父市'],
                                  tamba=['丹波市','丹波篠山市'], awaji=['淡路市','洲本市','南あわじ市']),
                   registryPrefix='hyogo-registry-', metaURL='./hyogo-meta.json', directoryStats=stats,
                   sources=[dict(title=title,url=url,scope=scope) for _,title,url,scope in SOURCES])
@@ -119,9 +130,10 @@ def main():
     (ROOT/'dist/hyogo-data.js').write_text(payload)
     (ROOT/'dist/hyogo-hours.js').write_text('window.LEAD_HOURS='+json.dumps(evidence,ensure_ascii=False,separators=(',',':'))+';\n')
     meta = dict(stats=dict(rawRows=0,researchRecords=0,phoneRecords=0),sources=[],coverage=[],
-                limitations=['兵庫県内の23市の一部掲載元を調査。県内全市町村・全店舗の調査は未完了。',
+                limitations=['兵庫県内の28市の一部掲載元を調査。県内全市町村・全店舗の調査は未完了。',
                              '甲子園口の名簿は最終更新が2023年のため、現況確認できるまで候補から保留。',
                              '加西ふーど記の個別紹介は2022年刊行の資料を含むため、会員名簿との照合に使い、現況は未確定。',
+                             '過去の伊丹お買物券参加店名簿は連絡先と現況を確認できず候補化を保留。2026年伊丹まちなかバルの開催時間は通常営業時間ではありません。',
                              '地域団体の掲載時点の情報であり、現営業・独立経営・独自サイト不存在は未確定。'])
     (ROOT/'dist/hyogo-meta.json').write_text(json.dumps(meta,ensure_ascii=False)+'\n')
     print(json.dumps(stats,ensure_ascii=False),Counter(x['decision'] for x in audit))
