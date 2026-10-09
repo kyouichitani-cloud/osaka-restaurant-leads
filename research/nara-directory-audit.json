@@ -1,0 +1,2102 @@
+{
+  "checkedAt": "2026-10-10",
+  "stats": {
+    "profiles": 261,
+    "candidates": 9,
+    "researchCities": 31,
+    "candidateCities": 6,
+    "phone": 9,
+    "instagram": 4,
+    "hours": 9
+  },
+  "decisions": [
+    {
+      "name": "Trattoria 前澤",
+      "address": "橿原市八木町1-7-38 上田ビル２階",
+      "source": "https://nara-kore.jp/shop/?prm=11",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "鶏唐なごみ",
+      "address": "橿原市雲梯町273-5",
+      "source": "https://nara-kore.jp/shop/?prm=17",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ポカフレール",
+      "address": "高市郡明日香村島庄51-1",
+      "source": "https://nara-kore.jp/shop/?prm=4",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "わんずはーとかふぇ ならまち店",
+      "address": "奈良市高畑町1028-7",
+      "source": "https://nara-kore.jp/shop/?prm=8",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "オステリア オルベテッロ",
+      "address": "大和郡山市紺屋町10",
+      "source": "https://nara-kore.jp/shop/?prm=15",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "若草カレー本舗",
+      "address": "奈良市餅飯殿町38-1",
+      "source": "https://nara-kore.jp/shop/?prm=9",
+      "decision": "宿泊・施設・チェーン等の独立飲食個店条件の確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "インフィオラーレ",
+      "address": "生駒郡平群町緑ケ丘６丁目15-22",
+      "source": "https://nara-kore.jp/shop/?prm=21",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "奈良のうまいものプラザ",
+      "address": "奈良市三条本町1-1 ビエラ奈良1階",
+      "source": "https://nara-kore.jp/shop/?prm=1",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "はるさめカフェ戎",
+      "address": "桜井市脇本448",
+      "source": "https://nara-kore.jp/shop/?prm=2",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "釜めし 玉や",
+      "address": "葛城市當麻1242",
+      "source": "https://nara-kore.jp/shop/?prm=3",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "酒房 亜耶",
+      "address": "奈良市小西町5 アルテ館2階B",
+      "source": "https://nara-kore.jp/shop/?prm=18",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "晴朗邸",
+      "address": "奈良市餅飯殿町４１番地 マインズビル２階",
+      "source": "https://nara-kore.jp/shop/?prm=16",
+      "decision": "追加検索で独自サイトを発見",
+      "websiteFound": "https://seiroutei.mydns.jp/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "桜美荘たいら",
+      "address": "吉野郡吉野町吉野山1904",
+      "source": "https://nara-kore.jp/shop/?prm=12",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "洞川温泉醸造所 うたかたスタンド",
+      "address": "吉野郡天川村洞川226-2",
+      "source": "https://nara-kore.jp/shop/?prm=7",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "葛屋中井春風堂",
+      "address": "吉野郡吉野町吉野山545",
+      "source": "https://nara-kore.jp/shop/?prm=14",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "黒天KURO-TEN",
+      "address": "北葛城郡王寺町久度2-14-10",
+      "source": "https://nara-kore.jp/shop/?prm=20",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "よつばカフェ",
+      "address": "奈良市紀寺町954",
+      "source": "https://nara-kore.jp/shop/?prm=19",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "櫻町珈琲店",
+      "address": "桜井市桜井884-3",
+      "source": "https://nara-kore.jp/shop/?prm=6",
+      "decision": "掲載・営業現況は要電話確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "レストランよしの川別館撫石庵",
+      "address": "五條市小島町449-1",
+      "source": "https://nara-kore.jp/shop/?prm=10",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "五條源兵衞",
+      "address": "五條市本町2丁目5ー17",
+      "source": "https://nara-kore.jp/shop/?prm=5",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "大和榛原牛 うし源本店",
+      "address": "宇陀市榛原萩原2482",
+      "source": "https://nara-kore.jp/shop/?prm=41",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ANY B&B+COFFEE",
+      "address": "奈良市西城戸町23-4",
+      "source": "https://nara-kore.jp/shop/?prm=26",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ほうせき箱",
+      "address": "奈良市餅飯殿町47",
+      "source": "https://nara-kore.jp/shop/?prm=23",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "smoothie＆sweets Chiii",
+      "address": "大和郡山市矢田町通1-1",
+      "source": "https://nara-kore.jp/shop/?prm=28",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "奈の音",
+      "address": "宇陀市大宇陀西山91",
+      "source": "https://nara-kore.jp/shop/?prm=42",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "おちゃのこ",
+      "address": "奈良市小西町35-2 コトモール1F",
+      "source": "https://nara-kore.jp/shop/?prm=27",
+      "decision": "連絡手段を確認できない",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "焼肉工房わらく",
+      "address": "奈良市富雄北１丁目３ー１１",
+      "source": "https://nara-kore.jp/shop/?prm=40",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "アルション東生駒店",
+      "address": "生駒市小明町427-1",
+      "source": "https://nara-kore.jp/shop/?prm=30",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "洋菓子工房Ub",
+      "address": "大和高田市蔵之宮町10-28",
+      "source": "https://nara-kore.jp/shop/?prm=34",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "Cafe Restaurant 賀名生旧皇居",
+      "address": "五條市西吉野町賀名生1番",
+      "source": "https://nara-kore.jp/shop/?prm=32",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "花吉野カンツリー倶楽部 レストラン",
+      "address": "吉野郡大淀町今木1004-71 花吉野カンツリー倶楽部 内 レストラン",
+      "source": "https://nara-kore.jp/shop/?prm=25",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "和洋ばるPon'sKitchen",
+      "address": "奈良市法華寺町237-1 石原マンション１０２号",
+      "source": "https://nara-kore.jp/shop/?prm=29",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "steak and wine lamp",
+      "address": "橿原市内膳町1丁目２-７ ひばりやビル1F",
+      "source": "https://nara-kore.jp/shop/?prm=38",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "TE=CHA",
+      "address": "奈良市神功3-3-2",
+      "source": "https://nara-kore.jp/shop/?prm=39",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "野菜ダイニング 菜宴",
+      "address": "奈良市小西町19 マリアテラスビル2階",
+      "source": "https://nara-kore.jp/shop/?prm=22",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "酔処 半分",
+      "address": "奈良市四条大路2-1-48",
+      "source": "https://nara-kore.jp/shop/?prm=35",
+      "decision": "連絡手段を確認できない",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "呑みどころ澄",
+      "address": "大和郡山市南郡山町207-13",
+      "source": "https://nara-kore.jp/shop/?prm=31",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "柿の葉茶専門店SOUSUKE by ほうせき箱",
+      "address": "奈良市登大路町76 奈良公園バスターミナル西棟1F",
+      "source": "https://nara-kore.jp/shop/?prm=37",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "うだ薬湯の宿 やたきや",
+      "address": "宇陀市榛原八滝1835",
+      "source": "https://nara-kore.jp/shop/?prm=33",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "日本料理おばな",
+      "address": "奈良市高畑町1110 ホテル尾花地下1階",
+      "source": "https://nara-kore.jp/shop/?prm=24",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "cafe cojica",
+      "address": "奈良市三条町547",
+      "source": "https://nara-kore.jp/shop/?prm=60",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "GOJO GIROCCO",
+      "address": "五條市本町2丁目2-2",
+      "source": "https://nara-kore.jp/shop/?prm=52",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "和食 cafe & bar Comfy",
+      "address": "奈良市西寺林町6-2",
+      "source": "https://nara-kore.jp/shop/?prm=43",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "洋食よだれ道",
+      "address": "香芝市旭ケ丘2-6-3",
+      "source": "https://nara-kore.jp/shop/?prm=66",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "食パンの店フリブール",
+      "address": "奈良市朱雀6-20-8",
+      "source": "https://nara-kore.jp/shop/?prm=44",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "奈良祥樂 法隆寺本店",
+      "address": "生駒郡斑鳩町法隆寺15-29",
+      "source": "https://nara-kore.jp/shop/?prm=61",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "梅古庵",
+      "address": "奈良市月ヶ瀬尾山2263",
+      "source": "https://nara-kore.jp/shop/?prm=45",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "小料理こころ",
+      "address": "橿原市久米町575-1 コスモマンション神宮駅前館1階",
+      "source": "https://nara-kore.jp/shop/?prm=64",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "オーガニックキッチンファーベ",
+      "address": "大和郡山市南郡山町7-3",
+      "source": "https://nara-kore.jp/shop/?prm=54",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "Zazie canelé",
+      "address": "生駒市南田原町1140-5",
+      "source": "https://nara-kore.jp/shop/?prm=49",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "うまいもん鬼太郎",
+      "address": "奈良市東紀寺町２丁目1-10",
+      "source": "https://nara-kore.jp/shop/?prm=56",
+      "decision": "掲載・営業現況は要電話確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "清澄の里 粟",
+      "address": "奈良市高樋町861番地",
+      "source": "https://nara-kore.jp/shop/?prm=62",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "アルクアンシエル パティスリー",
+      "address": "生駒市東松ケ丘2-1 グランビア生駒1F",
+      "source": "https://nara-kore.jp/shop/?prm=50",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "おむすび&cafe 喫茶みつば",
+      "address": "吉野郡天川村川合330-1",
+      "source": "https://nara-kore.jp/shop/?prm=55",
+      "decision": "追加検索で独自サイトを発見",
+      "websiteFound": "https://cafe328.stores.jp/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "レストラン「セリーナ」",
+      "address": "奈良市三条本町8-1",
+      "source": "https://nara-kore.jp/shop/?prm=57",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "蕎麦・菜食 一如庵",
+      "address": "宇陀市榛原自明1362",
+      "source": "https://nara-kore.jp/shop/?prm=51",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "大和薬食処 ならやま茶館",
+      "address": "奈良市南市町14-6",
+      "source": "https://nara-kore.jp/shop/?prm=48",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "生パスタ専門店REALE",
+      "address": "北葛城郡広陵町馬見南1-6-26 片岡第２ビル 半地下左",
+      "source": "https://nara-kore.jp/shop/?prm=53",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "仏蘭西料理ラテラス “イリゼ”",
+      "address": "奈良市あやめ池北１丁目34-7 HANA 1F",
+      "source": "https://nara-kore.jp/shop/?prm=58",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "猫と木箱のお店 月うさぎ",
+      "address": "宇陀市菟田野岩端433",
+      "source": "https://nara-kore.jp/shop/?prm=46",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "そうめん處 森正",
+      "address": "桜井市三輪535",
+      "source": "https://nara-kore.jp/shop/?prm=83",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "道の駅宇陀路大宇陀阿騎野宿 喫茶軽食",
+      "address": "宇陀市大宇陀拾生714-1",
+      "source": "https://nara-kore.jp/shop/?prm=75",
+      "decision": "宿泊・施設・チェーン等の独立飲食個店条件の確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ちゃつぼ 芳魂庵",
+      "address": "吉野郡吉野町吉野山550",
+      "source": "https://nara-kore.jp/shop/?prm=79",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "紀寺の家",
+      "address": "奈良市紀寺町",
+      "source": "https://nara-kore.jp/shop/?prm=80",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "松籟〜まつのおと〜",
+      "address": "奈良市北袋町18-1",
+      "source": "https://nara-kore.jp/shop/?prm=82",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "cafe&キッチンスタジオ あすかの食卓",
+      "address": "高市郡明日香村飛鳥631",
+      "source": "https://nara-kore.jp/shop/?prm=84",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "中国菜館 桂花",
+      "address": "生駒市真弓南１－１０－7",
+      "source": "https://nara-kore.jp/shop/?prm=70",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "多から家",
+      "address": "大和高田市本郷町9-24",
+      "source": "https://nara-kore.jp/shop/?prm=87",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "道の駅レスティ唐古・鍵「からこカフェ」「Kagi Bakery」",
+      "address": "磯城郡田原本町大字唐古70番地の1（国道24号線沿い）",
+      "source": "https://nara-kore.jp/shop/?prm=74",
+      "decision": "宿泊・施設・チェーン等の独立飲食個店条件の確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "鹿の舟 竈",
+      "address": "奈良市井上町11",
+      "source": "https://nara-kore.jp/shop/?prm=77",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "和カフェモリカ",
+      "address": "大和郡山市柳3-1",
+      "source": "https://nara-kore.jp/shop/?prm=72",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "かふぇ・レストラン さらい",
+      "address": "桜井市忍阪1131",
+      "source": "https://nara-kore.jp/shop/?prm=78",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ビストロラタトゥイユ La cuisine de まほろば",
+      "address": "橿原市常盤町６０５−１",
+      "source": "https://nara-kore.jp/shop/?prm=86",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "風の ならまち",
+      "address": "奈良市西城戸町4",
+      "source": "https://nara-kore.jp/shop/?prm=67",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "とろろめし 山和",
+      "address": "桜井市三輪648-3",
+      "source": "https://nara-kore.jp/shop/?prm=85",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "酢屋長",
+      "address": "桜井市初瀬745-1",
+      "source": "https://nara-kore.jp/shop/?prm=71",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ピノ・ノワール",
+      "address": "橿原市今井町一丁目5ー12",
+      "source": "https://nara-kore.jp/shop/?prm=69",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "鹿の舟 囀",
+      "address": "奈良市井上町11",
+      "source": "https://nara-kore.jp/shop/?prm=76",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "洋食屋ケムリ",
+      "address": "御所市西柏町1296番地",
+      "source": "https://nara-kore.jp/shop/?prm=81",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "惣菜松本",
+      "address": "北葛城郡王寺町元町2丁目19-30",
+      "source": "https://nara-kore.jp/shop/?prm=68",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "三輪そうめん流し",
+      "address": "桜井市三輪４６０−２４",
+      "source": "https://nara-kore.jp/shop/?prm=99",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "toichipancake",
+      "address": "橿原市十市町1004-1",
+      "source": "https://nara-kore.jp/shop/?prm=107",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "うどん・そば・呑み処 三条坊",
+      "address": "奈良市三条本町 JR奈良駅ビエラ１階",
+      "source": "https://nara-kore.jp/shop/?prm=91",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "花あかりの宿 柳家",
+      "address": "吉野郡天川村洞川４８９−９",
+      "source": "https://nara-kore.jp/shop/?prm=96",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ことのまあかり",
+      "address": "奈良市小西町２ 二階",
+      "source": "https://nara-kore.jp/shop/?prm=106",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ロビーラウンジ「ファウンテン」",
+      "address": "奈良市三条本町8-1",
+      "source": "https://nara-kore.jp/shop/?prm=109",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "月ヶ瀬温泉 梅こころ",
+      "address": "奈良市月ヶ瀬尾山２６８１",
+      "source": "https://nara-kore.jp/shop/?prm=89",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "味季 和遊",
+      "address": "香芝市西真美2丁目2−20 丹下ビル1F",
+      "source": "https://nara-kore.jp/shop/?prm=90",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "田楽うねび店",
+      "address": "橿原市縄手町１５０−１",
+      "source": "https://nara-kore.jp/shop/?prm=94",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "そうめん処・喫茶 いにしえ茶屋",
+      "address": "桜井市川合２５８−１",
+      "source": "https://nara-kore.jp/shop/?prm=88",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "創作ダイニングふじもと",
+      "address": "桜井市粟殿５９８−１",
+      "source": "https://nara-kore.jp/shop/?prm=98",
+      "decision": "追加検索で独自サイトを発見",
+      "websiteFound": "https://kitchen-fujimoto.site/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "キッチンpepita",
+      "address": "奈良市西寺林町１１−３",
+      "source": "https://nara-kore.jp/shop/?prm=101",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "天理観光農園",
+      "address": "天理市杣之内町１８３",
+      "source": "https://nara-kore.jp/shop/?prm=97",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "スムージ専門店 DRINK DRANK",
+      "address": "奈良市橋本町８",
+      "source": "https://nara-kore.jp/shop/?prm=93",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ジェラテリア ノンナ",
+      "address": "奈良市西木辻町１２３",
+      "source": "https://nara-kore.jp/shop/?prm=100",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "初音",
+      "address": "吉野郡吉野町吉野山４２３",
+      "source": "https://nara-kore.jp/shop/?prm=95",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "BIG MOUNTAIN CAFE & FARM",
+      "address": "奈良市西新在家町20",
+      "source": "https://nara-kore.jp/shop/?prm=108",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "奈良イタリアン Bambuno",
+      "address": "奈良市今御門町22",
+      "source": "https://nara-kore.jp/shop/?prm=103",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ひとやすみ徹朋",
+      "address": "天理市岸田町５８２",
+      "source": "https://nara-kore.jp/shop/?prm=102",
+      "decision": "掲載更新が2023年以前のため現況確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "千寿亭",
+      "address": "桜井市芝２９３",
+      "source": "https://nara-kore.jp/shop/?prm=92",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "レストラン ら・むぎ",
+      "address": "奈良市押熊町2202-6",
+      "source": "https://nara-kore.jp/shop/?prm=130",
+      "decision": "追加検索で独自サイトを発見",
+      "websiteFound": "https://k721800.gorp.jp/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "マガジーノ",
+      "address": "香芝市鎌田１７２−１",
+      "source": "https://nara-kore.jp/shop/?prm=128",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "奈良 井の上",
+      "address": "奈良市秋篠町１１７６",
+      "source": "https://nara-kore.jp/shop/?prm=124",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "Lega’",
+      "address": "葛城市八川133ピーアニ当麻4号",
+      "source": "https://nara-kore.jp/shop/?prm=129",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "仏蘭西料理 La Terrasse",
+      "address": "奈良市春日野町98-1 ヒルトップテラス内",
+      "source": "https://nara-kore.jp/shop/?prm=132",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "リストランテ ボルゴ・コニシ",
+      "address": "奈良市小西町24番地フラッツ小西2F",
+      "source": "https://nara-kore.jp/shop/?prm=118",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "Lami Denfance ala maison",
+      "address": "五條市二見１丁目９ー２８",
+      "source": "https://nara-kore.jp/shop/?prm=112",
+      "decision": "追加検索で独自サイトを発見",
+      "websiteFound": "http://sp.raqmo.com/LamiDenfance/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "鱧とすっぽん 小粋料理 味 万惣",
+      "address": "奈良市鶴舞東町2-26 サンクレイン201-202",
+      "source": "https://nara-kore.jp/shop/?prm=119",
+      "decision": "掲載・営業現況は要電話確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "そば処山の神",
+      "address": "生駒市南田原町２３０番地",
+      "source": "https://nara-kore.jp/shop/?prm=115",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ホテルならさくらいの郷",
+      "address": "桜井市高家",
+      "source": "https://nara-kore.jp/shop/?prm=113",
+      "decision": "宿泊・施設・チェーン等の独立飲食個店条件の確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "あすか夢販売所",
+      "address": "高市郡明日香村御園2-1",
+      "source": "https://nara-kore.jp/shop/?prm=117",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "Happy Kitchen金の鹿",
+      "address": "奈良市春日野町16番地 夢風ひろば内",
+      "source": "https://nara-kore.jp/shop/?prm=133",
+      "decision": "連絡手段を確認できない",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ダイニング割烹にし田",
+      "address": "奈良市宝来2丁目9-4",
+      "source": "https://nara-kore.jp/shop/?prm=114",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "MARUTO 1689",
+      "address": "磯城郡田原本町伊与戸170",
+      "source": "https://nara-kore.jp/shop/?prm=134",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "(株）柿の葉ずし平宗吉野店",
+      "address": "吉野郡吉野町飯貝614",
+      "source": "https://nara-kore.jp/shop/?prm=123",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "備長炭イタリアン創",
+      "address": "橿原市新賀町",
+      "source": "https://nara-kore.jp/shop/?prm=122",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "鮨 かわしま",
+      "address": "橿原市石川町291-1 鮨かわしま",
+      "source": "https://nara-kore.jp/shop/?prm=116",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "柿の葉ずし平宗 法隆寺店",
+      "address": "生駒郡斑鳩町法隆寺",
+      "source": "https://nara-kore.jp/shop/?prm=120",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "べっぴん奈良漬",
+      "address": "奈良市藤ノ木台１丁目2-17",
+      "source": "https://nara-kore.jp/shop/?prm=111",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "柿の葉ずし平宗 倭膳たまゆら",
+      "address": "奈良市七条東町4-25",
+      "source": "https://nara-kore.jp/shop/?prm=121",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "農家レストラン ばあく",
+      "address": "五條市小和町719",
+      "source": "https://nara-kore.jp/shop/?prm=154",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "古民家平井",
+      "address": "宇陀市菟田野平井56",
+      "source": "https://nara-kore.jp/shop/?prm=165",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "桧原御休処",
+      "address": "桜井市三輪1330-1",
+      "source": "https://nara-kore.jp/shop/?prm=137",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "今井町見晴らし茶屋「ももや」",
+      "address": "橿原市今井町１-５-１",
+      "source": "https://nara-kore.jp/shop/?prm=135",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "田楽天理店",
+      "address": "天理市三昧田町135-1",
+      "source": "https://nara-kore.jp/shop/?prm=143",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "柿の葉すし 醍予",
+      "address": "吉野郡吉野町吉野山937-3",
+      "source": "https://nara-kore.jp/shop/?prm=158",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "たつみ茶園",
+      "address": "奈良市月ヶ瀬長引297",
+      "source": "https://nara-kore.jp/shop/?prm=153",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "Pizzeria HARU",
+      "address": "北葛城郡広陵町みささぎ台38-1",
+      "source": "https://nara-kore.jp/shop/?prm=139",
+      "decision": "追加検索で独自サイトを発見",
+      "websiteFound": "http://www.pizzeria-haru.com/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ルノール",
+      "address": "生駒市谷田町1600アントレいこま207",
+      "source": "https://nara-kore.jp/shop/?prm=141",
+      "decision": "追加検索で独自サイトを発見",
+      "websiteFound": "https://lenord.jimdofree.com/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "MAGIC MALLET",
+      "address": "桜井市川合256-8",
+      "source": "https://nara-kore.jp/shop/?prm=136",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "粟ならまち店",
+      "address": "奈良市勝南院町1番",
+      "source": "https://nara-kore.jp/shop/?prm=144",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "町家盆栽Cafe コトノハ",
+      "address": "宇陀市榛原萩原2664",
+      "source": "https://nara-kore.jp/shop/?prm=152",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "カラオケレインボー京終店",
+      "address": "奈良市南京終町2-252-1",
+      "source": "https://nara-kore.jp/shop/?prm=145",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "Total therapy cafe salon KURURU",
+      "address": "奈良市東向南町5-1井上ビル2FーA・B",
+      "source": "https://nara-kore.jp/shop/?prm=146",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "やっこ",
+      "address": "吉野郡吉野町吉野山543",
+      "source": "https://nara-kore.jp/shop/?prm=156",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "静亭",
+      "address": "吉野郡吉野町吉野山952",
+      "source": "https://nara-kore.jp/shop/?prm=149",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "旬の野菜レストラン農悠舎王隠堂",
+      "address": "五條市西吉野町湯塩35",
+      "source": "https://nara-kore.jp/shop/?prm=157",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "明日香の夢市茶屋",
+      "address": "高市郡明日香村島庄154-3",
+      "source": "https://nara-kore.jp/shop/?prm=155",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "料理旅館まえひら",
+      "address": "吉野郡天川村川合291",
+      "source": "https://nara-kore.jp/shop/?prm=162",
+      "decision": "宿泊・施設・チェーン等の独立飲食個店条件の確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "名物くさ餅 井上牡丹堂",
+      "address": "桜井市初瀬773",
+      "source": "https://nara-kore.jp/shop/?prm=151",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ミュージックカフェアンジェス",
+      "address": "橿原市新賀町485",
+      "source": "https://nara-kore.jp/shop/?prm=183",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "わんぱくどうぶつえん",
+      "address": "山辺郡山添村桐山32",
+      "source": "https://nara-kore.jp/shop/?prm=179",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "iburi-kobo",
+      "address": "奈良市針町345針テラス内",
+      "source": "https://nara-kore.jp/shop/?prm=182",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "有限会社小さな道の駅ひよしのさとマルシェ",
+      "address": "吉野郡東吉野村鷲家224番地",
+      "source": "https://nara-kore.jp/shop/?prm=181",
+      "decision": "宿泊・施設・チェーン等の独立飲食個店条件の確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "大正楼",
+      "address": "桜井市三輪459",
+      "source": "https://nara-kore.jp/shop/?prm=184",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ファーマーズカフェプランタン",
+      "address": "大和郡山市下三橋町25-2",
+      "source": "https://nara-kore.jp/shop/?prm=177",
+      "decision": "掲載・営業現況は要電話確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "レストランときん",
+      "address": "吉野郡大淀町芦原536-1",
+      "source": "https://nara-kore.jp/shop/?prm=167",
+      "decision": "追加検索で独自サイトを発見",
+      "websiteFound": "https://oyodo-tokin.jp/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "寿司政",
+      "address": "桜井市粟殿472番地",
+      "source": "https://nara-kore.jp/shop/?prm=187",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ごんた食堂",
+      "address": "吉野郡下市町よ邑2189",
+      "source": "https://nara-kore.jp/shop/?prm=178",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "蕎麦処 侘助",
+      "address": "吉野郡黒滝村寺戸573",
+      "source": "https://nara-kore.jp/shop/?prm=166",
+      "decision": "掲載・営業現況は要電話確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "酒BAR ぽんしゅのところ",
+      "address": "桜井市川合264-2",
+      "source": "https://nara-kore.jp/shop/?prm=186",
+      "decision": "掲載・営業現況は要電話確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "奈間蔵 栄",
+      "address": "大和郡山市高田町270-3",
+      "source": "https://nara-kore.jp/shop/?prm=173",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "フレンチレストラン KIYAMURA",
+      "address": "桜井市桜井951番地",
+      "source": "https://nara-kore.jp/shop/?prm=185",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ナチュラルハート",
+      "address": "宇陀市榛原萩原2431-2 ベラージュ榛原駅前104",
+      "source": "https://nara-kore.jp/shop/?prm=180",
+      "decision": "連絡手段を確認できない",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "やまぶき",
+      "address": "吉野郡大淀町桧垣本1249",
+      "source": "https://nara-kore.jp/shop/?prm=169",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "CURRYON",
+      "address": "高市郡明日香村飛鳥10",
+      "source": "https://nara-kore.jp/shop/?prm=171",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "cafeことほぎmusubi",
+      "address": "五條市新町2-5-12 大野屋内",
+      "source": "https://nara-kore.jp/shop/?prm=172",
+      "decision": "掲載・営業現況は要電話確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ピッツェリアサンプーペー",
+      "address": "大和郡山市北大工町12",
+      "source": "https://nara-kore.jp/shop/?prm=176",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "高見山荘 あまご池",
+      "address": "吉野郡東吉野村杉谷45",
+      "source": "https://nara-kore.jp/shop/?prm=170",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ならまちcafe 756SKY",
+      "address": "奈良市脇戸町12-1 界",
+      "source": "https://nara-kore.jp/shop/?prm=175",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "cafe+bar JaM",
+      "address": "桜井市桜井196-5 山為ビル2F",
+      "source": "https://nara-kore.jp/shop/?prm=189",
+      "decision": "追加検索で独自サイトを発見",
+      "websiteFound": "http://cafebarjam.jp/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "奈良県庁6Ｆ食堂",
+      "address": "奈良市登大路町３０",
+      "source": "https://nara-kore.jp/shop/?prm=209",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "宿 花屋徳兵衛",
+      "address": "吉野郡天川村洞川217",
+      "source": "https://nara-kore.jp/shop/?prm=212",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "天理すぎ乃",
+      "address": "天理市川原城町229",
+      "source": "https://nara-kore.jp/shop/?prm=215",
+      "decision": "追加検索で独自サイトを発見",
+      "websiteFound": "https://sugino-oden.com/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "AllaTurca",
+      "address": "大和郡山市矢田町3592",
+      "source": "https://nara-kore.jp/shop/?prm=201",
+      "decision": "追加検索で独自サイトを発見",
+      "websiteFound": "https://r.goope.jp/allaturca/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "料理旅館 朝日館",
+      "address": "吉野郡川上村柏木154",
+      "source": "https://nara-kore.jp/shop/?prm=204",
+      "decision": "宿泊・施設・チェーン等の独立飲食個店条件の確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "奈良パークホテル",
+      "address": "奈良市宝来4-18-1",
+      "source": "https://nara-kore.jp/shop/?prm=194",
+      "decision": "宿泊・施設・チェーン等の独立飲食個店条件の確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "奈良ロイヤルホテル",
+      "address": "奈良市法華寺町254-1",
+      "source": "https://nara-kore.jp/shop/?prm=213",
+      "decision": "宿泊・施設・チェーン等の独立飲食個店条件の確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "新地『入船』",
+      "address": "御所市御国通り1丁目1117番地の3",
+      "source": "https://nara-kore.jp/shop/?prm=205",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "tomato monkey",
+      "address": "橿原市一町65-1",
+      "source": "https://nara-kore.jp/shop/?prm=208",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "お食事処 はるかぜ",
+      "address": "吉野郡吉野町吉野山545-2",
+      "source": "https://nara-kore.jp/shop/?prm=199",
+      "decision": "掲載・営業現況は要電話確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "万直し本店",
+      "address": "桜井市三輪467番地",
+      "source": "https://nara-kore.jp/shop/?prm=198",
+      "decision": "掲載・営業現況は要電話確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "泊瀬長者亭",
+      "address": "桜井市初瀬796",
+      "source": "https://nara-kore.jp/shop/?prm=188",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "天然温泉かもきみの湯 お食事処鶴亀",
+      "address": "御所市大字五百家333",
+      "source": "https://nara-kore.jp/shop/?prm=193",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "きせつふう～奥大和の田舎ごはん～",
+      "address": "山辺郡山添村峰寺119-7",
+      "source": "https://nara-kore.jp/shop/?prm=190",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "信貴山のどか村",
+      "address": "生駒郡三郷町信貴南畑1丁目7番1号",
+      "source": "https://nara-kore.jp/shop/?prm=214",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "cafeこもど",
+      "address": "生駒郡斑鳩町法隆寺2丁目1-25",
+      "source": "https://nara-kore.jp/shop/?prm=210",
+      "decision": "追加検索で独自サイトを発見",
+      "websiteFound": "https://cafecomodo.amebaownd.com/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "多武峰観光ホテル",
+      "address": "桜井市多武峰432",
+      "source": "https://nara-kore.jp/shop/?prm=191",
+      "decision": "宿泊・施設・チェーン等の独立飲食個店条件の確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ゑびす荘",
+      "address": "吉野郡十津川村平谷425-1",
+      "source": "https://nara-kore.jp/shop/?prm=196",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "吉野荘湯川屋",
+      "address": "吉野郡吉野町吉野山440",
+      "source": "https://nara-kore.jp/shop/?prm=195",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "とくとく香芝サービスエリア（上り線）店",
+      "address": "香芝市今泉大原地内",
+      "source": "https://nara-kore.jp/shop/?prm=233",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ホトケノネドコ",
+      "address": "奈良市五条町18-8",
+      "source": "https://nara-kore.jp/shop/?prm=232",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "寿司・割烹 甚八",
+      "address": "奈良市四条大路5ｰ6ｰ29",
+      "source": "https://nara-kore.jp/shop/?prm=236",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "お好み焼 ドミング",
+      "address": "桜井市芝759-1",
+      "source": "https://nara-kore.jp/shop/?prm=222",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "東鮓",
+      "address": "奈良市宝来4-16-1",
+      "source": "https://nara-kore.jp/shop/?prm=237",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "新大宮すぎ乃",
+      "address": "奈良市大宮町6-5-14プリンセスコートビル2F",
+      "source": "https://nara-kore.jp/shop/?prm=217",
+      "decision": "追加検索で独自サイトを発見",
+      "websiteFound": "https://sugino-oden.com/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "梅本とうふ店",
+      "address": "御所市名柄53-3",
+      "source": "https://nara-kore.jp/shop/?prm=219",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "いちごの古都",
+      "address": "橿原市醍醐町87-1",
+      "source": "https://nara-kore.jp/shop/?prm=224",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "生麩専門店 aoi.neko",
+      "address": "天理市福知堂町",
+      "source": "https://nara-kore.jp/shop/?prm=218",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "玄米庵",
+      "address": "生駒郡斑鳩町法隆寺東1-3-24",
+      "source": "https://nara-kore.jp/shop/?prm=220",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ひょうたろう",
+      "address": "吉野郡吉野町吉野山４２９",
+      "source": "https://nara-kore.jp/shop/?prm=229",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "曽爾高原ファームガーデン野菜レストラン",
+      "address": "宇陀郡曽爾村太良路839",
+      "source": "https://nara-kore.jp/shop/?prm=234",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "西澤屋",
+      "address": "吉野郡吉野町吉野山951",
+      "source": "https://nara-kore.jp/shop/?prm=230",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "あのパン屋",
+      "address": "大和郡山市南郡山町330",
+      "source": "https://nara-kore.jp/shop/?prm=226",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "奈良のうまいものプラザ",
+      "address": "奈良市三条本町1-1 JR奈良駅構内1F",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/11other_meibutsu/01north_area/2kf3lcvf2x/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "柿の葉ずし総本家 平宗 奈良店",
+      "address": "奈良市今御門町30-1",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/02kakinoha_sushi/01north_area/kakinohazushisohonke-hirasonaraten/",
+      "decision": "宿泊・大型施設・チェーン等の独立飲食個店条件の確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ゐざさ 東大寺門前 夢風ひろば店",
+      "address": "奈良市春日野町16",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/02kakinoha_sushi/01north_area/todaijimonzen-izasa-yumekazehirobaten/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "春日荷茶屋",
+      "address": "奈良市春日野町１６０",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/22/01north_area/wyv2m3v51p/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "柿の葉すし本舗たなか（なら本店）",
+      "address": "奈良エリア 奈良県奈良市東向中町5番地2",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/02kakinoha_sushi/01north_area/kakinohasushihompotanaka-narahonten/",
+      "decision": "宿泊・大型施設・チェーン等の独立飲食個店条件の確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "天平うまし館 和楽心",
+      "address": "奈良市二条大路南4-6-1",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/01north_area/warakushin/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "月日亭 近鉄奈良駅前店",
+      "address": "奈良市東向中町6 奈良県経済倶楽部ビル2F",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/01north_area/0900000009/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "奈良町豆腐庵こんどう",
+      "address": "奈良エリア 奈良市西新屋町44",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/01north_area/phhwol8soq/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "幡・INOUE夢風ひろば東大寺店",
+      "address": "奈良市春日野町16",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/20other_craft/01north_area/baninoue_yumekazehiroba/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "風流味覚 梁山泊",
+      "address": "奈良市西城戸町13",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/01north_area/0900000012/",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "牛まぶし三山",
+      "address": "奈良市春日野町１１",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/22/01north_area/t9pvvbd67q/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "魚万本店",
+      "address": "奈良市餅飯殿町16番地",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/01north_area/uoman/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "菊水楼",
+      "address": "奈良市高畑町1130",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/01north_area/r9ur2kwqv8/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "うどん亭 近鉄奈良駅前店",
+      "address": "奈良市東向中町6 奈良県経済倶楽部ビル1階",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/01north_area/0900000010/",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "中国料理 百楽奈良店",
+      "address": "奈良市東向中町28 奈良近鉄ビル8F",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/01north_area/0900000008/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ならや 東大寺店",
+      "address": "奈良市春日野町16番 東大寺門前夢風ひろば内",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/01north_area/14lnncp3uy/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "和洋遊膳 ほおずき",
+      "address": "奈良市高天町38-3近鉄高天ビル地下１階",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/01north_area/0900000013/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "和風れすとらん春日",
+      "address": "奈良市登大路町40",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/11other_meibutsu/01north_area/0900000006/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "千代乃舎竹村",
+      "address": "奈良市東向南町22",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/11other_meibutsu/01north_area/chiyonoyatakemura/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "江戸川 ならまち店",
+      "address": "奈良市下御門町43",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/01north_area/0900000011/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "茶亭 ゆうすい",
+      "address": "奈良市春日野町158-1",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/11other_meibutsu/01north_area/0900000003/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "なら和み館",
+      "address": "奈良市高畑町1071",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/11other_meibutsu/01north_area/0900000047/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "うどん・そば・吞み処 三条坊",
+      "address": "奈良市三条本町1-1",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/01north_area/0900000015/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "中国料理 桃谷樓 ヘルシーガーデン",
+      "address": "奈良市芝辻町2-11-6 ホテル・葉風泰夢1F",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/01north_area/0900000017/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "喫茶店 グリーンとんねる",
+      "address": "奈良エリア 奈良市大野町137-1",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/01north_area/ds7q322hs9/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "天平倶楽部",
+      "address": "奈良市今小路町45-1",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/01north_area/0900000004/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "まほろばステーションikarucoki（イカルコキー）",
+      "address": "生駒・信貴・斑鳩・葛城エリア 奈良県生駒郡斑鳩町法隆寺2丁目1-25",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/20other_craft/02west_area/ikarucoki/",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "西大和さえき",
+      "address": "北葛城郡河合町大輪田1674-2",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/02west_area/0900000025/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "釜めし 玉や",
+      "address": "葛城市當麻1242",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/02west_area/0900000034/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "新地 入船",
+      "address": "御所市御国通り1-1117-3",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/02west_area/0900000035/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "MARUTO 1689",
+      "address": "磯城郡田原本町伊与戸170",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/11other_meibutsu/02west_area/marutoshoyu_ryori/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "Café,民泊 母屋森本",
+      "address": "御所市西佐味994",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/23/02west_area/omoyamorimoto_cafe/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ピッツェリア・トラットリア マガジーノ",
+      "address": "香芝市鎌田172-1",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/02west_area/0900000033/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "Le BENKEI",
+      "address": "大和郡山市北郡山町276-1",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/02west_area/0900000024/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "奈良生駒の夜景がきれいな天空の庭園レストラン グリーンテラス",
+      "address": "生駒市門前町19-59",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/02west_area/0900000023/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "柿の葉すし 山の辺",
+      "address": "桜井市山田676-2",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/02kakinoha_sushi/03east_area/kakinohazushi-yamanobe/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "JAならけんファーマーズマーケット まほろばキッチン",
+      "address": "橿原市常盤町605-1",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/11other_meibutsu/03east_area/mahorobakitchen/",
+      "decision": "宿泊・大型施設・チェーン等の独立飲食個店条件の確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "池利三輪素麺茶屋 千寿亭",
+      "address": "桜井市芝293",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/01miwa_somen/03east_area/0900000028/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "三輪山本 三輪山本お食事処",
+      "address": "桜井市箸中880",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/01miwa_somen/03east_area/0900000029/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "Curryon",
+      "address": "高市郡明日香村飛鳥10（奈良県立万葉文化館内）",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/23/03east_area/curryon/",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "そうめん処・喫茶 いにしえ茶屋",
+      "address": "桜井市川合258-1",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/22/03east_area/84rnt5asgf/",
+      "decision": "連絡手段を確認できない",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "珈琲 さんぽ",
+      "address": "高市郡明日香村岡55ｰ4",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/23/03east_area/sanpo/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "珈琲の館 御園",
+      "address": "高市郡明日香村御園1-1",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/23/03east_area/coffee_misono/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "Matsuyama Cafe",
+      "address": "高市郡明日香村越2-1-1",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/23/03east_area/matsuyamacafe/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "明日香スタンド",
+      "address": "高市郡明日香村岡7番地",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/11other_meibutsu/03east_area/asukastand/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "日本料理 萩王",
+      "address": "高市郡明日香村飛鳥180",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/03east_area/hagiou/",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "あすか野茶屋",
+      "address": "高市郡明日香村岡588",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/11other_meibutsu/03east_area/asuka_no_chaya/",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "レストラン ポカフレール",
+      "address": "高市郡明日香村島庄51-1 （夢の旬菜館内）",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/03east_area/pocafrere/",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "町家茶屋 古伊",
+      "address": "橿原市今井町4-6-13",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/03east_area/0900000030/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "La ville～都～",
+      "address": "高市郡明日香村岡1156",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/23/03east_area/laville/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "虹畑",
+      "address": "高市郡明日香村飛鳥695",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/23/03east_area/nijibatake/",
+      "decision": "連絡手段を確認できない",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "橋本屋",
+      "address": "宇陀市室生800",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/03east_area/0900000031/",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "マクロビオティックごはんcafe めぐる",
+      "address": "高市郡明日香村川原63 あすかのまほろば",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/23/03east_area/cafe_meguru/",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "創作ふれんち榛",
+      "address": "高市郡 明日香村岡385-2",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/03east_area/french-haru/",
+      "decision": "市町村または所在地の確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "cafeことだま",
+      "address": "高市郡明日香村岡１２２３",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/03east_area/cafe-kotodama/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "Adèle",
+      "address": "桜井市大字山田803（あす花園芸内）",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/23/03east_area/adele/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ココロゴハン",
+      "address": "高市郡明日香村岡968-1",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/23/03east_area/cocorogohann/",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "甘み処 ゆすら梅",
+      "address": "高市郡高取町下土佐320",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/23/03east_area/yusuraume/",
+      "decision": "連絡手段を確認できない",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "瀞ホテル",
+      "address": "吉野郡十津川村神下405",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/23/04south_area/dorohotel/",
+      "decision": "宿泊・大型施設・チェーン等の独立飲食個店条件の確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "柿の葉寿し 柳豊",
+      "address": "吉野郡天川村洞川522",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/02kakinoha_sushi/04south_area/kakinohasushi-yanatoyo/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "柿の葉寿司 やっこ",
+      "address": "吉野郡吉野町吉野山543",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/02kakinoha_sushi/04south_area/kakinohasushi-yakko/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "農家レストラン ばあく",
+      "address": "五條市小和町719",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/04south_area/0900000041/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "食・夢工房 きのこの館",
+      "address": "吉野郡東吉野村鷲家1601",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/11other_meibutsu/04south_area/kinoko_no_yakata/",
+      "decision": "独自サイト・業態・営業現況の追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "KIRIDAS",
+      "address": "吉野郡大字山崎278",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/20other_craft/04south_area/kiridas/",
+      "decision": "市町村または所在地の確認待ち",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "やっこ",
+      "address": "吉野郡吉野町吉野山543",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/04south_area/0900000039/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "季節料理 初音",
+      "address": "吉野郡吉野町吉野山2682",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/04south_area/0900000038/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "五條 源兵衛",
+      "address": "五條市本町2-5-17",
+      "source": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/04south_area/0900000040/",
+      "decision": "掲載元に独自サイトのリンクあり",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    }
+  ]
+}

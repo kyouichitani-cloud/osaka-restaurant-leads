@@ -1,0 +1,124 @@
+"""Review the current restaurant profiles in Nara's official tourism directory."""
+from concurrent.futures import ThreadPoolExecutor
+from hashlib import sha256
+import json
+import re
+from urllib.parse import urljoin, urlparse
+from urllib.request import Request, urlopen
+
+from bs4 import BeautifulSoup
+
+from registry import ROOT, CACHE
+
+BASE = 'https://yamatoji.nara-kankou.or.jp'
+LIST = BASE + '/004shop/?keyword=0000000176'
+TODAY = '2026-10-10'
+PHONE = re.compile(r'(?<!\d)0\d{1,4}[-‐‑–−ー]\d{1,4}[-‐‑–−ー]\d{3,4}(?!\d)')
+
+
+def soup(url):
+    request = Request(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; KansaiRestaurantResearch/1.0)'})
+    return BeautifulSoup(urlopen(request, timeout=25).read(), 'html.parser')
+
+
+def clean(value):
+    return re.sub(r'\s+', ' ', value or '').strip()
+
+
+def municipality(address):
+    address = re.sub(r'^〒?\s*\d{3}-?\d{4}\s*', '', address).removeprefix('奈良県')
+    address = re.sub(r'^(?:吉野|生駒|北葛城|高市|磯城|宇陀|山辺)郡', '', address)
+    match = re.match(r'([^\d\s]+?[市町村])', address)
+    return match[1] if match else ''
+
+
+def listing(area, page):
+    url = f'{BASE}/004shop/?area={area}&keyword=0000000176&p={page}'
+    doc = soup(url)
+    items = []
+    for anchor in doc.select('#search_list li a[href^="/09shop/"]'):
+        name = clean(anchor.select_one('h3').get_text(' ', strip=True)) if anchor.select_one('h3') else ''
+        address = clean(anchor.select_one('.itembox p').get_text(' ', strip=True)) if anchor.select_one('.itembox p') else ''
+        if name:
+            items.append(dict(name=name, address=address, url=urljoin(BASE, anchor['href']), area=area))
+    return items
+
+
+def profile(item):
+    url = item['url']
+    doc = soup(url)
+    fields = {}
+    links = {}
+    for tr in doc.select('table.tbl_detail tr'):
+        th, td = tr.find('th'), tr.find('td')
+        if not th or not td:
+            continue
+        key = clean(th.get_text(' ', strip=True))
+        fields[key] = clean(td.get_text(' ', strip=True))
+        links[key] = [urljoin(url, a['href']) for a in td.select('a[href]')]
+    address = clean(re.sub(r'^.*?〒\d{3}-?\d{4}\s*', '', fields.get('所在地', item['address'])))
+    address = address.removeprefix('奈良県')
+    city = municipality(address)
+    if not city:
+        city = municipality(item['address'])
+    phone_match = PHONE.search(fields.get('TEL', '') + ' ' + fields.get('電話番号', ''))
+    phone = phone_match[0] if phone_match else ''
+    external = [(key, href) for key, values in links.items() for href in values
+                if urlparse(href).netloc and urlparse(href).netloc != 'yamatoji.nara-kankou.or.jp']
+    routes, websites = [], []
+    for key, href in external:
+        host, path = urlparse(href).netloc.lower(), urlparse(href).path.lower()
+        if 'instagram.com' in host and not re.search(r'^/(?:p|reel|stories)/', path):
+            routes.append(dict(kind='instagram', url=href, source=url, status='receipt-unverified'))
+        elif 'facebook.com' in host and not re.search(r'^/(?:share|posts|watch)/', path):
+            routes.append(dict(kind='facebook', url=href, source=url, status='receipt-unverified'))
+        elif ('line.me' in host or 'lin.ee' in host) and key == 'URL':
+            routes.append(dict(kind='line', url=href, source=url, status='receipt-unverified'))
+        elif key == 'URL' and not any(part in host for part in ('google.', 'maps.', 'twitter.com', 'x.com')):
+            websites.append(href)
+    routes = list({r['kind'] + '|' + r['url']: r for r in routes}.values())
+    websites = sorted(set(websites))
+    reason = ''
+    if not city or not address:
+        reason = '市町村または所在地の確認待ち'
+    if re.search(r'ホテル|旅館|直売所|ファーマーズマーケット|道の駅|県立|公園|総本家|本舗|JAならけん', item['name']):
+        reason = reason or '宿泊・大型施設・チェーン等の独立飲食個店条件の確認待ち'
+    if websites:
+        reason = reason or '掲載元に独自サイトのリンクあり'
+    if not phone and not routes:
+        reason = reason or '連絡手段を確認できない'
+    name = item['name']
+    identity = 'nara-' + sha256((name + '|' + address).encode()).hexdigest()[:16]
+    hours = fields.get('営業時間', '')
+    lead = dict(id=identity, name=name, municipality=city, city=city, address=address,
+                type='飲食店', rank='A',
+                why='奈良県観光公式サイトの個別紹介で店名・所在地・掲載連絡先を確認。掲載元に独自サイトのリンクは見当たらないが、他サイトの有無・現在営業・独立経営は未確認。',
+                sources=[['奈良県観光公式サイト・食べる', url]], checkedAt=TODAY,
+                phone=phone, phoneSource=url if phone else '', email='', emailSource='',
+                contact=dict(routes=routes, searchedAt=TODAY),
+                hours=hours, hoursSource=url if hours else '')
+    return dict(name=name, address=address, phone=phone, url=url, decision=reason or '暫定候補',
+                websiteLinks=websites, lead=lead)
+
+
+def main():
+    listed = []
+    for area in ('01', '02', '03', '04'):
+        for page in (1, 2):
+            listed.extend(listing(area, page))
+    items = list({item['url']: item for item in listed}.values())
+    if len(items) < 60:
+        raise ValueError(f'Tourism directory unexpectedly short: {len(items)}')
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        rows = list(pool.map(profile, items))
+    (CACHE/'nara-tourism-review.json').write_text(json.dumps(rows, ensure_ascii=False))
+    (ROOT/'research/nara-tourism-sources.json').write_text(json.dumps(dict(
+        authority='奈良県観光公式サイト・食べる', url=LIST, profiles=len(rows), collectedAt=TODAY),
+        ensure_ascii=False, indent=2) + '\n')
+    for row in rows:
+        print(row['decision'], row['name'], row['lead']['municipality'], row['phone'],
+              row['websiteLinks'], row['url'])
+
+
+if __name__ == '__main__':
+    main()

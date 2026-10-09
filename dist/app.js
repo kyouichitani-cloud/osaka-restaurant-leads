@@ -16,7 +16,7 @@ let teamPending=false;
 if(outreachEnabled){
   try{
     const saved=JSON.parse(localStorage.getItem(outreachStorageKey)||'{}');
-    if(saved&&typeof saved==='object'&&!Array.isArray(saved))outreach=new Map(Object.entries(saved).filter(([id,date])=>id.startsWith(`${prefectureKey}-`)&&/^(osaka|kyoto|hyogo)-[a-f0-9]{16}$/.test(id)&&typeof date==='string'));
+    if(saved&&typeof saved==='object'&&!Array.isArray(saved))outreach=new Map(Object.entries(saved).filter(([id,date])=>id.startsWith(`${prefectureKey}-`)&&/^(osaka|kyoto|hyogo|nara)-[a-f0-9]{16}$/.test(id)&&typeof date==='string'));
   }catch{outreachStorageError=true;}
   const fragment=location.hash.match(/^#team=([a-f0-9]{64})$/);
   if(fragment){teamToken=fragment[1];try{localStorage.setItem(teamTokenStorageKey,teamToken);}catch{outreachStorageError=true;}history.replaceState(null,'',location.pathname+location.search);}
@@ -96,7 +96,7 @@ async function refreshTeam(){
   if(!teamToken||teamPending)return;
   try{
     const data=await teamRequest();
-    outreach=new Map(Object.entries(data.records||{}).filter(([id,date])=>id.startsWith(`${prefectureKey}-`)&&/^(osaka|kyoto|hyogo)-[a-f0-9]{16}$/.test(id)&&typeof date==='string').map(([id,date])=>[id,new Date(date).toLocaleDateString('ja-JP')]));
+    outreach=new Map(Object.entries(data.records||{}).filter(([id,date])=>id.startsWith(`${prefectureKey}-`)&&/^(osaka|kyoto|hyogo|nara)-[a-f0-9]{16}$/.test(id)&&typeof date==='string').map(([id,date])=>[id,new Date(date).toLocaleDateString('ja-JP')]));
     teamConnected=true;updateOutreachSummary();render();
   }catch(error){teamConnected=false;updateOutreachSummary();$('outreach-storage-note').textContent=error.message+'。再読み込みで再試行できます。';render();}
 }
@@ -201,6 +201,7 @@ function changePage(page){state.page=page;pageRender();$('region-title').scrollI
 $('previous').addEventListener('click',()=>changePage(state.page-1));$('next').addEventListener('click',()=>changePage(state.page+1));$('page-number').addEventListener('change',e=>changePage(Number(e.target.value)));
 function kyotoMethodHTML(){
   const stats=prefecture.directoryStats;
+  if(prefecture.key==='nara')return `<p>奈良県運営の飲食店紹介と奈良県観光公式サイトの個別掲載${fmt(stats.profiles)}件を調べ、独自サイトが見つかった店、宿泊・物販・チェーン、所在地や連絡先を確認できない店を除外・保留しました。公開中の${fmt(stats.candidates)}店は営業中の確定でも奈良県の全店舗でもありません。</p><ul>${meta.limitations.map(x=>`<li>${escapeHTML(x)}</li>`).join('')}</ul><p>電話番号は${fmt(stats.phone)}店、Instagramは${fmt(stats.instagram)}店、営業時間は${fmt(stats.hours)}店で掲載元を確認しました。閉店・移転告知は公開検索で再確認しましたが、Instagramの全投稿は外部から読めません。SNSや電話で最新状況を確認してから営業してください。</p><h3>利用した掲載元</h3><ul class="source-list">${prefecture.sources.map(s=>`<li>${link(s.title,s.url)} — ${escapeHTML(s.scope)}</li>`).join('')}</ul>`;
   if(prefecture.name==='兵庫県')return `<p>神戸・阪神・播磨・西播磨・北播磨・但馬・丹波・淡路の${fmt(stats.researchCities)}市町で、地域団体などの掲載情報${fmt(stats.profiles)}件を調べました。掲載元の独自サイトリンクを確認し、店名と電話番号または所在地でもWeb検索して見つかった独自サイトのある店を除外。新温泉町と神戸・岡本の候補には、掲載元で確認した連絡先と営業時間を追加しました。独自サイトが検索で見つからないことは不存在の証明ではありません。店舗サイトが確認できた店や、宿泊・物販施設などを除いた暫定候補${fmt(stats.candidates)}店を公開しています。県内の全店舗を調べ終えた件数ではありません。</p><p>掲載元で電話は${fmt(stats.phone)}店、Instagramは${fmt(stats.instagram)}店、Facebookは${fmt(stats.facebook)}店、営業時間は${fmt(stats.hours)}店について確認しました。連絡先や営業時間の最新情報、DM受付の可否は連絡前に確認してください。営業チェックは通常この端末に保存され、チーム共有リンクを開くと複数端末で同期します。共有リンクを知る人はチェックを閲覧・変更できます。</p><h3>利用した掲載元</h3><ul class="source-list">${prefecture.sources.map(s=>`<li>${link(s.title,s.url)} — ${escapeHTML(s.scope)}</li>`).join('')}</ul>`;
   return `<p>京都府26市町村を対象に、取得した公開名簿69ファイル・${fmt(meta.stats.rawRows)}行を件数上限なしで処理。重複、明示廃業、主要チェーン、給食等を整理した${fmt(meta.stats.researchRecords)}件は、営業中の店舗数でも条件確定の候補数でもありません。</p><ul>${meta.limitations.map(x=>`<li>${escapeHTML(x)}</li>`).join('')}</ul><p>観光DMO・京都西山・商店街（宇治橋通り、四条大宮、出町桝形、深草、四条繁栄会、嵯峨など）の店舗紹介と京都市・亀岡市の一覧、寿司・麺類・料理飲食業の組合名簿から、店舗単位の掲載情報${fmt(stats.profiles)}件を確認（紹介ページと一覧の店舗行を含み、重複あり）。店舗名・所在地・店舗連絡先欄を確認して、独自HP等の掲載リンクがない暫定候補${fmt(stats.candidates)}店を掲載しています。掲載欄にHPリンクがないことは、独自HPが存在しない証明ではありません。サービス宣言や組合名簿のHP有無・電話は掲載当時の情報で、現在の営業や連絡先は再確認が必要です。SNS掲載を確認した店はA、それ以外はB。S判定はまだ付けていません。</p><p>候補の電話は${fmt(stats.phone)}店、Instagramは${fmt(stats.instagram)}店、Facebookは${fmt(stats.facebook)}店、メールは${fmt(stats.email)}店。重複する手段を含みます。掲載元が店舗のものとして案内する連絡先のみを使用。DM・メッセージの受付、電話の疎通、メール送信は未確認で、問い合わせは一切送っていません。</p><p>公開名簿のうち施設電話番号を収録した記録は${fmt(meta.stats.phoneRecords)}件。古い名簿を含むため現在も通じるとは限りません。元資料の営業者氏名・個人住所・法人所在地は掲載しません。候補と公開記録は重なるため、件数を足して「全店舗数」とはできません。</p><h3>利用した公開データ（編集・加工）</h3><ul class="source-list">${meta.sources.map(s=>`<li>${link(s.title,s.page||s.url)} — 基準 ${escapeHTML(s.snapshot)} / ${escapeHTML(s.scope)} ${link('原本',s.url)}</li>`).join('')}</ul><p>出典：京都市および厚生労働省の公開データを加工。店舗紹介の確認元は各候補のリンクに掲載。行政による推薦・条件適合の認定ではありません。</p>`;
 }
