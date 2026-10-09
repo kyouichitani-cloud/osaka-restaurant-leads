@@ -23,6 +23,7 @@ if(outreachEnabled){
   if(!/^[a-f0-9]{64}$/.test(teamToken))teamToken='';
 }
 const localOutreach=new Map(outreach);
+if(teamToken)outreach=new Map();
 const $=id=>document.getElementById(id);
 const escapeHTML=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const normalize=s=>String(s??'').normalize('NFKC').replace(/\s+/g,'').toLowerCase();
