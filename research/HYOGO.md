@@ -39,8 +39,9 @@
 - [佐用町観光協会・グルメ](https://sayo-kanko.jp/spot/?_sft_cat_spot=gourmet)：45個別紹介。
 - [太子町観光協会・食べる](https://taishi-kanko.com/spots/?tax_genre%5B%5D=eat)：15個別紹介。
 - [芦屋ラポルテ・飲食](https://laporte.jp/service/eat-drink/)：26個別紹介。館別住所を確定できない店は保留。
+- [猪名川町観光協会・グルメ](https://inagawa-kanko.com/restaurant/)：店舗SNS・電話・所在地を確認できたA候補2店を追加。移動販売や独自サイト掲載店は除外。
 
-`hyogo-*-sources.json` に巡回元を、`hyogo-directory-audit.json` に全1,860件の採否と掲載サイトURLを記録。個別の例外は `hyogo-review-overrides.json` に保存した。従来のWeb検索293件は `hyogo-web-search-2026-10-09-bulk.json` に記録。電話は店舗情報欄の事業用番号だけを採用し、FAXは代用しない。SNSは店舗情報欄にあるプロフィールだけを利用し、投稿単体や観光サイト共通のSNSは除外した。営業時間は個別店舗ページに時刻範囲が記載された場合だけ出典付きで表示し、曜日・臨時休業を反映した現在の営業時間とは扱わない。
+`hyogo-*-sources.json` に巡回元を、`hyogo-directory-audit.json` に全1,862件の採否と掲載サイトURLを記録。個別の例外は `hyogo-review-overrides.json` に保存した。従来のWeb検索293件は `hyogo-web-search-2026-10-09-bulk.json` に記録。電話は店舗情報欄の事業用番号だけを採用し、FAXは代用しない。SNSは店舗情報欄にあるプロフィールだけを利用し、投稿単体や観光サイト共通のSNSは除外した。営業時間は個別店舗ページに時刻範囲が記載された場合だけ出典付きで表示し、曜日・臨時休業を反映した現在の営業時間とは扱わない。
 
 尼崎三和本通商店街の「菊うら」の掲載電話は先頭の0が1つ多いため、店舗名と所在地が一致する[楽天ぐるなびの店舗情報](https://r.gnavi.co.jp/cv8dfk5v0000/)で06-6411-5025を確認して採用した。誤表記のある元ページは出典として残すが、修正した番号には別の出典を付けている。
 
