@@ -13,6 +13,7 @@ SOURCES = [
     dict(title='奈良県観光公式サイト・食べる', url='https://yamatoji.nara-kankou.or.jp/004shop/?keyword=0000000176', scope='飲食店関連個別紹介67件'),
     dict(title='奈良市観光協会・ちゃちゃちゃ大和茶2026', url='https://narashikanko.or.jp/yamatocha/', scope='掲載店舗21件'),
     dict(title='奈良市下御門商店街協同組合・飲食', url='https://www.shimomikado.com/shop/', scope='飲食店個別紹介16件'),
+    dict(title='ならまち情報サイト・食べる', url='https://naramachiinfo.jp/spot/spot_cat/gourmet', scope='飲食店個別紹介47件'),
 ]
 
 EVENT_REVIEWED = {
@@ -27,6 +28,17 @@ STREET_REVIEWED = {
     '福寿司': ('A', 'https://map.yahoo.co.jp/v3/place/oRd3jyw2iZA'),
     '博多小料理 久美子': ('A', 'https://tabelog.com/nara/A2901/A290101/29014445/'),
     'ほたるガラスカフェ 結': ('A', 'https://narashin.com/industry/cafe/'),
+    '路地裏のおにぎり屋さん　一穂二穂': ('A', 'https://naramachigoryojinja.amebaownd.com/'),
+}
+NARAMACHI_REVIEWED = {
+    '京家': ('A', 'https://map.yahoo.co.jp/v3/place/acCkRpMXyKI'),
+    'MONTURE': ('A', 'https://www.narakotsu.co.jp/wordpress/wp-content/uploads/2026/03/free_ticket-tokuten202604_JP.pdf'),
+    '洋食TSUBAKI': ('A', 'https://naramachiinfo.jp/information/%E3%81%AA%E3%82%89%E3%81%BE%E3%81%A1%E3%81%AE%E3%81%8A%E5%BA%97%E6%83%85%E5%A0%B1/4942.html'),
+    'coffret café': ('A', 'https://map.yahoo.co.jp/v3/place/LH0HPomx4Tc'),
+    'Gallery Cafe 容': ('A', 'https://ameblo.jp/nuts-pancake/entry-12969391617.html'),
+    '喫茶・工房まほろば': ('A', 'https://tabelog.com/nara/A2901/A290101/29001516/'),
+    'ギャラリーカフェTakeno': ('A', 'https://yamatoji.nara-kankou.or.jp/contents/images/7bj1emzalk/dd75869aeb414175e3b3f8dc5109eb84.pdf'),
+    '亀よし': ('A', 'https://nara.goguynet.jp/2025/09/19/post-55357/'),
 }
 EVENT_WEB_FOUND = {
     'おちゃのこ': 'https://ochanoko.jp/?p=1',
@@ -35,6 +47,30 @@ EVENT_WEB_FOUND = {
     'アロンビアン販売所': 'https://allonsbien.base.shop/',
 }
 STREET_WEB_FOUND = {'創作酒場 架 - kakeru -': 'https://sousakusakaba-kakeru.owst.jp/'}
+NARAMACHI_WEB_FOUND = {
+    'french o・mo・ya奈良町': 'https://www.secondhouse.co.jp/omoya/omo3-access.html',
+    '吉野葛佐久良・染織工芸二塚': 'https://www.nizuka.com/',
+    'はり新': 'https://harishin.com/about',
+    'Rasa Bojun Nara': 'https://www.rasabojunjapan.com/',
+    '洋食 春': 'https://haru-nara.com/store.html',
+    '日本料理　ひとしずく': 'https://nara-hitoshizuku.com/news.html',
+    '8nosu スパイスカレーと蜂蜜の店': 'https://8nosu.jimdofree.com/',
+    'PE LONCHO': 'https://peloncho.com/lunch.html',
+    'わんず・はーと・かふぇ　ならまち店': 'https://onesheartcafe-naramachi.com/',
+    '焼き芋専門店　維新蔵': 'https://oimo.co.jp/',
+    '旬彩ひより': 'https://naramachi-hiyori.jp/',
+    'Labo Rusty  hotdog & coffee': 'https://laborusty.jimdofree.com/access/',
+    '焼肉niku-nikoニクニコ': 'https://nikuniko.owst.jp/menu',
+    'ちょい飲み茶屋　鹿ドキ！': 'https://www.shikadoki.com/menu.html',
+    'fuai mart + café': 'https://fuai.jp/blogs/days',
+    'cervo bianco': 'https://www.cervobianco.net/about',
+}
+NARAMACHI_MOVED = {
+    'そば処 吟松': 'https://narashikanko.or.jp/naragoround/takabatake/',
+}
+NARAMACHI_REST = {
+    'ならまち 招福庵': 'https://naramachiinfo.jp/spot/gourmet/2311.html',
+}
 
 # Every entry has had its name, address, contact route, independent-site search,
 # and publicly indexed closure/move notices reviewed. Omission means hold, not rejection.
@@ -112,6 +148,7 @@ def main():
     rows += json.loads((CACHE/'nara-tourism-review.json').read_text())
     event_rows = json.loads((CACHE/'nara-yamatocha-review.json').read_text())
     street_rows = json.loads((CACHE/'nara-shimomikado-review.json').read_text())
+    town_rows = json.loads((CACHE/'nara-naramachi-review.json').read_text())
     leads, clock, audit = [], {}, []
     for row in rows:
         code = row['url'].rsplit('prm=', 1)[-1] if 'prm=' in row['url'] else ''
@@ -149,26 +186,39 @@ def main():
         audit.append(dict(name=row['name'], address=row['address'], source=row['url'], decision=decision,
                           websiteFound=WEB_FOUND.get(code, ''), checkedAt=TODAY))
     for origin, extra_rows, chosen, found in [('event', event_rows, EVENT_REVIEWED, EVENT_WEB_FOUND),
-                                               ('street', street_rows, STREET_REVIEWED, STREET_WEB_FOUND)]:
+                                               ('street', street_rows, STREET_REVIEWED, STREET_WEB_FOUND),
+                                               ('town', town_rows, NARAMACHI_REVIEWED, NARAMACHI_WEB_FOUND)]:
         for row in extra_rows:
             decision = '追加確認まで保留'
             website_found = found.get(row['name']) or (row['websites'][0] if row['websites'] else '')
             if website_found:
                 decision = '独自サイトを確認・候補から除外'
+            elif origin == 'town' and row['name'] in NARAMACHI_MOVED:
+                decision = '移転案内を確認・旧所在地のため除外'
+            elif origin == 'town' and row['name'] in NARAMACHI_REST:
+                decision = '2026年10月中旬〜11月末の店休予告があり保留'
             elif row['name'] in chosen:
                 assert row['address'] and (row['phone'] or row['instagram']), row['name']
                 rank, evidence = chosen[row['name']]
                 lead = extra_lead(row, rank, evidence, origin)
+                if row['name'] == '亀よし':
+                    lead['closureCheck'] = '2026年10月の休業日が掲載元に案内されています。閉店告知は公開検索で未発見ですが、営業日は毎回要確認。Instagramの全投稿は未確認。'
                 leads.append(lead)
                 matched = extra_hours(row['hours'], row['source'])
+                if row['name'] == '路地裏のおにぎり屋さん　一穂二穂':
+                    matched = dict(text=row['hours']+'（売り切れ次第終了）', opens=630, ends=None, source=row['source'])
+                if row['name'] == 'Gallery Cafe 容':
+                    matched = dict(text=row['hours'], opens=660, ends=None, source=row['source'])
                 if matched:
                     clock['nara|'+lead['id']] = matched
                 decision = '掲載・営業現況は要電話/SNS確認'
             audit.append(dict(name=row['name'], address=row['address'], source=row['source'],
-                              decision=decision, websiteFound=website_found, checkedAt=TODAY))
-    assert len(leads) == len(REVIEWED)+len(EVENT_REVIEWED)+len(STREET_REVIEWED)
+                              decision=decision, websiteFound=website_found,
+                              noticeSource=NARAMACHI_MOVED.get(row['name'], NARAMACHI_REST.get(row['name'], '')) if origin == 'town' else '',
+                              checkedAt=TODAY))
+    assert len(leads) == len(REVIEWED)+len(EVENT_REVIEWED)+len(STREET_REVIEWED)+len(NARAMACHI_REVIEWED)
     assert len({x['id'] for x in leads}) == len(leads)
-    stats = dict(profiles=len(rows)+len(event_rows)+len(street_rows), candidates=len(leads), researchCities=len({r['lead']['municipality'] for r in rows if r['lead']['municipality']}),
+    stats = dict(profiles=len(rows)+len(event_rows)+len(street_rows)+len(town_rows), candidates=len(leads), researchCities=len({r['lead']['municipality'] for r in rows if r['lead']['municipality']}),
                  candidateCities=len({x['municipality'] for x in leads}), phone=sum(bool(x['phone']) for x in leads),
                  instagram=sum(any(r['kind']=='instagram' for r in x['contact']['routes']) for x in leads),
                  hours=len(clock))
@@ -180,7 +230,7 @@ def main():
                         ('nara-hours.js', 'window.LEAD_HOURS='+json.dumps(clock,ensure_ascii=False,separators=(',',':'))+';\n')]:
         (ROOT/'dist'/name).write_text(value)
     (ROOT/'dist/nara-meta.json').write_text(json.dumps(dict(stats=dict(rawRows=0,researchRecords=0,phoneRecords=0),sources=[],coverage=[],
-        limitations=['県運営の個別紹介261件、奈良市観光協会21件、下御門商店街16件を調査。重複するため店舗実数ではなく、県内全市町村・全飲食店は網羅していません。',
+        limitations=['県運営の個別紹介261件、奈良市観光協会21件、下御門商店街16件、ならまち情報サイト47件を調査。重複するため店舗実数ではなく、県内全市町村・全飲食店は網羅していません。',
                      '掲載元にサイトリンクがなくても別検索で独自サイトが見つかった店は除外・保留しています。',
                      'Instagramの全投稿は外部から閲覧できないため、閉店・休業・移転の告知を完全に確認したものではありません。掲載先への連絡前にSNSと電話で最新状況をご確認ください。']),ensure_ascii=False)+'\n')
     (ROOT/'research/nara-directory-audit.json').write_text(json.dumps(dict(checkedAt=TODAY,stats=stats,decisions=audit),ensure_ascii=False,indent=2)+'\n')

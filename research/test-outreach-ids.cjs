@@ -10,7 +10,7 @@ const scripts={
   hyogo:['hyogo-data.js'],
   nara:['nara-data.js'],
 };
-const expected={osaka:1306,kyoto:807,hyogo:609,nara:18};
+const expected={osaka:1306,kyoto:807,hyogo:609,nara:27};
 const app=fs.readFileSync(path.join(dist,'app.js'),'utf8').split('let state=')[0];
 
 for(const [prefecture,files] of Object.entries(scripts)){
@@ -23,4 +23,4 @@ for(const [prefecture,files] of Object.entries(scripts)){
   assert.ok(ids.every(id=>new RegExp(`^${prefecture}-[a-f0-9]{16}$`).test(id)),prefecture+' ID shape');
   if(prefecture==='osaka')assert.ok(ids.includes('osaka-9cef32b3cbe967b8'),'existing Osaka lead ID remains stable');
 }
-console.log('PASS outreach IDs: all 2,740 candidates have unique, prefecture-scoped IDs');
+console.log('PASS outreach IDs: all 2,749 candidates have unique, prefecture-scoped IDs');
