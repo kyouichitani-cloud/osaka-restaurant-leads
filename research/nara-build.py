@@ -14,6 +14,9 @@ SOURCES = [
     dict(title='奈良市観光協会・ちゃちゃちゃ大和茶2026', url='https://narashikanko.or.jp/yamatocha/', scope='掲載店舗21件'),
     dict(title='奈良市下御門商店街協同組合・飲食', url='https://www.shimomikado.com/shop/', scope='飲食店個別紹介16件'),
     dict(title='ならまち情報サイト・食べる', url='https://naramachiinfo.jp/spot/spot_cat/gourmet', scope='飲食店個別紹介47件'),
+    dict(title='吉野ビジターズビューロー・食べる', url='https://www.yoshino-kankou.jp/stay/eat/', scope='飲食店個別紹介36件'),
+    dict(title='近鉄×Lmaga.co・ならまちお散歩マップ', url='https://www.kintetsu.co.jp/nara/naramachi/shoplist1.html', scope='飲食・物販等の個別紹介31件'),
+    dict(title='奈良県観光公式・スパイス香る1300年の旅', url='https://yamatoji.nara-kankou.or.jp/nara-curry/', scope='飲食店個別紹介9件'),
 ]
 
 EVENT_REVIEWED = {
@@ -39,7 +42,44 @@ NARAMACHI_REVIEWED = {
     '喫茶・工房まほろば': ('A', 'https://tabelog.com/nara/A2901/A290101/29001516/'),
     'ギャラリーカフェTakeno': ('A', 'https://yamatoji.nara-kankou.or.jp/contents/images/7bj1emzalk/dd75869aeb414175e3b3f8dc5109eb84.pdf'),
     '亀よし': ('A', 'https://nara.goguynet.jp/2025/09/19/post-55357/'),
+    '日本料理 つる由': ('A', 'https://tabelog.com/nara/A2901/A290101/29000969/'),
 }
+YOSHINO_REVIEWED = {
+    '茶房　秀康': ('A', 'https://yoshinoyama-kankou.com/sitemap/'),
+    'カフェ・ル・ルポ': ('A', 'https://www.town.yoshino.nara.jp/material/files/group/15/chikishinkoken_chikibetsu20260604.pdf'),
+    '岩仁庵静櫻': ('A', 'https://tabelog.com/nara/A2905/A290501/29012968/dtlrvwlst/'),
+    'パーラーつぶろ': ('A', 'https://www.jbnbc.jp/infomation/index.php?mode=permlink&uid=4342'),
+    'KR Kaffee': ('A', 'https://tabelog.com/nara/A2905/A290501/29013454/dtlrvwlst/'),
+    '魚歌家（さかなかや）': ('A', 'https://www.visitnara.jp/venues/D012342/'),
+}
+YOSHINO_WEB_FOUND = {
+    '弁慶': 'https://r.goope.jp/sr-29-294411sn518',
+    'うぐいす': 'https://r.goope.jp/sr-29-294411sn494',
+    '吉野レストハウス': 'https://r.goope.jp/sr-29-294411sn710/',
+}
+KINTETSU_REVIEWED = [
+    dict(name='café komorebi', address='奈良市西紀寺町27番南側', phone='', hours='11:00〜18:00（火曜・隔週水曜休）',
+         instagram='https://www.instagram.com/natural_cafe.komorebi/', evidence='https://tabelog.com/nara/A2901/A290101/29014547/', rank='A'),
+    dict(name='PEAKS BEIGNET', address='奈良市高畑町1002', phone='050-7132-0084', hours='12:00〜18:00（不定休）',
+         instagram='https://www.instagram.com/peaksbeignet/', evidence='https://tabelog.com/nara/A2901/A290101/29012583/', rank='A'),
+]
+CURRY_REVIEWED = [
+    dict(name='つるカレー', municipality='奈良市', address='奈良市西笹鉾町13', phone='',
+         hours='11:00〜15:00（L.O.14:00、日・月・不定休）', instagram='https://www.instagram.com/tsuru_curry/',
+         evidence='https://www.ksdh.or.jp/wp-content/uploads/2026/02/a84db479dfd0a1a9e26c3088ad750d56.pdf', rank='A'),
+    dict(name='まさら庵 TAKUMI', municipality='奈良市', address='奈良市中町2281', phone='0742-47-1601',
+         hours='12:00〜14:30／18:00〜21:30（入店時間・要予約確認）', instagram='',
+         facebook='https://www.facebook.com/masalaan.takumi', evidence='https://cuisine-kingdom.com/masaraantakumi_2608', rank='A'),
+    dict(name='カレイヤー', municipality='生駒市', address='生駒市元町1丁目3-22 アクタスビル1階', phone='0743-25-9457',
+         hours='11:30〜19:00（水曜は14:00まで、日祝休）', instagram='https://www.instagram.com/calayer_curry/',
+         evidence='https://www.city.ikoma.lg.jp/0000033461.html', rank='A'),
+    dict(name='イマココ食堂', municipality='大和郡山市', address='大和郡山市小泉町353-2-1', phone='090-8532-1351',
+         hours='11:00〜15:00（水・木休、SNS要確認）', instagram='https://www.instagram.com/imakoko_diner/',
+         evidence='https://www.city.yamatokoriyama.lg.jp/material/files/group/63/yamatokorekoujitsu_soushi3_contents.pdf', rank='A'),
+    dict(name='YAREYO', municipality='橿原市', address='橿原市中曽司町172-19', phone='0744-48-0902',
+         hours='11:30〜15:00（月曜・不定休）', instagram='https://www.instagram.com/yareyo_/',
+         evidence='https://www.city.kashihara.nara.jp/material/files/group/28/R6ijupanhuretto.pdf', rank='A'),
+]
 EVENT_WEB_FOUND = {
     'おちゃのこ': 'https://ochanoko.jp/?p=1',
     'pastane 蓮蓮': 'http://www.pastanehasuhasu.com/',
@@ -132,7 +172,8 @@ def extra_lead(row, rank, evidence, origin):
     lead_id = 'nara-' + sha256((name+'|'+address).encode()).hexdigest()[:16]
     routes = [dict(kind='instagram', url=url, source=row['source'], status='receipt-unverified')
               for url in row['instagram']]
-    lead = dict(id=lead_id, name=name, municipality='奈良市', city='奈良市', address=address,
+    municipality = row.get('municipality') or ('吉野町' if origin == 'yoshino' else '奈良市')
+    lead = dict(id=lead_id, name=name, municipality=municipality, city=municipality, address=address,
                 type='カフェ・飲食店' if origin == 'event' else '飲食店', rank=rank,
                 why='地域の個別紹介と別の公開情報で店名・所在地を照合。独自サイトと閉店・移転告知を公開検索したが、SNSの全投稿と現在営業は未確認。',
                 sources=[['店舗の個別紹介', row['source']], ['別の掲載元', evidence]], checkedAt=TODAY,
@@ -149,6 +190,7 @@ def main():
     event_rows = json.loads((CACHE/'nara-yamatocha-review.json').read_text())
     street_rows = json.loads((CACHE/'nara-shimomikado-review.json').read_text())
     town_rows = json.loads((CACHE/'nara-naramachi-review.json').read_text())
+    yoshino_rows = json.loads((CACHE/'nara-yoshino-review.json').read_text())
     leads, clock, audit = [], {}, []
     for row in rows:
         code = row['url'].rsplit('prm=', 1)[-1] if 'prm=' in row['url'] else ''
@@ -209,6 +251,8 @@ def main():
                     matched = dict(text=row['hours']+'（売り切れ次第終了）', opens=630, ends=None, source=row['source'])
                 if row['name'] == 'Gallery Cafe 容':
                     matched = dict(text=row['hours'], opens=660, ends=None, source=row['source'])
+                if row['name'] == '日本料理 つる由':
+                    matched = dict(text='12:00〜14:00／17:00〜21:30（月曜休、要予約確認）', opens=720, ends=1290, source=evidence)
                 if matched:
                     clock['nara|'+lead['id']] = matched
                 decision = '掲載・営業現況は要電話/SNS確認'
@@ -216,9 +260,57 @@ def main():
                               decision=decision, websiteFound=website_found,
                               noticeSource=NARAMACHI_MOVED.get(row['name'], NARAMACHI_REST.get(row['name'], '')) if origin == 'town' else '',
                               checkedAt=TODAY))
-    assert len(leads) == len(REVIEWED)+len(EVENT_REVIEWED)+len(STREET_REVIEWED)+len(NARAMACHI_REVIEWED)
+    for row in yoshino_rows:
+        social = [u for u in row['external'] if 'instagram.com/' in u or 'facebook.com/' in u]
+        own = [u for u in row['external'] if not any(domain in u for domain in ('goo.gl/maps/', 'maps.google.', 'instagram.com/', 'facebook.com/', 'x.com/'))]
+        website_found = YOSHINO_WEB_FOUND.get(row['name'], own[0] if own else '')
+        decision = '追加確認まで保留'
+        if website_found:
+            decision = '独自サイトを確認・候補から除外'
+        elif row['name'] == 'お食事処 はるかぜ':
+            decision = '既に掲載済み'
+        elif row['name'] in YOSHINO_REVIEWED:
+            rank, evidence = YOSHINO_REVIEWED[row['name']]
+            assert row['address'] and row['phone'], row['name']
+            normalized = dict(name=row['name'], address=row['address'], phone=row['phone'], hours=row['hours'],
+                              instagram=[u for u in social if 'instagram.com/' in u], source=row['source'])
+            lead = extra_lead(normalized, rank, evidence, 'yoshino')
+            lead['type'] = '飲食店・カフェ'
+            for url in social:
+                if 'facebook.com/' in url:
+                    lead['contact']['routes'].append(dict(kind='facebook', url=url, source=row['source'], status='receipt-unverified'))
+            matched = extra_hours(row['hours'], row['source'])
+            if row['name'] == '茶房　秀康':
+                matched = dict(text=row['hours']+'（通常期4〜11月）', opens=540, ends=1020, source=row['source'])
+                lead['closureCheck'] = '通常期は4〜11月と掲載。季節営業・臨時休業は連絡前に要確認。Instagramの全投稿は未確認。'
+            if row['name'] == 'カフェ・ル・ルポ':
+                matched = dict(text=row['hours']+'（月・木休）', opens=660, ends=1020, source=row['source'])
+            if row['name'] == '岩仁庵静櫻':
+                matched = dict(text='月・土・日 11:30〜18:00（食べログ掲載、要確認）', opens=690, ends=1080, source=evidence)
+            if matched:
+                clock['nara|'+lead['id']] = matched
+            leads.append(lead)
+            decision = '掲載・営業現況は要電話/SNS確認'
+        audit.append(dict(name=row['name'], address=row['address'], source=row['source'],
+                          decision=decision, websiteFound=website_found, checkedAt=TODAY))
+    for origin, manual_rows, source in [('kintetsu', KINTETSU_REVIEWED, 'https://www.kintetsu.co.jp/nara/naramachi/shoplist1.html'),
+                                        ('curry', CURRY_REVIEWED, 'https://yamatoji.nara-kankou.or.jp/nara-curry/')]:
+      for row in manual_rows:
+        normalized = dict(name=row['name'], address=row['address'], phone=row['phone'], hours=row['hours'],
+                          municipality=row.get('municipality'), instagram=[row['instagram']] if row['instagram'] else [], source=source)
+        lead = extra_lead(normalized, row['rank'], row['evidence'], origin)
+        lead['type'] = 'カフェ・飲食店'
+        if row.get('facebook'):
+            lead['contact']['routes'].append(dict(kind='facebook', url=row['facebook'], source=row['evidence'], status='receipt-unverified'))
+        matched = extra_hours(row['hours'], source)
+        assert matched, row['name']
+        clock['nara|'+lead['id']] = matched
+        leads.append(lead)
+        audit.append(dict(name=row['name'], address=row['address'], source=source,
+                          decision='掲載・営業現況は要電話/SNS確認', websiteFound='', checkedAt=TODAY))
+    assert len(leads) == len(REVIEWED)+len(EVENT_REVIEWED)+len(STREET_REVIEWED)+len(NARAMACHI_REVIEWED)+len(YOSHINO_REVIEWED)+len(KINTETSU_REVIEWED)+len(CURRY_REVIEWED)
     assert len({x['id'] for x in leads}) == len(leads)
-    stats = dict(profiles=len(rows)+len(event_rows)+len(street_rows)+len(town_rows), candidates=len(leads), researchCities=len({r['lead']['municipality'] for r in rows if r['lead']['municipality']}),
+    stats = dict(profiles=len(rows)+len(event_rows)+len(street_rows)+len(town_rows)+len(yoshino_rows)+31+9, candidates=len(leads), researchCities=len({r['lead']['municipality'] for r in rows if r['lead']['municipality']}),
                  candidateCities=len({x['municipality'] for x in leads}), phone=sum(bool(x['phone']) for x in leads),
                  instagram=sum(any(r['kind']=='instagram' for r in x['contact']['routes']) for x in leads),
                  hours=len(clock))
@@ -230,7 +322,7 @@ def main():
                         ('nara-hours.js', 'window.LEAD_HOURS='+json.dumps(clock,ensure_ascii=False,separators=(',',':'))+';\n')]:
         (ROOT/'dist'/name).write_text(value)
     (ROOT/'dist/nara-meta.json').write_text(json.dumps(dict(stats=dict(rawRows=0,researchRecords=0,phoneRecords=0),sources=[],coverage=[],
-        limitations=['県運営の個別紹介261件、奈良市観光協会21件、下御門商店街16件、ならまち情報サイト47件を調査。重複するため店舗実数ではなく、県内全市町村・全飲食店は網羅していません。',
+        limitations=['県運営の個別紹介261件、奈良市観光協会21件、下御門商店街16件、ならまち情報サイト47件、吉野ビジターズビューロー36件、近鉄お散歩マップ31件、奈良県観光カレー特集9件を調査。重複や飲食以外も含むため店舗実数ではなく、県内全市町村・全飲食店は網羅していません。',
                      '掲載元にサイトリンクがなくても別検索で独自サイトが見つかった店は除外・保留しています。',
                      'Instagramの全投稿は外部から閲覧できないため、閉店・休業・移転の告知を完全に確認したものではありません。掲載先への連絡前にSNSと電話で最新状況をご確認ください。']),ensure_ascii=False)+'\n')
     (ROOT/'research/nara-directory-audit.json').write_text(json.dumps(dict(checkedAt=TODAY,stats=stats,decisions=audit),ensure_ascii=False,indent=2)+'\n')

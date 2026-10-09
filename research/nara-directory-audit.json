@@ -1,13 +1,13 @@
 {
   "checkedAt": "2026-10-10",
   "stats": {
-    "profiles": 345,
-    "candidates": 27,
+    "profiles": 421,
+    "candidates": 41,
     "researchCities": 31,
-    "candidateCities": 6,
-    "phone": 26,
-    "instagram": 14,
-    "hours": 27
+    "candidateCities": 8,
+    "phone": 38,
+    "instagram": 22,
+    "hours": 41
   },
   "decisions": [
     {
@@ -2543,7 +2543,7 @@
       "name": "日本料理 つる由",
       "address": "奈良市脇戸町22-1",
       "source": "https://naramachiinfo.jp/spot/gourmet/1725.html",
-      "decision": "追加確認まで保留",
+      "decision": "掲載・営業現況は要電話/SNS確認",
       "websiteFound": "",
       "noticeSource": "",
       "checkedAt": "2026-10-10"
@@ -2852,6 +2852,350 @@
       "decision": "追加確認まで保留",
       "websiteFound": "",
       "noticeSource": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "花見亭",
+      "address": "奈良県吉野郡吉野町吉野山346-1",
+      "source": "https://yoshino-kankou.jp/stay/000097.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "http://yoshinoyama-hanamitei.com/meal.html",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "初音",
+      "address": "奈良県吉野郡吉野町吉野山2682",
+      "source": "https://yoshino-kankou.jp/stay/000098.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "https://hatuneyoshino.jp/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ひょうたろう",
+      "address": "奈良県吉野郡吉野町吉野山429",
+      "source": "https://yoshino-kankou.jp/stay/000099.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "https://hyoutaro.com/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "うぐいす",
+      "address": "奈良県吉野郡吉野町吉野山433",
+      "source": "https://yoshino-kankou.jp/stay/000100.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "https://r.goope.jp/sr-29-294411sn494",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "御食事処　花屋",
+      "address": "奈良県吉野郡吉野町吉野山368",
+      "source": "https://yoshino-kankou.jp/stay/000105.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "http://www.mjnet.ne.jp/hanaya/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "やっこ",
+      "address": "奈良県吉野郡吉野町吉野山543",
+      "source": "https://yoshino-kankou.jp/stay/000106.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "http://www.yakko-yoshinoyama.com/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "茶房　秀康",
+      "address": "奈良県吉野郡吉野町吉野山2426",
+      "source": "https://yoshino-kankou.jp/stay/000108.html",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "豆冨茶屋 林 中店",
+      "address": "奈良県吉野郡吉野町吉野山551",
+      "source": "https://yoshino-kankou.jp/stay/000109.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "http://www.yoshinoyama-tofu.jp/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ちゃつぼ　芳魂庵",
+      "address": "奈良県吉野郡吉野町吉野山550",
+      "source": "https://yoshino-kankou.jp/stay/000110.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "http://web1.kcn.jp/houkonan/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "弁慶",
+      "address": "奈良県吉野郡吉野町吉野山559-2",
+      "source": "https://yoshino-kankou.jp/stay/000112.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "https://r.goope.jp/sr-29-294411sn518",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "柿の葉ずし たつみ",
+      "address": "奈良県吉野郡吉野町吉野山559-3",
+      "source": "https://yoshino-kankou.jp/stay/000113.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "http://www.tatsumi-yoshino.jp/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "柿の葉ずし　醍予",
+      "address": "奈良県吉野郡吉野町吉野山937-3",
+      "source": "https://yoshino-kankou.jp/stay/000114.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "http://www.daiyo-yoshino.com/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "西澤屋",
+      "address": "奈良県吉野郡吉野町吉野山951",
+      "source": "https://yoshino-kankou.jp/stay/000115.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "http://www.nishiya-kuzuhana.com/nishizawaya.html",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "静亭",
+      "address": "奈良県吉野郡吉野町吉野山952",
+      "source": "https://yoshino-kankou.jp/stay/000116.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "http://www.yosino-sizukatei.sakura.ne.jp/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "朝日館",
+      "address": "奈良県吉野郡吉野町吉野山956",
+      "source": "https://yoshino-kankou.jp/stay/000117.html",
+      "decision": "追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "ほととぎす",
+      "address": "奈良県吉野郡吉野町吉野山1052",
+      "source": "https://yoshino-kankou.jp/stay/000118.html",
+      "decision": "追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "花錦",
+      "address": "奈良県吉野郡吉野町吉野山1306",
+      "source": "https://yoshino-kankou.jp/stay/000120.html",
+      "decision": "追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "カフェ 空",
+      "address": "奈良県吉野郡吉野町吉野山",
+      "source": "https://yoshino-kankou.jp/stay/000121.html",
+      "decision": "追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "矢的庵",
+      "address": "奈良県吉野郡吉野町吉野山3396",
+      "source": "https://yoshino-kankou.jp/stay/000122.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "http://www.yamatoan.com/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "宮本カズ子",
+      "address": "奈良県吉野郡吉野町吉野山",
+      "source": "https://yoshino-kankou.jp/stay/000126.html",
+      "decision": "追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "花矢倉展望台　子守茶屋",
+      "address": "奈良県吉野郡吉野町吉野山1711",
+      "source": "https://yoshino-kankou.jp/stay/000127.html",
+      "decision": "追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "秀",
+      "address": "奈良県吉野郡吉野町吉野山1285-1",
+      "source": "https://yoshino-kankou.jp/stay/000128.html",
+      "decision": "追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "中井春風堂",
+      "address": "奈良県吉野郡吉野町吉野山545",
+      "source": "https://yoshino-kankou.jp/stay/000162.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "http://nakasyun.com/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "TSUJIMURA",
+      "address": "奈良県吉野郡吉野町吉野山950",
+      "source": "https://yoshino-kankou.jp/stay/000178.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "http://tsujimura-yoshino.com/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "寿司・割烹　甚八　吉野店【仕出し専門店】",
+      "address": "奈良県吉野郡吉野町河原屋106-1",
+      "source": "https://yoshino-kankou.jp/stay/000207.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "https://www.zinpachi.com/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "レストラン里",
+      "address": "奈良県吉野郡吉野町楢井572-1",
+      "source": "https://yoshino-kankou.jp/stay/000221.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "https://www2.hp-ez.com/hp/yoshinosato/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "㈱柿の葉ずし　平宗 吉野本店",
+      "address": "奈良県吉野郡吉野町飯貝614",
+      "source": "https://yoshino-kankou.jp/stay/002007.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "https://hiraso.jp/shop/%e5%90%89%e9%87%8e%e6%9c%ac%e5%ba%97/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "カフェ・ル・ルポ",
+      "address": "奈良県吉野郡吉野町飯貝1337-8",
+      "source": "https://yoshino-kankou.jp/stay/002059.html",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "岩仁庵静櫻",
+      "address": "奈良県吉野郡吉野町吉野山2561",
+      "source": "https://yoshino-kankou.jp/stay/002263.html",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "うらっしゃ屋",
+      "address": "奈良県吉野郡吉野町楢井222",
+      "source": "https://yoshino-kankou.jp/stay/002284.html",
+      "decision": "追加確認まで保留",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "吉野レストハウス",
+      "address": "奈良県吉野郡吉野町山口910（吉野運動公園内）",
+      "source": "https://yoshino-kankou.jp/stay/002313.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "https://r.goope.jp/sr-29-294411sn710/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "パーラーつぶろ",
+      "address": "奈良県吉野郡吉野町津風呂849",
+      "source": "https://yoshino-kankou.jp/stay/002314.html",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "お食事処 はるかぜ",
+      "address": "奈良県吉野郡吉野町吉野山545-2",
+      "source": "https://yoshino-kankou.jp/stay/002365.html",
+      "decision": "既に掲載済み",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "KR Kaffee",
+      "address": "奈良県吉野郡吉野町吉野山953",
+      "source": "https://yoshino-kankou.jp/stay/002366.html",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "魚歌家（さかなかや）",
+      "address": "奈良県吉野郡吉野町吉野山2296",
+      "source": "https://yoshino-kankou.jp/stay/002368.html",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "うなぎ屋 太鼓判",
+      "address": "奈良県吉野郡吉野町吉野山278",
+      "source": "https://yoshino-kankou.jp/stay/002369.html",
+      "decision": "独自サイトを確認・候補から除外",
+      "websiteFound": "https://unagi-taikoban.com/",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "café komorebi",
+      "address": "奈良市西紀寺町27番南側",
+      "source": "https://www.kintetsu.co.jp/nara/naramachi/shoplist1.html",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "PEAKS BEIGNET",
+      "address": "奈良市高畑町1002",
+      "source": "https://www.kintetsu.co.jp/nara/naramachi/shoplist1.html",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "つるカレー",
+      "address": "奈良市西笹鉾町13",
+      "source": "https://yamatoji.nara-kankou.or.jp/nara-curry/",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "まさら庵 TAKUMI",
+      "address": "奈良市中町2281",
+      "source": "https://yamatoji.nara-kankou.or.jp/nara-curry/",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "カレイヤー",
+      "address": "生駒市元町1丁目3-22 アクタスビル1階",
+      "source": "https://yamatoji.nara-kankou.or.jp/nara-curry/",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "イマココ食堂",
+      "address": "大和郡山市小泉町353-2-1",
+      "source": "https://yamatoji.nara-kankou.or.jp/nara-curry/",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "YAREYO",
+      "address": "橿原市中曽司町172-19",
+      "source": "https://yamatoji.nara-kankou.or.jp/nara-curry/",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
       "checkedAt": "2026-10-10"
     }
   ]
