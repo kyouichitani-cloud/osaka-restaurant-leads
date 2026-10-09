@@ -1,4 +1,4 @@
-"""Publish only manually reviewed Nara leads from the two prefectural directories."""
+"""Publish manually reviewed Nara leads from public local directories."""
 from collections import Counter
 from hashlib import sha256
 import json
@@ -11,7 +11,30 @@ TODAY = '2026-10-10'
 SOURCES = [
     dict(title='奈良県運営・奈良コレ', url='https://nara-kore.jp/?search_type=eat', scope='飲食店個別紹介194件'),
     dict(title='奈良県観光公式サイト・食べる', url='https://yamatoji.nara-kankou.or.jp/004shop/?keyword=0000000176', scope='飲食店関連個別紹介67件'),
+    dict(title='奈良市観光協会・ちゃちゃちゃ大和茶2026', url='https://narashikanko.or.jp/yamatocha/', scope='掲載店舗21件'),
+    dict(title='奈良市下御門商店街協同組合・飲食', url='https://www.shimomikado.com/shop/', scope='飲食店個別紹介16件'),
 ]
+
+EVENT_REVIEWED = {
+    'NiCO caFe158': ('A', 'https://www.narakko.jp/nico-cafe158/'),
+    'アフタヌーンティーロシェ': ('A', 'https://www.city.nara.lg.jp/uploaded/attachment/204172.pdf'),
+    'ならまち分校スイーツ部': ('A', 'https://naramachiinfo.jp/information/%E3%81%AA%E3%82%89%E3%81%BE%E3%81%A1%E3%81%AE%E3%81%8A%E5%BA%97%E6%83%85%E5%A0%B1/5077.html'),
+    'Book Cafe 川べり': ('A', 'https://www.narakko.jp/yomiweb/bookcafe-kawaberi/'),
+    'チーズケーキロックス': ('A', 'https://hug-nara.jp/report/29489.html'),
+}
+STREET_REVIEWED = {
+    'BAR LIQUID': ('A', 'https://nara.goguynet.jp/2023/12/18/barliquid/'),
+    '福寿司': ('A', 'https://map.yahoo.co.jp/v3/place/oRd3jyw2iZA'),
+    '博多小料理 久美子': ('A', 'https://tabelog.com/nara/A2901/A290101/29014445/'),
+    'ほたるガラスカフェ 結': ('A', 'https://narashin.com/industry/cafe/'),
+}
+EVENT_WEB_FOUND = {
+    'おちゃのこ': 'https://ochanoko.jp/?p=1',
+    'pastane 蓮蓮': 'http://www.pastanehasuhasu.com/',
+    'Cafe&Bake Allons Bien': 'https://allonsbien.base.shop/',
+    'アロンビアン販売所': 'https://allonsbien.base.shop/',
+}
+STREET_WEB_FOUND = {'創作酒場 架 - kakeru -': 'https://sousakusakaba-kakeru.owst.jp/'}
 
 # Every entry has had its name, address, contact route, independent-site search,
 # and publicly indexed closure/move notices reviewed. Omission means hold, not rejection.
@@ -63,9 +86,32 @@ def hours(row):
     return dict(text=raw[:200], opens=min(starts), ends=max(ends), source=row['lead']['hoursSource'])
 
 
+def extra_hours(raw, source):
+    return hours({'lead': {'hours': raw, 'hoursSource': source}}) if raw else None
+
+
+def extra_lead(row, rank, evidence, origin):
+    name = row['name']
+    address = re.sub(r'^奈良県', '', row['address']).strip()
+    lead_id = 'nara-' + sha256((name+'|'+address).encode()).hexdigest()[:16]
+    routes = [dict(kind='instagram', url=url, source=row['source'], status='receipt-unverified')
+              for url in row['instagram']]
+    lead = dict(id=lead_id, name=name, municipality='奈良市', city='奈良市', address=address,
+                type='カフェ・飲食店' if origin == 'event' else '飲食店', rank=rank,
+                why='地域の個別紹介と別の公開情報で店名・所在地を照合。独自サイトと閉店・移転告知を公開検索したが、SNSの全投稿と現在営業は未確認。',
+                sources=[['店舗の個別紹介', row['source']], ['別の掲載元', evidence]], checkedAt=TODAY,
+                phone=row['phone'], phoneSource=row['source'] if row['phone'] else '', email='', emailSource='',
+                contact=dict(routes=routes, searchedAt=TODAY),
+                websiteCheck=dict(status='not-found-in-search', checkedAt=TODAY, method='店名・所在地・電話番号で公開検索'),
+                closureCheck='閉店・移転告知は公開検索で未発見。Instagramの全投稿は未確認のため営業中と断定しません。')
+    return lead
+
+
 def main():
     rows = json.loads((CACHE/'nara-kore-review.json').read_text())
     rows += json.loads((CACHE/'nara-tourism-review.json').read_text())
+    event_rows = json.loads((CACHE/'nara-yamatocha-review.json').read_text())
+    street_rows = json.loads((CACHE/'nara-shimomikado-review.json').read_text())
     leads, clock, audit = [], {}, []
     for row in rows:
         code = row['url'].rsplit('prm=', 1)[-1] if 'prm=' in row['url'] else ''
@@ -102,8 +148,27 @@ def main():
             decision = '独自サイト・業態・営業現況の追加確認まで保留'
         audit.append(dict(name=row['name'], address=row['address'], source=row['url'], decision=decision,
                           websiteFound=WEB_FOUND.get(code, ''), checkedAt=TODAY))
-    assert len(leads) == len(REVIEWED)
-    stats = dict(profiles=len(rows), candidates=len(leads), researchCities=len({r['lead']['municipality'] for r in rows if r['lead']['municipality']}),
+    for origin, extra_rows, chosen, found in [('event', event_rows, EVENT_REVIEWED, EVENT_WEB_FOUND),
+                                               ('street', street_rows, STREET_REVIEWED, STREET_WEB_FOUND)]:
+        for row in extra_rows:
+            decision = '追加確認まで保留'
+            website_found = found.get(row['name']) or (row['websites'][0] if row['websites'] else '')
+            if website_found:
+                decision = '独自サイトを確認・候補から除外'
+            elif row['name'] in chosen:
+                assert row['address'] and (row['phone'] or row['instagram']), row['name']
+                rank, evidence = chosen[row['name']]
+                lead = extra_lead(row, rank, evidence, origin)
+                leads.append(lead)
+                matched = extra_hours(row['hours'], row['source'])
+                if matched:
+                    clock['nara|'+lead['id']] = matched
+                decision = '掲載・営業現況は要電話/SNS確認'
+            audit.append(dict(name=row['name'], address=row['address'], source=row['source'],
+                              decision=decision, websiteFound=website_found, checkedAt=TODAY))
+    assert len(leads) == len(REVIEWED)+len(EVENT_REVIEWED)+len(STREET_REVIEWED)
+    assert len({x['id'] for x in leads}) == len(leads)
+    stats = dict(profiles=len(rows)+len(event_rows)+len(street_rows), candidates=len(leads), researchCities=len({r['lead']['municipality'] for r in rows if r['lead']['municipality']}),
                  candidateCities=len({x['municipality'] for x in leads}), phone=sum(bool(x['phone']) for x in leads),
                  instagram=sum(any(r['kind']=='instagram' for r in x['contact']['routes']) for x in leads),
                  hours=len(clock))
@@ -115,7 +180,7 @@ def main():
                         ('nara-hours.js', 'window.LEAD_HOURS='+json.dumps(clock,ensure_ascii=False,separators=(',',':'))+';\n')]:
         (ROOT/'dist'/name).write_text(value)
     (ROOT/'dist/nara-meta.json').write_text(json.dumps(dict(stats=dict(rawRows=0,researchRecords=0,phoneRecords=0),sources=[],coverage=[],
-        limitations=['県運営の2つの個別紹介261件を調査。県内全市町村・全飲食店は網羅していません。',
+        limitations=['県運営の個別紹介261件、奈良市観光協会21件、下御門商店街16件を調査。重複するため店舗実数ではなく、県内全市町村・全飲食店は網羅していません。',
                      '掲載元にサイトリンクがなくても別検索で独自サイトが見つかった店は除外・保留しています。',
                      'Instagramの全投稿は外部から閲覧できないため、閉店・休業・移転の告知を完全に確認したものではありません。掲載先への連絡前にSNSと電話で最新状況をご確認ください。']),ensure_ascii=False)+'\n')
     (ROOT/'research/nara-directory-audit.json').write_text(json.dumps(dict(checkedAt=TODAY,stats=stats,decisions=audit),ensure_ascii=False,indent=2)+'\n')
