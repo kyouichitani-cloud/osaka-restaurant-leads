@@ -128,5 +128,13 @@
   "浜焼き処 一": {"exclude":"店舗公式サイトを別途確認", "website":"https://hamayaki-ichi.com/"},
   "香島園 KASHIMAEN": {"exclude":"茶葉などの物販主体で独立飲食個店ではない", "website":"http://www.sado-kashimaen.com/"},
   "GOBBL’IN BURGER&GRILL": {"exclude":"店舗公式サイトを別途確認", "website":"https://gobblinburgerandgrill.owst.jp/"},
-  "インド料理 インディアンパレス": {"exclude":"店舗公式サイトを別途確認", "website":"https://indianpalace.owst.jp/"}
+  "インド料理 インディアンパレス": {"exclude":"店舗公式サイトを別途確認", "website":"https://indianpalace.owst.jp/"},
+  "https://www.yumura.gr.jp/cafe-bloom/": {"exclude":"店舗公式サイトを別途確認", "website":"https://cafebloom530.com/"},
+  "https://www.yumura.gr.jp/sanson/": {"exclude":"店舗公式サイトを別途確認", "website":"https://sanson.owst.jp/"},
+  "https://www.yumura.gr.jp/fiveon/": {"exclude":"あとなと同一所在地・営業単位の確認待ち"},
+  "https://www.yumura.gr.jp/gattolibero/": {"exclude":"焼菓子の持ち帰り販売主体で飲食個店の確認待ち"},
+  "https://www.yumura.gr.jp/hakkai/": {"exclude":"掲載元に店舗連絡手段がなく再確認待ち"},
+  "https://www.yumura.gr.jp/hiyokkoya/": {"exclude":"掲載元に店舗連絡手段がなく再確認待ち"},
+  "https://kobe-okamoto.org/shop/cafetuoli/": {"exclude":"店舗運営ブログを別途確認", "website":"http://tuoli.exblog.jp/"},
+  "https://kobe-okamoto.org/shop/bakerytable_okamoto/": {"exclude":"ドンク併設店で独立経営を確認待ち"}
 }

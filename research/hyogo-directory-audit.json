@@ -1,14 +1,14 @@
 {
   "checkedAt": "2026-10-10",
   "stats": {
-    "profiles": 1862,
-    "candidates": 591,
-    "researchCities": 33,
-    "candidateCities": 32,
-    "phone": 545,
-    "instagram": 136,
-    "facebook": 37,
-    "hours": 381
+    "profiles": 1912,
+    "candidates": 609,
+    "researchCities": 34,
+    "candidateCities": 33,
+    "phone": 561,
+    "instagram": 140,
+    "facebook": 38,
+    "hours": 398
   },
   "decisions": [
     {
@@ -18569,6 +18569,504 @@
       "address": "川辺郡猪名川町万善字畑溝59-1",
       "phone": "072-768-2001",
       "source": "https://inagawa-kanko.com/restaurant/konne/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Cafe 98°C",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯1260",
+      "phone": "0796-99-2626",
+      "source": "https://www.yumura.gr.jp/98/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.cafe98degrees.com/"
+      ]
+    },
+    {
+      "name": "カフェギャラリー あとな",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯1296",
+      "phone": "0796-93-9343",
+      "source": "https://www.yumura.gr.jp/atona/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "café bloom",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯1240",
+      "phone": "0796-93-9622",
+      "source": "https://www.yumura.gr.jp/cafe-bloom/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://cafebloom530.com/"
+      ]
+    },
+    {
+      "name": "café “I”",
+      "municipality": "新温泉町",
+      "address": "新温泉町細田443-7",
+      "phone": "090-2047-0439",
+      "source": "https://www.yumura.gr.jp/cafe-i/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋ちどり",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯930-2",
+      "phone": "",
+      "source": "https://www.yumura.gr.jp/chidori/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://yumura-chidori.com/"
+      ]
+    },
+    {
+      "name": "えびすや食堂",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯1317-3",
+      "phone": "0796-92-0657",
+      "source": "https://www.yumura.gr.jp/ebisuya/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Five On",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯1296",
+      "phone": "",
+      "source": "https://www.yumura.gr.jp/fiveon/",
+      "decision": "あとなと同一所在地・営業単位の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "レストラン ふるさと",
+      "municipality": "新温泉町",
+      "address": "新温泉町丹土1033",
+      "phone": "0796-92-1005",
+      "source": "https://www.yumura.gr.jp/furusato/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.bokujyo.com/furusato.html"
+      ]
+    },
+    {
+      "name": "Gatto Libero",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯125",
+      "phone": "",
+      "source": "https://www.yumura.gr.jp/gattolibero/",
+      "decision": "焼菓子の持ち帰り販売主体で飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "らーめん八戒",
+      "municipality": "新温泉町",
+      "address": "新温泉町井土657",
+      "phone": "",
+      "source": "https://www.yumura.gr.jp/hakkai/",
+      "decision": "掲載元に店舗連絡手段がなく再確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "但馬ビーフはまだ",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯81",
+      "phone": "0796-92-0080",
+      "source": "https://www.yumura.gr.jp/hamada/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.tajima-beef.jp/"
+      ]
+    },
+    {
+      "name": "たじま牛串とクレープのお店 ひよっ子屋",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯99-3",
+      "phone": "",
+      "source": "https://www.yumura.gr.jp/hiyokkoya/",
+      "decision": "掲載元に店舗連絡手段がなく再確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "ヤマザキショップ カドミセ",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯1233-1",
+      "phone": "",
+      "source": "https://www.yumura.gr.jp/kadomise/",
+      "decision": "宿泊・施設内・物販主体など独立飲食個店の確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "但馬ステーキ レストラン楓",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯1371",
+      "phone": "0796-92-2001",
+      "source": "https://www.yumura.gr.jp/kaede/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://refresh.co.jp/restaurantkaede"
+      ]
+    },
+    {
+      "name": "NISHINOGIYA",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯1229-6",
+      "phone": "0796-80-2162",
+      "source": "https://www.yumura.gr.jp/nishinogiya/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.nishinogiya.com/"
+      ]
+    },
+    {
+      "name": "黄昏ビギン",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯1220-2",
+      "phone": "0796-93-9668",
+      "source": "https://www.yumura.gr.jp/roan/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "酒・時々めし。さんそん",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯1317-18",
+      "phone": "",
+      "source": "https://www.yumura.gr.jp/sanson/",
+      "decision": "店舗公式サイトを別途確認",
+      "websiteLinks": [
+        "https://sanson.owst.jp/"
+      ]
+    },
+    {
+      "name": "Snack Lily(スナック リリー)",
+      "municipality": "",
+      "address": "新温泉湯1352-2",
+      "phone": "",
+      "source": "https://www.yumura.gr.jp/snacklily/",
+      "decision": "所在地を新温泉町と確認できない",
+      "websiteLinks": []
+    },
+    {
+      "name": "味さとや 寿し兵",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯1317-14",
+      "phone": "0796-92-1059",
+      "source": "https://www.yumura.gr.jp/sushihei/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "中華菜館 笑来園",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯1317-16",
+      "phone": "0796-92-0486",
+      "source": "https://www.yumura.gr.jp/syouraien/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "そば処 春来 てっぺん",
+      "municipality": "新温泉町",
+      "address": "新温泉町春来1318",
+      "phone": "0796-92-2770",
+      "source": "https://www.yumura.gr.jp/teppen/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.harukiteppen.com/"
+      ]
+    },
+    {
+      "name": "といろ",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯1288",
+      "phone": "",
+      "source": "https://www.yumura.gr.jp/toiro/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "居酒屋 〇が家 -WGAYA-",
+      "municipality": "新温泉町",
+      "address": "新温泉町井土889-1",
+      "phone": "",
+      "source": "https://www.yumura.gr.jp/wgaya/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "遊月亭 ゆむら屋",
+      "municipality": "新温泉町",
+      "address": "新温泉町湯82-1",
+      "phone": "0120-037-329",
+      "source": "https://www.yumura.gr.jp/yuzukitei/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.yuzukitei.com/"
+      ]
+    },
+    {
+      "name": "ベーカリーテーブル岡本店",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1-8-21 ドンク岡本グルメ館2階",
+      "phone": "078-412-4181",
+      "source": "https://kobe-okamoto.org/shop/bakerytable_okamoto/",
+      "decision": "ドンク併設店で独立経営を確認待ち",
+      "websiteLinks": []
+    },
+    {
+      "name": "Bar Vert",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1-13-13 アンサンブル足立ビル3F",
+      "phone": "078-451-2202",
+      "source": "https://kobe-okamoto.org/shop/bar_vert/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "カフェ・ド・クリエ 岡本店",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1丁目8−23",
+      "phone": "078-453-7606",
+      "source": "https://kobe-okamoto.org/shop/cafecrie/",
+      "decision": "広域チェーン",
+      "websiteLinks": [
+        "https://www.pokkacreate.co.jp/shops/detail/136?utm_source=gmb&utm_medium=organic&utm_campaign=store"
+      ]
+    },
+    {
+      "name": "café tuoli",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1丁目14−18 2F",
+      "phone": "078-451-5860",
+      "source": "https://kobe-okamoto.org/shop/cafetuoli/",
+      "decision": "店舗運営ブログを別途確認",
+      "websiteLinks": [
+        "http://tuoli.exblog.jp/"
+      ]
+    },
+    {
+      "name": "Caffé e Bar Al Mercato",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1丁目6-14 岡本マンション1F",
+      "phone": "078-441-6255",
+      "source": "https://kobe-okamoto.org/shop/caffe_e_bar_al_mercato/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "鉄板家庭料理 岡本どんどん",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本 1-14-20 ココリコビル",
+      "phone": "078-452-8878",
+      "source": "https://kobe-okamoto.org/shop/dondon/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "インドダイニング ガネーシャ",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1-6-1",
+      "phone": "078-431-1446",
+      "source": "https://kobe-okamoto.org/shop/ganeshadinning/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://indian-restaurant-920.business.site/?utm_source=gmb&utm_medium=referral"
+      ]
+    },
+    {
+      "name": "ベジカフェ green field",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本一丁目12-25",
+      "phone": "080-8530-6699",
+      "source": "https://kobe-okamoto.org/shop/greenfield/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Halftime",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本2-5-8",
+      "phone": "078-441-7890",
+      "source": "https://kobe-okamoto.org/shop/halftime/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "日本茶カフェ 一日 ひとひ",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区本山北町3-6-10 メープル岡本201",
+      "phone": "078-453-3637",
+      "source": "https://kobe-okamoto.org/shop/hitohi/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.hitohi.jp/"
+      ]
+    },
+    {
+      "name": "コーチャンズ ステーキハウスらぱん",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1-5-14 第2伸幸ビル2F",
+      "phone": "078-412-4649",
+      "source": "https://kobe-okamoto.org/shop/kochans_steak_house_lapin/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.gnavi.co.jp/c532100/"
+      ]
+    },
+    {
+      "name": "ザ甲南ハイボール",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1-2-28",
+      "phone": "078-412-4110",
+      "source": "https://kobe-okamoto.org/shop/konanhiball/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "甲南そば",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1丁目11-18 マークハーゲン1F",
+      "phone": "078-411-2385",
+      "source": "https://kobe-okamoto.org/shop/konasoba/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "炭火焼鳥専門店まさやJR摂津本山店",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1丁目3−33",
+      "phone": "078-453-9201",
+      "source": "https://kobe-okamoto.org/shop/masaya_jrsetsumotoyama/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://yakitori-masaya.co.jp/"
+      ]
+    },
+    {
+      "name": "灘壽司",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1丁目6-12",
+      "phone": "078-452-8116",
+      "source": "https://kobe-okamoto.org/shop/nadasushi/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "菜々や阪急岡本",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1丁目5−5 中2F ダイソ-ビル中2F ダイソ-ビル",
+      "phone": "078-441-0800",
+      "source": "https://kobe-okamoto.org/shop/nanaya_okamoto/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.kichiri.co.jp/shop/manaya/024/"
+      ]
+    },
+    {
+      "name": "ベルヴィル 阪急岡本駅店",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本5-11-1 岡本阪急ビル",
+      "phone": "078-412-7373",
+      "source": "https://kobe-okamoto.org/shop/pancake_cafe_belle_ville_okamoto/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://belle-ville.net/"
+      ]
+    },
+    {
+      "name": "Ryu-Ryu 本山店",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1-3-33 2F",
+      "phone": "072-458-9840",
+      "source": "https://kobe-okamoto.org/shop/ryuryu_motoyama/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.ryuryu.co.jp/"
+      ]
+    },
+    {
+      "name": "摂津 まるも",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区本山北町3丁目4-11 ジャパンハウス本山",
+      "phone": "078-862-9991",
+      "source": "https://kobe-okamoto.org/shop/settsumarumo/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://marumo.owst.jp/"
+      ]
+    },
+    {
+      "name": "shict 岡本",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1丁目14-19",
+      "phone": "078-600-0187",
+      "source": "https://kobe-okamoto.org/shop/shict-%e5%b2%a1%e6%9c%ac/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "スターバックス コーヒー 摂津本山岡本ビル店",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1-2-17 摂津本山二楽園ビル",
+      "phone": "078-441-3175",
+      "source": "https://kobe-okamoto.org/shop/starbucks_settsumotoyama/",
+      "decision": "広域チェーン",
+      "websiteLinks": [
+        "https://store.starbucks.co.jp/detail-138/?utm_source=GMB&utm_medium=organic&utm_campaign=store&utm_content=138"
+      ]
+    },
+    {
+      "name": "すき家 摂津本山駅前店",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1-3-33",
+      "phone": "0120-498-007",
+      "source": "https://kobe-okamoto.org/shop/sukiya_settumotoyama/",
+      "decision": "広域チェーン",
+      "websiteLinks": []
+    },
+    {
+      "name": "tea room mahisa",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区本山北町3-6-9",
+      "phone": "078-451-8411",
+      "source": "https://kobe-okamoto.org/shop/tea-room-mahisa-okamoto/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.tete.co.jp/"
+      ]
+    },
+    {
+      "name": "天ぷら 天介",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区本山北町3-5-18 栄光ビル1階",
+      "phone": "078-441-0070",
+      "source": "https://kobe-okamoto.org/shop/tensuke/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tenpuratensuke.com/"
+      ]
+    },
+    {
+      "name": "Rooc CAFÉ",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区本山北町3-11-7",
+      "phone": "078-436-0356",
+      "source": "https://kobe-okamoto.org/shop/tobira_cafe_okamoto/",
+      "decision": "店舗独自サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://roocjp.com/cafe/"
+      ]
+    },
+    {
+      "name": "カフェ ド ユニーク",
+      "municipality": "神戸市",
+      "address": "神戸市東灘区岡本1-13-15",
+      "phone": "078-451-7522",
+      "source": "https://kobe-okamoto.org/shop/unique/",
       "decision": "暫定候補",
       "websiteLinks": []
     }
