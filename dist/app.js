@@ -74,13 +74,13 @@ $('email-count').textContent=`掲載元でメール確認 ${fmt(leads.filter(x=>
 $('phone-count').textContent=`掲載元で電話番号確認 ${fmt(leads.filter(x=>x.phone).length)}店`;
 $('hours-count').textContent=`営業時間を確認 ${fmt(leads.filter(x=>x.hours).length)} / ${fmt(leads.length)}店`;
 if(outreachEnabled){
-  $('filters').insertAdjacentHTML('beforeend','<label id="outreach-label">営業状況<select id="outreach-filter"><option value="all">すべて</option><option value="pending">未営業</option><option value="done">営業済み</option></select></label>');
+  $('filters').insertAdjacentHTML('beforeend','<label id="outreach-label">営業連絡の記録<select id="outreach-filter"><option value="all">すべて</option><option value="pending">まだ連絡していない</option><option value="done">連絡済み</option></select></label>');
   document.querySelector('.panel-head').insertAdjacentHTML('afterend','<div class="outreach-summary"><strong id="outreach-count" role="status"></strong><span id="outreach-storage-note" role="status"></span><button type="button" id="team-copy" hidden>チーム共有リンクをコピー</button><button type="button" id="team-import" hidden>この端末の過去のチェックを共有へ追加</button><button type="button" id="team-refresh" hidden>今の状況を読み直す</button></div>');
 }
 function updateOutreachSummary(){
   if(!outreachEnabled)return;
   const done=leads.filter(x=>outreach.has(x.id)).length;
-  $('outreach-count').textContent=`営業済み ${fmt(done)} / ${fmt(leads.length)}店`;
+  $('outreach-count').textContent=`連絡済み ${fmt(done)} / ${fmt(leads.length)}店`;
   if(teamToken){
     $('outreach-storage-note').textContent=teamConnected?'チームで同期中。ほかの端末の変更も自動で読み直します。':'チームのチェックを読み込み中。接続できるまで操作できません。';
     $('team-copy').hidden=false;$('team-refresh').hidden=false;
