@@ -18,11 +18,11 @@ SOURCES = [
 REVIEWED = {
     '6':  dict(rank='S', evidence='https://sakuraikanko.com/eat/%E6%AB%BB%E7%94%BA%E7%8F%88%E7%90%B2%E5%BA%97/'),
     '56': dict(rank='A', evidence='https://www.city.nara.lg.jp/soshiki/110/259011.html'),
-    '119':dict(rank='S', evidence='https://nara-foodfestival.jp/wp-content/uploads/2026/05/0be34828e6c32f80ffe772bdec20ca62.pdf', instagram='https://www.instagram.com/manso_nara/'),
+    '119':dict(rank='S', evidence='https://nara-foodfestival.jp/wp-content/uploads/2026/05/0be34828e6c32f80ffe772bdec20ca62.pdf', instagram='https://www.instagram.com/manso_nara/', instagramSource='https://www.kuruminoki.co.jp/ichijyo/news/2022/10/10-1.html'),
     '177':dict(rank='A', evidence='https://www.ekiten.jp/shop_74118759/'),
     '166':dict(rank='A', evidence='https://www.vill.kurotaki.nara.jp/kurasi/%E7%89%A9%E4%BE%A1%E9%AB%98%E9%A8%B0%E5%AF%BE%E5%BF%9C%E9%87%8D%E7%82%B9%E6%94%AF%E6%8F%B4%E5%9C%B0%E6%96%B9%E5%89%B5%E7%94%9F%E8%87%A8%E6%99%82%E4%BA%A4%E4%BB%98%E9%87%91%E4%BA%8B%E6%A5%AD%E3%81%AB/'),
     '186':dict(rank='S', evidence='https://sakuraikanko.com/wp-content/uploads/2025/01/bf562b94735aee5fd23cac261d24e24c-2.pdf'),
-    '172':dict(rank='S', evidence='https://www.pref.nara.lg.jp/site/okuyamato/miryoku/71269.html', instagram='https://www.instagram.com/kotohogi_musubi/'),
+    '172':dict(rank='S', evidence='https://www.pref.nara.lg.jp/site/okuyamato/miryoku/71269.html', instagram='https://www.instagram.com/kotohogi_musubi/', instagramSource='https://tabelog.com/nara/A2905/A290501/29013142/'),
     '199':dict(rank='A', evidence='https://yoshino-kankou.jp/stay/002365.html'),
     '198':dict(rank='A', evidence='https://www.kougodo.jp/100shunen/pamphlet/guidemap.pdf'),
 }
@@ -85,10 +85,12 @@ def main():
             lead['closureCheck'] = '閉店・移転告知は公開検索で未発見。Instagramの全投稿は未確認のため営業中と断定しません。'
             social = REVIEWED[code].get('instagram')
             if social and not any(r['kind']=='instagram' for r in lead['contact']['routes']):
-                lead['contact']['routes'].append(dict(kind='instagram', url=social, source=REVIEWED[code]['evidence'], status='receipt-unverified'))
+                lead['contact']['routes'].append(dict(kind='instagram', url=social, source=REVIEWED[code]['instagramSource'], status='receipt-unverified'))
             matched = hours(row)
             if code == '166':
                 matched = dict(text='11:30〜16:00（奈良コレ掲載「AM11:30~PM4:00」を整形）', opens=690, ends=960, source=row['url'])
+            if code == '177':
+                matched = dict(text='11:00または12:00〜17:00（開店時刻は要確認）', opens=660, ends=1020, source=row['url'])
             if code == '199':
                 matched = dict(text='10:00〜16:00（吉野ビジターズビューロー掲載）', opens=600, ends=960, source=REVIEWED[code]['evidence'])
             if matched:
