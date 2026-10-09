@@ -1,10 +1,11 @@
 'use strict';
 const prefecture=window.PREFECTURE_CONFIG||{name:'大阪府',registryPrefix:'registry-',metaURL:'./registry-meta.json'};
+const prefectureKey=prefecture.key||(prefecture.name==='京都府'?'kyoto':'osaka');
 const geography=prefecture.geography||{north:['豊中市','池田市','箕面市','豊能町','能勢町','吹田市','高槻市','茨木市','摂津市','島本町'],northeast:['守口市','枚方市','寝屋川市','門真市','大東市','四條畷市','交野市'],east:['東大阪市','八尾市','柏原市'],city:['大阪市'],sakai:['堺市','泉大津市','高石市','和泉市','忠岡町','岸和田市','貝塚市','泉佐野市','泉南市','阪南市','熊取町','田尻町','岬町'],south:['松原市','藤井寺市','羽曳野市','富田林市','河内長野市','大阪狭山市','太子町','河南町','千早赤阪村']};
 const regions=window.REGIONS;
 const cities=Object.values(geography).flat();
-const outreachEnabled=prefecture.key==='hyogo';
-const outreachStorageKey='hyogo-restaurant-outreach-v1';
+const outreachEnabled=true;
+const outreachStorageKey=`${prefectureKey}-restaurant-outreach-v1`;
 const teamTokenStorageKey='hyogo-outreach-team-token-v1';
 const teamAPI='https://hyogo-outreach-sync.kyouichitani.chatgpt.site/api/outreach';
 let outreach=new Map();
@@ -15,7 +16,7 @@ let teamPending=false;
 if(outreachEnabled){
   try{
     const saved=JSON.parse(localStorage.getItem(outreachStorageKey)||'{}');
-    if(saved&&typeof saved==='object'&&!Array.isArray(saved))outreach=new Map(Object.entries(saved).filter(([id,date])=>/^hyogo-[a-f0-9]{16}$/.test(id)&&typeof date==='string'));
+    if(saved&&typeof saved==='object'&&!Array.isArray(saved))outreach=new Map(Object.entries(saved).filter(([id,date])=>id.startsWith(`${prefectureKey}-`)&&/^(osaka|kyoto|hyogo)-[a-f0-9]{16}$/.test(id)&&typeof date==='string'));
   }catch{outreachStorageError=true;}
   const fragment=location.hash.match(/^#team=([a-f0-9]{64})$/);
   if(fragment){teamToken=fragment[1];try{localStorage.setItem(teamTokenStorageKey,teamToken);}catch{outreachStorageError=true;}history.replaceState(null,'',location.pathname+location.search);}
@@ -27,6 +28,12 @@ if(teamToken)outreach=new Map();
 const $=id=>document.getElementById(id);
 const escapeHTML=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const normalize=s=>String(s??'').normalize('NFKC').replace(/\s+/g,'').toLowerCase();
+function stableLeadId(x){
+  const key=[x.municipality||x.city,normalize(x.name),normalize(x.address||x.city)].join('|');
+  let hash=0xcbf29ce484222325n;
+  for(const byte of new TextEncoder().encode(key))hash=((hash^BigInt(byte))*0x100000001b3n)&0xffffffffffffffffn;
+  return `${prefectureKey}-${hash.toString(16).padStart(16,'0')}`;
+}
 const sourceKey=url=>{try{return decodeURIComponent(new URL(url).pathname).replace(/\/$/,'').toLowerCase()}catch{return url}};
 const link=(title,url)=>/^https?:\/\//.test(url)?`<a class="source" href="${escapeHTML(url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(title)}</a>`:'';
 const regionForCity=city=>Object.keys(geography).find(k=>geography[k].includes(city));
@@ -39,6 +46,7 @@ for(const item of rawLeads){
   else leads.push(item);
 }
 for(const item of leads){
+  if(!item.id)item.id=stableLeadId(item);
   const evidence=window.LEAD_PHONES?.[[item.municipality,item.name,item.address].join('|')];
   item.phone=evidence?.phone||item.phone||'';
   item.phoneSource=evidence?.source||item.phoneSource||'';
@@ -80,7 +88,7 @@ function updateOutreachSummary(){
   }else $('outreach-storage-note').textContent=outreachStorageError?'この端末に保存できません。':'この端末だけに保存中。チーム共有は招待リンクを開くと使えます。';
 }
 async function teamRequest(path='',method='GET'){
-  const response=await fetch(teamAPI+path,{method,headers:{Authorization:`Bearer ${teamToken}`},cache:'no-store'});
+  const response=await fetch(teamAPI+path+(method==='GET'?`?prefecture=${prefectureKey}`:''),{method,headers:{Authorization:`Bearer ${teamToken}`},cache:'no-store'});
   if(!response.ok)throw Error(response.status===401?'共有リンクが無効です':'同期先に接続できません');
   return response.json();
 }
@@ -88,7 +96,7 @@ async function refreshTeam(){
   if(!teamToken||teamPending)return;
   try{
     const data=await teamRequest();
-    outreach=new Map(Object.entries(data.records||{}).filter(([id,date])=>/^hyogo-[a-f0-9]{16}$/.test(id)&&typeof date==='string').map(([id,date])=>[id,new Date(date).toLocaleDateString('ja-JP')]));
+    outreach=new Map(Object.entries(data.records||{}).filter(([id,date])=>id.startsWith(`${prefectureKey}-`)&&/^(osaka|kyoto|hyogo)-[a-f0-9]{16}$/.test(id)&&typeof date==='string').map(([id,date])=>[id,new Date(date).toLocaleDateString('ja-JP')]));
     teamConnected=true;updateOutreachSummary();render();
   }catch(error){teamConnected=false;updateOutreachSummary();$('outreach-storage-note').textContent=error.message+'。再読み込みで再試行できます。';render();}
 }
@@ -137,7 +145,7 @@ function registryHTML(x){const src=x.sources.map(i=>meta.sources[i]);const email
 async function loadRegion(key){if(!cache.has(key)){cache.set(key,fetch(`./${prefecture.registryPrefix}${key}.json`).then(r=>{if(!r.ok)throw Error('データの取得に失敗');return r.json()}).catch(e=>{cache.delete(key);throw e}));}return cache.get(key);}
 function pageRender(){const total=activeRows.length;const pages=Math.max(1,Math.ceil(total/pageSize));state.page=Math.min(Math.max(1,state.page),pages);const from=(state.page-1)*pageSize;const slice=activeRows.slice(from,from+pageSize);$('region-count').textContent=`${fmt(total)}${state.view==='registry'?'件':'店'}`;$('items').innerHTML=total?slice.map(state.view==='registry'?registryHTML:leadHTML).join(''):`<div class="empty">${state.view==='registry'?'この条件で取り込めた公開記録はありません。実際に店がないという意味ではありません。':'この条件の候補は、まだ掲載できていません。該当店が存在しないという意味ではありません。'}<br><button type="button" id="clear-filters">絞り込みをすべて解除</button></div>`;$('pagination').hidden=total<=pageSize;$('page-number').innerHTML=Array.from({length:pages},(_,i)=>`<option value="${i+1}">${i+1}</option>`).join('');$('page-number').value=state.page;$('page-info').textContent=`${fmt(from+1)}–${fmt(Math.min(from+pageSize,total))} / ${fmt(total)}${state.view==='registry'?'件':'店'}`;$('previous').disabled=state.page===1;$('next').disabled=state.page===pages;$('clear-filters')?.addEventListener('click',()=>{state={...state,region:'all',city:'all',rank:'all',contact:'all',outreach:'all',sort:'rank',query:'',page:1};$('search').value='';$('rank-filter').value='all';$('contact-filter').value='all';if(outreachEnabled)$('outreach-filter').value='all';$('sort-order').value='rank';cityOptions();render();});}
 function coverageRender(){const rows=meta.coverage.filter(x=>(state.region==='all'||x.region===state.region)&&(state.city==='all'||x.city===state.city));$('region-count').textContent=`${rows.length}市町村`;$('pagination').hidden=true;$('scope-note').textContent=cities.length+'市町村を対象範囲にしていますが、全域の収集・判定完了ではありません。下の件数は公開記録の取り込み数です。0件の地域も「店がない」という意味ではありません。';$('items').innerHTML=rows.map(x=>{const n=leads.filter(l=>l.municipality===x.city).length;return `<article class="coverage-row"><div><h3>${x.city}</h3><p>${regions[x.region].title}</p></div><div><div class="coverage-count">候補 ${fmt(n)}店 ／ 公開記録 ${fmt(x.count)}件</div><p>${escapeHTML(x.basis)}<br>全店舗調査：未完了</p></div><button type="button" data-city-open="${x.city}">候補を見る</button></article>`;}).join('');document.querySelectorAll('[data-city-open]').forEach(b=>b.addEventListener('click',()=>{state={...state,view:'leads',region:regionForCity(b.dataset.cityOpen),city:b.dataset.cityOpen,page:1,query:'',rank:'all',contact:'all'};$('search').value='';$('rank-filter').value='all';$('contact-filter').value='all';cityOptions();render();}));}
-async function render(){const current=++generation;document.body.dataset.view=state.view;document.querySelectorAll('[data-region]').forEach(b=>b.setAttribute('aria-current',String(b.dataset.region===state.region)));document.querySelectorAll('[data-view]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.view===state.view)));$('rank-label').hidden=state.view!=='leads';$('contact-label').hidden=state.view!=='leads';$('sort-tools').hidden=state.view!=='leads';document.querySelector('.search-label').hidden=state.view==='coverage';$('region-title').textContent=state.city!=='all'?state.city:state.region==='all'?(prefecture.allLabel||prefecture.name+'全域'):regions[state.region].title;$('region-subtitle').textContent=state.view==='leads'?'S・A・B候補 — 50店ずつ表示、掲載上限なし':state.view==='registry'?'公開名簿からの調査対象 — 条件は未判定':'調査範囲と、残っている確認';$('pagination').hidden=true;
+async function render(){const current=++generation;document.body.dataset.view=state.view;document.querySelectorAll('[data-region]').forEach(b=>b.setAttribute('aria-current',String(b.dataset.region===state.region)));document.querySelectorAll('[data-view]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.view===state.view)));$('rank-label').hidden=state.view!=='leads';$('contact-label').hidden=state.view!=='leads';$('outreach-label').hidden=state.view!=='leads';document.querySelector('.outreach-summary').hidden=state.view!=='leads';$('sort-tools').hidden=state.view!=='leads';document.querySelector('.search-label').hidden=state.view==='coverage';$('region-title').textContent=state.city!=='all'?state.city:state.region==='all'?(prefecture.allLabel||prefecture.name+'全域'):regions[state.region].title;$('region-subtitle').textContent=state.view==='leads'?'S・A・B候補 — 50店ずつ表示、掲載上限なし':state.view==='registry'?'公開名簿からの調査対象 — 条件は未判定':'調査範囲と、残っている確認';$('pagination').hidden=true;
   if(state.view==='leads'){$('scope-note').textContent='S・A・Bは暫定判定です。営業時間は掲載元の表記で、曜日・臨時休業は要確認。時間順は各ランク内で並べ、未確認店はそのランクの末尾です。';activeRows=leads.filter(matches).sort(leadOrder);pageRender();return;}
   if(!meta){$('items').innerHTML=metaFailed?'<div class="empty">公開名簿情報を読み込めませんでした。通信状態を確認してください。<br><button type="button" id="reload-page">ページを再読み込み</button></div>':'<p class="empty">公開名簿の情報を読み込み中です。</p>';$('reload-page')?.addEventListener('click',()=>location.reload());return;}
   if(state.view==='coverage'){coverageRender();return;}
