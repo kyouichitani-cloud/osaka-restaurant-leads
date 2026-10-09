@@ -1,0 +1,32 @@
+const {chromium}=require('playwright');
+const assert=require('node:assert/strict');
+
+(async()=>{
+  const browser=await chromium.launch({headless:true,channel:'chrome'});
+  const page=await browser.newPage({viewport:{width:390,height:844}});
+  const errors=[];
+  page.on('pageerror',error=>errors.push(error.message));
+  await page.goto('http://127.0.0.1:8765/hyogo.html',{waitUntil:'networkidle'});
+  assert.match(await page.locator('#outreach-count').textContent(),/営業済み 0 \/ 589店/);
+  assert.equal(await page.locator('#items input[data-outreach-id]').count(),50);
+  const first=page.locator('#items input[data-outreach-id]').first();
+  const id=await first.getAttribute('data-outreach-id');
+  await first.check();
+  assert.match(await page.locator('#outreach-count').textContent(),/営業済み 1 \/ 589店/);
+  assert.ok(await page.evaluate(key=>Boolean(JSON.parse(localStorage.getItem('hyogo-restaurant-outreach-v1'))[key]),id));
+  await page.reload({waitUntil:'networkidle'});
+  assert.equal(await page.locator(`#items input[data-outreach-id="${id}"]`).isChecked(),true);
+  await page.locator('#filter-toggle').click();
+  await page.locator('#outreach-filter').selectOption('done');
+  assert.equal(await page.locator('#region-count').textContent(),'1店');
+  assert.equal(await page.locator('#items input[data-outreach-id]').count(),1);
+  await page.locator('#outreach-filter').selectOption('pending');
+  assert.equal(await page.locator('#region-count').textContent(),'588店');
+  await page.locator('#outreach-filter').selectOption('all');
+  await page.locator(`#items input[data-outreach-id="${id}"]`).uncheck();
+  assert.match(await page.locator('#outreach-count').textContent(),/営業済み 0 \/ 589店/);
+  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
+  assert.deepEqual(errors,[]);
+  await browser.close();
+  console.log('PASS Hyogo outreach: checkbox persistence, count, done/pending filters, uncheck, mobile layout');
+})().catch(error=>{console.error(error);process.exit(1)});

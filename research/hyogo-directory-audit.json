@@ -1,14 +1,14 @@
 {
-  "checkedAt": "2026-10-09",
+  "checkedAt": "2026-10-10",
   "stats": {
-    "profiles": 1740,
-    "candidates": 536,
-    "researchCities": 28,
-    "candidateCities": 27,
-    "phone": 499,
-    "instagram": 124,
-    "facebook": 34,
-    "hours": 350
+    "profiles": 1860,
+    "candidates": 589,
+    "researchCities": 32,
+    "candidateCities": 31,
+    "phone": 543,
+    "instagram": 134,
+    "facebook": 37,
+    "hours": 380
   },
   "decisions": [
     {
@@ -17364,6 +17364,1194 @@
       "phone": "080-1521-6647",
       "source": "https://itamibar.com/barshop202610/bar9",
       "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "農産物消費組合(こっとん亭)",
+      "municipality": "神河町",
+      "address": "神崎郡神河町上岩87-1",
+      "phone": "0790-34-1666",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.goope.jp/kottontei"
+      ]
+    },
+    {
+      "name": "割烹 さんだお",
+      "municipality": "神河町",
+      "address": "神崎郡神河町長谷1058-2",
+      "phone": "0790-35-0625",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.goope.jp/sandao"
+      ]
+    },
+    {
+      "name": "割烹 山水",
+      "municipality": "神河町",
+      "address": "神崎郡神河町寺前258-1",
+      "phone": "0790-34-1016",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.goope.jp/sansui"
+      ]
+    },
+    {
+      "name": "余田屋",
+      "municipality": "神河町",
+      "address": "神崎郡神河町寺前30-2",
+      "phone": "0790-34-0006",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.goope.jp/yodenya"
+      ]
+    },
+    {
+      "name": "小桜",
+      "municipality": "神河町",
+      "address": "神崎郡神河町中村224-28",
+      "phone": "0790-32-1759",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "割烹 つぼた",
+      "municipality": "神河町",
+      "address": "神崎郡神河町粟賀町407",
+      "phone": "0790-32-0150",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.goope.jp/tsubota"
+      ]
+    },
+    {
+      "name": "らー麺八番",
+      "municipality": "神河町",
+      "address": "神崎郡神河町福本557-4",
+      "phone": "0790-32-2155",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.goope.jp/ramen-hachiban"
+      ]
+    },
+    {
+      "name": "そば処 ばくの家",
+      "municipality": "神河町",
+      "address": "神崎郡神河町岩屋466-1",
+      "phone": "0790-32-2220",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喫茶 林檎の木",
+      "municipality": "神河町",
+      "address": "神崎郡神河町比延35-2",
+      "phone": "0790-34-0150",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喫茶 ナウ",
+      "municipality": "神河町",
+      "address": "神崎郡神河町粟賀町416",
+      "phone": "0790-32-1915",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ぎゃらりー&喫茶 やまだ",
+      "municipality": "神河町",
+      "address": "神崎郡神河町山田846-2",
+      "phone": "080-1437-1925",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://galleryyamada.blog.shinobi.jp"
+      ]
+    },
+    {
+      "name": "お好み焼き ほそおか",
+      "municipality": "神河町",
+      "address": "神崎郡神河町吉冨947-2",
+      "phone": "0790-32-1518",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "蕎麦処 咲",
+      "municipality": "神河町",
+      "address": "神崎郡神河町中村80",
+      "phone": "0790-33-9549",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "彩華",
+      "municipality": "神河町",
+      "address": "神崎郡神河町福本858-6",
+      "phone": "0790-32-2153",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "オムライス専門店 BECAUSE",
+      "municipality": "神河町",
+      "address": "神崎郡神河町粟賀町520-1",
+      "phone": "0790-32-3737",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.goope.jp/because"
+      ]
+    },
+    {
+      "name": "そば食事処 和心",
+      "municipality": "神河町",
+      "address": "神崎郡神河町粟賀町581-1",
+      "phone": "0790-32-0032",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://9297818551.amebaownd.com/"
+      ]
+    },
+    {
+      "name": "Cafe hunul",
+      "municipality": "神河町",
+      "address": "神崎郡神河町寺前207-7",
+      "phone": "0790-20-4065",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喫茶 Ikoi",
+      "municipality": "神河町",
+      "address": "神崎郡神河町上岩919-1",
+      "phone": "0790-34-1101",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "そば処 敏八",
+      "municipality": "神河町",
+      "address": "神崎郡神河町南小田919-1",
+      "phone": "0790-34-1583",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "しあわせのひなた",
+      "municipality": "神河町",
+      "address": "神崎郡神河町猪篠1",
+      "phone": "0790-35-9889",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "(有)よしのや",
+      "municipality": "神河町",
+      "address": "神崎郡神河町寺前73",
+      "phone": "0790-34-0117",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "cafe 衣都",
+      "municipality": "神河町",
+      "address": "神崎郡神河町長谷1199",
+      "phone": "0790-35-0330",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.goope.jp/zakkacafe-itsu"
+      ]
+    },
+    {
+      "name": "スナックいろは",
+      "municipality": "神河町",
+      "address": "神崎郡神河町寺前46-6",
+      "phone": "0790-34-1087",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "カフェ ファータイ",
+      "municipality": "神河町",
+      "address": "神崎郡神河町柏尾637-1",
+      "phone": "0790-32-2220",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.goope.jp/faathai/"
+      ]
+    },
+    {
+      "name": "ごはんや 香",
+      "municipality": "神河町",
+      "address": "神崎郡神河町中村41",
+      "phone": "0790-32-2212",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "OUCHICAFE 花華",
+      "municipality": "神河町",
+      "address": "神崎郡神河町寺前91",
+      "phone": "090-8797-9510",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://r.goope.jp/hanahana0407"
+      ]
+    },
+    {
+      "name": "かみかわ倶楽部 春夏秋冬",
+      "municipality": "神河町",
+      "address": "神崎郡神河町中村161",
+      "phone": "0790-32-2111",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://syunkasyuutou1.owst.jp/"
+      ]
+    },
+    {
+      "name": "IKOMAI CAFE",
+      "municipality": "神河町",
+      "address": "神崎郡神河町粟賀町577-1",
+      "phone": "",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "手打ち蕎麦 きしもと",
+      "municipality": "神河町",
+      "address": "神崎郡神河町上小田198",
+      "phone": "0790-34-1034",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "御統Café",
+      "municipality": "神河町",
+      "address": "神崎郡神河町長谷931",
+      "phone": "",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喫茶 輪",
+      "municipality": "神河町",
+      "address": "神崎郡神河町寺前31-3",
+      "phone": "",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Gelato&Café ひよこ",
+      "municipality": "神河町",
+      "address": "神崎郡神河町上岩87-1",
+      "phone": "",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "753 CREPE(Bar bee-style)",
+      "municipality": "神河町",
+      "address": "神崎郡神河町福本870-1",
+      "phone": "",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "トロロしんちゃん",
+      "municipality": "神河町",
+      "address": "神崎郡神河町山田527-2",
+      "phone": "",
+      "source": "https://www.kamikawa-navi.jp/about",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ア・ラ・ターブル・ドゥ・ニーサベッラ",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町下徳久891-4",
+      "phone": "090-9875-6083",
+      "source": "https://sayo-kanko.jp/spot/%e3%82%a2%e3%83%bb%e3%83%a9%e3%83%bb%e3%82%bf%e3%83%bc%e3%83%96%e3%83%ab%e3%83%bb%e3%83%89%e3%82%a5%e3%83%bb%e3%83%8b%e3%83%bc%e3%82%b5%e3%83%99%e3%83%83%e3%83%a9/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://nissa-bella.webnode.jp/"
+      ]
+    },
+    {
+      "name": "",
+      "municipality": "佐用町",
+      "address": "",
+      "phone": "",
+      "source": "https://sayo-kanko.jp/spot/?_sft_cat_spot=gourmet",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "",
+      "municipality": "佐用町",
+      "address": "",
+      "phone": "",
+      "source": "https://sayo-kanko.jp/spot/?_sft_cat_spot=gourmet&sf_paged=2",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "",
+      "municipality": "佐用町",
+      "address": "",
+      "phone": "",
+      "source": "https://sayo-kanko.jp/spot/?_sft_cat_spot=gourmet&sf_paged=3",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "",
+      "municipality": "佐用町",
+      "address": "",
+      "phone": "",
+      "source": "https://sayo-kanko.jp/spot/?_sft_cat_spot=gourmet&sf_paged=4",
+      "decision": "対象市外・所在地未確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "PADARIA HIRAFUKU",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町平福678",
+      "phone": "",
+      "source": "https://sayo-kanko.jp/spot/padaria-hirafuku/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "笹ヶ丘荘",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町円光寺423-11",
+      "phone": "0790-88-0149",
+      "source": "https://sayo-kanko.jp/spot/spot_1002/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.town.sayo.lg.jp/cms-sypher/www/section/detail.jsp?id=75"
+      ]
+    },
+    {
+      "name": "道の駅 宿場町ひらふく",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町平福988-1",
+      "phone": "0790-83-2373",
+      "source": "https://sayo-kanko.jp/spot/spot_1012/",
+      "decision": "宿泊・物販・集合施設など独立飲食店の確認待ち",
+      "websiteLinks": [
+        "https://hirafuku.jp/"
+      ]
+    },
+    {
+      "name": "味わいの里三日月",
+      "municipality": "佐用町",
+      "address": "佐用町乃井野1266",
+      "phone": "0790-79-2521",
+      "source": "https://sayo-kanko.jp/spot/spot_1014/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://ajiwainosato.jimdofree.com/"
+      ]
+    },
+    {
+      "name": "お休み処瓜生原",
+      "municipality": "佐用町",
+      "address": "佐用町平福439",
+      "phone": "0790-71-0812",
+      "source": "https://sayo-kanko.jp/spot/spot_1016/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ふじ",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町佐用3073-4",
+      "phone": "0790-82-2915",
+      "source": "https://sayo-kanko.jp/spot/spot_1041/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://horumon-udon.com/"
+      ]
+    },
+    {
+      "name": "春ちゃん",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町円応寺165-1",
+      "phone": "0790-82-2086",
+      "source": "https://sayo-kanko.jp/spot/spot_1042/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ホルモン焼きうどん一力",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町佐用1444",
+      "phone": "0790-82-2239",
+      "source": "https://sayo-kanko.jp/spot/spot_1043/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "焼肉新さよ",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町佐用1001-3",
+      "phone": "0790-82-3398",
+      "source": "https://sayo-kanko.jp/spot/spot_1044/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "都途路",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町下徳久765",
+      "phone": "0790-78-0333",
+      "source": "https://sayo-kanko.jp/spot/spot_1045/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "くるみ",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町上三河360",
+      "phone": "0790-77-0959",
+      "source": "https://sayo-kanko.jp/spot/spot_1046/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "仕出し・会席料理 朝来",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町久崎50",
+      "phone": "0790-88-0046",
+      "source": "https://sayo-kanko.jp/spot/spot_1047/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "カフェレストラン ガロ",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町上月789-1",
+      "phone": "0790-86-0619",
+      "source": "https://sayo-kanko.jp/spot/spot_1048/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.garo-1978.com/profile.html"
+      ]
+    },
+    {
+      "name": "いっきゅう",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町佐用227-1",
+      "phone": "0790-82-2803",
+      "source": "https://sayo-kanko.jp/spot/spot_1049/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "お食事処一平",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町佐用3040",
+      "phone": "0790-82-2139",
+      "source": "https://sayo-kanko.jp/spot/spot_1050/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喫茶 聖日亜",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町横坂546-1",
+      "phone": "0790-82-0061",
+      "source": "https://sayo-kanko.jp/spot/spot_1053/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://sayo-g.com/sepia/"
+      ]
+    },
+    {
+      "name": "café Armo+",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町佐用1441",
+      "phone": "0790-82-0001",
+      "source": "https://sayo-kanko.jp/spot/spot_1054/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://cafe-armoplus209.jimdofree.com/"
+      ]
+    },
+    {
+      "name": "カフェレストラン 和楽路",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町佐用2901-17",
+      "phone": "0790-82-3366",
+      "source": "https://sayo-kanko.jp/spot/spot_1055/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://nishi-harima.net/2019/03/06/%E5%92%8C%E6%A5%BD%E8%B7%AF%E3%82%8F%E3%82%89%E3%81%98%EF%BC%89/"
+      ]
+    },
+    {
+      "name": "GOCCIA coffee factory",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町長尾826",
+      "phone": "070-2322-5429",
+      "source": "https://sayo-kanko.jp/spot/spot_1056/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喫茶店 花むすび",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町三日月45-1",
+      "phone": "0790-79-2802",
+      "source": "https://sayo-kanko.jp/spot/spot_1061/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "うさぎ屋",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町佐用3015-2",
+      "phone": "0790-82-0231",
+      "source": "https://sayo-kanko.jp/spot/spot_1063/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://sayo-g.com/usagiya/"
+      ]
+    },
+    {
+      "name": "レストラン KUMOTSUKI",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町平福475-1",
+      "phone": "0790-71-0700",
+      "source": "https://sayo-kanko.jp/spot/spot_1064/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://nipponia-hirafuku.jp/restaurant/"
+      ]
+    },
+    {
+      "name": "中華料理 樹樹",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町横坂173-4",
+      "phone": "0790-82-0073",
+      "source": "https://sayo-kanko.jp/spot/spot_1065/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "さようの食堂",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町横坂415-1",
+      "phone": "050-1530-6128",
+      "source": "https://sayo-kanko.jp/spot/spot_1066/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "新鮮組",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町佐用2905-5",
+      "phone": "0790-82-2918",
+      "source": "https://sayo-kanko.jp/spot/spot_1067/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "盛々亭",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町佐用512-1",
+      "phone": "0790-82-0984",
+      "source": "https://sayo-kanko.jp/spot/spot_1068/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://sayo-g.com/morimoritei/"
+      ]
+    },
+    {
+      "name": "和ダイニング時代屋",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町佐用2906-23",
+      "phone": "0790-82-0700",
+      "source": "https://sayo-kanko.jp/spot/spot_1069/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://jidaiya34.com/"
+      ]
+    },
+    {
+      "name": "鮨正",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町久崎143-8",
+      "phone": "0790-88-0165",
+      "source": "https://sayo-kanko.jp/spot/spot_1070/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "蕎麦屋 鬨",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町西大畠456-2",
+      "phone": "080-1488-4876",
+      "source": "https://sayo-kanko.jp/spot/spot_1071/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://sobayatoki.wixsite.com/toki"
+      ]
+    },
+    {
+      "name": "Carry&Cafe道満",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町才金796-6",
+      "phone": "0790-87-0839",
+      "source": "https://sayo-kanko.jp/spot/spot_1072/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ダイニング如来田",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町中島150",
+      "phone": "080-8010-8000",
+      "source": "https://sayo-kanko.jp/spot/spot_1073/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://dtf-japon.com/diningnorada.html"
+      ]
+    },
+    {
+      "name": "早田商店",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町末廣294-2",
+      "phone": "",
+      "source": "https://sayo-kanko.jp/spot/spot_1074/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "Le Proust(ル プルースト)",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町佐用3134",
+      "phone": "0790-65-9848",
+      "source": "https://sayo-kanko.jp/spot/spot_1080/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "平谷製麺所",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町佐用2903-3",
+      "phone": "0790-82-2158",
+      "source": "https://sayo-kanko.jp/spot/spot_1081/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "民宿若鮎荘",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町下徳久1034",
+      "phone": "0790-78-0048",
+      "source": "https://sayo-kanko.jp/spot/spot_1088/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://wakaayusou.sayo.work/"
+      ]
+    },
+    {
+      "name": "ホルモン焼きうどん お多福",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町佐用3506",
+      "phone": "0790-82-4000",
+      "source": "https://sayo-kanko.jp/spot/spot_1100/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "とろろ飯 おもて屋",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町真宗158",
+      "phone": "0790-79-2491",
+      "source": "https://sayo-kanko.jp/spot/spot_1101/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "うどんそば処かずら",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町上月274-2",
+      "phone": "0790-86-0352",
+      "source": "https://sayo-kanko.jp/spot/spot_1102/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "レストランカノープス",
+      "municipality": "佐用町",
+      "address": "佐用町西河内407 西はりま天文台敷地内・食堂ホール隣",
+      "phone": "0790-82-2226",
+      "source": "https://sayo-kanko.jp/spot/spot_1103/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.nhao.jp/public/about/facility/index.html#no5"
+      ]
+    },
+    {
+      "name": "みさきおとり店 うまら休憩所",
+      "municipality": "佐用町",
+      "address": "佐用郡佐用町中三河131",
+      "phone": "0790-77-0816",
+      "source": "https://sayo-kanko.jp/spot/spot_1104/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://ayushioyak.web.fc2.com"
+      ]
+    },
+    {
+      "name": "ちゃのきcafé",
+      "municipality": "太子町",
+      "address": "揖保郡太子町太田1751-1",
+      "phone": "079-275-0220",
+      "source": "https://taishi-kanko.com/spots/%e3%81%a1%e3%82%83%e3%81%ae%e3%81%8dcafe/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "らしく",
+      "municipality": "太子町",
+      "address": "揖保郡太子町糸井271",
+      "phone": "",
+      "source": "https://taishi-kanko.com/spots/%e3%82%89%e3%81%97%e3%81%8f/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "イタリアンレストランパパス&ママス",
+      "municipality": "太子町",
+      "address": "揖保郡太子町東保348-4",
+      "phone": "079-276-5223",
+      "source": "https://taishi-kanko.com/spots/%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2%e3%83%b3%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3%e3%83%91%e3%83%91%e3%82%b9%ef%bc%86%e3%83%9e%e3%83%9e%e3%82%b9/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://mfoodsplanning.stores.jp/"
+      ]
+    },
+    {
+      "name": "タマゴサンド製作所",
+      "municipality": "太子町",
+      "address": "揖保郡太子町東保285",
+      "phone": "079-280-7705",
+      "source": "https://taishi-kanko.com/spots/%e3%82%bf%e3%83%9e%e3%82%b4%e3%82%b5%e3%83%b3%e3%83%89%e8%a3%bd%e4%bd%9c%e6%89%80/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tamagosand.shop/index.html"
+      ]
+    },
+    {
+      "name": "ベーカリータムタム",
+      "municipality": "太子町",
+      "address": "揖保郡太子町鵤1320",
+      "phone": "079-277-0002",
+      "source": "https://taishi-kanko.com/spots/%e3%83%99%e3%83%bc%e3%82%ab%e3%83%aa%e3%83%bc%e3%82%bf%e3%83%a0%e3%82%bf%e3%83%a0/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://tamtam-bread.stores.jp/　　https://www.instagram.com/bakerytamtam/"
+      ]
+    },
+    {
+      "name": "ランチハウス&居酒屋 白馬",
+      "municipality": "太子町",
+      "address": "揖保郡太子町蓮常寺348-18",
+      "phone": "079-277-4777",
+      "source": "https://taishi-kanko.com/spots/%e3%83%a9%e3%83%b3%e3%83%81%e3%83%8f%e3%82%a6%e3%82%b9%ef%bc%86%e5%b1%85%e9%85%92%e5%b1%8b%e3%80%80%e7%99%bd%e9%a6%ac/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "レストラン割烹 森重",
+      "municipality": "太子町",
+      "address": "揖保郡太子町蓮常寺351-1",
+      "phone": "079-277-1158",
+      "source": "https://taishi-kanko.com/spots/%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3%e5%89%b2%e7%83%b9%e3%80%80%e6%a3%ae%e9%87%8d/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://www.morisige.jp/"
+      ]
+    },
+    {
+      "name": "中華そば 麦右衛門",
+      "municipality": "太子町",
+      "address": "揖保郡太子町鵤496-1",
+      "phone": "090-9549-8121",
+      "source": "https://taishi-kanko.com/spots/%e4%b8%ad%e8%8f%af%e3%81%9d%e3%81%b0%e3%80%80%e9%ba%a6%e5%8f%b3%e8%a1%9b%e9%96%80/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "喃風 太子店",
+      "municipality": "太子町",
+      "address": "揖保郡太子町蓮常寺294-1",
+      "phone": "079-276-6600",
+      "source": "https://taishi-kanko.com/spots/%e5%96%83%e9%a2%a8%e3%80%80%e5%a4%aa%e5%ad%90%e5%ba%97/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://nanpuu.co.jp/store/ibo-taishi/"
+      ]
+    },
+    {
+      "name": "寿し えびや",
+      "municipality": "太子町",
+      "address": "揖保郡太子町鵤710-19",
+      "phone": "079-277-0090",
+      "source": "https://taishi-kanko.com/spots/%e5%af%bf%e3%81%97%e3%80%80%e3%81%88%e3%81%b3%e3%82%84/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "手打ちうどん大黒",
+      "municipality": "太子町",
+      "address": "揖保郡太子町鵤1320",
+      "phone": "079-276-6729",
+      "source": "https://taishi-kanko.com/spots/%e6%89%8b%e6%89%93%e3%81%a1%e3%81%86%e3%81%a9%e3%82%93%e5%a4%a7%e9%bb%92/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "菓子の樹",
+      "municipality": "太子町",
+      "address": "揖保郡太子町東保517-3 太子コーポ1階",
+      "phone": "079-277-3022",
+      "source": "https://taishi-kanko.com/spots/%e8%8f%93%e5%ad%90%e3%81%ae%e6%a8%b9/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://kashinoki986.base.shop/"
+      ]
+    },
+    {
+      "name": "達磨家",
+      "municipality": "太子町",
+      "address": "揖保郡太子町東南383-3",
+      "phone": "050-8888-1533",
+      "source": "https://taishi-kanko.com/spots/%e9%81%94%e7%a3%a8%e5%ae%b6/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "CAFÉはらっぱ",
+      "municipality": "太子町",
+      "address": "揖保郡太子町鵤280-1 太子庁舎内",
+      "phone": "090-6240-7352",
+      "source": "https://taishi-kanko.com/spots/cafe%e3%81%af%e3%82%89%e3%81%a3%e3%81%b1/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "https://sawayaka-heya.info/"
+      ]
+    },
+    {
+      "name": "café+zakka sola",
+      "municipality": "太子町",
+      "address": "揖保郡太子町山田497-2",
+      "phone": "079-280-4279",
+      "source": "https://taishi-kanko.com/spots/cafe%ef%bc%8bzakka-sola/",
+      "decision": "店舗公式サイト等の掲載リンクあり",
+      "websiteLinks": [
+        "http://www.cafe-zakka-sola.com"
+      ]
+    },
+    {
+      "name": "バール ラッフィナート",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 東館 1階",
+      "phone": "0797-35-6444",
+      "source": "https://laporte.jp/shop/bar_raffinato-ashiya/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": [
+        "http://raffinato-ashiya.com/b/"
+      ]
+    },
+    {
+      "name": "CAFE&BAR Takezono",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ ホテル 9階",
+      "phone": "0797-61-8488",
+      "source": "https://laporte.jp/shop/cafebar-takezono/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": [
+        "https://takezono.co.jp/cafe_bar/"
+      ]
+    },
+    {
+      "name": "芦屋珈琲舎",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 本館 1階",
+      "phone": "0797-25-7887",
+      "source": "https://laporte.jp/shop/coffee_house_ashiya/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "大天寿司",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 北館 1階",
+      "phone": "0797-78-8939",
+      "source": "https://laporte.jp/shop/daiten_sushi/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "ドトールコーヒーショップ JR芦屋駅前店",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 本館 2階",
+      "phone": "0797-34-1500",
+      "source": "https://laporte.jp/shop/doutor_ashiya/",
+      "decision": "チェーン店のため対象外",
+      "websiteLinks": [
+        "http://www.doutor.co.jp/dcs/"
+      ]
+    },
+    {
+      "name": "欧風カレーとスリランカカレーのお店 ピースカレー",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 東館 1階",
+      "phone": "0797-75-9311",
+      "source": "https://laporte.jp/shop/east1f_peace_curry_newopen20240418/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": [
+        "https://twitter.com/PeaceCurry9311"
+      ]
+    },
+    {
+      "name": "江戸そば",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 東館 1階",
+      "phone": "0797-23-5520",
+      "source": "https://laporte.jp/shop/edosoba_ashiya/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "フレッシュネスバーガー",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 東館 1階",
+      "phone": "0797-25-7311",
+      "source": "https://laporte.jp/shop/freshnessburger_ashiya/",
+      "decision": "チェーン店のため対象外",
+      "websiteLinks": [
+        "http://www.freshnessburger.co.jp/",
+        "https://twitter.com/freshness_1992"
+      ]
+    },
+    {
+      "name": "月桂冠",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 東館 1階",
+      "phone": "0797-22-9321",
+      "source": "https://laporte.jp/shop/gekkeikan/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "五福飯店",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 東館 地下1階",
+      "phone": "0797-78-8896",
+      "source": "https://laporte.jp/shop/gofukuhanten_wu-fu-fan-dian/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": [
+        "https://gofukuhanten.gorp.jp/"
+      ]
+    },
+    {
+      "name": "グリドルさかい",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 西館 1階",
+      "phone": "0797-25-0096",
+      "source": "https://laporte.jp/shop/griddle-sakai/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "ホリーズカフェ",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 東館 地下1階",
+      "phone": "0797-25-2155",
+      "source": "https://laporte.jp/shop/hollys_cafe_ashiya/",
+      "decision": "チェーン店のため対象外",
+      "websiteLinks": [
+        "https://hollys-corp.jp/shop/h_ashiya/"
+      ]
+    },
+    {
+      "name": "インデアンカレー芦屋店",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 西館 1階",
+      "phone": "0797-38-2633",
+      "source": "https://laporte.jp/shop/indiancurry_ashiya/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": [
+        "http://www.indiancurry.jp/"
+      ]
+    },
+    {
+      "name": "旬彩食卓 ひろ",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 西館 2階",
+      "phone": "0797-22-0128",
+      "source": "https://laporte.jp/shop/japanesedining_hiro/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "Kandelica芦屋コリアン亭",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 東館 1階",
+      "phone": "0797-22-5541",
+      "source": "https://laporte.jp/shop/kandelica_ashiya-koreantei/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "喜楽",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 西館 1階",
+      "phone": "0797-26-7168",
+      "source": "https://laporte.jp/shop/kiraku_chineserestaurant_laportewest/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "コメダ珈琲店 芦屋ラポルテ店",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 北館 1階",
+      "phone": "0797-80-8989",
+      "source": "https://laporte.jp/shop/laporte_ashiya_north_komeda_coffee/",
+      "decision": "チェーン店のため対象外",
+      "websiteLinks": [
+        "https://www.cheze.jp/"
+      ]
+    },
+    {
+      "name": "マグネットカフェ竹園",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ ホテル 1階",
+      "phone": "0797-31-9910",
+      "source": "https://laporte.jp/shop/magnet-cafe_hoteltakezono/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": [
+        "https://takezono.co.jp/magnetcafe/"
+      ]
+    },
+    {
+      "name": "ミスタードーナツ",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 東館 1階",
+      "phone": "0797-32-1395",
+      "source": "https://laporte.jp/shop/misdo_ashiya/",
+      "decision": "チェーン店のため対象外",
+      "websiteLinks": [
+        "https://www.misterdonut.jp/"
+      ]
+    },
+    {
+      "name": "PASTA&WINE DA UENO",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 東館 1階",
+      "phone": "0797-34-2557",
+      "source": "https://laporte.jp/shop/pastawine-da-ueno/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "シアトルズ ベスト コーヒー",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 東館 1階",
+      "phone": "0797-61-5559",
+      "source": "https://laporte.jp/shop/seattlesbest_coffee_ashiya/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": [
+        "http://www.jrff.co.jp/seabest/",
+        "https://twitter.com/sbc_jrff"
+      ]
+    },
+    {
+      "name": "酒好 en",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 西館 1階",
+      "phone": "0797-31-8327",
+      "source": "https://laporte.jp/shop/syukou_en_bar/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "但馬牛専門店  レストランあしや竹園",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ ホテル 3階",
+      "phone": "0797-23-3322",
+      "source": "https://laporte.jp/shop/tajima-beef_restaurant_hoteltakezono/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": [
+        "https://takezono.co.jp/restaurant/"
+      ]
+    },
+    {
+      "name": "ティールーム ユーカリ",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 本館 1階",
+      "phone": "0797-32-4399",
+      "source": "https://laporte.jp/shop/tearoom_eucaly/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "天ぷら定食まきの",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 東館 1階",
+      "phone": "0797-25-9805",
+      "source": "https://laporte.jp/shop/tempura_makino_ashiya/",
+      "decision": "館の個別住所は要確認",
+      "websiteLinks": [
+        "https://www.toridoll.com/shop/makino/"
+      ]
+    },
+    {
+      "name": "株式会社エリクサー YOLO CAFE",
+      "municipality": "芦屋市",
+      "address": "芦屋市船戸町4-1 ラポルテ 北館 2階",
+      "phone": "0797-23-1099",
+      "source": "https://laporte.jp/shop/yolocafe5_ashiya_laportenorth20241021/",
+      "decision": "館の個別住所は要確認",
       "websiteLinks": []
     }
   ]

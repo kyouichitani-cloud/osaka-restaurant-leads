@@ -15,13 +15,13 @@ from bs4 import BeautifulSoup
 from registry import ROOT, CACHE
 from geography import norm
 
-TODAY = '2026-10-09'
+TODAY = '2026-10-10'
 KINOSAKI = 'https://kinosaki-spa.gr.jp/directory_cat/store/restaurant/'
 SASAYAMA = 'https://sasayama-inshoku.com/category/food/'
 AWAJI = 'https://www.awajishima-kanko.jp/manual/index-gourmet.html'
 PHONE = re.compile(r'(?<!\d)0\d{1,4}-\d{1,4}-\d{3,4}(?!\d)')
 EXCLUDE = re.compile(r'ホテル|旅館|宿泊|ゲストハウス|道の駅|直売所|観光農園|公園|ミュージアム|博物館|テーマパーク|マルシェ|物産|鮮魚店|魚店|蜂蜜|養蜂|おみやげ|土産|フロッグスファーム|FrogsFARM', re.I)
-NON_WEBSITES = ('maps.google.', 'goo.gl', 'tabelog.com', 'hotpepper.jp', 'retty.me', 'gurunavi.com', 'jalan.net', 'tripadvisor.')
+NON_WEBSITES = ('maps.google.', 'goo.gl', 'tabelog.com', 'hotpepper.jp', 'retty.me', 'gurunavi.com', 'jalan.net', 'tripadvisor.', '34cho.com')
 SOCIAL = ('instagram.com', 'facebook.com', 'line.me', 'lin.ee')
 
 
@@ -52,7 +52,8 @@ def classify(links, source_url):
                                                  'shiso.or.jp', 'aioi.in', 'kanko-kasai.com',
                                                  'ono-navi.jp', 'asago-kanko.com', 'yabu-kankou.jp',
                                                  'e-kawanishi.org', 'itami-city.jp', 'dx-mice.jp',
-                                                 'itamibar.com'):
+                                                 'itamibar.com', 'laporte.jp', 'kamikawa-navi.jp',
+                                                 'sayo-kanko.jp', 'taishi-kanko.com'):
             continue
         seen.add(href)
         if any(s in host for s in SOCIAL):
@@ -69,7 +70,7 @@ def record(name, address, number, hours, source_url, authority, municipality, we
     name = norm(name)
     address = re.sub(r'^〒\s*\d{3}-?\d{4}\s*', '', norm(address)).removeprefix('兵庫県')
     number = phone(number)
-    if not municipality or not address.startswith(municipality):
+    if not municipality or municipality not in address[:10]:
         reason = reason or '対象市外・所在地未確認'
     if EXCLUDE.search(name + ' ' + category + ' ' + address):
         reason = reason or '宿泊・物販・集合施設など独立飲食店の確認待ち'
