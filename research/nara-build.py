@@ -17,6 +17,10 @@ SOURCES = [
     dict(title='吉野ビジターズビューロー・食べる', url='https://www.yoshino-kankou.jp/stay/eat/', scope='飲食店個別紹介36件'),
     dict(title='近鉄×Lmaga.co・ならまちお散歩マップ', url='https://www.kintetsu.co.jp/nara/naramachi/shoplist1.html', scope='飲食・物販等の個別紹介31件'),
     dict(title='奈良県観光公式・スパイス香る1300年の旅', url='https://yamatoji.nara-kankou.or.jp/nara-curry/', scope='飲食店個別紹介9件'),
+    dict(title='葛城市・応援かつらぎクーポン2026', url='https://www.city.katsuragi.nara.jp/material/files/group/23/ichiran20260608-2.pdf', scope='飲食店40件（2026年6月8日時点）'),
+    dict(title='葛城市公式観光サイト・食＆グルメ', url='https://www.guidoor.jp/katsuragi-city/wts_cat/dining/', scope='飲食・物販等の個別紹介14件'),
+    dict(title='御所市プロモーションサイト・お店', url='https://gosenone.com/stores-facilities/', scope='飲食・宿泊・物販等の個別紹介40件'),
+    dict(title='御所市観光協会・カフェと食堂', url='https://www.city.gose.nara.jp/kankou/category/13-9-5-0-0-0-0-0-0-0.html', scope='カフェ11件・食堂13件'),
 ]
 
 EVENT_REVIEWED = {
@@ -79,6 +83,47 @@ CURRY_REVIEWED = [
     dict(name='YAREYO', municipality='橿原市', address='橿原市中曽司町172-19', phone='0744-48-0902',
          hours='11:30〜15:00（月曜・不定休）', instagram='https://www.instagram.com/yareyo_/',
          evidence='https://www.city.kashihara.nara.jp/material/files/group/28/R6ijupanhuretto.pdf', rank='A'),
+]
+LOCAL_REVIEWED = [
+    dict(name='キッサ アコ', municipality='御所市', address='御所市柏原340-10', phone='', email='kissa.a.ko.nara@gmail.com',
+         hours='7:00〜16:00（日・月・臨時休業あり）', instagram='https://www.instagram.com/kissako_nara_cafe/',
+         source='https://www.city.gose.nara.jp/kankou/0000001512.html', evidence='https://www.narakko.jp/26-02trip-gose/', rank='A'),
+    dict(name='カフェ オゥプランタン', municipality='御所市', address='御所市元町341-5', phone='0745-63-1300',
+         hours='11:00〜16:00（火・水休）', instagram='',
+         source='https://www.city.gose.nara.jp/kankou/0000001499.html', evidence='https://r.gnavi.co.jp/g5xgmv5r0000/', rank='A'),
+    dict(name='グリルヨシダ', municipality='御所市', address='御所市栄町60-23', phone='0745-65-0015',
+         hours='11:30〜14:30（火休、夜営業は要確認）', instagram='',
+         source='https://www.city.gose.nara.jp/kankou/0000001497.html', evidence='https://tabelog.com/nara/A2903/A290303/29001709/dtlrvwlst/', rank='A', hoursSource='https://tabelog.com/nara/A2903/A290303/29001709/dtlrvwlst/'),
+    dict(name='cafe noricaro', municipality='御所市', address='御所市古瀬497-5', phone='',
+         hours='10:00〜15:00（火〜土、臨時休業はInstagramで案内）', instagram='https://www.instagram.com/noricaro_cafe_nara/',
+         source='https://gosenone.com/stores-facilities/1656/', evidence='https://tabelog.com/nara/A2903/A290303/29015228/', rank='A', hoursSource='https://tabelog.com/nara/A2903/A290303/29015228/'),
+    dict(name='古墳カフェMidoro', municipality='御所市', address='御所市古瀬904', phone='080-5326-0269',
+         hours='11:00〜16:00（日・月・火営業、予約推奨）', instagram='https://www.instagram.com/kofun_cafe_midoro/',
+         source='https://gosenone.com/stores-facilities/864/', evidence='https://tabelog.com/nara/A2903/A290303/29013559/dtlratings/', rank='A', hoursSource='https://tabelog.com/nara/A2903/A290303/29013559/dtlratings/'),
+    dict(name='そば小舎', municipality='御所市', address='御所市鴨神1126 葛城の道歴史文化館内', phone='0745-66-1159',
+         hours='10:00〜16:00（月休・売り切れ終了、掲載時点の情報）', instagram='',
+         source='https://gosenone.com/stores-facilities/870/', evidence='https://www.city.gose.nara.jp/kankou/0000001505.html', rank='A', hoursSource='https://www.city.gose.nara.jp/kankou/0000001505.html'),
+    dict(name='洋楽カフェ Rick', municipality='葛城市', address='葛城市當麻877', phone='0745-48-2444',
+         hours='10:00〜17:00（土・日・月営業）', instagram='https://www.instagram.com/yogaku_cafe_rick/',
+         source='https://www.guidoor.jp/places/8658', evidence='https://tabelog.com/nara/A2903/A290302/29013909/', rank='A'),
+    dict(name='茶房 ふたかみ', municipality='葛城市', address='葛城市當麻1241', phone='0745-48-4315',
+         hours='9:00〜17:00（観光案内掲載、要確認）', instagram='',
+         source='https://www.city.katsuragi.nara.jp/material/files/group/23/ichiran20260608-2.pdf', evidence='https://www.visitnara.jp/venues/D00343/', rank='A', hoursSource='https://www.visitnara.jp/venues/D00343/'),
+    dict(name='中華料理 かもん', municipality='葛城市', address='葛城市尺土189-15', phone='0745-48-6550',
+         hours='11:30〜15:00／17:00〜22:30（日祝は21:30まで、月火休）', instagram='',
+         source='https://www.city.katsuragi.nara.jp/material/files/group/23/ichiran20260608-2.pdf', evidence='https://tabelog.com/nara/A2903/A290302/29001755/dtlrvwlst/', rank='A', hoursSource='https://tabelog.com/nara/A2903/A290302/29001755/dtlrvwlst/'),
+    dict(name='Loop café', municipality='葛城市', address='葛城市太田131-7', phone='0745-40-5496',
+         hours='11:00〜17:00（日祝休、ランチ14:00まで）', instagram='https://www.instagram.com/loop___cafe/',
+         source='https://www.city.katsuragi.nara.jp/material/files/group/23/ichiran20260608-2.pdf', evidence='https://www.city.katsuragi.nara.jp/material/files/group/1/uuuu.pdf', rank='A', hoursSource='https://www.city.katsuragi.nara.jp/material/files/group/1/uuuu.pdf'),
+    dict(name='麺屋 大空', municipality='葛城市', address='葛城市東室119-1', phone='050-8889-1180',
+         hours='11:00〜15:30／17:00〜21:00（月休・不定休あり）', instagram='https://www.instagram.com/menyaaozora/',
+         source='https://www.city.katsuragi.nara.jp/material/files/group/23/ichiran20260608-2.pdf', evidence='https://par-ple.jp/nara-ken/katsuragi-shi/gourmet/32024/v1/', rank='A', hoursSource='https://tabelog.com/nara/A2903/A290302/29015274/'),
+    dict(name='タイ料理ハウス ピサヌローク', municipality='葛城市', address='葛城市染野153-1', phone='0745-48-7779',
+         hours='11:30〜14:00／17:00〜終了時刻未確認（掲載時点の情報）', instagram='https://www.instagram.com/phitsanulok.nara/',
+         source='https://www.city.katsuragi.nara.jp/material/files/group/23/ichiran20260608-2.pdf', evidence='https://www.ubereats.com/jp/store/%E3%82%BF%E3%82%A4%E6%96%99%E7%90%86-%E3%83%92%E3%82%B5%E3%83%8C%E3%83%AD%E3%83%BC%E3%82%AF-tairyouri-pisanuro-ku/punpLTMuR0m1Y1G3vCDAjA', rank='A', hoursSource='https://nara-takeout.com/phitsanulok/'),
+    dict(name='もつ鍋酒場 山松', municipality='葛城市', address='葛城市長尾138-10', phone='0745-48-4956',
+         hours='17:00〜23:00（月〜土・祝日、要確認）', instagram='',
+         source='https://www.city.katsuragi.nara.jp/material/files/group/23/ichiran20260608-2.pdf', evidence='https://www.jalan.net/gourmet/grm_foomoojH000519903/', rank='A', hoursSource='https://www.jalan.net/gourmet/grm_foomoojH000519903/'),
 ]
 EVENT_WEB_FOUND = {
     'おちゃのこ': 'https://ochanoko.jp/?p=1',
@@ -294,23 +339,28 @@ def main():
         audit.append(dict(name=row['name'], address=row['address'], source=row['source'],
                           decision=decision, websiteFound=website_found, checkedAt=TODAY))
     for origin, manual_rows, source in [('kintetsu', KINTETSU_REVIEWED, 'https://www.kintetsu.co.jp/nara/naramachi/shoplist1.html'),
-                                        ('curry', CURRY_REVIEWED, 'https://yamatoji.nara-kankou.or.jp/nara-curry/')]:
-      for row in manual_rows:
-        normalized = dict(name=row['name'], address=row['address'], phone=row['phone'], hours=row['hours'],
-                          municipality=row.get('municipality'), instagram=[row['instagram']] if row['instagram'] else [], source=source)
-        lead = extra_lead(normalized, row['rank'], row['evidence'], origin)
-        lead['type'] = 'カフェ・飲食店'
-        if row.get('facebook'):
-            lead['contact']['routes'].append(dict(kind='facebook', url=row['facebook'], source=row['evidence'], status='receipt-unverified'))
-        matched = extra_hours(row['hours'], source)
-        assert matched, row['name']
-        clock['nara|'+lead['id']] = matched
-        leads.append(lead)
-        audit.append(dict(name=row['name'], address=row['address'], source=source,
-                          decision='掲載・営業現況は要電話/SNS確認', websiteFound='', checkedAt=TODAY))
-    assert len(leads) == len(REVIEWED)+len(EVENT_REVIEWED)+len(STREET_REVIEWED)+len(NARAMACHI_REVIEWED)+len(YOSHINO_REVIEWED)+len(KINTETSU_REVIEWED)+len(CURRY_REVIEWED)
+                                        ('curry', CURRY_REVIEWED, 'https://yamatoji.nara-kankou.or.jp/nara-curry/'),
+                                        ('local', LOCAL_REVIEWED, '')]:
+        for row in manual_rows:
+            row_source = row.get('source', source)
+            normalized = dict(name=row['name'], address=row['address'], phone=row['phone'], hours=row['hours'],
+                              municipality=row.get('municipality'), instagram=[row['instagram']] if row['instagram'] else [], source=row_source)
+            lead = extra_lead(normalized, row['rank'], row['evidence'], origin)
+            lead['type'] = 'カフェ・飲食店'
+            if row.get('email'):
+                lead['email'] = row['email']
+                lead['emailSource'] = row_source
+            if row.get('facebook'):
+                lead['contact']['routes'].append(dict(kind='facebook', url=row['facebook'], source=row['evidence'], status='receipt-unverified'))
+            matched = extra_hours(row['hours'], row.get('hoursSource', row_source))
+            assert matched, row['name']
+            clock['nara|'+lead['id']] = matched
+            leads.append(lead)
+            audit.append(dict(name=row['name'], address=row['address'], source=row_source,
+                              decision='掲載・営業現況は要電話/SNS確認', websiteFound='', checkedAt=TODAY))
+    assert len(leads) == len(REVIEWED)+len(EVENT_REVIEWED)+len(STREET_REVIEWED)+len(NARAMACHI_REVIEWED)+len(YOSHINO_REVIEWED)+len(KINTETSU_REVIEWED)+len(CURRY_REVIEWED)+len(LOCAL_REVIEWED)
     assert len({x['id'] for x in leads}) == len(leads)
-    stats = dict(profiles=len(rows)+len(event_rows)+len(street_rows)+len(town_rows)+len(yoshino_rows)+31+9, candidates=len(leads), researchCities=len({r['lead']['municipality'] for r in rows if r['lead']['municipality']}),
+    stats = dict(profiles=len(rows)+len(event_rows)+len(street_rows)+len(town_rows)+len(yoshino_rows)+31+9+40+14+40+24, candidates=len(leads), researchCities=len({r['lead']['municipality'] for r in rows if r['lead']['municipality']}),
                  candidateCities=len({x['municipality'] for x in leads}), phone=sum(bool(x['phone']) for x in leads),
                  instagram=sum(any(r['kind']=='instagram' for r in x['contact']['routes']) for x in leads),
                  hours=len(clock))
@@ -322,7 +372,7 @@ def main():
                         ('nara-hours.js', 'window.LEAD_HOURS='+json.dumps(clock,ensure_ascii=False,separators=(',',':'))+';\n')]:
         (ROOT/'dist'/name).write_text(value)
     (ROOT/'dist/nara-meta.json').write_text(json.dumps(dict(stats=dict(rawRows=0,researchRecords=0,phoneRecords=0),sources=[],coverage=[],
-        limitations=['県運営の個別紹介261件、奈良市観光協会21件、下御門商店街16件、ならまち情報サイト47件、吉野ビジターズビューロー36件、近鉄お散歩マップ31件、奈良県観光カレー特集9件を調査。重複や飲食以外も含むため店舗実数ではなく、県内全市町村・全飲食店は網羅していません。',
+        limitations=['県運営の個別紹介261件、奈良市観光協会21件、下御門商店街16件、ならまち情報サイト47件、吉野ビジターズビューロー36件、近鉄お散歩マップ31件、奈良県観光カレー特集9件、葛城市・御所市の掲載118件を調査。重複や飲食以外も含むため店舗実数ではなく、県内全市町村・全飲食店は網羅していません。',
                      '掲載元にサイトリンクがなくても別検索で独自サイトが見つかった店は除外・保留しています。',
                      'Instagramの全投稿は外部から閲覧できないため、閉店・休業・移転の告知を完全に確認したものではありません。掲載先への連絡前にSNSと電話で最新状況をご確認ください。']),ensure_ascii=False)+'\n')
     (ROOT/'research/nara-directory-audit.json').write_text(json.dumps(dict(checkedAt=TODAY,stats=stats,decisions=audit),ensure_ascii=False,indent=2)+'\n')

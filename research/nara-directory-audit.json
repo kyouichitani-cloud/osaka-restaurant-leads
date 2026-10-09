@@ -1,13 +1,13 @@
 {
   "checkedAt": "2026-10-10",
   "stats": {
-    "profiles": 421,
-    "candidates": 41,
+    "profiles": 539,
+    "candidates": 54,
     "researchCities": 31,
-    "candidateCities": 8,
-    "phone": 38,
-    "instagram": 22,
-    "hours": 41
+    "candidateCities": 10,
+    "phone": 49,
+    "instagram": 29,
+    "hours": 54
   },
   "decisions": [
     {
@@ -3194,6 +3194,110 @@
       "name": "YAREYO",
       "address": "橿原市中曽司町172-19",
       "source": "https://yamatoji.nara-kankou.or.jp/nara-curry/",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "キッサ アコ",
+      "address": "御所市柏原340-10",
+      "source": "https://www.city.gose.nara.jp/kankou/0000001512.html",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "カフェ オゥプランタン",
+      "address": "御所市元町341-5",
+      "source": "https://www.city.gose.nara.jp/kankou/0000001499.html",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "グリルヨシダ",
+      "address": "御所市栄町60-23",
+      "source": "https://www.city.gose.nara.jp/kankou/0000001497.html",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "cafe noricaro",
+      "address": "御所市古瀬497-5",
+      "source": "https://gosenone.com/stores-facilities/1656/",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "古墳カフェMidoro",
+      "address": "御所市古瀬904",
+      "source": "https://gosenone.com/stores-facilities/864/",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "そば小舎",
+      "address": "御所市鴨神1126 葛城の道歴史文化館内",
+      "source": "https://gosenone.com/stores-facilities/870/",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "洋楽カフェ Rick",
+      "address": "葛城市當麻877",
+      "source": "https://www.guidoor.jp/places/8658",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "茶房 ふたかみ",
+      "address": "葛城市當麻1241",
+      "source": "https://www.city.katsuragi.nara.jp/material/files/group/23/ichiran20260608-2.pdf",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "中華料理 かもん",
+      "address": "葛城市尺土189-15",
+      "source": "https://www.city.katsuragi.nara.jp/material/files/group/23/ichiran20260608-2.pdf",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "Loop café",
+      "address": "葛城市太田131-7",
+      "source": "https://www.city.katsuragi.nara.jp/material/files/group/23/ichiran20260608-2.pdf",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "麺屋 大空",
+      "address": "葛城市東室119-1",
+      "source": "https://www.city.katsuragi.nara.jp/material/files/group/23/ichiran20260608-2.pdf",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "タイ料理ハウス ピサヌローク",
+      "address": "葛城市染野153-1",
+      "source": "https://www.city.katsuragi.nara.jp/material/files/group/23/ichiran20260608-2.pdf",
+      "decision": "掲載・営業現況は要電話/SNS確認",
+      "websiteFound": "",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "name": "もつ鍋酒場 山松",
+      "address": "葛城市長尾138-10",
+      "source": "https://www.city.katsuragi.nara.jp/material/files/group/23/ichiran20260608-2.pdf",
       "decision": "掲載・営業現況は要電話/SNS確認",
       "websiteFound": "",
       "checkedAt": "2026-10-10"
