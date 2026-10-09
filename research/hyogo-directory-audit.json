@@ -1,14 +1,14 @@
 {
   "checkedAt": "2026-10-10",
   "stats": {
-    "profiles": 1860,
-    "candidates": 589,
-    "researchCities": 32,
-    "candidateCities": 31,
-    "phone": 543,
-    "instagram": 134,
+    "profiles": 1862,
+    "candidates": 591,
+    "researchCities": 33,
+    "candidateCities": 32,
+    "phone": 545,
+    "instagram": 136,
     "facebook": 37,
-    "hours": 380
+    "hours": 381
   },
   "decisions": [
     {
@@ -18552,6 +18552,24 @@
       "phone": "0797-23-1099",
       "source": "https://laporte.jp/shop/yolocafe5_ashiya_laportenorth20241021/",
       "decision": "館の個別住所は要確認",
+      "websiteLinks": []
+    },
+    {
+      "name": "Cafe SARA to TEN",
+      "municipality": "猪名川町",
+      "address": "川辺郡猪名川町笹尾字大藪3",
+      "phone": "072-743-7622",
+      "source": "https://inagawa-kanko.com/restaurant/cafe-sara-to-ten%e3%82%ab%e3%83%95%e3%82%a7%e3%81%95%e3%82%89%e3%81%a8%e3%81%a6%e3%82%93%ef%bc%89/",
+      "decision": "暫定候補",
+      "websiteLinks": []
+    },
+    {
+      "name": "ベーカリーカフェコンネ",
+      "municipality": "猪名川町",
+      "address": "川辺郡猪名川町万善字畑溝59-1",
+      "phone": "072-768-2001",
+      "source": "https://inagawa-kanko.com/restaurant/konne/",
+      "decision": "暫定候補",
       "websiteLinks": []
     }
   ]

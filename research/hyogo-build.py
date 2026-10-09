@@ -43,6 +43,7 @@ SOURCES = [
     ('hyogo-sayo', '佐用町観光協会', 'https://sayo-kanko.jp/spot/?_sft_cat_spot=gourmet', '佐用町のグルメ個別紹介'),
     ('hyogo-taishi', '太子町観光協会', 'https://taishi-kanko.com/spots/?tax_genre%5B%5D=eat', '太子町の食べる個別紹介'),
     ('hyogo-laporte', '芦屋ラポルテ', 'https://laporte.jp/service/eat-drink/', '芦屋市の飲食店舗個別紹介'),
+    ('hyogo-inagawa-a', '猪名川町観光協会', 'https://inagawa-kanko.com/restaurant/', '店舗SNSと所在地を確認できた猪名川町の飲食店2件'),
 ]
 RANGE = re.compile(r'(?<!\d)([01]?\d|2[0-3])\s*[:：時]\s*([0-5]\d)?\s*(?:分)?\s*[～〜~\-－–―]\s*([01]?\d|2[0-3])\s*[:：時]\s*([0-5]\d)?')
 
@@ -100,7 +101,8 @@ def main():
                     'https://www.kamikawa-navi.jp/about',
                     'https://sayo-kanko.jp/spot/',
                     'https://taishi-kanko.com/spots/',
-                    'https://laporte.jp/shop/'))
+                    'https://laporte.jp/shop/',
+                    'https://inagawa-kanko.com/restaurant/'))
                 item['websiteCheck'] = dict(
                     status='not-found-in-source' if newly_collected else 'not-found-in-search',
                     checkedAt=TODAY if newly_collected else lead['checkedAt'],
@@ -114,7 +116,7 @@ def main():
                           phone=lead['phone'], source=row['url'], decision=decision or '暫定候補',
                           websiteLinks=websites))
     leads.sort(key=lambda x:({'S':0,'A':1,'B':2}[x['rank']], x['municipality'], x['name']))
-    stats = dict(profiles=len(rows), candidates=len(leads), researchCities=32,
+    stats = dict(profiles=len(rows), candidates=len(leads), researchCities=33,
                  candidateCities=len(set(x['municipality'] for x in leads)),
                  phone=sum(bool(x['phone']) for x in leads),
                  instagram=sum(any(r['kind']=='instagram' for r in x['contact']['routes']) for x in leads),
@@ -122,7 +124,7 @@ def main():
                  hours=len(evidence))
     (ROOT/'research/hyogo-directory-audit.json').write_text(json.dumps(dict(checkedAt=TODAY, stats=stats, decisions=audit),ensure_ascii=False,indent=2)+'\n')
     config = dict(name='兵庫県', key='hyogo', allLabel='兵庫県・先行調査',
-                  geography=dict(kobe=['神戸市'], hanshin=['尼崎市','西宮市','宝塚市','三田市','川西市','伊丹市','芦屋市'],
+                  geography=dict(kobe=['神戸市'], hanshin=['尼崎市','西宮市','宝塚市','三田市','川西市','伊丹市','芦屋市','猪名川町'],
                                  harima=['姫路市','明石市','加古川市','高砂市','神河町'],
                                  nishiharima=['赤穂市','たつの市','相生市','宍粟市','佐用町','太子町'],
                                  kitaharima=['加東市','三木市','西脇市','加西市','小野市'], tajima=['豊岡市','朝来市','養父市'],
@@ -142,7 +144,7 @@ def main():
     (ROOT/'dist/hyogo-data.js').write_text(payload)
     (ROOT/'dist/hyogo-hours.js').write_text('window.LEAD_HOURS='+json.dumps(evidence,ensure_ascii=False,separators=(',',':'))+';\n')
     meta = dict(stats=dict(rawRows=0,researchRecords=0,phoneRecords=0),sources=[],coverage=[],
-                limitations=['兵庫県内の28市と4町の一部掲載元を調査。県内全市町村・全店舗の調査は未完了。',
+                limitations=['兵庫県内の28市と5町の一部掲載元を調査。県内全市町村・全店舗の調査は未完了。',
                              '甲子園口の名簿は最終更新が2023年のため、現況確認できるまで候補から保留。',
                              '加西ふーど記の個別紹介は2022年刊行の資料を含むため、会員名簿との照合に使い、現況は未確定。',
                              '過去の伊丹お買物券参加店名簿は連絡先と現況を確認できず候補化を保留。2026年伊丹まちなかバルの開催時間は通常営業時間ではありません。',
