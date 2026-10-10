@@ -21,6 +21,9 @@ SOURCES = [
     dict(title='葛城市公式観光サイト・食＆グルメ', url='https://www.guidoor.jp/katsuragi-city/wts_cat/dining/', scope='飲食・物販等の個別紹介14件'),
     dict(title='御所市プロモーションサイト・お店', url='https://gosenone.com/stores-facilities/', scope='飲食・宿泊・物販等の個別紹介40件'),
     dict(title='御所市観光協会・カフェと食堂', url='https://www.city.gose.nara.jp/kankou/category/13-9-5-0-0-0-0-0-0-0.html', scope='カフェ11件・食堂13件'),
+    dict(title='桜井市観光協会・食べる', url='https://sakuraikanko.com/eat/', scope='飲食店個別紹介11件を追加確認'),
+    dict(title='五條市・まちなかとしょかん', url='https://www.city.gojo.lg.jp/soshiki/gyosei/kouminrenkei/15690.html', scope='飲食関連紹介4件を追加確認'),
+    dict(title='天理市・デジタル地域通貨加盟店', url='https://www.city.tenri.nara.jp/material/files/group/68/080601_ichicakameitenn_ichirann.pdf', scope='飲食店2件を追加確認'),
 ]
 
 EVENT_REVIEWED = {
@@ -124,6 +127,24 @@ LOCAL_REVIEWED = [
     dict(name='もつ鍋酒場 山松', municipality='葛城市', address='葛城市長尾138-10', phone='0745-48-4956',
          hours='17:00〜23:00（月〜土・祝日、要確認）', instagram='',
          source='https://www.city.katsuragi.nara.jp/material/files/group/23/ichiran20260608-2.pdf', evidence='https://www.jalan.net/gourmet/grm_foomoojH000519903/', rank='A', hoursSource='https://www.jalan.net/gourmet/grm_foomoojH000519903/'),
+    dict(name='cafeことほぎ musubi', municipality='五條市', address='五條市新町2-5-12 大野屋内', phone='070-3313-9148',
+         hours='10:00〜17:00（金〜日、L.O.16:30。最新営業日は要確認）', instagram='https://www.instagram.com/kotohogi_musubi/',
+         source='https://www.city.gojo.lg.jp/soshiki/gyosei/kouminrenkei/15690.html', evidence='https://nara-kore.jp/shop/?prm=172', rank='A', phoneSource='https://nara-kore.jp/shop/?prm=172', hoursSource='https://www.city.gojo.lg.jp/soshiki/gyosei/kouminrenkei/15690.html'),
+    dict(name='長谷路', municipality='桜井市', address='桜井市初瀬857', phone='0744-47-7047',
+         hours='11:00〜15:00（不定休、掲載時点の情報）', instagram='',
+         source='https://sakuraikanko.com/eat/%E9%95%B7%E8%B0%B7%E8%B7%AF/', evidence='https://www.city.sakurai.lg.jp/material/files/group/32/sakuraisinyuumennmap.pdf', rank='A', hoursSource='https://www.city.sakurai.lg.jp/material/files/group/32/sakuraisinyuumennmap.pdf'),
+    dict(name='三輪の里 池側', municipality='桜井市', address='桜井市三輪250-1', phone='0744-45-4118',
+         hours='10:00〜16:00（平日。土日祝9:30〜16:30、木金休）', instagram='',
+         source='https://sakuraikanko.com/eat/%E4%B8%89%E8%BC%AA%E3%81%AE%E9%87%8C-%E6%B1%A0%E5%81%B4/', evidence='https://sakuraikanko.com/wp-content/uploads/2023/01/ef1ed0613bd6421a2d3406b5d41acf51.pdf', rank='A'),
+    dict(name='居酒屋サスケ', municipality='桜井市', address='桜井市忍阪1549-2', phone='0744-43-8112',
+         hours='17:00〜24:00（火休、L.O.23:00。掲載時点の情報）', instagram='',
+         source='https://www.city.sakurai.lg.jp/material/files/group/32/miwanyumenmap_vol4.pdf', evidence='https://www.obc1314.co.jp/mthon2025/bokinkyouryokuten/', rank='A'),
+    dict(name='Yanagimoto STAND', municipality='天理市', address='天理市柳本町1538-1', phone='', email='yanagimotostand@gmail.com',
+         hours='11:00〜20:30（月〜水休、L.O.20:00。掲載時点の情報）', instagram='',
+         source='https://www.narakko.jp/yomiweb/25-02trip-yanagimotocho/', evidence='https://www.city.tenri.nara.jp/material/files/group/68/080601_ichicakameitenn_ichirann.pdf', rank='A', emailSource='https://storage.googleapis.com/studio-design-asset-files/projects/p6ao7RngaR/s-1x1_ff05ca13-8df3-4e64-ac05-70c0d8b8328e.pdf'),
+    dict(name='たまちゃんUDON', municipality='天理市', address='天理市三島町428-3', phone='080-2661-9445',
+         hours='9:00〜15:00（水休、掲載時点の情報）', instagram='https://www.instagram.com/tamachan_udon/',
+         source='https://www.city.tenri.nara.jp/material/files/group/68/080601_ichicakameitenn_ichirann.pdf', evidence='https://tabelog.com/nara/A2904/A290401/29013653/', rank='A', hoursSource='https://tabelog.com/nara/A2904/A290401/29013653/'),
 ]
 EVENT_WEB_FOUND = {
     'おちゃのこ': 'https://ochanoko.jp/?p=1',
@@ -349,7 +370,9 @@ def main():
             lead['type'] = 'カフェ・飲食店'
             if row.get('email'):
                 lead['email'] = row['email']
-                lead['emailSource'] = row_source
+                lead['emailSource'] = row.get('emailSource', row_source)
+            if row.get('phoneSource'):
+                lead['phoneSource'] = row['phoneSource']
             if row.get('facebook'):
                 lead['contact']['routes'].append(dict(kind='facebook', url=row['facebook'], source=row['evidence'], status='receipt-unverified'))
             matched = extra_hours(row['hours'], row.get('hoursSource', row_source))
@@ -360,7 +383,7 @@ def main():
                               decision='掲載・営業現況は要電話/SNS確認', websiteFound='', checkedAt=TODAY))
     assert len(leads) == len(REVIEWED)+len(EVENT_REVIEWED)+len(STREET_REVIEWED)+len(NARAMACHI_REVIEWED)+len(YOSHINO_REVIEWED)+len(KINTETSU_REVIEWED)+len(CURRY_REVIEWED)+len(LOCAL_REVIEWED)
     assert len({x['id'] for x in leads}) == len(leads)
-    stats = dict(profiles=len(rows)+len(event_rows)+len(street_rows)+len(town_rows)+len(yoshino_rows)+31+9+40+14+40+24, candidates=len(leads), researchCities=len({r['lead']['municipality'] for r in rows if r['lead']['municipality']}),
+    stats = dict(profiles=len(rows)+len(event_rows)+len(street_rows)+len(town_rows)+len(yoshino_rows)+31+9+40+14+40+24+11+4+2, candidates=len(leads), researchCities=len({r['lead']['municipality'] for r in rows if r['lead']['municipality']}),
                  candidateCities=len({x['municipality'] for x in leads}), phone=sum(bool(x['phone']) for x in leads),
                  instagram=sum(any(r['kind']=='instagram' for r in x['contact']['routes']) for x in leads),
                  hours=len(clock))
@@ -372,7 +395,7 @@ def main():
                         ('nara-hours.js', 'window.LEAD_HOURS='+json.dumps(clock,ensure_ascii=False,separators=(',',':'))+';\n')]:
         (ROOT/'dist'/name).write_text(value)
     (ROOT/'dist/nara-meta.json').write_text(json.dumps(dict(stats=dict(rawRows=0,researchRecords=0,phoneRecords=0),sources=[],coverage=[],
-        limitations=['県運営の個別紹介261件、奈良市観光協会21件、下御門商店街16件、ならまち情報サイト47件、吉野ビジターズビューロー36件、近鉄お散歩マップ31件、奈良県観光カレー特集9件、葛城市・御所市の掲載118件を調査。重複や飲食以外も含むため店舗実数ではなく、県内全市町村・全飲食店は網羅していません。',
+        limitations=['県運営の個別紹介261件、奈良市観光協会21件、下御門商店街16件、ならまち情報サイト47件、吉野ビジターズビューロー36件、近鉄お散歩マップ31件、奈良県観光カレー特集9件、葛城市・御所市の掲載118件、桜井・五條・天理の追加17件を調査。重複や飲食以外も含むため店舗実数ではなく、県内全市町村・全飲食店は網羅していません。',
                      '掲載元にサイトリンクがなくても別検索で独自サイトが見つかった店は除外・保留しています。',
                      'Instagramの全投稿は外部から閲覧できないため、閉店・休業・移転の告知を完全に確認したものではありません。掲載先への連絡前にSNSと電話で最新状況をご確認ください。']),ensure_ascii=False)+'\n')
     (ROOT/'research/nara-directory-audit.json').write_text(json.dumps(dict(checkedAt=TODAY,stats=stats,decisions=audit),ensure_ascii=False,indent=2)+'\n')
