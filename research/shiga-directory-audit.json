@@ -1,0 +1,65 @@
+{
+  "checkedAt": "2026-10-12",
+  "stats": {
+    "profiles": 11,
+    "candidates": 6,
+    "researchCities": 4,
+    "candidateCities": 4,
+    "phone": 6,
+    "instagram": 5,
+    "hours": 6
+  },
+  "included": [
+    {
+      "name": "中村食堂",
+      "source": "https://otsu.or.jp/thingstodo/nakamurashokudou"
+    },
+    {
+      "name": "ビストロ・シェ・ミリュー",
+      "source": "https://www.omi8.com/restaurant/detail_1047.html"
+    },
+    {
+      "name": "3匹の子ぶた",
+      "source": "https://www.omi8.com/restaurant/detail_1107.html"
+    },
+    {
+      "name": "CYCLE CAFÉ WIND ROSE",
+      "source": "https://www.city.omihachiman.lg.jp/material/files/group/188/guide_mihiraki2.pdf"
+    },
+    {
+      "name": "麺・食処 八千代",
+      "source": "https://www.hikoneshi.com/media/all/hikone_map_2026_0318.pdf"
+    },
+    {
+      "name": "白鬚喫茶",
+      "source": "https://takashima-kanko.jp/spot/2025/07/post_341.html"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "ラメリストア",
+      "reason": "独自サイトを確認",
+      "evidence": "https://lameristorebiwako.com/"
+    },
+    {
+      "name": "369Terrace Café 近江八幡",
+      "reason": "独自サイトを確認",
+      "evidence": "https://369terrace.com/cafe/"
+    },
+    {
+      "name": "和菓子処 さわ泉",
+      "reason": "独自サイトを確認",
+      "evidence": "http://www.eonet.ne.jp/~sawasen/"
+    },
+    {
+      "name": "KinoPan＆café",
+      "reason": "独自サイトを確認",
+      "evidence": "https://kinopan07.com/"
+    },
+    {
+      "name": "だいみょうかもん",
+      "reason": "閉店表示と所在地の食い違いがあり保留",
+      "evidence": "https://tabelog.com/shiga/A2503/A250303/25000712/"
+    }
+  ]
+}
